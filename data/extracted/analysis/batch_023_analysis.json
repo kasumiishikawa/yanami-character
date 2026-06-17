@@ -1,0 +1,1368 @@
+[
+  {
+    "scene_id": "yanami-candidate-0331",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水为秘密被泄露而慌张时，八奈见吃着话梅向前踏出一步，主动向学生会长提问，询问会长所说的帮忙是什么意思。",
+    "yanami_role_in_scene": "主动推动剧情的角色——在温水慌乱时冷静地站出来，替集体向会长确认关键信息。",
+    "facts": [
+      {
+        "claim": "八奈见在对话中会吃话梅",
+        "evidence_summary": "原文「八奈见将话梅放进口中，向前一步」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在温水慌乱时能主动替集体发问",
+        "evidence_summary": "温水用手帕抹冷汗时，八奈见向前一步向会长提问「会长学姊，你刚才说愿意帮忙，是什么意思？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "在温水慌乱时主动接过话头，弥补他的社交短板",
+        "behavior": "不等待温水反应，自己直接上前向会长提问",
+        "evidence_summary": "温水还在慌张擦汗时，八奈见已经吃下话梅并向前一步开口",
+        "confidence": "high"
+      },
+      {
+        "target": "学生会长（天爱星）",
+        "attitude": "敢于直接向权威人物追问，不怯场",
+        "behavior": "直接提问『会长学姊，你刚才说愿意帮忙，是什么意思？』",
+        "evidence_summary": "原文直接引用她的提问",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "冷静主动",
+        "trigger": "温水陷入慌乱、会长提出模糊的帮忙意向",
+        "external_expression": "平静地吃话梅，然后自然地向前一步提问",
+        "hidden_layer": "可能对计划有较强关心或期待，因此主动推动确认",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在群体中温水陷入被动时，她会主动接过主导权",
+        "example_summary": "温水慌张擦汗时，八奈见吃下话梅后直接上前向会长发问",
+        "when_used": "温水无法有效推进对话时"
+      },
+      {
+        "pattern": "用食物（话梅）作为过渡动作后再发言",
+        "example_summary": "将话梅放进口中后，向前一步说话",
+        "when_used": "在需要开口之前先用吃食动作缓冲"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用敬语称呼学长学姐（会长学姊）但有亲近感",
+        "example_summary": "称学生会长为『会长学姊』",
+        "when_used": "与年上或上位角色对话时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "在紧张或需要行动的场合吃话梅",
+        "example_summary": "温水慌张时，八奈见将话梅放进口中",
+        "significance": "话梅是她随身携带并随时取用的零食"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "群体中温水陷入慌乱、对话陷入僵局时",
+        "likely_response": "她会自然地用一个小动作（如吃话梅）缓冲，然后主动接过话头推进对话",
+        "avoid": "不要让她等待温水指示才行动——她有自己的判断力"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "会长学姊，你刚才说愿意帮忙，是什么意思？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0332",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "天爱星离开后，樱井陷入慌张道歉，八奈见递出话梅让他别在意，并将主要原因归咎于温水的大嘴巴。",
+    "yanami_role_in_scene": "安慰慌乱的樱井，同时用轻松的方式把责任甩给温水，维持团体内的轻松氛围。",
+    "facts": [
+      {
+        "claim": "八奈见会用食物（话梅）安慰他人",
+        "evidence_summary": "樱井慌张道歉时，八奈见递出话梅说『别在意，樱井』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会以玩笑口吻把责任推到温水身上",
+        "evidence_summary": "她对樱井说『根本的原因还是温水大嘴巴吧？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "小鞠和八奈见会同时点头附和温水是罪魁祸首",
+        "evidence_summary": "『八奈见与小鞠纷纷点头』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井",
+        "attitude": "温柔体贴，照顾对方的情绪",
+        "behavior": "递出话梅安慰，让他不要在意",
+        "evidence_summary": "八奈见像是要他别介意般对他摇头后，递出话梅",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "可以随意开玩笑、甩锅的亲近对象",
+        "behavior": "把麻烦的责任推给温水，称他是『大嘴巴』",
+        "evidence_summary": "『根本的原因还是温水大嘴巴吧？』随后小鞠也点头",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "在调侃温水时与小鞠形成默契",
+        "behavior": "与小鞠一起点头附和",
+        "evidence_summary": "八奈见与小鞠纷纷点头认同是温水搞砸了",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松、体贴",
+        "trigger": "樱井陷入慌张道歉的尴尬局面",
+        "external_expression": "摇头示意没关系，递出话梅，语气轻松",
+        "hidden_layer": "可能想尽快化解尴尬气氛，让团体恢复平常状态",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "通过甩锅温水来转移紧张感",
+        "example_summary": "在樱井道歉的尴尬场合，用『温水大嘴巴』的玩笑话缓和气氛",
+        "trigger": "团体中有人陷入自责或过度道歉时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "用分享食物（话梅）来表达善意和安慰",
+        "example_summary": "樱井慌张道歉时递上话梅",
+        "when_used": "他人情绪低落或尴尬时"
+      },
+      {
+        "pattern": "在需要化解尴尬时把温水当成吐槽/甩锅对象",
+        "example_summary": "把泄密责任归结为『温水大嘴巴』",
+        "when_used": "需要轻松地转移话题或缓解氛围时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "直接喊名字（樱井）而不加敬称，显示亲近",
+        "example_summary": "『别在意，樱井』",
+        "when_used": "与同级或熟悉的男性角色说话时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "随身携带话梅并送给别人",
+        "example_summary": "递出话梅给樱井",
+        "significance": "话梅既是自己的零食，也是她与人交往的社交工具"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有外人陷入尴尬/自责时",
+        "likely_response": "她会用轻松的态度甩锅给温水，让气氛变得不那么沉重",
+        "avoid": "不要让她在安慰人时显得过于热情或煽情——她用的是轻描淡写的方式"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "别在意，樱井。根本的原因还是温水大嘴巴吧？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0333",
+    "useful": false,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "国定假日文艺社社办集合，八奈见作为社员之一到场，此外还有温水、白玉学妹、会长在场。小鞠从窗户看了一眼就逃走了。",
+    "yanami_role_in_scene": "仅作为与会人员被提及，没有行动或台词。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0334",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "会长拿出可疑的调查顾问传单，八奈见正在吃当天的第二个饭团（间隔一小时），好奇地探头去看传单上的内容。温水担心这种团体是否危险。",
+    "yanami_role_in_scene": "一边继续吃早餐一边参与讨论，对新鲜信息表现出好奇。",
+    "facts": [
+      {
+        "claim": "八奈见在早餐时间会吃多个饭团，间隔约一小时",
+        "evidence_summary": "原文标注『食用着饭团当早餐（间隔一小时的第二次）』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对新奇事物有好奇心",
+        "evidence_summary": "看到会长拿出的传单，『好奇地探头一看』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "学生会长",
+        "attitude": "对会长的行动表示好奇和兴趣",
+        "behavior": "看到传单后好奇地凑近查看",
+        "evidence_summary": "『呜哇，会长学姊，这是什么啊？』八奈见食用着饭团当早餐，好奇地探头一看",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇、兴致勃勃",
+        "trigger": "会长拿出可疑的调查顾问传单",
+        "external_expression": "发出『呜哇』的感叹并探头去看",
+        "hidden_layer": "对参与这种带点冒险性质的活动可能感到兴奋",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "即使在讨论正事时也会持续进食",
+        "example_summary": "一边说着『呜哇，会长学姊，这是什么啊？』一边吃着饭团探头看传单",
+        "when_used": "任何场合——吃饭和参与对话并行"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用『呜哇』作为感叹词表达惊讶或兴趣",
+        "example_summary": "『呜哇，会长学姊，这是什么啊？』",
+        "when_used": "看到出乎意料或有趣的东西时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "早餐吃多个饭团，有明确的用餐节奏（间隔约一小时一个）",
+        "example_summary": "『食用着饭团当早餐（间隔一小时的第二次）』",
+        "significance": "食量大且进食频率高，食物对她而言是持续的需求"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "讨论中有新鲜事物出现时",
+        "likely_response": "她会一边继续吃东西一边凑近查看，不会因为吃饭而停止参与",
+        "avoid": "不要让她为了吃东西而完全脱离当前对话"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "呜哇，会长学姊，这是什么啊？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0335",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水想站起来去看妹妹拿到的名片，八奈见拉住他把他拖回椅子上。随后当讨论谁适合去婚礼会场参观时，八奈见主动站起来说自己适合，因为需要成熟感。温水让她坐下。",
+    "yanami_role_in_scene": "用肢体动作阻拦温水，并主动争取参与重要任务的机会。",
+    "facts": [
+      {
+        "claim": "八奈见会用肢体动作（拉住、拖回）阻拦温水",
+        "evidence_summary": "温水要起身时，『八奈见拉住我，把我拖回椅子上』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主动争取参与婚礼会场参观任务",
+        "evidence_summary": "当讨论参加人选时，八奈见站起来说『这次去的人，一定要很有成熟感才行吧？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水会直接让八奈见坐下",
+        "evidence_summary": "温水说『嗯，你说的没错。坐下吧。』八奈见随后坐下",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "用肢体动作随意地控制温水，显示出亲密的物理距离",
+        "behavior": "拉住温水并把他拖回椅子上",
+        "evidence_summary": "温水要起身时，八奈见拉住他把他拖回椅子上",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "在温水面前积极争取表现机会",
+        "behavior": "主动站起来说自己适合担任需要成熟感的角色",
+        "evidence_summary": "『这次去的人，一定要很有成熟感才行吧？』并站起来",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "温水可以毫无顾虑地命令她坐下",
+        "behavior": "温水让她坐下她便坐下，接受温水的主导",
+        "evidence_summary": "温水的旁白『我让八奈见坐下』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "积极、跃跃欲试",
+        "trigger": "讨论到谁适合参与婚礼会场参观",
+        "external_expression": "主动站起来，用暗示的方式推销自己『一定要很有成熟感才行吧？』",
+        "hidden_layer": "可能既想参与有趣的任务，也想和温水一起活动",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "想要参与重要的、有趣的任务",
+        "evidence": "主动站起来暗示自己适合参加",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "用肢体动作直接干预温水的行动",
+        "example_summary": "拉住温水并把他拖回椅子上",
+        "when_used": "温水要做她不同意的举动时"
+      },
+      {
+        "pattern": "不直接说自己想去，而是用暗示的方式争取",
+        "example_summary": "『这次去的人，一定要很有成熟感才行吧？』",
+        "when_used": "想要某样东西或想参与某事时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用反问句式暗示自己的意愿",
+        "example_summary": "『这次去的人，一定要很有成熟感才行吧？』",
+        "when_used": "不想直接表达诉求时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她用暗示的方式表达意愿，但温水（及旁人）轻易看穿她的意图",
+        "example_summary": "她说『要有成熟感才行吧？』温水立刻理解她的意思并让她坐下",
+        "source": "scene 0335"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "她想参与某件事但不想直接说出来时",
+        "likely_response": "她会用『这个嘛……好像需要某种特质的人才行呢？』这样的暗示方式来表达",
+        "avoid": "不要让她直接说『我想去』——暗示和自荐才是她的风格"
+      },
+      {
+        "situation": "温水要做她不同意的事时",
+        "likely_response": "她会毫不犹豫地用肢体动作阻拦",
+        "avoid": "不要只停留在口头劝阻"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "这次去的人，一定要很有成熟感才行吧？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0336",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水否定了绫野作为男伴人选后，八奈见摆出不高兴的表情，用尖酸的语气建议温水自己上场，同时剥开三明治包装开始吃第三次早餐，不高兴地瞪着温水。会长随后支持了这个提议。",
+    "yanami_role_in_scene": "因为温水否定其他人选而不高兴，用带刺的话提议温水亲自上阵，同时继续进食。",
+    "facts": [
+      {
+        "claim": "八奈见会因温水否定他人（尤其是否定她意有所指的人选）而不高兴",
+        "evidence_summary": "温水说绫野不适合后，八奈见『摆出不高兴的表情』并嘀咕",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见早餐吃三明治作为第三次进食，与前次仅隔十五分钟",
+        "evidence_summary": "原文标注『剥开三明治的包装，开始食用早餐（间隔十五分钟的第三次）』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见生气时会用带刺的反话刺激温水",
+        "evidence_summary": "她说『既然温水对我有意见，想必你一定就是完美人选吧？』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "生闷气时用讽刺来表达不满",
+        "behavior": "不高兴地瞪着温水，用带刺的话建议他自己上",
+        "evidence_summary": "『……那温水你自己上场不就好了。』『既然温水对我有意见，想必你一定就是完美人选吧？』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不快、闹别扭",
+        "trigger": "温水否定了她想推荐的人选（绫野）",
+        "external_expression": "摆出不高兴的表情，嘀咕讽刺的话，不高兴地瞪温水，同时用吃三明治来转移",
+        "hidden_layer": "可能推荐绫野本身就有试探温水反应的意图，被否定让她感到不悦或害羞",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用讽刺和闹别扭代替直接表达不满",
+        "example_summary": "不说『我生气了』而是用『既然温水对我有意见』的反话",
+        "trigger": "温水做出了她不喜欢的决定时"
+      },
+      {
+        "mechanism": "用吃东西来掩盖或消化情绪",
+        "example_summary": "不高兴的同时剥开三明治开始吃",
+        "trigger": "情绪波动时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "情绪不佳时进食频率更高",
+        "example_summary": "在闹别扭的同时开始吃间隔仅十五分钟的第三次早餐",
+        "when_used": "情绪波动或感到不满时"
+      },
+      {
+        "pattern": "用讽刺性反问来攻击/回应温水",
+        "example_summary": "『既然温水对我有意见，想必你一定就是完美人选吧？』",
+        "when_used": "对温水的言行感到不满时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "生气时用『……』开头低声嘀咕",
+        "example_summary": "『……那温水你自己上场不就好了。』",
+        "when_used": "闹别扭不想直接大声说话时"
+      },
+      {
+        "pattern": "使用『既然～想必～』的反讽句式",
+        "example_summary": "『既然温水对我有意见，想必你一定就是完美人选吧？』",
+        "when_used": "对温水表示讽刺性抗议时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "用讽刺代替幽默，带刺的逆反",
+        "example_summary": "明明在生气但说的话又带有喜感，让在场的人（包括读者）觉得好笑",
+        "when_used": "对温水表达不满时"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "早餐可以在短时间内吃三次（饭团两个+三明治）",
+        "example_summary": "先吃了饭团（第二次），间隔十五分钟后开始吃三明治（第三次）",
+        "significance": "食量远大于常人，进食间隔极短"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水否定了她暗中期盼的选项时",
+        "likely_response": "她不会直接说『我推荐那个人是因为我在意你』，而是会用讽刺反话闹别扭",
+        "avoid": "不要让她直白表达受伤——她会用带刺的讽刺来掩饰"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "……那温水你自己上场不就好了。",
+      "既然温水对我有意见，想必你一定就是完美人选吧？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0337",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "从温水视角描述婚礼会场外观。八奈见和朝云同学在停车场角落蹲守，八奈见举着形似洋伞的天线进行监控支援。",
+    "yanami_role_in_scene": "作为后援在停车场蹲守，负责技术支援（举天线）。",
+    "facts": [
+      {
+        "claim": "八奈见参与外部监控支援，举着形似洋伞的天线",
+        "evidence_summary": "『朝云同学戴着耳机麦克风，手拿笔记型电脑，八奈见则举着形似洋伞的天线』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "朝云",
+        "attitude": "配合朝云的行动，充当助手",
+        "behavior": "举着天线配合朝云的监控工作",
+        "evidence_summary": "朝云拿笔记型电脑，八奈见举天线，两人一起在停车场蹲守",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "愿意为集体行动做辅助性工作（即使不是主角）",
+        "example_summary": "在停车场举天线做技术支援",
+        "when_used": "团队分工时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "团体行动中分配角色时",
+        "likely_response": "她可以担任支援角色，但如果被分配边缘任务，可能会想办法争取更重要的位置",
+        "avoid": ""
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0338",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水与志喜屋学姊在婚礼会场内部互动时，八奈见通过无线耳机听到一切，烦躁的声音传来。温水觉得她只会碍事，关掉了耳机。随后回忆两小时前，八奈见和朝云看到温水穿西装后交换意味深长的眼神并点头。",
+    "yanami_role_in_scene": "通过耳机监控温水与志喜屋的互动，因听到两人亲密对话而烦躁。",
+    "facts": [
+      {
+        "claim": "八奈见通过无线耳机监控温水与志喜屋的对话",
+        "evidence_summary": "『烦躁的声音突然灌进耳朵』『我们这边都听得一清二楚喔？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和朝云看到温水穿西装后交换了意味深长的眼神",
+        "evidence_summary": "『八奈见与朝云同学看着我的西装打扮，露出了意味深长的表情，随后互看一眼，对彼此点头』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对温水与志喜屋独处感到烦躁和在意",
+        "behavior": "通过耳机发声表达不满",
+        "evidence_summary": "温水与志喜屋互动时，八奈见『烦躁的声音突然灌进耳朵』",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋",
+        "attitude": "对志喜屋与温水的亲近保持警惕",
+        "behavior": "通过耳机持续监听他们的对话",
+        "evidence_summary": "『我们这边都听得一清二楚喔？』语气带有不满",
+        "confidence": "medium"
+      },
+      {
+        "target": "朝云",
+        "attitude": "与朝云在温水话题上有默契",
+        "behavior": "和朝云交换眼神、默契点头",
+        "evidence_summary": "看着温水后互看一眼，对彼此点头",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "烦躁、警惕",
+        "trigger": "听到温水与志喜屋的对话，尤其是温水说『梦子，别这样啦』的亲密语气",
+        "external_expression": "用烦躁的声音在耳机里喊话",
+        "hidden_layer": "对温水与其他女性的亲密互动感到介意/嫉妒",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "想要知道温水在和志喜屋做什么",
+        "evidence": "持续通过耳机监听",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "通过发声介入来打断温水和志喜屋的互动",
+        "example_summary": "听到温水喊志喜屋『梦子』时立刻通过耳机喊话",
+        "trigger": "温水与其他女性独处且气氛微妙时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "对温水与其他女性的互动高度敏感",
+        "example_summary": "听到温水和志喜屋的对话后立刻烦躁发声",
+        "when_used": "温水与志喜屋或其他女性独处时"
+      },
+      {
+        "pattern": "与女性朋友（朝云）在观察温水时形成沉默的默契",
+        "example_summary": "看温水穿西装后互看点头",
+        "when_used": "看到温水有新面貌或新情况时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "在情绪激动时重复『喂喂』作为开场",
+        "example_summary": "『喂喂～？我们这边都听得一清二楚喔？』",
+        "when_used": "通过通讯设备表达不满时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {
+        "tension": "明明是自愿参与监控任务，但听到不愿听的内容时反而让自己更难受",
+        "example_summary": "通过耳机听到了温水与志喜屋的互动，结果烦躁不已",
+        "source": "scene 0338"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水与其他女性独处而她通过某种方式知情时",
+        "likely_response": "她会想尽办法介入或表达不满，不会安静地接受",
+        "avoid": "不要让她表现得毫不在意——她一定会有所反应"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "喂喂～？我们这边都听得一清二楚喔？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0339",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水和志喜屋在讨论婚礼细节时心情正好，八奈见通过耳机讽刺说『难道是忘记怎么歌唱的金丝雀吗？』扰乱他的好心情。温水回嘴后，朝云接过通讯请求调整摄像机。",
+    "yanami_role_in_scene": "用讽刺的比喻打断温水与志喜屋的良好氛围，表达对温水沉浸在二人世界的不满。",
+    "facts": [
+      {
+        "claim": "八奈见会用诗意/文艺的比喻进行讽刺",
+        "evidence_summary": "『难道是忘记怎么歌唱的金丝雀吗～？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在温水心情好时会故意捣乱",
+        "evidence_summary": "温水正在好心情时，八奈见『难得的好心情，被某人捣坏了』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "不愿看到温水心情愉快地和志喜屋相处",
+        "behavior": "用讽刺性的比喻打断温水的好心情",
+        "evidence_summary": "温水的好心情被八奈见的金丝雀比喻破坏",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云",
+        "attitude": "和朝云轮班监控温水",
+        "behavior": "八奈见发言后朝云接替通讯",
+        "evidence_summary": "朝云说『不好意思，我是朝云』接手通话",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "嫉妒、不满",
+        "trigger": "温水和志喜屋讨论婚礼细节气氛融洽",
+        "external_expression": "用讽刺比喻阴阳怪气",
+        "hidden_layer": "看到温水与志喜屋相处愉快而吃醋",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "不想让温水太享受和志喜屋的二人时光",
+        "evidence": "特意出声打断",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用讽刺性评论来破坏温水的好心情，以此平衡自己的不快",
+        "example_summary": "『难道是忘记怎么歌唱的金丝雀吗～？』",
+        "trigger": "温水与其他女性相处愉快时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在温水与其他女性独处且气氛良好时，会主动发声干扰",
+        "example_summary": "温水与志喜屋讨论婚礼时心情正好，八奈见出声讽刺打断",
+        "when_used": "温水与其他女性独处且氛围融洽时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用文艺化的、带诗意色彩的比喻进行讽刺",
+        "example_summary": "『难道是忘记怎么歌唱的金丝雀吗～？』",
+        "when_used": "表达不满时，用诗意的比喻比直接骂人更有杀伤力"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "诗意讽刺——用美丽的比喻包裹酸溜溜的攻击",
+        "example_summary": "金丝雀忘记歌唱来讽刺温水忘记任务",
+        "when_used": "对温水表达嫉妒或不满时"
+      }
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水和其他女性相处愉快时",
+        "likely_response": "她会找机会用尖酸但有趣的比喻来打断，不会直接说『我吃醋了』",
+        "avoid": "不要让她表现得太悲伤或直接——她用的是讽刺幽默"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "难道是忘记怎么歌唱的金丝雀吗～？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0340",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "志喜屋学姊揽住温水的手臂，温感受到柔软触感。八奈见立刻通过耳机大声咳嗽制止。",
+    "yanami_role_in_scene": "通过咳嗽声打断温水与志喜屋的身体接触时刻，充当听觉上的阻挠者。",
+    "facts": [
+      {
+        "claim": "八奈见会在温水与志喜屋有肢体接触时立即通过咳嗽发出信号",
+        "evidence_summary": "志喜屋揽住温水手臂的瞬间，『耳机传来八奈见清嗓子的咳嗽声』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水果断认为八奈见的咳嗽声很吵",
+        "evidence_summary": "温水内心旁白『很吵耶……』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "志喜屋",
+        "attitude": "对志喜屋与温水的身体接触反应强烈",
+        "behavior": "用咳嗽声打断和抗议",
+        "evidence_summary": "志喜屋揽住温水手臂后立刻传来八奈见的咳嗽声",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "通过监控持续关注温水的一举一动",
+        "behavior": "紧盯温水与志喜屋的互动，在最亲密的时刻发声打断",
+        "evidence_summary": "温水形容为『咳咳！咳咳咳！』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "强烈抗议/嫉妒",
+        "trigger": "志喜屋揽住温水手臂，产生身体接触",
+        "external_expression": "剧烈咳嗽声通过耳机传达",
+        "hidden_layer": "无法直接阻止，只能用咳嗽来发泄不满和吸引注意力",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "阻止温水与志喜屋进一步亲密接触",
+        "evidence": "在身体接触发生的瞬间立即咳嗽抗议",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用咳嗽声作为非直接的抗议手段",
+        "example_summary": "无法直接到现场阻止，就用响亮的声音打断气氛",
+        "trigger": "看到或听到温水与其他女性的亲密互动时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "对温水与其他女性的身体接触有零容忍反应",
+        "example_summary": "志喜屋一挽手臂就立刻咳嗽",
+        "when_used": "温水与其他女性有肢体接触时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她在远处监控本是为了任务，但实际上一刻不停地监视着温水与志喜屋的互动，任务目的和个人情感混杂",
+        "example_summary": "她的咳嗽出现在志喜屋与温水亲密接触的瞬间，而非任务相关内容",
+        "source": "scene 0340"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "她通过某种方式得知温水和其他女性有肢体接触时",
+        "likely_response": "她会立刻发出声音（咳嗽、喊叫）打断，用最直接的方式表达『我看到了/听到了』",
+        "avoid": "不要让她沉默地接受——她一定会有所表现"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0341",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水意识到婚礼流程最后可能有誓约之吻，八奈见在耳机里大叫质问。温水发现她的吐槽让自己松了一口气。随后志喜屋摘掉温水耳机做出要接吻的姿态，温水惊慌拒绝。",
+    "yanami_role_in_scene": "在温水紧张时提供熟悉的吐槽，成为让温水安心的存在。",
+    "facts": [
+      {
+        "claim": "八奈见对『誓约之吻』的话题反应极其激烈",
+        "evidence_summary": "温水刚想到誓约之吻，『八奈见的大叫声响起』『没有预定要接吻吧！？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水果断认为八奈见的吐槽能让他放松",
+        "evidence_summary": "『我发现八奈见的吐槽让自己稍微松了口气』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水在紧张时会忘记八奈见在监听",
+        "evidence_summary": "『我忘记她了。连存在都抛诸脑后。』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对温水的亲密行为可能性极度敏感",
+        "behavior": "大叫质问有没有预定接吻",
+        "evidence_summary": "『没有预定要接吻吧！？』",
+        "confidence": "high"
+      },
+      {
+        "target": "温水（反向）",
+        "attitude": "温水在紧张时依赖八奈见的吐槽来放松",
+        "behavior": "八奈见的叫声让他感到松了口气",
+        "evidence_summary": "温水内心独白：『我发现八奈见的吐槽让自己稍微松了口气』",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋",
+        "attitude": "对志喜屋的『威胁』保持高度警惕",
+        "behavior": "在志喜屋可能和温水有亲密接触时大喊制止",
+        "evidence_summary": "听到『誓约之吻』时立刻大叫",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "震惊、抗议",
+        "trigger": "听到『誓约之吻』这个词",
+        "external_expression": "在耳机里大叫",
+        "hidden_layer": "对温水可能和其他人接吻感到强烈的抗拒",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "绝对不想看到温水和其他人接吻",
+        "evidence": "听到『誓约之吻』时立刻大叫制止",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用大声吐槽掩饰内心的慌乱和抗拒",
+        "example_summary": "不是冷静地说『请停止』而是大叫『没有预定要接吻吧！？』",
+        "trigger": "温水与其他女性可能发生亲密接触时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "温水在紧张时，八奈见的熟悉声音和吐槽反而成为他的安慰",
+        "example_summary": "八奈见的叫声让温水松了口气",
+        "when_used": "温水处于高压或紧张情境时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用问句表达强烈抗议，句末用『吧！？』的双重标点",
+        "example_summary": "『没有预定要接吻吧！？』",
+        "when_used": "听到震惊的消息时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {
+        "tension": "八奈见在远处大叫抗议显得很吵闹，但这种熟悉的吐槽反而给了温水安全感",
+        "example_summary": "温水发现被八奈见吐槽后自己松了口气",
+        "source": "scene 0341"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水和其他女性有亲密接触可能性时",
+        "likely_response": "她会用最大音量抗议，而不是理性沟通",
+        "avoid": "不要让她冷静地接受——反应一定很夸张"
+      },
+      {
+        "situation": "温水处于紧张中时",
+        "likely_response": "八奈见的吐槽虽然吵闹，但反而是温水果断熟悉的、让他安心的存在",
+        "avoid": ""
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "没有预定要接吻吧！？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0342",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "志喜屋把耳机还给温水后，顾问提到可以试吃婚宴料理，八奈见通过耳机大叫『我怎么不晓得这件事！？』温水内心断定她无法保持理性。随后八奈见和朝云被警卫发现，温水叹气。晚间温水与樱井通电话。",
+    "yanami_role_in_scene": "因没被告知有美食可吃而愤怒抗议，随后因在停车场吵闹被警卫发现。",
+    "facts": [
+      {
+        "claim": "八奈见对试吃婚宴料理不知情时反应强烈",
+        "evidence_summary": "顾问提到试吃料理时，八奈见的声音直刺温水鼓膜：『我怎么不晓得这件事！？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水断定八奈见面对豪华料理无法保持理性",
+        "evidence_summary": "温水旁白：『面对豪华料理，我不认为八奈见能保持理性。打从一开始，那家伙就没办法扮演未婚妻』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和朝云在停车场被警卫发现",
+        "evidence_summary": "耳机传来上了年纪的男性声音『啊～你们两个，在那边做什么啊？』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对温水隐瞒美食信息感到愤怒",
+        "behavior": "大叫抗议",
+        "evidence_summary": "『我怎么不晓得这件事！？』声音直刺温水鼓膜",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "温水对她有刻板印象——觉得她会被美食冲昏头",
+        "behavior": "温水内心断定她无法扮演未婚妻角色",
+        "evidence_summary": "温水内心独白",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愤怒、不甘心",
+        "trigger": "发现温水和志喜屋有试吃豪华料理的机会而自己不知道",
+        "external_expression": "大叫『我怎么不晓得这件事！？』",
+        "hidden_layer": "既是因为没吃到美食而不满，也是因为温水没告诉她而吃醋",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "想吃豪华料理",
+        "evidence": "对试吃料理一事反应极度强烈",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对美食相关信息的遗漏反应极其激烈",
+        "example_summary": "听到有试吃料理时大叫抗议",
+        "when_used": "与食物相关的消息被瞒着她时"
+      },
+      {
+        "pattern": "在停车场执行任务时不够隐蔽，容易暴露",
+        "example_summary": "和朝云在停车场拿着天线大吵大闹被警卫发现",
+        "confidence": "high"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用『我怎么不晓得』的句式表达不满",
+        "example_summary": "『我怎么不晓得这件事！？』",
+        "when_used": "发现被排除在信息之外时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "对未知美食有着极强的渴望和关注",
+        "example_summary": "听到法式料理试吃时大叫抗议",
+        "significance": "食物是她极重要的欲望和情感驱动因素"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她想扮演重要角色，但温水认为她面对美食会失去理智",
+        "example_summary": "温水认为她没办法扮演未婚妻因为无法对美食保持理性",
+        "source": "scene 0342"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有美食活动而她被排除在外时",
+        "likely_response": "反应会极其激烈，不会轻易接受『下次再说』",
+        "avoid": "不要让她对美食消息保持冷静"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我怎么不晓得这件事！？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0343",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "黄金周第二天，犯罪预备军在社办集合。朝云汇报参观情况时，八奈见不愉快地盯着温水，讽刺说某人吃了美味法式料理、度过快乐时光。温水转移话题让朝云继续。",
+    "yanami_role_in_scene": "对温水昨天享受法式料理和与志喜屋共度时光耿耿于怀，用讽刺表达不满。",
+    "facts": [
+      {
+        "claim": "八奈见对温水昨天吃法式料理一事耿耿于怀，隔天仍在讽刺",
+        "evidence_summary": "八奈见不愉快地盯着温水说『……真的出了不少事呢。但某人好像吃了美味的法式料理，度过一段快乐似神仙的时光喔～？』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "带着讽刺和不满，对温水的快乐经历念念不忘",
+        "behavior": "不愉快地盯着温水，用酸溜溜的语气提及昨天的事",
+        "evidence_summary": "『真的出了不少事呢。但某人好像吃了美味的法式料理，度过一段快乐似神仙的时光喔～？』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "残留的嫉妒和不满",
+        "trigger": "回想昨天温水和志喜屋享受法式料理而自己被留在停车场",
+        "external_expression": "不愉快的眼神和讽刺的语气",
+        "hidden_layer": "既想吃法式料理，也不满温水与志喜屋独处的愉快时光",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用翻旧账式的讽刺重复表达不满",
+        "example_summary": "隔天还在提昨天温水吃法式料理的事",
+        "trigger": "觉得自己被排除在好事之外时"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "对温水与其他女性的活动耿耿于怀，不会轻易放过",
+        "example_summary": "隔天开会时还要讽刺温水昨天的法式料理经历",
+        "when_used": "温水和其他人有她没能参与的愉快经历时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用『某人』替代称呼来表示讽刺和距离感",
+        "example_summary": "『但某人好像吃了美味的法式料理』",
+        "when_used": "对温水表达不满时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "积怨式幽默——隔天还念念不忘地提起旧账",
+        "example_summary": "第二天开会还要酸昨天吃法式料理的事",
+        "when_used": "觉得自己吃亏时"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "对没吃到的美食耿耿于怀持续很久",
+        "example_summary": "隔天还在说法式料理的事",
+        "significance": "美食记忆对她的情绪有持久影响"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水有她没能参与的好事时",
+        "likely_response": "她会反复提起这件事，用讽刺表达不满，不会轻易翻篇",
+        "avoid": "不要让她太快释怀——她会记很久"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "……真的出了不少事呢。但某人好像吃了美味的法式料理，度过一段快乐似神仙的时光喔～？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0344",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "开会讨论作战时间表。八奈见从背包取出整条法国面包，边啃边说要在九点到十点的空档行动。众人沉默注视她，温水吐槽没人理解为什么她在啃整条法棍。八奈见解释说里面加了梅子酱、红豆馅和黄豆粉，还吃到了盐辛地雷。温水将脑中『八奈见视窗』最小化。",
+    "yanami_role_in_scene": "在严肃作战会议上拿出整条法棍面包当零食，再次展现惊人的食量和独特的饮食习惯。",
+    "facts": [
+      {
+        "claim": "八奈见会在严肃讨论场合拿出整条法国面包啃",
+        "evidence_summary": "『八奈见自背包中取出面包』『八奈见啃着整条法国面包』，并且『对我来说只是日常光景』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会在面包里塞各种馅料（梅子酱、红豆馅、黄豆粉、盐辛）",
+        "evidence_summary": "『里面我已经事先加了梅子酱和红豆馅之类的。也带了可以洒的黄豆粉——呜哇，吃到地雷了。是盐辛啊。』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见把豪华法式料理和自制法棍画等号",
+        "evidence_summary": "她说『只有温水吃到美味的法式料理太不公平了吧。我也想吃啊？』然后用自制的加料法棍作为回应",
+        "confidence": "high"
+      },
+      {
+        "claim": "其他人（会长、白玉、朝云）对八奈见的吃相感到惊讶",
+        "evidence_summary": "『其他三人的视线都朝八奈见吸引而去』，三人沉默地盯着她看",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水对八奈见的奇特饮食习惯已经习以为常",
+        "evidence_summary": "温水旁白：『对我来说只是日常光景』，『我将脑内的八奈见视窗最小化』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水对她的行为见怪不怪，已形成『八奈见视窗』这样的心理机制",
+        "behavior": "温水替她向其他人解释，随后将她的存在最小化以专注于正事",
+        "evidence_summary": "『我将脑内的八奈见视窗最小化，让注意力转回白板上』",
+        "confidence": "high"
+      },
+      {
+        "target": "在场其他人（会长、白玉、朝云）",
+        "attitude": "被众人注视时，温水被她的无自知之明所累",
+        "behavior": "温水无奈地代她解释",
+        "evidence_summary": "『大家在想为什么你会拿整条法国面包在啃』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "理所当然，毫无自觉",
+        "trigger": "讨论严肃话题时想吃东西",
+        "external_expression": "自然地拿出法棍面包边啃边发表意见",
+        "hidden_layer": "完全不觉得自己在严肃场合啃整条法棍有什么问题",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "想吃法式料理（哪怕是自己DIY的版本）",
+        "evidence": "因为温水吃了真正的法式料理，她就在法棍面包里塞各种馅料来自我补偿",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在严肃或正式的场合中也会若无其事地大量进食",
+        "example_summary": "在作战会议中拿出整条法棍面包边啃边讨论",
+        "when_used": "任何时候——对她而言没有不能吃东西的场合"
+      },
+      {
+        "pattern": "用DIY食物表达对无法获得真正美食的抗议",
+        "example_summary": "用加料法棍面包代替法式料理",
+        "when_used": "想吃什么但吃不到时"
+      },
+      {
+        "pattern": "在面包里随机塞各种馅料，包括地雷（盐辛）",
+        "example_summary": "吃到盐辛时皱紧眉头但继续吃",
+        "when_used": "自己做加料面包时，带有实验性质"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用自己吃到地雷时发出声响来表达",
+        "example_summary": "『呜哇，吃到地雷了。是※盐辛啊。』",
+        "when_used": "吃到意外的东西时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "天然系无自觉搞笑——在严肃场合做离谱的事而完全不觉得有问题",
+        "example_summary": "作战会议上啃整条法棍面包",
+        "when_used": "日常状态"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "用法国面包当零食，会预先塞各种馅料",
+        "example_summary": "整条法国面包里加梅子酱、红豆馅，带黄豆粉，还不小心吃到盐辛",
+        "significance": "食量大、口味杂、对食物的态度很随意/实验性"
+      },
+      {
+        "habit": "吃到不好吃的东西也会继续吃下去",
+        "example_summary": "吃到盐辛时皱紧眉头但继续吃",
+        "significance": "不浪费食物，忍耐力强"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她抱怨没吃到法式料理不公平，但自己用加料法棍替代的行为在旁人眼中极为滑稽",
+        "example_summary": "她说『只有温水吃到美味的法式料理太不公平了』，然后拿出塞满奇怪馅料的法棍",
+        "source": "scene 0344"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在需要严肃讨论的场合中",
+        "likely_response": "她可以一边吃着夸张的食物一边正常参与讨论，完全不觉得违和",
+        "avoid": "不要让她因为在场有其他人而停止进食——她不会为此感到不好意思"
+      },
+      {
+        "situation": "温水需要集中注意力时",
+        "likely_response": "温水已经形成了『八奈见视窗最小化』的心理机制，可以屏蔽她的干扰",
+        "avoid": ""
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "只有温水吃到美味的法式料理太不公平了吧。我也想吃啊？",
+      "呜哇，吃到地雷了。是盐辛啊。"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0345",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水为自己没识破妹妹佳树的变装而沮丧。八奈见露出贼笑嘲笑温水是妹控，说自己如果遇到可疑少年会报警。随后朝云接回话题讨论伪装名片的事。",
+    "yanami_role_in_scene": "抓住机会嘲笑温水——趁他沮丧时调侃他的妹控属性。",
+    "facts": [
+      {
+        "claim": "八奈见会抓住温水的失误/弱点进行调侃",
+        "evidence_summary": "温水没认出变装的妹妹而沮丧时，八奈见露出贼笑说『温水，你明明是妹控却没认出你妹喔？哦～』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用夸张假设来加强调侃效果",
+        "evidence_summary": "她说『如果我遇到陌生的少年，我会报警』来嘲笑温水",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "喜欢在温水吃瘪时落井下石地调侃",
+        "behavior": "贼笑，用妹控梗嘲笑",
+        "evidence_summary": "『温水，你明明是妹控却没认出你妹喔？哦～』",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "温水否认自己是妹控",
+        "behavior": "辩解自己没认出妹妹是情有可原的",
+        "evidence_summary": "温水说『更何况我不是妹控』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、捉弄人的愉悦",
+        "trigger": "温水陷入沮丧状态",
+        "external_expression": "贼笑、拉长音调的调侃",
+        "hidden_layer": "通过调侃温水来享受互动乐趣",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "温水沮丧/吃瘪时趁机嘲笑他",
+        "example_summary": "温水没认出变装的妹妹而沮丧时，八奈见立刻调侃他是妹控",
+        "when_used": "温水陷入对自己不利的局面时"
+      },
+      {
+        "pattern": "用夸张的假想场景来加强吐槽效果",
+        "example_summary": "『如果我在场，我会报警』",
+        "when_used": "想强调温水的行为有多离谱时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "以『哦～』的长音结尾来表达得意和戏弄",
+        "example_summary": "『温水，你明明是妹控却没认出你妹喔？哦～』",
+        "when_used": "抓到温水的把柄时"
+      },
+      {
+        "pattern": "用『你明明是○○』的句式强调温水的某种属性",
+        "example_summary": "『你明明是妹控却没认出你妹喔？』",
+        "when_used": "攻击/调侃温水时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "乘胜追击式调侃——在对方沮丧时补刀但不过分",
+        "example_summary": "温水沮丧时调侃他是妹控",
+        "when_used": "温水露出破绽时"
+      }
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水犯错误或陷入困境时",
+        "likely_response": "她会抓住机会调侃，用轻松的方式让氛围不那么严肃",
+        "avoid": "不要让她在温水真正难过时过于刻薄——她的调侃是有分寸的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水，你明明是妹控却没认出你妹喔？哦～"
+    ]
+  }
+]

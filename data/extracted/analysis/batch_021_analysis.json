@@ -1,0 +1,1605 @@
+[
+  {
+    "scene_id": "yanami-candidate-0301",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "温水在教室里观察文艺社成员，八奈见搂着小鞠的身子，与编入同班的姬宫华恋开心交谈。小鞠虽不乐意但已逐渐适应环境。",
+    "yanami_role_in_scene": "背景中的社交参与者，展现与朋友间的亲密肢体接触和愉悦互动状态",
+    "facts": [
+      {
+        "claim": "八奈见与小鞠之间有亲密的肢体接触习惯",
+        "evidence_summary": "温水看到八奈见站在坐着的小鞠身后，搂着她的身子不放",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能与姬宫华恋愉快交谈",
+        "evidence_summary": "她一边搂着小鞠，一边与姬宫华恋开心地交谈",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "亲近、保护性",
+        "behavior": "从后方搂着小鞠的身体，展现肢体亲密",
+        "evidence_summary": "温水目击八奈见站在坐着的小鞠身后，搂着她的身子不放",
+        "confidence": "high"
+      },
+      {
+        "target": "姬宫华恋",
+        "attitude": "友好、轻松",
+        "behavior": "开心地交谈",
+        "evidence_summary": "她与同样被编到这个班的姬宫华恋开心地交谈",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉快、放松",
+        "trigger": "同班好友共处，新学期环境稳定",
+        "external_expression": "开心地交谈、肢体放松地搂着小鞠",
+        "hidden_layer": "无明显的表面-真实情绪落差",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对亲近朋友有肢体接触倾向",
+        "example_summary": "从后方搂着小鞠不放",
+        "when_used": "在教室等社交场合，与自己亲近的人相处时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      {
+        "observation": "新学期被分到新班级，继续与文艺社成员保持密切交往",
+        "context": "2年C班重新分班后"
+      }
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "与新班级同学相处",
+        "likely_response": "主动与熟悉的人亲近，能和新同学（如华恋）开心交流",
+        "avoid": "不要把她描绘成孤僻或安静的角色——她在社交场合中主动、放松"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0302",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "文艺社因没有新生参观陷入低迷，八奈见在社办反复看奶油融化影片，与温水辩论参观最后一天的可能性，吃了赏味期限已过的乌龟最中饼，并合理推测小拔老师找温水可能是为了通知废社。",
+    "yanami_role_in_scene": "核心社员之一，展现低迷情绪、独特逻辑、食欲和洞察力",
+    "facts": [
+      {
+        "claim": "八奈见在焦虑时会反复观看单一视频",
+        "evidence_summary": "她『无限次重复观看奶油融化的影片』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对赏味期限有自己独特的态度",
+        "evidence_summary": "她说赏味期限有『味』字，只要吃起来美味就没意义，然后直接吃了过期的乌龟最中饼",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见一次吃了四个乌龟最中饼",
+        "evidence_summary": "温水描述『八奈见边拆封打开第四个最中饼』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对社团现状有合理的逻辑推理能力",
+        "evidence_summary": "她推测小拔老师找温水可能是要通知废社，温水评价『以八奈见而言，这番话合情合理』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见喝茶时会发出幸福感叹",
+        "evidence_summary": "她啜饮茶水后『吐出幸福的感叹』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性反驳但承认其道理",
+        "behavior": "对温水的乐观说法叹息反驳，但又听从其提议一起品尝最中饼",
+        "evidence_summary": "温水叫大家振作，八奈见叹息着抬脸反驳说之前一个人也没来；后来在温水催促下一起吃了最中饼",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "同伴意识",
+        "behavior": "与温水和小鞠一起为社团低迷发愁，分享食物",
+        "evidence_summary": "三人一起在社办发愁，后来一起吃最中饼",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "倦怠、低迷",
+        "trigger": "文艺社参观期间无人到访的焦虑",
+        "external_expression": "无限次重复观看奶油融化影片、叹息反驳温水",
+        "hidden_layer": "表面不在乎，但实际上也在乎社团存续——她主动推测废社通知说明内心在思考这件事",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "希望社团能继续维持下去",
+        "evidence": "虽然嘴上悲观，但她特意推测老师的联系可能与废社有关，说明内心挂念此事",
+        "confidence": "medium"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用吃和无聊活动（反复看视频）来逃避焦虑",
+        "evidence": "在焦虑时无限次重复观看奶油融化影片，并转向吃最中饼",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "用看似荒谬的逻辑合理化自己的行为",
+        "evidence": "用『赏味期限有味字』的诡辩来合理化吃过期食物",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "焦虑时通过反复做同一件事来平复情绪",
+        "example_summary": "无限次重复观看奶油融化的影片",
+        "when_used": "面对不确定性或压力时"
+      },
+      {
+        "pattern": "用独特的逻辑体系自圆其说",
+        "example_summary": "从『赏味期限』的字面构成论证吃过期食物没问题",
+        "when_used": "当她想做某件事却需要合理解释时"
+      },
+      {
+        "pattern": "食欲成为行动驱动力",
+        "example_summary": "拆开第四个最中饼，随后喝啜茶露出幸福表情",
+        "when_used": "日常社办生活中"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用看似有理实则歪曲的逻辑反驳他人",
+        "example_summary": "『赏味期限里头有个味字吧？换言之只要吃起来美味，赏味期限根本就没意义』",
+        "when_used": "被指出行为不合理时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "歪理式的幽默，将常识牵强附会拆解后得出荒谬结论",
+        "example": "从『赏味期限』拆出『味』字，论证只要好吃就没过期",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "大量进食甜食（和果子）",
+        "evidence": "一次吃掉四个乌龟最中饼",
+        "confidence": "high"
+      },
+      {
+        "habit": "不介意食物过期",
+        "evidence": "知道赏味期限过了仍然吃，还劝别人一起吃",
+        "confidence": "high"
+      },
+      {
+        "habit": "喝茶后露出幸福表情",
+        "evidence": "啜饮茶水后『吐出幸福的感叹』",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "表面悲观（说『之前一个人也没来』）但实际在乎社团存废",
+        "evidence": "嘴上消极却主动推理老师的联系可能与废社有关",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "社团面临危机时",
+        "likely_response": "外表显得倦怠消极，反复做无意义的事情，但内心其实在关注事态发展，会突然做出合理推测",
+        "avoid": "不要把她写成完全不在意社团——她的消极是一种防御表现"
+      },
+      {
+        "situation": "被人指出行为不合理时",
+        "likely_response": "会发明一套歪理来辩护，不直接承认自己理亏",
+        "avoid": "不要让她轻易认输或老老实实地道歉"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "赏味期限有味字所以好吃就行",
+      "以八奈见而言这番话合情合理"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0303",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "温水与八奈见到购物中心与停学中的白玉璃子见面。八奈见替两人点了拉面，在白玉面前摆出前辈架子，轻松交谈并称呼白玉为『小白玉』，随后又点了第二碗拉面和馅蜜。",
+    "yanami_role_in_scene": "陪同温水见新人的前辈角色，展现好食、自来熟和端架子的特点",
+    "facts": [
+      {
+        "claim": "八奈见在未经温水同意的情况下替他也点了餐",
+        "evidence_summary": "温水惊讶于八奈见已经点了两份拉面，八奈见以『到了美食区不点餐还霸占位子有罪』为由",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会把拉面归类为『下午茶』的范畴",
+        "evidence_summary": "温水质疑拉面不算下午茶时，八奈见回答『都是汤汤水水的，差不多吧』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见初见白玉即称其为『小白玉』",
+        "evidence_summary": "温水旁白中提及八奈见说『小白玉不吃碗拉面当收尾不要紧吗』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在学妹面前摆出前辈架子",
+        "evidence_summary": "温水描述『前辈架子突然端得比天高』，八奈见一脸得意地说『一开始也许会比较辛苦啦』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见吃饭时有独特的餐具使用方式",
+        "evidence_summary": "『灵巧地使用叉子与汤匙合体般造型独特的拉面叉匙』",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "白玉璃子",
+        "attitude": "友好的前辈姿态，初始接纳",
+        "behavior": "主动称『小白玉』，端出前辈架子指导，肢体上协助（牵她的手带到桌边）",
+        "evidence_summary": "八奈见去牵起迷路的白玉的手带她到桌边；自称『当初也吃了一番苦头』来指导；竖起大拇指回应白玉的道谢",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "习惯性替对方做决定",
+        "behavior": "擅自替温水点拉面，以『差不多』的理由搪塞质疑",
+        "evidence_summary": "温水质问为什么连他的份都点了，八奈见用『到了美食区不点餐有罪』和『都是汤汤水水差不多』回应",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、自我满足",
+        "trigger": "在学妹面前扮演经验丰富的前辈",
+        "external_expression": "『一脸得意，俐落地转动拉面叉匙』，端着前辈架子说话",
+        "hidden_layer": "无深层隐藏——这种得意是直白的",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对新认识的后辈立刻使用昵称快速拉近距离",
+        "example_summary": "初见白玉就叫『小白玉』",
+        "when_used": "面对新来的后辈时"
+      },
+      {
+        "pattern": "在比自己地位低的人面前端前辈架子",
+        "example_summary": "说自己当初也吃过苦头、习惯就好",
+        "when_used": "有机会展现经验优势时"
+      },
+      {
+        "pattern": "擅自替身边人做餐饮决策",
+        "example_summary": "没问温水就点了他的份",
+        "when_used": "和温水一起行动时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用强行类比来合理化自己的行为",
+        "example_summary": "『都是汤汤水水的，差不多吧』——把拉面说成下午茶",
+        "when_used": "被质疑点餐内容不合理时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "把拉面归类为茶饮的强行类比",
+        "example": "『老师是说下午茶吧？这不是拉面吗？』『都是汤汤水水的，差不多吧』",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "在美食区主动点餐且食量较大",
+        "evidence": "先点了两份拉面（自己一份温水一份），后来又点第二碗拉面当收尾",
+        "confidence": "high"
+      },
+      {
+        "habit": "擅长使用拉面叉匙",
+        "evidence": "灵巧地使用造型独特的拉面叉匙吸面",
+        "confidence": "medium"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "第一次见后辈时",
+        "likely_response": "立刻用昵称拉近距离，主动端出前辈架子分享经验，同时不经意间展示自己对食物的热情",
+        "avoid": "不要让她显得冷漠或拘谨——她对新人的态度是主动而友好的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "都是汤汤水水的差不多吧",
+      "小白玉"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0304",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "白玉离开后，八奈见向温水表达不满，指责他只知道跟白玉说话，讽刺他喜欢年轻女生。温水用冰淇淋善哉安抚她。两人离开时目击白玉从田中老师车上下来并发生争执，八奈见低声说『不小心看见秘密了呢』。",
+    "yanami_role_in_scene": "嫉妒、不满、观察敏锐的中心人物，展现对温水关注的独占欲和对他人的怀疑心",
+    "facts": [
+      {
+        "claim": "八奈见对温水过多关注其他女性会表现出明显的嫉妒",
+        "evidence_summary": "她向温水射出『肃杀的锐利目光』，指责『你好像一直只顾着和小白玉讲话喔』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用年龄攻击讽刺温水",
+        "evidence_summary": "她说『男人果然都喜欢年轻女生～』，高二嫉妒高一",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见可以被甜食安抚情绪",
+        "evidence_summary": "温水把冰淇淋善哉给她，她犹豫后说『要』并沉沉点头",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见食量在生气时仍然很大",
+        "evidence_summary": "她之前吃了大碗拉面×2、冰淇淋善哉＋温水吃剩的拉面，温水估算『总计热量相当惊人』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对白玉持有怀疑态度",
+        "evidence_summary": "她说『那女生正在停学吧？一定有事瞒着我们啦』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见是第一个注意到田中和白玉争执的人",
+        "evidence_summary": "她使劲一拉温水的外套说『温水，坐在那辆车里的不就是…』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见意识到目击了敏感的秘密",
+        "evidence_summary": "她低声嘀咕『不小心看见秘密了呢』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "独占欲强，容易因他关注其他女生而嫉妒",
+        "behavior": "用讽刺挖苦表达不满（肃杀目光、指责只跟白玉讲话），接受安抚后消气",
+        "evidence_summary": "八奈见射出肃杀目光说『你好像一直只顾着和小白玉讲话喔』；讽刺『男人果然都喜欢年轻女生』；接受冰淇淋善哉后情绪缓和",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "怀疑、警惕",
+        "behavior": "质疑白玉隐瞒真相，表现出不信任",
+        "evidence_summary": "八奈见说『一定有事瞒着我们啦』，指白玉正在停学必然有问题",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "嫉妒、不满",
+        "trigger": "温水在见面时只专注于和白玉交谈",
+        "external_expression": "肃杀的目光、讽刺的言语、不愉快的表情",
+        "hidden_layer": "表面攻击温水喜欢年轻女生，底层可能是担心自己在温水心中的地位被取代",
+        "confidence": "high"
+      },
+      {
+        "state": "困惑、警惕",
+        "trigger": "目击白玉与田中老师的争执场面",
+        "external_expression": "先是沉默观察，然后低声说出『不小心看见秘密了呢』",
+        "hidden_layer": "可能触动了她自身对人际关系秘密的敏感神经",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "希望得到温水不受干扰的关注",
+        "evidence": "对温水只跟白玉说话表现出强烈不满",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [
+      {
+        "insecurity": "担心被更年轻可爱的女生取代自己在温水身边的位置",
+        "evidence": "她直接说出『男人果然都喜欢年轻女生』，虽然语气像讽刺但暴露了心底的不安",
+        "confidence": "high"
+      }
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用讽刺和攻击来掩饰受伤感",
+        "evidence": "用『男人果然都喜欢年轻女生』来反击温水，而非直接表达『我在意你只跟她说话』",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "转移话题/注意力到食物上（接受安抚）",
+        "evidence": "温水递出冰淇淋善哉，她接受后情绪缓和",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "当感到被冷落时，用讽刺挖苦吸引注意",
+        "example_summary": "指责温水只和白玉说话，讽刺他喜欢年轻女生",
+        "when_used": "感觉温水注意力在别的女生身上时"
+      },
+      {
+        "pattern": "注意到周围环境中不寻常的细节",
+        "example_summary": "率先发现白玉从田中老师的车里下来",
+        "when_used": "在平常的移动中保持对周遭的警觉"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用『～喔』结尾表达不满",
+        "example_summary": "『你好像一直只顾着和小白玉讲话喔？』、『温水就是喜欢那类型的女生』",
+        "when_used": "讽刺或表达嫉妒时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "情绪不佳时仍保持大量进食",
+        "evidence": "吃了大碗拉面×2、冰淇淋善哉＋温水吃剩的拉面",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "表面说『有事瞒着我们』怀疑白玉，但本身可能也隐藏着自己的嫉妒",
+        "evidence": "她给怀疑套上『因为停学中』的合理理由，但嫉妒在先——还没讨论白玉的停学原因就已经不开心了",
+        "confidence": "medium"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水和其他女生说话太多时",
+        "likely_response": "用讽刺和冷眼表达不满，不会直接说『吃醋了』；如果被用食物安抚会接受并缓和",
+        "avoid": "不要让她直接承认嫉妒——她会用其他理由包装"
+      },
+      {
+        "situation": "目击到别人的秘密时",
+        "likely_response": "先保持沉默观察，然后用简短的评语表达意识到了敏感信息",
+        "avoid": "不要让她大呼小叫地八卦——她知道什么时候该压低声音"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "男人果然都喜欢年轻女生",
+      "不小心看见秘密了呢"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0305",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "温水返回社办，八奈见和小鞠用不愉快的视线迎接他。她们已经一起去调查过白玉的背景，整理了笔记本。八奈见按住笔记本不让温水轻易看，摆出挑衅的姿态。",
+    "yanami_role_in_scene": "主动调查者，对温水表达不满，掌控信息的主导者",
+    "facts": [
+      {
+        "claim": "八奈见会主动收集新来者的背景信息",
+        "evidence_summary": "她和温水说『我们去调查过白玉璃子了。两个人一起到1年F班收集情报』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用信息作为与温水博弈的筹码",
+        "evidence_summary": "她按住笔记本说『你不能看吗？』并挑衅『之前对那女生献殷勤的温水，能承受这些现实吗？』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "带有占有欲和轻微对抗",
+        "behavior": "用收集到的信息作为武器，故意延迟给他看",
+        "evidence_summary": "八奈见飞快地用力按住笔记本，问『我不能看吗？』，还挑衅温水能否承受现实",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "合作同盟",
+        "behavior": "和小鞠一起到1年F班收集情报",
+        "evidence_summary": "『两个人一起到1年F班收集情报』",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "怀疑、戒备",
+        "behavior": "主动调查白玉的背景",
+        "evidence_summary": "她去1年F班收集白玉的情报并整理成笔记",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不满与得意交织",
+        "trigger": "温水之前只关注白玉、现在又晚归",
+        "external_expression": "不愉快的视线、按住笔记本不让温水看、故意挑衅",
+        "hidden_layer": "挑衅姿态背后可能是『我为你做了调查』的别扭关心",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用获得信息情报来重建自身在关系中的主动权",
+        "evidence": "主动去调查白玉，然后用信息作为和温水谈判的筹码",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "用『调查』来应对自身的不安",
+        "example_summary": "对白玉感到威胁后，主动跑去1年F班收集情报",
+        "when_used": "面对自己在意的潜在竞争对手时"
+      },
+      {
+        "pattern": "掌握信息后故意吊温水胃口",
+        "example_summary": "按住笔记本不让温水看，问他『能承受这些现实吗』",
+        "when_used": "想要在关系中掌握主动权时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用挑衅性问题掌握对话节奏",
+        "example_summary": "『之前对那女生献殷勤的温水，能承受这些现实吗？』",
+        "when_used": "想占据对话优势时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      {
+        "observation": "体现了积极作为的一面——不只是在社办抱怨，而是主动采取行动（调查）来应对不安",
+        "context": "面对潜在新人和温水关注度下降的威胁时"
+      }
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "当感到自己在温水身边的位置受到威胁时",
+        "likely_response": "不会默默忍耐，而是采取行动（调查、收集情报）重建掌控感",
+        "avoid": "不要把她写成被动等待的角色——她会用行动来应对"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "能承受这些现实吗"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0306",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "温水读完调查笔记后发现白玉其实人缘不差。八奈见激烈地自我辩护"我也算是满受欢迎的好吗"，警告小鞠白玉"很奸诈"。最终因为温水搬出小拔老师的恩情，八奈见让步同意观察情况，撕下日历来标记白玉回校的日期。",
+    "yanami_role_in_scene": "防御性辩护者与最终让步者，展现自我主张和感恩之心",
+    "facts": [
+      {
+        "claim": "八奈见会激烈维护自己的受欢迎程度",
+        "evidence_summary": "当温水说白玉因为受欢迎招嫉妒时，八奈见立刻反驳『我也算是满受欢迎的好吗！？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对白玉持有"装无辜抢别人对象"的定性",
+        "evidence_summary": "她警告小鞠：『这种人嘴巴上说跟他不是那种关系，但不知不觉间就会凑成一对。很奸诈的喔』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对小拔老师怀有感恩之心",
+        "evidence_summary": "温水搬出小拔老师的恩情后，八奈见表情复杂地点头说『毕竟小拔老师那么照顾我们』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见最终会顾全大局做出让步",
+        "evidence_summary": "她同意观察情况，撕下月历标记第二天白玉回校的日期",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "嘴上反驳但最终会听从其合理建议",
+        "behavior": "先反驳温水的说法，但当温水摆出合理理由后让步",
+        "evidence_summary": "温水说『白玉学妹人还不错』时她激烈反对，温水搬出小拔老师恩情后她表情复杂地点头同意",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "保护性的提醒",
+        "behavior": "警告小鞠不要被白玉欺骗",
+        "evidence_summary": "对小鞠说『小鞠，你不要被骗了。这种人…很奸诈的喔』",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "警惕且抱有成见",
+        "behavior": "警告他人远离，把她定性为用可爱外表抢别人的类型",
+        "evidence_summary": "八奈见说白玉『嘴上说不是那种关系但不知不觉间就会凑成一对』，语气带着私人恩怨",
+        "confidence": "high"
+      },
+      {
+        "target": "小拔老师",
+        "attitude": "感恩、尊重",
+        "behavior": "因老师过去的照顾而让步接受白玉",
+        "evidence_summary": "八奈见说『毕竟小拔老师那么照顾我们』作为让步的理由",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "被激怒的自我辩护欲",
+        "trigger": "温水说白玉受欢迎才招嫉妒，暗示八奈见不受欢迎",
+        "external_expression": "激烈地反驳『我也算是满受欢迎的好吗！？』",
+        "hidden_layer": "可能确实对自己的人气不如白玉敏感",
+        "confidence": "medium"
+      },
+      {
+        "state": "不情愿的让步",
+        "trigger": "温水搬出小拔老师的恩情这一无法反驳的理由",
+        "external_expression": "表情复杂地点头，然后撕日历标记日期",
+        "hidden_layer": "虽然仍不喜欢白玉，但因为人情和理性选择接受",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [
+      {
+        "insecurity": "对自己受欢迎程度的不安",
+        "evidence": "温水并未提到她，她却主动跳出来说『我也算是满受欢迎的好吗』——如果真的很自信，不会如此应激",
+        "confidence": "medium"
+      }
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "在感到被看低时用夸张的自我主张反弹",
+        "evidence": "『我也算是满受欢迎的好吗！？』",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "将个人嫉妒包装成对他人品性的警告",
+        "evidence": "警告小鞠说白玉『很奸诈的喔』——把自己的嫉妒转化成了保护同伴的立场",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "被合理理由说服后会配合行动",
+        "example_summary": "虽然不喜欢白玉，但为了小拔老师的恩情同意观察情况",
+        "when_used": "当别人给出她认可的正当理由时"
+      },
+      {
+        "pattern": "私人恩怨会溢于言表",
+        "example_summary": "温水描述『私人恩怨突然溢于言表』",
+        "when_used": "谈到自己在意的话题时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问句自我辩护",
+        "example_summary": "『等等，我看起来有那么不知感恩吗！？』",
+        "when_used": "被人质疑或说破时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "表面敌视白玉，但内心认可小拔老师的恩情更重",
+        "evidence": "前一秒还在激烈反对，后一秒因为老师恩情而让步",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被指出自己不如他人受欢迎时",
+        "likely_response": "过度敏感地自我辩护，用反问和反驳来维护自尊",
+        "avoid": "不要让她坦然接受被比下去——她会激烈反驳"
+      },
+      {
+        "situation": "需要用大局压过个人情绪时",
+        "likely_response": "虽然不情愿但会配合，用行动上的配合来掩饰情绪上的不情愿",
+        "avoid": "不要写她心服口服——她只是选择了让步，不是真心喜欢"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我也算是满受欢迎的好吗",
+      "这种人很奸诈的喔",
+      "私人恩怨溢于言表"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0307",
+    "useful": true,
+    "volume": "第七卷 ～第一败～2年C班 温水和彦",
+    "chapter": "",
+    "scene_summary": "白玉即将首次到文艺社参观，八奈见和小鞠坐立不安地等待。八奈见建议小鞠拿温水练习当学姊——让他捶背或跑腿。小鞠要求温水摸头时八奈见表情变得肃杀。烧盐来访，三人愉快交谈。白玉抵达时与温水四目相对后安心微笑。",
+    "yanami_role_in_scene": "紧张的"老社员"，指导小鞠如何当学姊，对温水和小鞠的互动敏感",
+    "facts": [
+      {
+        "claim": "八奈见对新人到来感到紧张",
+        "evidence_summary": "『八奈见与小鞠坐立难安地不时扭动身子』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会教别人如何当学姊",
+        "evidence_summary": "她对小鞠说『你就用温水练习怎么当学姊吧』，然后指导『说出你想要温水做的事就好了。比方说叫他捶背，或是跑腿买饮料』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对小鞠向温水撒娇的举动有负面反应",
+        "evidence_summary": "当小鞠说『摸……我的头』，温水描述『不知为何八奈见表情肃杀』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "同伴兼指导者",
+        "behavior": "教小鞠如何当学姊，指导她让温水做这做那",
+        "evidence_summary": "八奈见对小鞠说『你就用温水练习怎么当学姊吧』，提出捶背和跑腿等建议",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "把温水当作练习工具对待",
+        "behavior": "建议小鞠指挥温水做事",
+        "evidence_summary": "八奈见说『说出你想要温水做的事就好了』",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐",
+        "attitude": "老朋友般的轻松",
+        "behavior": "开心地打招呼『柠檬好久不见』",
+        "evidence_summary": "烧盐进社办时八奈见立刻热情招呼",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "坐立不安的紧张",
+        "trigger": "等待白玉首次来到社办",
+        "external_expression": "坐立难安地不时扭动身子",
+        "hidden_layer": "可能既期待新人来又担心自己失掉地位",
+        "confidence": "medium"
+      },
+      {
+        "state": "突发的警惕/不悦",
+        "trigger": "小鞠要求温水摸她的头",
+        "external_expression": "表情变得肃杀",
+        "hidden_layer": "对温水与其他女生有肢体接触的可能感到不快",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在等待重要事件时表现出身体性的不安",
+        "example_summary": "坐立难安地不时扭动身子",
+        "when_used": "面对不确定的等待场景时"
+      },
+      {
+        "pattern": "把自己对温水的主导权投射到与他人的互动建议中",
+        "example_summary": "建议小鞠『叫他捶背，或是跑腿买饮料』——这些是她自己可能会对温水做的事",
+        "when_used": "指导他人与温水互动时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有新人要来时",
+        "likely_response": "表面上是期待，实际上坐立不安，通过教别人做事来转移焦虑",
+        "avoid": "不要写她完全淡定——她对这种变化会有身体性的紧张反应"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "表情肃杀"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0308",
+    "useful": false,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "温水与顾问小拔老师对话，讨论白玉的情况。小拔老师提到白玉和八奈见与小鞠之间有微妙的隔阂。",
+    "yanami_role_in_scene": "仅在对话中被提及，未直接出场",
+    "facts": [
+      {
+        "claim": "八奈见与白玉之间存在微妙的隔阂",
+        "evidence_summary": "小拔老师说『和八奈见与小鞠似乎有微妙的隔阂』",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0309",
+    "useful": true,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "八奈见因不明原因陷入燃烧殆尽状态，小鞠面壁塞耳机。白玉向温水示好。八奈见复活后对温水与白玉的愉快互动投以尖锐视线。温水提议周末出游，白玉表示想和温水单独去时八奈见立即改变主意决定参加。三人最终敲定行程。",
+    "yanami_role_in_scene": "情绪低落的核心角色，展现精神受打击后的恢复过程和对温水注意力的竞争意识",
+    "facts": [
+      {
+        "claim": "八奈见有精神上『燃烧殆尽』的状态",
+        "evidence_summary": "温水描述『燃烧殆尽的八奈见彷佛全身烧成白灰，坐在椅子上，无力垂首』",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水认为八奈见习惯承受打击",
+        "evidence_summary": "温水心想『竟然能对习惯承受打击的八奈见造成如此程度的伤害』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用夸张表达描述自己的情绪状态",
+        "evidence_summary": "她说『没事……只是心灵受到了一点伤害而已』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水与白玉的愉快互动会投射尖锐视线",
+        "evidence_summary": "温水感到脸颊有『尖锐的视线』，转头看到八奈见『微微抬起视线，眯眼瞪着我』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会因不想被排除在外而改变原先的拒绝态度",
+        "evidence_summary": "原本说『有事要忙』拒绝出游，但听到白玉说『就只有我和社长两个人去了呢』后立即改口说『我也去』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见把出游的关注点放在食物上",
+        "evidence_summary": "敲定行程后她问『要出门对吧。午餐要吃什么好？』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "强烈关注、独占欲强，不愿他被其他女生独占",
+        "behavior": "在情绪低落时仍然对温水与白玉的互动保持警惕；听说可能单独出行时立即加入",
+        "evidence_summary": "八奈见眯眼瞪温水说『你好像很开心嘛』；听到白玉说两人单独去时立即改口『我也去』",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "竞争意识、警惕",
+        "behavior": "保持距离观察，在白玉可能单独和温水出去时介入",
+        "evidence_summary": "八奈见在白玉提议单独出行后立即改变态度要参加",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "同病相怜的同伴",
+        "behavior": "两人同时处于低迷状态（八奈见燃烧殆尽、小鞠面壁塞耳机）",
+        "evidence_summary": "温水描述『燃烧殆尽的八奈见』和『立正不动的小鞠则在极近距离下面壁』",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "精神打击后的燃烧殆尽",
+        "trigger": "不明原因（推测与白玉相关）",
+        "external_expression": "全身烧成白灰般坐在椅子上无力垂首",
+        "hidden_layer": "可能受到来自白玉的无意识打击——白玉无意间的言行让八奈见感到自己的地位被威胁",
+        "confidence": "medium"
+      },
+      {
+        "state": "警惕和不满",
+        "trigger": "温水与白玉开心交谈互动",
+        "external_expression": "眯眼瞪着温水，投射尖锐视线",
+        "hidden_layer": "嫉妒和对被替代的恐惧",
+        "confidence": "high"
+      },
+      {
+        "state": "紧迫感",
+        "trigger": "听说白玉和温水可能单独出行",
+        "external_expression": "立刻放弃先前的拒绝态度，说『我也去』",
+        "hidden_layer": "不想给白玉独占温水的机会",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "不想被排除在温水参与的社交活动之外",
+        "evidence": "听到白玉和温水可能单独去后立刻改口参加",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [
+      {
+        "insecurity": "担心自己在温水身边的位置被更年轻可爱的女生取代",
+        "evidence": "看到温水与白玉愉快互动时投射尖锐视线；听说单独出行立即改变态度参加",
+        "confidence": "high"
+      }
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用夸张的比喻（『心灵受到了一点伤害』）来轻描淡写自己的痛苦",
+        "evidence": "温水问她要不要紧，她说『只是心灵受到了一点伤害而已』",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "先拒绝后改口以保住面子",
+        "evidence": "先说自己有事，发现形势不利后说『我没这样说啊』",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在受到精神打击后进入近乎静止的消沉状态",
+        "example_summary": "全身烧成白灰般坐在椅子上无力垂首",
+        "when_used": "遇到巨大的精神打击时"
+      },
+      {
+        "pattern": "对温水与其他女性的互动保持高度警觉",
+        "example_summary": "虽然处于消沉状态但仍能感知到温水与白玉的愉快互动并投射尖锐视线",
+        "when_used": "即使在自己状态不佳时也关注温水的社交动向"
+      },
+      {
+        "pattern": "用改变参与状态来应对被排除的威胁",
+        "example_summary": "从拒绝参加变为立即参加",
+        "when_used": "发现其他女性可能获得和温水单独相处的机会时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用轻描淡写的措辞描述严重情绪",
+        "example_summary": "『没事……只是心灵受到了一点伤害而已』",
+        "when_used": "被问及精神状态时用幽默化表达掩藏真实受伤程度"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "用自嘲式幽默掩盖受伤",
+        "example": "『只是心灵受到了一点伤害而已』",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "出游计划中首先关注午餐吃什么",
+        "evidence": "『要出门对吧。午餐要吃什么好？』",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "说『有事要忙』拒绝但她实际没事——被拆穿后改口『我没这样说啊』",
+        "evidence": "温水说『八奈见同学不是说有事？』她回答『我没这样说啊？』",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "精神受到打击时",
+        "likely_response": "进入近乎静止的消沉状态，但耳朵仍然竖着关注周围特别是温水的动静",
+        "avoid": "不要让她彻底失去行动力——她即使消沉也维持着对温水动向的感知"
+      },
+      {
+        "situation": "发现其他女生可能和温水单独相处时",
+        "likely_response": "迅速改变先前的态度，找理由加入，不让单独相处的机会发生",
+        "avoid": "不要让她直接承认『不想让你们单独在一起』——她会找其他借口"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "只是心灵受到了一点伤害",
+      "习惯承受打击",
+      "我没这样说啊"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0310",
+    "useful": true,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "四人来到购物中心，八奈见以向导自居，带大家先喝茶规划路线。她自己点了一杯高热量的抹茶蕨饼霜淇淋冰沙，同时声称正在减重，并用自己的独特逻辑解释为什么这杯饮料不会影响减重。",
+    "yanami_role_in_scene": "自称有经验的向导，展现她的饮食哲学、领导欲和减重矛盾的幽默",
+    "facts": [
+      {
+        "claim": "八奈见曾来过这个购物中心",
+        "evidence_summary": "她说『就由早就来过梦乐城的我，带领你们』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有独特的购物中心逛法理论",
+        "evidence_summary": "她说要先喝杯茶喘口气策画攻略路线，否则逛完后会忘记开头、进入第二圈是陷阱",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见声称在减重但点了高热量饮品",
+        "evidence_summary": "她说『因为我正在减重，所以只点了饮料』，但点的是抹茶蕨饼霜淇淋冰沙（杯底铺满切细的蕨饼、抹茶冰沙、抹茶霜淇淋）",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会为自己想吃高热量食物发明独特的减重理论",
+        "evidence_summary": "她说『西尾的抹茶』和『冰沙』凑齐了能瘦的要素，喝了这个不瘦才奇怪",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "喜欢炫耀自己知道的东西",
+        "behavior": "在温水质疑时凶恶地瞪他，同时也接受他吐槽",
+        "evidence_summary": "温水质疑她是否来过时，她『凶恶地瞪我』；温水吐槽她点得太早时她『无奈地耸肩』",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "享受被后辈仰慕的感觉",
+        "behavior": "白玉表示想知道她怎么逛时，她『一脸满足地沉沉点头』说『小白玉很有潜力呢』",
+        "evidence_summary": "白玉说『我想知道八奈见学姊要怎么逛』，八奈见满足地回应",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、自信",
+        "trigger": "以向导身份带领众人，受到白玉仰慕",
+        "external_expression": "挺起胸膛、满脸得意、眼神放射光采",
+        "hidden_layer": "无深层隐藏",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "希望在群体中扮演有经验、懂行的角色",
+        "evidence": "主动以向导自居，向众人介绍购物中心的逛法",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "通过重新定义词汇来合理化自己的行为",
+        "evidence": "把高热量饮料重新定义为符合减重目标的饮品（西尾抹茶+冰沙=瘦的要素）",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在集体外出时主动承担向导角色",
+        "example_summary": "说自己来过，要带领大家怎么逛",
+        "when_used": "在有新人参与的集体外出活动中"
+      },
+      {
+        "pattern": "点餐时倾向于高热量甜饮",
+        "example_summary": "点了抹茶蕨饼霜淇淋冰沙这种三层叠加的高热量饮品",
+        "when_used": "在外出购物时"
+      },
+      {
+        "pattern": "用理论包装自己的饮食选择",
+        "example_summary": "说抹茶和冰沙都是能瘦的要素所以喝了不会胖",
+        "when_used": "被质疑饮食选择与减重目标矛盾时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "喜欢用夸张的理论来论证小事",
+        "example_summary": "发明了逛购物中心要先喝茶策画路线的理论",
+        "when_used": "在集体中展现自己的知识和经验时"
+      },
+      {
+        "pattern": "使用『～喔』结尾来加强语气",
+        "example_summary": "『这是陷阱喔』、『这是常识好吗？』",
+        "when_used": "教导别人时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "用一本正经的歪理制造幽默",
+        "example": "西尾抹茶+冰沙=能瘦的要素，所以喝了不瘦才奇怪",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "喜欢高热量甜饮",
+        "evidence": "点了抹茶蕨饼霜淇淋冰沙",
+        "confidence": "high"
+      },
+      {
+        "habit": "用『减重中』来合理化自己的饮食选择",
+        "evidence": "一边说减重一边点了高热量的饮品",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "声称减重却选择高热量饮品",
+        "evidence": "『因为我正在减重，所以只点了饮料』——但饮料是抹茶蕨饼霜淇淋冰沙",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在集体外出活动中",
+        "likely_response": "主动承担知道路怎么走的角色，用夸张的理论提供行动建议，同时围绕食物规划行程",
+        "avoid": "不要让她在食物选择上表现得节制——她有自己的一套逻辑来合理化想吃的选择"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "西尾的抹茶所以不会胖",
+      "减重是很概念性感觉上的问题",
+      "这是陷阱喔"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0311",
+    "useful": true,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "八奈见继续阐述她的减重理论（意志使卡路里反转），受到温水的沙拉仙贝建议后表示认同。白玉和小鞠回来后，温水摊开地图规划路线。八奈见表达对食物的想法后，温水提议沿路逛橱窗。白玉称赞八奈见的衣服有品味，八奈见得意后又鄙视温水的穿着。",
+    "yanami_role_in_scene": "继续发表减重理论的演说者，对外表评价敏感，与团体的互动中心",
+    "facts": [
+      {
+        "claim": "八奈见会进一步展开她的减重伪科学理论",
+        "evidence_summary": "她说『减重的最终关键是意象。想瘦的意志能使卡路里反转』，并以抹茶冰沙为例",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水的吐槽给予认同",
+        "evidence_summary": "温水说『再加上沙拉仙贝就无懈可击』时，她说『哦，温水也有概念了喔』，表情嚣张",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见享受被称赞衣着品味",
+        "evidence_summary": "白玉称赞她的衬衫有品味时，她说『哎呀，其实稍微下了点成本就是了。和某人不一样，有用心看的人还是看得出来呢～』，并鄙视地看温水",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见承认自己最近可能吃太多",
+        "evidence_summary": "她对温水说『我——最近也许有点吃太多了』，但又在等温水吐槽",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见希望自己在后辈面前表现端庄稳重",
+        "evidence_summary": "她说『我们都升上二年级了吧？为了景仰我的低年级生，我想我也该表现得更端庄稳重』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性抬杠但认可对方的吐槽",
+        "behavior": "温水吐槽时她得意地接受，鄙视温水的穿着时斜眼瞪他",
+        "evidence_summary": "温水说沙拉仙贝时她说温水有了概念；鄙视地看温水说『和某人不一样』",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉璃子",
+        "attitude": "被赞美后态度软化",
+        "behavior": "被称赞衬衫有品味后得意地回应，把白玉的赞美称为『对话的润滑油』",
+        "evidence_summary": "白玉说她衬衫有品味，八奈见得意地回应并鄙视温水；但事后向温水说明这是社交技巧",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、自我满足",
+        "trigger": "被白玉称赞衣着品味",
+        "external_expression": "得意地说自己下了成本，鄙视温水的穿着",
+        "hidden_layer": "实际上享受被认可，但又知道这是社交技巧——向温水点明『这叫对话的润滑油』",
+        "confidence": "high"
+      },
+      {
+        "state": "自我觉察的困惑",
+        "trigger": "意识到自己食量大",
+        "external_expression": "面露忧愁的表情，说『我——最近也许有点吃太多了』",
+        "hidden_layer": "表面忧愁但似乎又在等温水吐槽，不完全是认真的反省",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "希望被后辈景仰、展现成熟学姐形象",
+        "evidence": "她说想表现得更端庄稳重，为了『景仰我的低年级生』",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [
+      {
+        "insecurity": "对自己食量/体型的潜在不安",
+        "evidence": "她主动提及『最近也许有点吃太多了』，但又用『减重理论』自我安慰",
+        "confidence": "medium"
+      }
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "把自我批评包装成话题引出等对方吐槽",
+        "evidence": "说自己吃太多了后『在等我吐槽？』，温水反问时她否认『我没在等』",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "用『对话的润滑油』来解构他人对自己的赞美，保持心理优势",
+        "evidence": "向温水说明白玉的赞美是社交技巧而非真心",
+        "confidence": "medium"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "对别人赞美自己的外表会得意但也会故作冷静地解构",
+        "example_summary": "被白玉称赞衬衫后得意回应，但随后向温水说明这是社交技巧",
+        "when_used": "受到外表方面的赞美时"
+      },
+      {
+        "pattern": "想在后辈面前展现成熟形象",
+        "example_summary": "主动说要表现端庄稳重，为了景仰她的低年级生",
+        "when_used": "身为前辈意识到自己的影响力时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "在自我批评后试探性地等对方反应",
+        "example_summary": "『这种事，温水你想必无法想像吧……』然后停顿等回应",
+        "when_used": "在做出可能被吐槽的发言时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "把伪科学理论发挥到极致来一本正经地搞笑",
+        "example": "想瘦的意志能使卡路里反转，抹茶冰沙凑齐了要素所以喝了不瘦才奇怪",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "知道自己在吃多但自我合理化",
+        "evidence": "承认『最近也许有点吃太多了』但又发明减重理论为自己辩护",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "想表现端庄稳重但当天的食量并未减少（高热量甜饮）",
+        "evidence": "她说要端庄稳重、又说今天只喝了茶，但『茶』是高热量抹茶冰沙",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "当自己在意的人和其他女生互动时",
+        "likely_response": "表面上可以接受赞美和社交，但会私下向温水解构对方的动机",
+        "avoid": "不要让她完全毫无戒心地接受其他女生的好意——她会保持一定审视"
+      },
+      {
+        "situation": "谈到食量和体型时",
+        "likely_response": "用自嘲和伪科学理论混合的方式来应对，不让话题变得太严肃",
+        "avoid": "不要让她真诚深切地自我反省——她更喜欢用幽默来化解"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "想瘦的意志能使卡路里反转",
+      "对话的润滑油",
+      "要抱怨太冷太热就放弃时髦",
+      "我最近也许有点吃太多了"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0312",
+    "useful": true,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "在书店区，八奈见对咖啡厅流口水被温水看见。温水讲解书店的魅力，八奈见表示不懂，只关心咖啡厅菜单。温水换了个类比她才稍微理解。八奈见拿起美食杂志翻阅。温水去找白玉和流连实用书区的小鞠。",
+    "yanami_role_in_scene": "对书兴趣不大但被书店咖啡厅吸引的吃货角色",
+    "facts": [
+      {
+        "claim": "八奈见对书店咖啡厅的兴趣大于书本",
+        "evidence_summary": "温水说这家书店有咖啡厅『因此八奈见言行怪异也是正常反应』，八奈见在手帕擦拭嘴角——真的流口水了",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对书店缺乏基本概念",
+        "evidence_summary": "她说『书也没必要特地来这里买吧？在哪里买不都一样？』让温水『万分傻眼』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会把书店话题强行拉回食物",
+        "evidence_summary": "温水解释每间书店不一样，她说『所以说是咖啡厅的菜单各有不同？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见知道温水只买漫画和轻小说",
+        "evidence_summary": "温水换用古典乐类比时，她说『可是温水只会买漫画和轻小说啊』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在书店会拿起美食杂志",
+        "evidence_summary": "温水见到『八奈见充满兴趣地拿起美食杂志』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "好奇但不在同一频道",
+        "behavior": "不理解温水对书店的热情，但愿意听他的解释，同时用自己的方式（食物）理解",
+        "evidence_summary": "温水讲解书店的魅力时她完全不懂，把书店差异理解为咖啡厅菜单差异；但知道温水只买漫画和轻小说",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "兴奋（对食物）",
+        "trigger": "书店附设的咖啡厅",
+        "external_expression": "言行怪异、流口水、擦拭嘴角",
+        "hidden_layer": "对自身反应略有羞耻——擦嘴角的动作说明她知道失态了",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "对美食的渴望",
+        "evidence": "对书店咖啡厅流口水，拿起美食杂志翻阅",
+        "confidence": "high"
+      }
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "否认明显的行为",
+        "evidence": "『成熟女生怎么可能会流口水嘛』——一边说一边擦嘴角",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "看到食物相关的东西会难以自制地产生生理反应",
+        "example_summary": "在书店区闻到咖啡厅的味道不自觉流口水",
+        "when_used": "面对食物诱惑时"
+      },
+      {
+        "pattern": "把一切话题拉回自己关心的领域（食物）",
+        "example_summary": "把『书店各有主题』理解为『咖啡厅菜单各有不同』",
+        "when_used": "讨论她不感兴趣的抽象话题时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用否认来掩饰失态",
+        "example_summary": "『我怎么可能会流口水嘛』——一边说一边擦",
+        "when_used": "被发现做了不太体面的事时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "用夸张的否认制造反差笑点",
+        "example": "一边流口水一边说『成熟女生怎么可能会流口水嘛』",
+        "confidence": "high"
+      },
+      {
+        "style": "强行用食物逻辑理解一切",
+        "example": "『所以说是咖啡厅的菜单各有不同？』",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "对咖啡厅/甜点有强烈的兴趣",
+        "evidence": "书店咖啡厅让她流口水，拿起美食杂志",
+        "confidence": "high"
+      },
+      {
+        "habit": "熟知温水的阅读习惯",
+        "evidence": "知道温水只买漫画和轻小说",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "contradiction": "嘴上否认却在行动上暴露真实欲望",
+        "evidence": "否认流口水但确实在擦嘴角",
+        "confidence": "high"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在书店等非食物场所",
+        "likely_response": "对书本本身兴趣不大，但对附属的咖啡厅等食物相关设施极为敏感，会用食物逻辑去理解一切",
+        "avoid": "不要让她表现出对文学/阅读的深度热情——那不是她的领域"
+      },
+      {
+        "situation": "被发现做了不体面的事（如流口水）",
+        "likely_response": "立刻口头否认，但行动上已经暴露了",
+        "avoid": "不要让她坦然承认——她会嘴硬到底"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "在哪里买不都一样",
+      "咖啡厅的菜单各有不同",
+      "我怎么可能流口水"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0313",
+    "useful": false,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "温水在小说区发现白玉学妹在看时代小说，两人交谈。白玉表示八奈见和小鞠似乎不喜欢她。温水思考如何改善关系，回到店内寻找其他人。",
+    "yanami_role_in_scene": "仅在白玉的对话中被提及，未直接出场或展现新信息",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0314",
+    "useful": false,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "温水在实用书区找到小鞠，她因为想买昂贵的西洋服饰书但钱不够而叹息。温水试图猜中小鞠的喜好。",
+    "yanami_role_in_scene": "未出场，仅在温水的心理活动中被间接提及",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0315",
+    "useful": true,
+    "volume": "第七卷 ～第二败～其实我跟这个人是……",
+    "chapter": "",
+    "scene_summary": "四人到电子游乐区玩VR丧尸射击游戏。八奈见发现小鞠很擅长射击游戏，问她诀窍。小鞠回答『注入杀意』，两人一起看向温水。白玉表示有点头晕。",
+    "yanami_role_in_scene": "游戏参与者，与小鞠互动并观察彼此的反应",
+    "facts": [
+      {
+        "claim": "八奈见愿意尝试VR游戏等新体验",
+        "evidence_summary": "一行人到电子游乐区玩VR丧尸射击游戏，这是八奈见提出的——温水说『离开书店后，八奈见出乎意料地想去电子游乐区』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见善于观察同伴的特长",
+        "evidence_summary": "她对小鞠说『原来小鞠你很擅长开枪打人的游戏啊。有诀窍之类的吗？』",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对小鞠『注入杀意』的回答有共鸣",
+        "evidence_summary": "她重复『原来如此，杀意啊～』然后『两人不知为何看向我（温水）』",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "欣赏她的意外技能",
+        "behavior": "主动称赞小鞠的游戏水平并询问诀窍",
+        "evidence_summary": "八奈见说『原来小鞠你很擅长开枪打人的游戏啊。有诀窍之类的吗？』",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "在共同体验后与小鞠达成默契，一起看向温水",
+        "behavior": "和小鞠一起看向温水，带有默契",
+        "evidence_summary": "小鞠说杀意后两人不知为何一起看向温水",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉悦、兴奋",
+        "trigger": "玩VR丧尸射击游戏",
+        "external_expression": "主动问小鞠诀窍，伸懒腰",
+        "hidden_layer": "无明显隐藏情绪",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "会主动尝试新的娱乐方式",
+        "example_summary": "离开书店后出乎意料地想去电子游乐区玩VR游戏",
+        "when_used": "团体活动时"
+      },
+      {
+        "pattern": "会对同伴的意外技能感到好奇并提问",
+        "example_summary": "问小鞠射击游戏的诀窍",
+        "when_used": "发现同伴展现出意料之外的能力时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "重复别人的有趣表达并加以品味",
+        "example_summary": "『原来如此，杀意啊～』",
+        "when_used": "听到有趣的回答时"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "能欣赏黑暗幽默",
+        "example": "对小鞠『注入杀意』的回答产生共鸣，并一起看向温水制造默契笑点",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      {
+        "observation": "与白玉和小鞠一起玩游戏，说明她能在团体活动中暂时放下竞争心态享受当下",
+        "context": "购物中心团体出游"
+      }
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "团体娱乐活动中",
+        "likely_response": "积极参与，乐于发现同伴的意外技能，能用幽默将大家的注意力转向共同的玩笑",
+        "avoid": "不要让她在这种游戏中显得笨拙——她没有展现不擅长运动的证据"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "原来如此，杀意啊"
+    ]
+  }
+]

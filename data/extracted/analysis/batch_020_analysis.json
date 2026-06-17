@@ -1,0 +1,1413 @@
+[
+  {
+    "scene_id": "yanami-candidate-0286",
+    "useful": true,
+    "volume": "第六卷 ～第四败～烧盐柠檬这个女生",
+    "chapter": "文艺社活动报告 ～特别号 八奈见杏菜《就决定是你了》",
+    "scene_summary": "以八奈见第一人称视角的文艺社活动报告。她站在常去的便利店前，发现店铺正在装修，遇到温水时他才知道便利店关了。她昨天就注意到新货架搬入，知道店会重开。她敷衍温水的同时从书包里取出三种炸鸡。",
+    "yanami_role_in_scene": "第一人称叙述者，展示她的观察力和日常习惯",
+    "facts": [
+      {
+        "claim": "八奈见非常喜欢吃炸鸡，书包里常备三种不同种类的炸鸡",
+        "evidence_summary": "她在场景末尾「从书包中取出三个种类的炸鸡」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见善于观察周围环境细节",
+        "evidence_summary": "她「昨天傍晚就亲眼见到新的货架被搬进这座建筑物里」，比温水更早知道便利店的情况",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会在内心吐槽温水反应迟钝",
+        "evidence_summary": "她描述温水「真是后知后觉」，并「随便敷衍他」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近但带着轻微的优越感和调侃语气",
+        "behavior": "内心吐槽温水后知后觉，表面敷衍他",
+        "evidence_summary": "「傻气登场的正是××。受不了，他真是后知后觉」「随便敷衍他」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松、略带得意",
+        "trigger": "自己比温水早知道便利店的情况",
+        "external_expression": "表面敷衍温水，内心吐槽他",
+        "hidden_layer": "享受这种自己比温水敏锐的微妙优越感",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "享受美食（炸鸡）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "随身携带/常备食物",
+        "example_summary": "从书包取出三种炸鸡",
+        "when_used": "日常场景"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "书包里常备炸鸡，且是三种不同种类的",
+      "经常光顾便利店"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水对某件事反应迟钝时",
+        "likely_response": "内心先吐槽他，表面可能敷衍或转移话题",
+        "avoid": "不要直接说出内心全部想法——她选择了敷衍而非直接嘲讽"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「真是后知后觉」",
+      "「随便敷衍他」式的内心吐槽"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0287",
+    "useful": true,
+    "volume": "第六卷 ～第四败～烧盐柠檬这个女生",
+    "chapter": "",
+    "scene_summary": "八奈见在啃昆布条（声称是炸鸡），与温水讨论保健室发生的事。她怀疑温水与烧盐之间发生了什么，反复追问，但被小鞠一句话「温水没那个胆」说服。随后她与月之木学姊拥抱送别。",
+    "yanami_role_in_scene": "温水身边的核心女性角色之一，展现占有欲和对温水与其他女性关系的敏感",
+    "facts": [
+      {
+        "claim": "八奈见处于减重周期中，用昆布条替代零食解馋",
+        "evidence_summary": "温水推测她「又进入了不知第几轮的减重周期，嚼昆布条解馋」，她自己也说昆布在嘴里假装成炸鸡或牛肉干",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会为了减少热量摄入而进行认知替换——将低热量食物想象成高热量美食",
+        "evidence_summary": "她讲述理论：「人会因为错误的认知，摸到不热的汤匙也烫伤。只要相信，昆布既可以是炸鸡，也可以是牛肉干」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水与烧盐独处一事非常在意且警惕",
+        "evidence_summary": "她追上温水质问「昨天，你在保健室跟柠檬聊了什么？」、「柠檬拜托我们让你们两人独处，结果真的只讲了这件事？」、「温水，不可以偷跑喔？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见很容易被第三方说服并放下对温水的怀疑",
+        "evidence_summary": "小鞠说「温水才没那个胆」后，八奈见「突然全盘接受」，说「说的也是。毕竟是温水」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "强烈的占有欲和警惕心，但内心深处信任他的怯懦",
+        "behavior": "积极追问他与烧盐的互动，使用警告性语言（「不可以偷跑喔」）",
+        "evidence_summary": "反复追问保健室的事，用门牙使劲咬断昆布表现内心的焦躁；但听小鞠说温水没胆后又立刻接受",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "将烧盐视为潜在威胁，关注温水与她的一切互动",
+        "behavior": "追查温水与烧盐独处时的细节",
+        "evidence_summary": "追问「柠檬拜托我们让你们两人独处，结果真的只讲了这件事？」",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "愿意接受小鞠的判断",
+        "behavior": "听了小鞠的推测后立刻全盘接受",
+        "evidence_summary": "小鞠说温水没胆后，八奈见立刻说「说的也是。毕竟是温水」",
+        "confidence": "high"
+      },
+      {
+        "target": "月之木学姊",
+        "attitude": "亲近和仰慕",
+        "behavior": "主动迎上去拥抱送别",
+        "evidence_summary": "她挥手说「学姊他们来了喔！」并上前与月之木学姊拥抱",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "焦虑、猜疑、急切",
+        "trigger": "得知温水与烧盐在保健室独处",
+        "external_expression": "反复追问温水、用门牙使劲咬断昆布表达焦躁",
+        "hidden_layer": "害怕温水与其他女生关系变近，担心自己被排除在外",
+        "confidence": "high"
+      },
+      {
+        "state": "安心、平静",
+        "trigger": "小鞠说温水没胆，她接受了这个判断",
+        "external_expression": "突然全盘接受，语气放松",
+        "hidden_layer": "选择相信自己想听的结论——温水不会背叛她——即使这个判断未必可靠",
+        "confidence": "high"
+      },
+      {
+        "state": "开心",
+        "trigger": "见到学长姊到来",
+        "external_expression": "她挥手说「学姊他们来了喔！」",
+        "hidden_layer": "暂时放下对温水的追问，转移注意力到送别活动上",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想知道温水与烧盐独处时发生了什么",
+      "确保温水不会与其他女生发展超出友谊的关系"
+    ],
+    "insecurities": [
+      "对温水与其他女性的关系缺乏安全感",
+      "害怕自己被温水排除在外或比不过其他女生"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "主动质问",
+        "description": "直接追击温水获取信息，避免自己胡思乱想",
+        "example_summary": "连续追问保健室发生了什么"
+      },
+      {
+        "mechanism": "自我安慰/选择性相信",
+        "description": "当听到对自己有利的解释时立刻接受",
+        "example_summary": "小鞠说温水没胆，她便全盘接受"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "减重周期中使用低热量零食（如昆布）替代高热量食物",
+        "example_summary": "嚼昆布条并声称它是炸鸡或牛肉干",
+        "when_used": "减重期间"
+      },
+      {
+        "pattern": "用食物相关的理论为自己的行为辩护",
+        "example_summary": "提出认知替换理论为自己吃昆布的行为辩解",
+        "when_used": "被人注意到她在吃奇怪东西时"
+      },
+      {
+        "pattern": "追踪温水与其他女生的互动并当面质问",
+        "example_summary": "直接追问保健室谈话内容",
+        "when_used": "得知温水与其他女生独处时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用反问和追问进行逼问",
+        "example_summary": "「昨天，你在保健室跟柠檬聊了什么？」、「这我听过了…我想问的不是那个。」",
+        "when_used": "怀疑温水有所隐瞒时"
+      },
+      {
+        "pattern": "使用警告性的短句表达占有欲",
+        "example_summary": "「温水，不可以偷跑喔？」",
+        "when_used": "警告温水不要越界时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "减重时用昆布条等低热量食物替代高热量零食",
+      "有反复的减重周期"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "表面警告温水不要偷跑，但内心深处相信（或选择相信）温水没有胆量",
+        "evidence_summary": "她严厉警告后又立刻接受小鞠说温水没胆的判断"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "怀疑温水与其他女生有秘密时",
+        "likely_response": "直接追问、用眼神施压，但若有人给出让温水显得无害的解释她会立刻接受",
+        "avoid": "不要表现得太冷静或不在意——她会在意到当面追问的程度"
+      },
+      {
+        "situation": "被问到为什么吃昆布时",
+        "likely_response": "编一套理论为自己的行为合理化",
+        "avoid": "不要直接承认自己的节食行为"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「不可以偷跑喔？」",
+      "「温水，人会因为错误的认知，摸到不热的汤匙也烫伤」",
+      "「……说的也是。毕竟是温水。」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0288",
+    "useful": true,
+    "volume": "第六卷 ～第四败～烧盐柠檬这个女生",
+    "chapter": "",
+    "scene_summary": "烧盐邀请八奈见一起跑步减重，八奈见以膝盖痛为由拒绝。温水内心怀疑这是因为她体重过重伤到了膝盖。",
+    "yanami_role_in_scene": "被调侃的对象，展现对运动的回避态度",
+    "facts": [
+      {
+        "claim": "八奈见正在吃第二片昆布，持续她的减重零食策略",
+        "evidence_summary": "「正在嚼第二片昆布的八奈见睁圆眼睛」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见拒绝运动的邀请，声称膝盖痛",
+        "evidence_summary": "她拒绝烧盐的跑步邀请说「我没办法跑啦。最近膝盖有点痛。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水认为八奈见的体重可能已经对她膝盖造成负担",
+        "evidence_summary": "温水内心独白「八奈见的体重终于伤到膝盖了吗？」",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "朋友关系，烧盐会关心她的减重情况",
+        "behavior": "拒绝了烧盐的跑步邀请",
+        "evidence_summary": "「为什么找我！？」她惊讶于被邀请跑步，并以膝盖痛为由拒绝",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "惊讶、找借口回避",
+        "trigger": "被烧盐邀请跑步",
+        "external_expression": "睁圆眼睛反问「为什么找我！？」，然后以膝盖痛为借口拒绝",
+        "hidden_layer": "不想运动，宁愿继续吃昆布",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "不想运动但仍然想减重"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "找借口回避",
+        "description": "面对不想做的事，用合理的借口回避",
+        "example_summary": "用膝盖痛拒绝跑步邀请"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "想减重但不肯运动",
+        "example_summary": "烧盐邀请跑步时找借口拒绝",
+        "when_used": "面对运动邀请时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "连续吃昆布（第二片）",
+      "想减重但抗拒运动"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "减重愿望与运动意愿之间的矛盾",
+        "evidence_summary": "她在吃昆布减重，但拒绝跑步运动"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被邀请做费力的事情时",
+        "likely_response": "先惊讶为什么找自己，然后找个听起来合理的借口拒绝",
+        "avoid": "不要直接说「不想做」——她会编个借口"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0289",
+    "useful": true,
+    "volume": "第六卷 ～第四败～烧盐柠檬这个女生",
+    "chapter": "",
+    "scene_summary": "烧盐故意用暧昧的话语刺激八奈见，暗示她和温水之间有秘密。八奈见上当，更加怀疑温水和烧盐在保健室发生了什么。她用吃剩的昆布指着温水逼问。",
+    "yanami_role_in_scene": "被烧盐捉弄的对象，展现易嫉妒和容易上当的一面",
+    "facts": [
+      {
+        "claim": "八奈见对温水与烧盐之间可能存在的秘密反应极度敏感",
+        "evidence_summary": "烧盐说「阿温出轨了？和我吗？原来昨天那样算是出轨喔！」后，「八奈见的表情变得更加怪异」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用随手可得的物品（食物）作为表达情绪的道具",
+        "evidence_summary": "「八奈见用吃剩的昆布直指我的脸」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在激动时会对温水发出最后通牒式的警告",
+        "evidence_summary": "「温水，想自白就要趁现在喔？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "高度怀疑和警戒，认为自己有权知道他与烧盐之间的一切",
+        "behavior": "用昆布指着温水逼问，要求他自白",
+        "evidence_summary": "「温水，想自白就要趁现在喔？」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "被烧盐玩弄于股掌之间，容易中烧盐的圈套",
+        "behavior": "完全被烧盐故意暧昧的话钓上，反应激烈",
+        "evidence_summary": "烧盐说几句暧昧的话，八奈见就「表情变得更加怪异」",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "三人一起作为捉弄温水的小团体",
+        "behavior": "与小鞠、烧盐一起形成包围温水的态势",
+        "evidence_summary": "「快、快点招了，然后去死。」小鞠也附和八奈见",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "极度怀疑、不安、急躁",
+        "trigger": "烧盐暗示与温水有秘密",
+        "external_expression": "表情怪异，用昆布指着温水逼问",
+        "hidden_layer": "害怕自己不知道的事意味着自己在温水心中地位下降",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "逼迫温水坦白一切",
+      "消除自己对未知情况的不安"
+    ],
+    "insecurities": [
+      "害怕温水有其他她不知道的关系或秘密"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "逼问/施压",
+        "description": "通过施加压力迫使对方坦白，消除自己的不安",
+        "example_summary": "用昆布指着温水：「温水，想自白就要趁现在喔？」"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "情绪激动时使用随手物品（尤其是食物）作为表达工具",
+        "example_summary": "用吃剩的昆布指着温水",
+        "when_used": "激动逼问时"
+      },
+      {
+        "pattern": "与烧盐、小鞠形成围攻温水的统一战线",
+        "example_summary": "烧盐、小鞠、八奈见三人轮流对温水施压",
+        "when_used": "三人都对温水有所怀疑时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "发出最后通牒式的警告",
+        "example_summary": "「温水，想自白就要趁现在喔？」",
+        "when_used": "极度怀疑温水有所隐瞒时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "吃剩的昆布条会拿在手里当道具"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她一方面表现出对温水的强烈占有欲，另一方面这种情绪容易被烧盐恶意挑拨利用",
+        "evidence_summary": "烧盐几句话就让她陷入焦躁"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有人暗示温水与其他女生有秘密时",
+        "likely_response": "立刻激动起来，追问到底，甚至使用威胁性语言",
+        "avoid": "不要表现得太冷静或理性——她在这种情境下容易情绪化"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「温水，想自白就要趁现在喔？」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0290",
+    "useful": true,
+    "volume": "第六卷 尾声 石蕗高中二年级生",
+    "chapter": "",
+    "scene_summary": "八奈见在喝烧盐的蛋白粉，认为喝了能瘦。温水说她会把社团教室的所有食物都吃光，她反驳说自己会留一些。烧盐抱怨田径队的队友对她的蛋白粉不好。",
+    "yanami_role_in_scene": "社团里的馋嘴角色，被大家调侃",
+    "facts": [
+      {
+        "claim": "八奈见会擅自吃喝别人的食物，尤其是与减重相关的",
+        "evidence_summary": "她喝烧盐的蛋白粉，烧盐抗议「八奈，你为什么在喝我的蛋白粉啊！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为蛋白粉可以减肥",
+        "evidence_summary": "她回应「喝这个就会瘦吧？巧克力味满好喝的耶。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在社团中有着把所有食物吃光的『威名』",
+        "evidence_summary": "温水说「烧盐，不可以把吃的摆在社办啦。八奈见同学会全部吃掉的。」小鞠连连点头认同",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会为自己的食量辩护",
+        "evidence_summary": "她反驳「等等，你是把我当成社办的妖怪之类的吗？我又不会全部吃掉，会留一些。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "朋友间随意拿取对方物品的关系，不太客气",
+        "behavior": "擅自喝烧盐的蛋白粉",
+        "evidence_summary": "烧盐抗议后她仍然不以为意",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "接受他的调侃和评价，会回嘴反驳",
+        "behavior": "被说成是社办的妖怪时立刻反驳",
+        "evidence_summary": "「等等，你是把我当成社办的妖怪之类的吗？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不以为意、理直气壮",
+        "trigger": "被指责喝了别人的蛋白粉",
+        "external_expression": "给出合理的（自认为）解释——为了减重",
+        "hidden_layer": "没有觉得自己的行为有任何不妥",
+        "confidence": "high"
+      },
+      {
+        "state": "被冤枉的不满",
+        "trigger": "被说成会吃光所有东西",
+        "external_expression": "抗议被当成社办妖怪",
+        "hidden_layer": "她知道自己的食量确实大，所以反驳底气不足——「会留一些」",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "找到任何能帮助减重的东西（无论属于谁）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "合理化行为",
+        "description": "将自己的越界行为用正当目的（减重）来合理化",
+        "example_summary": "喝别人蛋白粉的理由是「喝这个就会瘦吧」"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "看到可以吃/喝的东西就会动，无视所有权",
+        "example_summary": "擅自喝烧盐的蛋白粉",
+        "when_used": "看到社团里别人留下的食物饮料时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问句来反驳批评",
+        "example_summary": "「等等，你是把我当成社办的妖怪之类的吗？」",
+        "when_used": "被指责食量时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "会擅自吃喝社团教室里别人的食物饮料",
+      "对任何被认为有减重效果的东西都会产生兴趣"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她在减重，但方法（喝蛋白粉）未必正确，而且控制不住自己的食欲",
+        "evidence_summary": "她喝蛋白粉为了减重，但被烧盐指出「喝了也不会瘦」"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "看到别人有可以吃/喝的东西时",
+        "likely_response": "先吃/喝再说，被指责时找个正当理由辩护",
+        "avoid": "不要表现出犹豫或克制——她在这个情境下是毫不犹豫的类型"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「喝这个就会瘦吧？」",
+      "「我又不会全部吃掉，会留一些。」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0291",
+    "useful": true,
+    "volume": "第六卷 尾声 石蕗高中二年级生",
+    "chapter": "",
+    "scene_summary": "文艺社讨论迎新计划。温水提议让八奈见戴纸袋上台介绍社团，她一开始拒绝。但当烧盐主动戴上纸袋后，八奈见改变了态度，最终提议大家都戴纸袋上台。",
+    "yanami_role_in_scene": "参与社团决策的核心成员，展现竞争心和从众心理",
+    "facts": [
+      {
+        "claim": "八奈见会直接干吃蛋白粉",
+        "evidence_summary": "温水描述「八奈见还真是自由而且不顾他人啊……」，她嘴边的蛋白粉痕迹说明她在干吃",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见开始时拒绝戴纸袋上台，原因是觉得这会让自己见不得人",
+        "evidence_summary": "她问「为什么我一定要套纸袋上台！？我见不得人吗！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见可以被温和的恭维说服",
+        "evidence_summary": "温水说她是「文艺社的秘密兵器」，她虽然仍然拒绝但态度软化",
+        "confidence": "high"
+      },
+      {
+        "claim": "当烧盐做出某个举动后，八奈见会改变自己的决定以不输给烧盐",
+        "evidence_summary": "烧盐说戴纸袋有趣并提出方案后，八奈见「等等，我也要戴。」——从原本的拒绝变成了主动要求",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用出人意料的方案来主导局面",
+        "evidence_summary": "她摘下烧盐的纸袋套到小鞠头上，说「反正也麻烦，干脆大家都套纸袋上台吧」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "在意他对自己的看法，但愿意配合他的计划（在合适的条件下）",
+        "behavior": "一开始拒绝他的纸袋提案，但被恭维后态度有所缓和",
+        "evidence_summary": "虽然嘴上拒绝，但没有完全关闭沟通",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "竞争意识强烈，不想输给烧盐",
+        "behavior": "当烧盐主动戴纸袋后，八奈见立刻改变立场也要戴",
+        "evidence_summary": "烧盐说「不过，戴起来比想像中舒服耶」后，八奈见立即说「等等，我也要戴。」",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "会随意拿小鞠做实验或开她玩笑",
+        "behavior": "把纸袋戴到小鞠头上",
+        "evidence_summary": "「八奈见摘下烧盐的纸袋，套到小鞠头上」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "被冒犯",
+        "trigger": "温水提议让她戴纸袋上台",
+        "external_expression": "反问「我见不得人吗！？」",
+        "hidden_layer": "在意自己在别人面前的形象，不想被特殊对待",
+        "confidence": "high"
+      },
+      {
+        "state": "竞争心被点燃",
+        "trigger": "看到烧盐主动戴纸袋并获得关注",
+        "external_expression": "突然改变立场说要戴",
+        "hidden_layer": "不能接受烧盐做了自己不做的事，不想被比下去",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "不想被特殊对待或贬低",
+      "不想输给烧盐"
+    ],
+    "insecurities": [
+      "在意自己在他人眼中的形象"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "将局面拉平（让所有人都一样）",
+        "description": "当自己不得不做某事时，让所有人都做同样的事来消除不平等感",
+        "example_summary": "她提议大家都套纸袋上台"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "看到烧盐做了某事后会立刻模仿/反超",
+        "example_summary": "烧盐戴纸袋后她立刻也要戴",
+        "when_used": "烧盐做了她原本拒绝的事时"
+      },
+      {
+        "pattern": "用集体方案来消除个人尴尬",
+        "example_summary": "让大家都戴纸袋，自己就不再是唯一奇怪的人",
+        "when_used": "发现自己处于可能尴尬的境地时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问表达不满",
+        "example_summary": "「为什么我一定要套纸袋上台！？我见不得人吗！？」",
+        "when_used": "感觉被不公平对待时"
+      },
+      {
+        "pattern": "独断性的决定",
+        "example_summary": "「反正也麻烦，干脆大家都套纸袋上台吧。嗯，就这么办。」",
+        "when_used": "自己改变主意后拉所有人一起下水"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "干吃蛋白粉",
+      "接受沙拉作为妥协条件"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "一开始强烈拒绝戴纸袋因为怕见不得人，但当烧盐戴了她就也要戴——自尊心和竞争心的冲突",
+        "evidence_summary": "从「我见不得人吗！？」到「等等，我也要戴。」的快速转变"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "自己拒绝的事被别人（尤其是烧盐）做了时",
+        "likely_response": "立刻改变立场，也要参与，不能让别人独占关注",
+        "avoid": "不要坚持最初的决定——她会因为竞争心而改变"
+      },
+      {
+        "situation": "要做可能尴尬的事时",
+        "likely_response": "拉所有人一起下水，让大家都处于同样境地",
+        "avoid": "不要独自承担尴尬——她会想办法分摊"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「我见不得人吗！？」",
+      "「等等，我也要戴。」",
+      "「反正也麻烦，干脆大家都套纸袋上台吧」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0292",
+    "useful": false,
+    "volume": "第六卷 后记",
+    "chapter": "",
+    "scene_summary": "作者后记，提及八奈见被作者和编辑认为是正统派女主角。不涉及角色行为或性格描写。",
+    "yanami_role_in_scene": "被提及的角色，无实际登场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0293",
+    "useful": true,
+    "volume": "第六卷 特典 谁才是骗子？",
+    "chapter": "",
+    "scene_summary": "八奈见已经在社团教室里啃一条特大鱿鱼干。她声称减肥成功减了三公斤，但当天是愚人节所以没人信。她和温水懒得寻找月之木学姊藏起来的迎新资料，两人在社团教室里虚度光阴。",
+    "yanami_role_in_scene": "温水在社团的常驻伙伴之一，展现出懒散的一面和愚人节的玩笑习惯",
+    "facts": [
+      {
+        "claim": "八奈见会带大型零食到社团教室啃",
+        "evidence_summary": "她正在啃「一条特大的鱿鱼干」，啪滋一声咬断了鱿鱼干的尾鳍",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用硬质零食作为减重期间的替代品",
+        "evidence_summary": "她说「果然鱿鱼硬邦邦的很不错耶。最适合减重了。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有玩愚人节玩笑的习惯",
+        "evidence_summary": "她声称自己减了三公斤，但随即承认是在开愚人节玩笑：「我是说真的啦！？我准备的愚人节玩笑是小甘夏交到了男友！」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和温水在一起时容易变懒，缺乏行动力",
+        "evidence_summary": "两人都知道要找资料却都不行动，「懒散的两个人沉默不语」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见之前在吃小鱼干和昆布，现在是鱿鱼干，持续使用海产类零食作为节食替代品",
+        "evidence_summary": "温水说「你前几天就在吃小鱼干和昆布，果然是在减重啊」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "相处随性懒散，不需要刻意表现",
+        "behavior": "沉默点头回应早安，一起虚度光阴不去找资料",
+        "evidence_summary": "「八奈见无言点头，回应我的招呼」「懒散的两个人沉默不语」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "一同参与社团活动的伙伴",
+        "behavior": "和温水一起对烧盐带来的消息表示已知晓",
+        "evidence_summary": "对烧盐说小甘夏结婚的消息，「我和八奈见沉沉点头」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "懒散、放松",
+        "trigger": "在社团教室的日常氛围中",
+        "external_expression": "无言点头回应，安静地啃鱿鱼干",
+        "hidden_layer": "和温水独处时不需要努力表现，可以放松做自己",
+        "confidence": "medium"
+      },
+      {
+        "state": "得意",
+        "trigger": "谈论自己的减重成果（即使是玩笑）",
+        "external_expression": "得意地挑起嘴角，竖起三根手指",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "不想费力找东西",
+      "想通过硬质零食替代来减重"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "用海产类硬质零食代替高热量零食进行减重",
+        "example_summary": "前阵子吃小鱼干和昆布，现在吃鱿鱼干",
+        "when_used": "减重期间"
+      },
+      {
+        "pattern": "在温水面前会展示懒惰的一面",
+        "example_summary": "两人一起虚度光阴不去找资料",
+        "when_used": "和温水两人独处时"
+      },
+      {
+        "pattern": "喜欢玩愚人节恶作剧",
+        "example_summary": "声称自己减了三公斤来骗人",
+        "when_used": "愚人节时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用简短的肯定回应温水",
+        "example_summary": "「无言点头」回应早安",
+        "when_used": "懒得说话时"
+      }
+    ],
+    "humor_style": [
+      "会编造夸张的愚人节谎言（如小甘夏交到男友）"
+    ],
+    "food_or_daily_habits": [
+      "啃特大鱿鱼干作为零食",
+      "减重期间用海产类硬质零食替代（小鱼干、昆布、鱿鱼干）",
+      "在社团教室长时间吃东西"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "声称减了三公斤（虽然是愚人节玩笑），但手上却一直在吃零食",
+        "evidence_summary": "一边说服自己鱿鱼干适合减重，一边不停地吃"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和温水在社团教室独处时",
+        "likely_response": "不用刻意找话题，可以安静地各做各的事，或者一起发呆",
+        "avoid": "不要表现得太勤快——她在这种时候是懒散的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「果然鱿鱼硬邦邦的很不错耶。最适合减重了。」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0294",
+    "useful": true,
+    "volume": "第六卷 特典 谁才是骗子？",
+    "chapter": "",
+    "scene_summary": "小鞠似乎承认自己有男友，八奈见和烧盐一起逼近追问。八奈见因为震惊对小鞠用了敬语。温水内心感叹自己感情上的落后。",
+    "yanami_role_in_scene": "八卦的参与者之一",
+    "facts": [
+      {
+        "claim": "八奈见在小鞠有男友的消息面前会表现出极大兴趣和八卦心态",
+        "evidence_summary": "她从另一侧逼问小鞠，「咦？你说真的吗小鞠──小鞠同学！」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在震惊时会无意识地切换语言风格，使用敬语",
+        "evidence_summary": "她对小鞠的称呼从小鞠变成「小鞠同学」（使用了敬语后缀）",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "对小鞠的感情生活感到好奇，视为同级朋友但会在震惊时拉开距离",
+        "behavior": "与烧盐一起逼问小鞠，用了敬语",
+        "evidence_summary": "「咦？你说真的吗小鞠──小鞠同学！」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "在这类情境中与烧盐是统一战线",
+        "behavior": "两人一起逼近小鞠盘问",
+        "evidence_summary": "烧盐推开温水向前倾时，八奈见「从另一侧逼问」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "震惊、好奇",
+        "trigger": "小鞠似乎有男友的消息",
+        "external_expression": "逼问小鞠，不由自主使用敬语",
+        "hidden_layer": "这个八卦消息超出了她的预期——比自己小的后辈也有了男友",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想知道小鞠的男友是谁"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在震惊时语言风格会产生变化",
+        "example_summary": "对小鞠的称呼突然变为敬语「小鞠同学」",
+        "when_used": "听到出乎意料的消息时"
+      },
+      {
+        "pattern": "和烧盐组队追问八卦",
+        "example_summary": "从另一侧逼近小鞠",
+        "when_used": "有令人兴奋的八卦时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "惊讶时无意识切换敬语",
+        "example_summary": "「小鞠同学」——从平时的称呼方式突然转为敬语",
+        "when_used": "极度吃惊时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "听到劲爆的八卦消息时",
+        "likely_response": "立刻参与追问，和烧盐组队从两侧包围",
+        "avoid": "不要保持冷静——她会是第一个凑上去的人"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「咦？你说真的吗小鞠──小鞠同学！」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0295",
+    "useful": true,
+    "volume": "第六卷 特典 谁才是骗子？",
+    "chapter": "",
+    "scene_summary": "发现小鞠说有男友是愚人节玩笑。八奈见和烧盐都承认被骗了。回到找资料的话题时，八奈见提出合理的建议——直接问月之木学姊资料在哪。她还调侃烤鱿鱼干可以用来吸引新生。",
+    "yanami_role_in_scene": "社团讨论中的参与者和吐槽者",
+    "facts": [
+      {
+        "claim": "八奈见在被捉弄后会坦然承认被骗",
+        "evidence_summary": "「啊～被骗了～」她嘀咕着坐回椅子上",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在需要时可以提出合理的实务建议",
+        "evidence_summary": "她问「直接问她本人放在哪里不就好了？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用食物相关的视角来看待事物",
+        "evidence_summary": "她指着烤鱿鱼干说「这就是那个啦。烤鱿鱼干，用味道吸引新生。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "日常交流中会提出合理建议帮助解决问题",
+        "behavior": "提出直接问月之木学姊的建议",
+        "evidence_summary": "「直接问她本人放在哪里不就好了？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "认输、释然",
+        "trigger": "发现自己被小鞠的愚人节玩笑骗了",
+        "external_expression": "「啊～被骗了～」",
+        "hidden_layer": "虽然被骗了但并不在意，接受这个结果",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "上当后会坦然承认",
+        "example_summary": "被骗后嘀咕一句就坐回去了",
+        "when_used": "发现自己被骗时"
+      },
+      {
+        "pattern": "从食物角度幽默地解读一切",
+        "example_summary": "说烤鱿鱼干是用来吸引新生的",
+        "when_used": "看到食物时可以联系到任何事情"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "认输时用拉长音的感叹",
+        "example_summary": "「啊～被骗了～」",
+        "when_used": "发现自己上当受骗时"
+      }
+    ],
+    "humor_style": [
+      "将一切事物与食物联系起来制造幽默",
+      "用夸张的角度解读日常事物"
+    ],
+    "food_or_daily_habits": [
+      "看到鱿鱼干首先联想到味道和吸引"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "发现自己被骗时",
+        "likely_response": "坦然承认，不会恼羞成怒",
+        "avoid": "不要表现得生气或耿耿于怀"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「啊～被骗了～」",
+      "「烤鱿鱼干，用味道吸引新生」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0296",
+    "useful": false,
+    "volume": "第六卷 特典 谁才是骗子？",
+    "chapter": "",
+    "scene_summary": "温水推测月之木学姊留下的书是惊喜，八奈见附和说月之木喜欢这类事。烧盐好奇书上写了什么。场景很短转移到月之木视角。",
+    "yanami_role_in_scene": "附和温水推测的参与者",
+    "facts": [],
+    "relationships": [
+      {
+        "target": "月之木学姊",
+        "attitude": "了解对方性格",
+        "behavior": "认同温水对月之木的推测",
+        "evidence_summary": "「喔喔，有道理。那个人就喜欢这种事嘛。」",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0297",
+    "useful": true,
+    "volume": "第六卷 特典 美好的回忆，收藏起来",
+    "chapter": "",
+    "scene_summary": "八奈见吃完了一个直径约三十公分的圆形饼干罐。她发现罐子底层是空的，怀疑是厂商少放了，但后来想起是自己昨晚睡梦中吃掉了。她展示了对漂亮罐子的珍视感，谈到小时候用柏青哥零食包装纸做收藏。温水给她糖果哄她她虽然看穿但仍接受了。",
+    "yanami_role_in_scene": "核心角色，展现食量、梦游进食、童年回忆和与温水互动的特殊模式",
+    "facts": [
+      {
+        "claim": "八奈见能够一次吃完直径约三十公分的圆形饼干罐中的所有饼干",
+        "evidence_summary": "她抱着圆形饼干罐说「没了」，温水确认她「全部吃掉了」，且罐子直径大约三十公分",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会在睡梦中无意识地吃东西，且醒来后不记得",
+        "evidence_summary": "她回忆「昨天晚上我好像梦见了吃巧克力饼干的梦」，然后发现下层巧克力饼干确实是她自己吃的——温水说「只是你自己睡昏头时吃掉饼干了吧？」她接受了这个解释",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对自己梦游进食的行为不以为意",
+        "evidence_summary": "她发现是自己在梦中吃掉后说「好像是这样。那就没关系了。」温水也注意到她完全没有反省的意思",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会珍惜漂亮的点心罐子用来收藏",
+        "evidence_summary": "她说「点心的罐子很漂亮，会舍不得丢掉耶」以及她小时候会用饼干罐收集零食包装纸",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见小时候父亲会从柏青哥用小钢珠换零食给她",
+        "evidence_summary": "她谈论童年回忆时说「我家爸爸也会用柏青哥剩下的小钢珠换零食来给我吃啊」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能够察觉温水想用食物转移她注意力的意图",
+        "evidence_summary": "温水给她糖果时，她问「温水，你是不是觉得给我吃的就能蒙混过去？还是我想太多？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见虽然看穿了温水的小伎俩，但仍然会接受食物并开心起来",
+        "evidence_summary": "她不愉快地接过糖果，但发现是凤梨口味后就很开心地扔进嘴里",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "享受他的陪伴和互动，能看穿他的小心思但配合",
+        "behavior": "抱怨厂商时、谈论童年时都自然与他交流，虽然看穿他用糖果哄她但还是接受了",
+        "evidence_summary": "从饼干罐话题到童年回忆的对话非常自然流畅；「温水，你是不是觉得给我吃的就能蒙混过去？」显示她能看穿温水的手法",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "稍微介意温水用可怜的眼神看她",
+        "behavior": "注意到温水的眼神后表示抗议",
+        "evidence_summary": "「你的眼神怎么好像在看可怜的人啊？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "困惑、不满",
+        "trigger": "发现饼干罐底层是空的",
+        "external_expression": "她嘀咕「没了」并向温水抱怨厂商",
+        "hidden_layer": "期待的双层饼干只吃到了一层，感到失望",
+        "confidence": "high"
+      },
+      {
+        "state": "释然、无所谓",
+        "trigger": "发现自己才是吃掉饼干的元凶",
+        "external_expression": "「好像是这样。那就没关系了。」露出放心的表情",
+        "hidden_layer": "知道是自己吃的反而安心了，不需要追究责任",
+        "confidence": "high"
+      },
+      {
+        "state": "怀念",
+        "trigger": "谈论童年的收藏习惯",
+        "external_expression": "和温水交流童年收藏的故事",
+        "hidden_layer": "对童年有温暖的记忆和感情",
+        "confidence": "high"
+      },
+      {
+        "state": "被看轻的不满",
+        "trigger": "温水用同情的眼神看她",
+        "external_expression": "「你的眼神怎么好像在看可怜的人啊？」",
+        "hidden_layer": "知道温水在同情她，不喜欢这种感觉",
+        "confidence": "high"
+      },
+      {
+        "state": "开心",
+        "trigger": "拿到凤梨口味的糖果",
+        "external_expression": "欣喜地把糖果扔进嘴里",
+        "hidden_layer": "虽然知道温水是在打发她，但好吃的食物确实能让她开心",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "吃到足量的零食",
+      "保留好看的容器",
+      "被温水认真对待而不是用食物打发"
+    ],
+    "insecurities": [
+      "可能隐约意识到自己的食量会被他人以同情的眼光看待"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "将问题外部化",
+        "description": "先怀疑是厂商或少放了饼干，而不是反思自己是否吃过",
+        "example_summary": "「这个是不是该打去厂商那边客诉啊？还是要找什么大臣。」"
+      },
+      {
+        "mechanism": "不以为然地接受自己的问题",
+        "description": "一旦发现是自己干的，就轻松接受不纠结",
+        "example_summary": "「好像是这样。那就没关系了。」"
+      },
+      {
+        "mechanism": "直接指出对方意图",
+        "description": "看穿温水想用食物敷衍她时直接挑明",
+        "example_summary": "「温水，你是不是觉得给我吃的就能蒙混过去？还是我想太多？」"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "梦游进食（睡眠中无意识地进食）",
+        "example_summary": "梦中吃了巧克力饼干，
+完全不知道",
+        "when_used": "睡觉时"
+      },
+      {
+        "pattern": "看到漂亮的容器会想留着收藏",
+        "example_summary": "饼干罐漂亮舍不得丢，小时候用来收藏包装纸",
+        "when_used": "拿到好看的点心罐时"
+      },
+      {
+        "pattern": "虽然看穿了对方的意图，但仍然接受糖果",
+        "example_summary": "看穿温水想用食物敷衍她但还是开心地吃了",
+        "when_used": "温水给她食物时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的投诉来表达不满",
+        "example_summary": "「这个是不是该打去厂商那边客诉啊？还是要找什么大臣。」",
+        "when_used": "对商品失望时"
+      },
+      {
+        "pattern": "用设问句直接点破对方的心思",
+        "example_summary": "「温水，你是不是觉得给我吃的就能蒙混过去？还是我想太多？」",
+        "when_used": "察觉温水在敷衍她时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的投诉表达不满（要找大臣）",
+      "将梦到吃饼干说成是预知梦"
+    ],
+    "food_or_daily_habits": [
+      "能吃掉直径约30cm的整罐饼干",
+      "有梦游进食的习惯",
+      "喜欢凤梨口味糖果",
+      "会收集漂亮的点心罐"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她意识到温水在用食物敷衍她，感到不满，但收到好吃的食物后还是会开心起来",
+        "evidence_summary": "先抗议温水用同情的眼神看她，又点破温水用食物蒙混的意图，但最终「欣喜地把糖果扔进嘴里」"
+      },
+      {
+        "tension": "减重努力与潜意识中的无节制进食之间的矛盾",
+        "evidence_summary": "她在各处进行减重，但梦游中吃掉了整层巧克力饼干"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水用食物转移她的注意力时",
+        "likely_response": "先指出他的意图，质问是否想蒙混过去，但仍然会接受并开心地吃掉",
+        "avoid": "不要完全不领情——她虽然看穿了但仍然接受"
+      },
+      {
+        "situation": "发现自己做了离谱的事（如梦游吃光零食）时",
+        "likely_response": "先震惊，发现自己就是罪魁祸首后反而释然，不会自我反省",
+        "avoid": "不要表现得太自责——她不会过度反省"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「这个是不是该打去厂商那边客诉啊？还是要找什么大臣。」",
+      "「温水，你是不是觉得给我吃的就能蒙混过去？」",
+      "「点心的罐子很漂亮，会舍不得丢掉耶」",
+      "「我家爸爸也会用柏青哥剩下的小钢珠换零食来给我吃啊」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0298",
+    "useful": true,
+    "volume": "第六卷 特典 健全＆健康",
+    "chapter": "",
+    "scene_summary": "温水和他的妹妹佳树在书店讨论购买减重漫画的事。佳树推测这份礼物是送给八奈见的，因为知道她的减重周期。佳树还提出了一个邪恶的计划：通过控制八奈见的饮食让她无法离开温水家。八奈见本人并未登场。",
+    "yanami_role_in_scene": "被讨论的对象，未直接登场",
+    "facts": [
+      {
+        "claim": "八奈见有周期性的减重行为，周围人都知道这个规律",
+        "evidence_summary": "温水对佳树说「从那家伙的减重周期来推算，她应该会有兴趣才是」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的减重努力程度被佳树认为需要通过管理饮食来支持",
+        "evidence_summary": "佳树表示「如果要协助八奈见学姊的减重，由佳树来管理她的饮食吧？」",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见对温水的家人而言是熟悉的存在",
+        "evidence_summary": "佳树仅凭「女人的直觉」就知道温水是在为八奈见挑选礼物",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水佳树（温水的妹妹）",
+        "attitude": "八奈见本人未登场，但佳树对八奈见有观察且愿意花心思",
+        "behavior": "佳树主动提出要为她管理三餐",
+        "evidence_summary": "佳树说「由佳树来管理她的饮食吧？」",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "有周期性的减重循环",
+        "example_summary": "佳树也知道她的减重周期，并以此推测她会对减重漫画感兴趣",
+        "when_used": "通过他人叙述"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "有周期性的减重行为"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0299",
+    "useful": false,
+    "volume": "第七卷 序",
+    "chapter": "",
+    "scene_summary": "新生说明会的社团介绍环节。温水在台上介绍文艺社，八奈见和小鞠在他左右两侧。场景很短，没有八奈见的台词或行动。",
+    "yanami_role_in_scene": "在舞台上作为文艺社成员站立，无其他表现",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0300",
+    "useful": true,
+    "volume": "第七卷 序",
+    "chapter": "",
+    "scene_summary": "社团介绍时，八奈见紧张地拿出纸条念诵，结果念的是她写的食物评价（炒面潜艇堡、红豆三明治等美食评分），而不是社团介绍稿。零食包装纸从她口袋掉出来，温水才发现她有怯场的问题。烧盐戴着纸袋冲上台。",
+    "yanami_role_in_scene": "社团介绍的压轴成员，展现怯场的一面和始终如一的食物关注",
+    "facts": [
+      {
+        "claim": "八奈见意外地会怯场",
+        "evidence_summary": "她「紧张兮兮地从口袋中取出纸片，慢慢念诵上面的文字」；温水感叹「到了今天才惊觉，八奈见竟『意外地会怯场』」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的口袋里同时装有零食包装纸和需要用的纸条",
+        "evidence_summary": "零食包装纸从她的口袋「接二连三地」掉出来，温水说「啊，你别弄掉垃圾了」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见随身携带自己写的食物评价笔记",
+        "evidence_summary": "她念出的内容是：「炒面潜艇堡——五颗星。夹了很多炒面，非常推荐。红豆三明治——五颗星。便宜而且红豆馅很多，非常推荐。鲜奶油面包——」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在紧张时会搞错稿子",
+        "evidence_summary": "她念错了稿子后说「抱歉，我搞错了！温水，你把原稿放哪里去了？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "在紧张时依赖温水",
+        "behavior": "念错稿子后问温水源稿在哪里",
+        "evidence_summary": "「抱歉，我搞错了！温水，你把原稿放哪里去了？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "紧张、怯场",
+        "trigger": "站在数百名新生面前进行社团介绍",
+        "external_expression": "紧张兮兮地取纸片，念错稿子，口袋掉出垃圾",
+        "hidden_layer": "她平时在熟人面前活泼大胆，但在正式场合会意外地紧张",
+        "confidence": "high"
+      },
+      {
+        "state": "慌乱、尴尬",
+        "trigger": "发现自己念错了稿子",
+        "external_expression": "连忙在口袋中东翻西找",
+        "hidden_layer": "不想在众人面前出丑，但已经出了",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [
+      "怯场——在公开场合发言时缺乏自信"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "依赖他人",
+        "description": "出问题时立刻向温水求助",
+        "example_summary": "「温水，你把原稿放哪里去了？」"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在公开正式场合会紧张怯场",
+        "example_summary": "社团介绍时念错稿子，口袋掉出垃圾",
+        "when_used": "面对公众演讲时"
+      },
+      {
+        "pattern": "随身携带食物评价笔记",
+        "example_summary": "口袋里有写满食物评分的纸条",
+        "when_used": "随时记录吃过的食物评价"
+      },
+      {
+        "pattern": "口袋里同时装着各种东西（垃圾、稿子、零食）",
+        "example_summary": "零食包装纸和要用的稿子混在一起",
+        "when_used": "日常"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "在紧张时会用确认性的短句",
+        "example_summary": "「唉？」的一声，然后问温水原稿在哪",
+        "when_used": "发现自己出错时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "随身携带自己写的食物评价笔记（给便利店食品打星评）",
+      "口袋里经常有零食包装纸",
+      "对炒面潜艇堡、红豆三明治等便利店食品有详细的评分"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "平时在熟人面前健谈活泼，但在公开演讲场合却会紧张怯场",
+        "evidence_summary": "温水感叹她「意外地会怯场」——这与她平时在社团教室的表现形成反差"
+      },
+      {
+        "tension": "准备社团介绍稿却随身携带食物评价笔记，说明食物在她心中的优先级非常高",
+        "evidence_summary": "她从口袋掏出的不是原稿，而是食物评价纸条"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在需要公开演讲的正式场合",
+        "likely_response": "紧张、容易出错，可能会拿错稿子或搞混",
+        "avoid": "不要表现得和在私底下一样大胆——她在公众面前会怯场"
+      },
+      {
+        "situation": "发现自己出丑时",
+        "likely_response": "先愣住，然后慌乱地找正确答案，依赖身边熟悉的人",
+        "avoid": "不要泰然自若——她会慌乱"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「炒面潜艇堡——五颗星。夹了很多炒面，非常推荐。」",
+      "「抱歉，我搞错了！温水，你把原稿放哪里去了？」"
+    ]
+  }
+]

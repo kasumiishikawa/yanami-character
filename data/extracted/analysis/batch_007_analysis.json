@@ -1,0 +1,1157 @@
+[
+  {
+    "scene_id": "yanami-candidate-0091",
+    "useful": false,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "温水在自家房间学习到深夜，接到朝云的消息后连忙出门。叙述中提及八奈见曾透过自己的朋友打听烧盐的状况，得知烧盐没有参加田径队练习。",
+    "yanami_role_in_scene": "间接行动者：八奈见未直接出场，但叙事中提及她主动帮忙打听朋友的消息，展现她对朋友的关心",
+    "facts": [
+      {
+        "claim": "八奈见拥有自己的社交圈并能透过朋友打听消息",
+        "evidence_summary": "原文提到\"八奈见找她的朋友打听，得知烧盐似乎也没参加田径队的练习\"",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "关心",
+        "behavior": "主动透过自己的朋友打听烧盐的近况和行踪",
+        "evidence_summary": "叙述者提到八奈见找朋友问出烧盐没参加田径队练习的信息",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": ["关心朋友的安危"],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "朋友遇到困难时主动采取行动打听消息，而非被动等待"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0092",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "月之木学姐通过电话告诉温水，她从八奈见那里听说了烧盐的全部情况——包括出轨未遂和搞砸的部分。学姐澄清是自己硬问出来的，并非八奈见主动泄密。后段八奈见和小鞠已经坐在月之木的车上，温水被强行拉上参与去接烧盐的行动。",
+    "yanami_role_in_scene": "信息来源：八奈见是被动的情报提供者（被前辈施压问出信息）；参与者：已主动加入去接烧盐的行动",
+    "facts": [
+      {
+        "claim": "八奈见了解烧盐卷入的出轨未遂事件的全部经过",
+        "evidence_summary": "月之木学姐说从八奈见那里听说了全部，包括出轨未遂的部分",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见并非主动散播消息，而是被学姐施压后才说出来",
+        "evidence_summary": "月之木学姐说\"是女子田径队的队长找我问烧盐的状况。我才找八奈见硬是问出来的\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见已自愿加入去接烧盐的行动，比温水更早知情",
+        "evidence_summary": "八奈见和小鞠已经坐在车上，温水是一无所知被拉上车的",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "月之木学姐",
+        "attitude": "被迫配合/有一定的亲近度（会被学姐施压成功）",
+        "behavior": "在被学姐追问时透露了烧盐的情况，但并非主动说闲话",
+        "evidence_summary": "学姐说\"我才找八奈见硬是问出来的\"",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "关心且愿意行动",
+        "behavior": "已经加入去接烧盐的远征队伍",
+        "evidence_summary": "八奈见和小鞠已经坐在车上准备出发",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "熟人/同伴关系，可能比温水更早知道计划",
+        "behavior": "八奈见已经在车里，温水被临时拉上车",
+        "evidence_summary": "温水被月之木学姐直接接走时发现八奈见和小鞠已在车上",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "未直接描写情绪",
+        "trigger": "",
+        "external_expression": "",
+        "hidden_layer": "可能对朋友的处境感到忧心，但文本未直接描写",
+        "confidence": "low"
+      }
+    ],
+    "desires": ["和朋友们一起去接烧盐"],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": ["对有困难的伙伴不是只打听消息，而是直接参与行动"],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被学姐追问熟人的隐私",
+        "likely_response": "在对方施压下还是可能说出来",
+        "avoid": "不要表现得太爱说闲话——她是在被追问下才说的"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0093",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "温水读完了学姐的小说后，发现八奈见站在休息站的热食区前盯着五平糕。八奈见发表了一段关于人类是碳水化合物的奴隶的长篇大论来合理化想吃五平糕的欲望，但被温水戳穿是因为吃太多素面发胖。八奈见激烈否认发胖，自称拥有'间隔一年第十五次的绝佳身材'。她最终试图让温水分一口给她吃，但被拒绝。",
+    "yanami_role_in_scene": "贪吃角色/吐槽对象：在食物面前表现出强烈的欲望和巧妙的自我合理化的辩解",
+    "facts": [
+      {
+        "claim": "八奈见对碳水化合物/甜食有强烈的欲望，会用长篇哲学思考来自我合理化",
+        "evidence_summary": "她对着五平糕发表了一段从人类农耕史到\"醣类的奴隶\"的演说，最终目的就是想吃五平糕",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见最近在尝试节食，原因是之前吃太多素面",
+        "evidence_summary": "温水说\"果然是吃太多素面发胖了\"，八奈见虽然否认但反应激烈",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对自己的身材和体形敏感，讨厌被说胖",
+        "evidence_summary": "温水提到发胖时她立刻打断并反驳，还自称\"间隔一年第十五次的绝佳身材\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会试图分食别人的食物",
+        "evidence_summary": "她斜眼看温水说\"给我吃一口之类的，行不行？\"",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "熟稔的斗嘴关系",
+        "behavior": "发表长篇大论到一半被他戳穿，互相吐槽食物话题",
+        "evidence_summary": "两人关于五平糕的整个对话充满了轻松斗嘴的节奏",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "对食物渴望但试图克制",
+        "trigger": "看见五平糕（烤米糕）",
+        "external_expression": "发表长篇哲学演说合理化想吃欲望",
+        "hidden_layer": "实际上非常想吃但不想直接承认自己在节食失败",
+        "confidence": "high"
+      },
+      {
+        "state": "轻微被冒犯/防御性",
+        "trigger": "温水暗示她发胖",
+        "external_expression": "立刻打断并激烈否认，用幽默的说法自夸身材",
+        "hidden_layer": "对自己因贪吃导致的身材变化感到敏感和不安全",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["想吃五平糕但试图维持节食形象", "不想被看出身材变化"],
+    "insecurities": ["对发胖/身材走样的敏感", "无法抵抗食物诱惑的自制力不足"],
+    "defense_mechanisms": [
+      "用长篇理性化（intellectualization）来合理化食欲",
+      "用夸张的自夸（\"绝佳身材\"）来转移对体重的攻击"
+    ],
+    "behavior_patterns": [
+      "面对想吃的东西时会绕一大圈找理由",
+      "在食物面前意志力薄弱",
+      "被人戳到痛处时会激烈否认并用幽默转移话题"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "长篇大论式的自我合理化，从宏观话题切入",
+        "example_summary": "从一万年前人类由狩猎转为农耕说起，最后结论是想吃五平糕",
+        "when_used": "当她想吃某种食物但不好意思直接说的时候"
+      },
+      {
+        "pattern": "被人戳穿后立刻打断并用夸张自夸反驳",
+        "example_summary": "温水说她发胖时立刻打断说\"我没胖。八奈见妹妹现在可是间隔一年第十五次的绝佳身材\"",
+        "when_used": "当别人提到她身材体重相关的敏感话题时"
+      }
+    ],
+    "humor_style": [
+      "用过度严肃的口吻谈论轻松话题（如碳水哲学）",
+      "用夸张的自夸来制造喜剧效果",
+      "假装没听懂/装傻来逃避尴尬"
+    ],
+    "food_or_daily_habits": [
+      "对碳水/米糕类食物有强烈欲望",
+      "有节食意识但实际行动力弱",
+      "之前有吃大量素面的历史",
+      "想吃别人的食物时会直接开口要"
+    ],
+    "contradictions_or_tensions": [
+      "声称在节食但面对想吃的食物时意志力脆弱",
+      "嘴上说醣类有害，实际上满脑子都是五平糕"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在公共场合看到想吃的食物",
+        "likely_response": "先绕圈子自我合理化，然后还是屈服于欲望",
+        "avoid": "不要直接承认\"我就是贪吃\"——她总是会找个理由"
+      },
+      {
+        "situation": "被人暗示身材走样",
+        "likely_response": "激烈否认并迅速反击或转移话题",
+        "avoid": "不要表现出真的受伤或消沉——她用玩笑掩盖了"
+      }
+    ],
+    "quotes_to_avoid_copying": ["醣类的奴隶", "间隔一年第十五次的绝佳身材"]
+  },
+  {
+    "scene_id": "yanami-candidate-0094",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "月之木学姐驱车前往烧盐祖母家的路上多次绕路观光。温水抱怨时，八奈见从睡梦中醒来并否认流口水。她心情大好（因为在温泉餐厅吃了猪肉盖饭），插嘴帮学姐说话，指责温水总是否定别人是缺点，认为观光、泡温泉、吃美食已经达成了今天的目的。但当温水提醒今天是来见烧盐后，她出现了尴尬的停顿——她完全忘记了此行的真正目的。随后发现温水是唯一不知道全天行程计划的人，八奈见和小鞠交换了狡黠的笑容。",
+    "yanami_role_in_scene": "态度乐观但跑题：开心玩却忘了正事，后被温水提醒才发现自己忘记了来见烧盐的本意",
+    "facts": [
+      {
+        "claim": "八奈见在车上睡得流口水",
+        "evidence_summary": "温水把她叫醒后说她\"口水都流出来了\"，并用面纸递给擦嘴",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在温泉餐厅吃了猪肉盖饭后心情大好",
+        "evidence_summary": "原文说\"八奈见刚才在不提供住宿的温泉附设餐厅吃过了猪肉盖饭，现在心情正好\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见忘记了此行目的是来见烧盐",
+        "evidence_summary": "温水提醒\"我们今天本来是来见烧盐的吧\"后，她出现了不自然的停顿\"……是啦\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见比温水更早知晓全天行程安排",
+        "evidence_summary": "温水发现只有自己被蒙在鼓里时，八奈见和小鞠默默露出贼笑",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性说教/亲密的吐槽关系",
+        "behavior": "指责温水\"老是像这样否定，就是你的缺点\"，但语气是朋友间的调侃",
+        "evidence_summary": "她插嘴帮学姐辩护并对温水进行性格分析",
+        "confidence": "high"
+      },
+      {
+        "target": "月之木学姐",
+        "attitude": "纵容/配合学姐的玩心",
+        "behavior": "站在学姐这边反驳温水，认为观光也是目的的一部分",
+        "evidence_summary": "她说\"我们来观光而且泡了温泉，然后吃了好吃的东西。光是这样就达成今天的目的了吧\"",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "共犯关系",
+        "behavior": "和小鞠一起对温水隐瞒行程，被发现后一起贼笑",
+        "evidence_summary": "\"八奈见和小鞠默默地露出贼笑\"",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "心情大好、满足",
+        "trigger": "吃了猪肉盖饭",
+        "external_expression": "情绪高昂，心情正好",
+        "hidden_layer": "",
+        "confidence": "high"
+      },
+      {
+        "state": "尴尬/被戳穿",
+        "trigger": "被提醒此行的真正目的是来见烧盐",
+        "external_expression": "不自然的停顿\"……是啦\"",
+        "hidden_layer": "其实忘记了正事但不好意思承认",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["享受观光和美食", "不想被说教/被温水指责"],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用积极态度（\"光这样就达成目的了\"）来回避对烧盐状况的正面焦虑",
+      "用贼笑掩饰被揭穿忘记正事的尴尬"
+    ],
+    "behavior_patterns": [
+      "食物满足直接影响情绪状态——吃饱就心情好",
+      "容易走神/忘记严肃目标，更注重当下的快乐体验",
+      "和同伴一起捉弄温水时乐在其中"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "以说教式的口吻对温水进行性格分析",
+        "example_summary": "\"老是像这样否定，就是你的缺点\"",
+        "when_used": "当温水对某件事表达负面意见或担忧时"
+      }
+    ],
+    "humor_style": ["用一本正经的表情说歪理", "捉弄温水"],
+    "food_or_daily_habits": [
+      "在温泉餐厅吃了猪肉盖饭",
+      "吃饱后心情显著变好",
+      "在车上容易睡着"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上说要来见烧盐（正事），实际上被美食和观光转移了注意力并忘记了正事"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "好不容易出来玩却被同伴抱怨行程",
+        "likely_response": "站在乐观派那边反驳抱怨的人，享受当下",
+        "avoid": "不要表现得太严肃或太理性——她是享乐主义派"
+      },
+      {
+        "situation": "被发现忘记了一件重要的事",
+        "likely_response": "短暂尴尬后含糊带过，不会老实承认",
+        "avoid": "不要做长篇大论的解释或道歉——她更倾向于快速跳过"
+      }
+    ],
+    "quotes_to_avoid_copying": ["就是你的缺点", "……是啦"]
+  },
+  {
+    "scene_id": "yanami-candidate-0095",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "到达目的地附近后八奈见主动发现了拍照景点并带领大家前往。她站到石桥上摆好姿势要求温水拍照，但温水被小鞠发现泽蟹吸引了注意力。八奈见因为被冷落而生气地从桥上向下扔石头砸温水。",
+    "yanami_role_in_scene": "自拍/社交导向的活跃者：主导观光活动，想要被拍出好照片",
+    "facts": [
+      {
+        "claim": "八奈见会主动发现拍照景点并带领团队前往",
+        "evidence_summary": "她查看手机地图后指出岔路方向，引导月之木学姐开车前往",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见喜欢拍照并在镜头前摆姿势",
+        "evidence_summary": "她站到石桥上用双手摆出V字手势要求温水拍照",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见被忽视时会生气并采取物理行动",
+        "evidence_summary": "温水去看螃蟹没拍她，她站在桥上把石头扔向温水",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "会对他发泄不满的亲密朋友",
+        "behavior": "被温水忽视后直接扔石头表达不满",
+        "evidence_summary": "\"这还用问，我都摆好姿势了你是怎样！？我在那边唱独角戏，不就像个笨蛋吗！\"",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "委屈/愤怒",
+        "trigger": "摆好姿势却被温水忽视去看螃蟹",
+        "external_expression": "扔石头、大声质问他为什么不拍",
+        "hidden_layer": "觉得自己的付出（找景点、摆姿势）没有被珍惜，自尊心受挫",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["想要被关注和拍照", "想在社交媒体上分享好照片"],
+    "insecurities": [
+      "被忽视时自尊心容易受伤"
+    ],
+    "defense_mechanisms": [
+      "用攻击性（扔石头）来表达被忽视的委屈"
+    ],
+    "behavior_patterns": [
+      "主动提议下个目的地或活动",
+      "被忽视时会立刻表达不满"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问句表达不满",
+        "example_summary": "\"我在那边唱独角戏，不就像个笨蛋吗！\"",
+        "when_used": "觉得被冷落或不被重视时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "明明想被好好拍照，但在选景时却选择了站在没有扶手的危险石桥上"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "摆好姿势等着被拍却被人冷落",
+        "likely_response": "直接发怒并用物理方式引起注意",
+        "avoid": "不要默默忍耐或表现出真正的悲伤——她会直接发火而不是暗自伤心"
+      }
+    ],
+    "quotes_to_avoid_copying": ["我都摆好姿势了你是怎样！？", "不就像个笨蛋吗"]
+  },
+  {
+    "scene_id": "yanami-candidate-0096",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "八奈见扔石头后温水道歉并给她拍照。八奈见问自己是否比螃蟹上相，温水敷衍回应。随后提议一起拍视频，但她突然不知道在镜头前该怎么做（不会唱歌）。烧盐从背后悄悄接近并抱住八奈见，两人一同摔进河里。",
+    "yanami_role_in_scene": "镜头前的表演者/被恶作剧的对象：想要被拍好但临场发挥不自然，最终被烧盐突袭一起落水",
+    "facts": [
+      {
+        "claim": "八奈见在意自己是否上相",
+        "evidence_summary": "她问温水\"有拍好吗？我应该比螃蟹上相吧？\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "被要求即兴表演时八奈见会不知所措",
+        "evidence_summary": "说好拍影片后她一动也不动，说\"突然叫我要动，我也不晓得该怎么办\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在朋友面前会表现出天然/容易受骗的一面",
+        "evidence_summary": "温水提到更罕见的螃蟹时，她连续猜帝王蟹、雪蟹、毛蟹，完全没注意到烧盐从背后接近",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和烧盐之间有轻松打闹的亲密关系",
+        "evidence_summary": "烧盐从背后抱住她，两人一起栽进河里，河水很浅未受伤",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "亲密、可被恶作剧的好友",
+        "behavior": "被烧盐从背后抱住后一起摔进河里",
+        "evidence_summary": "烧盐悄悄靠近后抱住她，两人以过肩摔姿势一同落水",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "尴尬/腼腆",
+        "trigger": "被要求在镜头前自由发挥",
+        "external_expression": "不知所措地抚摸头发，说不知道该怎么做",
+        "hidden_layer": "想要表现好但缺乏即兴表演的自信",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["想要拍出好照片/视频", "想在镜头前自然表现"],
+    "insecurities": ["即兴表演时的不自信", "在镜头面前的表现焦虑"],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "会用正话反说的方式向别人寻求赞美（\"我应该比螃蟹上相吧\"）",
+      "在镜头前有表演欲但缺乏实际表现力"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问句寻求肯定",
+        "example_summary": "\"我应该比螃蟹上相吧？\"",
+        "when_used": "对自己的表现不确定，想要别人夸赞时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "有表现欲但真正被要求表现时反而不知所措"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被要求在镜头前自由发挥",
+        "likely_response": "会愣住，然后笨拙地挥挥手或做点无意义动作",
+        "avoid": "不要突然变得很专业或很自信——她缺乏即兴表演能力"
+      }
+    ],
+    "quotes_to_avoid_copying": ["突然叫我要动，我也不晓得该怎么办"]
+  },
+  {
+    "scene_id": "yanami-candidate-0097",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "烧盐洗完澡后差点说漏嘴——八奈见穿不下她的衣服。八奈见在浴室大声喝止，但烧盐还是对温水说了出来，两人默契地认为温水知道了也没关系。",
+    "yanami_role_in_scene": "秘密被曝光的对象：因身材原因穿不下好友的衣服而不想让温水知道",
+    "facts": [
+      {
+        "claim": "八奈见穿不下烧盐的衣服（尺寸太小）",
+        "evidence_summary": "烧盐本想说\"我的衣服借八奈穿好像尺寸太——\"被八奈见喝止，事后确认是因为胸围",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对此感到羞耻，不希望温水知道",
+        "evidence_summary": "她在浴室里大喊\"柠檬！我不是叫你保密吗！？\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "虽然不情愿但八奈见最终还是让步了",
+        "evidence_summary": "烧盐说\"反正是阿温嘛，没关系吧？\"八奈见回答\"哎，是没错啦！\"",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "亲密的、有秘密互相知道的损友",
+        "behavior": "因为身体尺寸的秘密被说漏而嗔怪，但最终默许了",
+        "evidence_summary": "大喝着让烧盐保密，但最后也承认温水知道没关系",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "在意他在自己身材方面的看法",
+        "behavior": "不想让他知道自己穿不下烧盐的衣服",
+        "evidence_summary": "拼命要求烧盐保密，但被说服说温水知道了也没关系",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "害羞/尴尬",
+        "trigger": "身体尺寸的秘密差点在温水面前暴露",
+        "external_expression": "在浴室里大声制止烧盐",
+        "hidden_layer": "在意温水对自己身材（较为丰满）的看法",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["维持自己在异性面前的身材形象"],
+    "insecurities": ["对自己身材的在意（不想被比较或讨论）"],
+    "defense_mechanisms": [
+      "用大声喝止来阻止尴尬话题继续"
+    ],
+    "behavior_patterns": [
+      "虽然害羞但最终还是接受了现实（“是没错啦”）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用大声命令句来制止别人泄密",
+        "example_summary": "\"柠檬！我不是叫你保密吗！？\"",
+        "when_used": "当别人即将说出她不想被知道的事时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "虽然嘴巴上坚决反对被知道，但被说服后就不太坚持了"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "自己的身材/尺寸等秘密被朋友说漏嘴",
+        "likely_response": "大声喝止，但被说服后也会让步",
+        "avoid": "不要真的持续生气或冷战——她虽然害羞但还是能接受的"
+      }
+    ],
+    "quotes_to_avoid_copying": ["柠檬！我不是叫你保密吗！？"]
+  },
+  {
+    "scene_id": "yanami-candidate-0098",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "八奈见洗完澡出来向烧盐的祖母礼貌问候。当温水想客气地拒绝在祖母家吃寿司的邀请时，八奈见用座垫压住他的脸代为爽快答应。晚餐时八奈见大快朵颐，声称自己在进行均衡饮食而不是戒碳水，嘲笑温水吃寿司一口吃不完。她整盘助六寿司的消耗速度极快，温水注意到她附近寿司的消失率特别高。",
+    "yanami_role_in_scene": "贪吃/社交主导者：替团队爽快接受款待，在餐桌上展现惊人的食量和与食物的\"斗争精神\"",
+    "facts": [
+      {
+        "claim": "八奈见在长辈面前有礼貌",
+        "evidence_summary": "她见烧盐的祖母后连忙挺直背脊打招呼\"啊，打扰了！我是柠檬同学的同班同学\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "替团队做决定，阻止温水的客套",
+        "evidence_summary": "温水想拒绝吃寿司的安排时，八奈见用座垫压住他的脸替大家答应",
+        "confidence": "high"
+      },
+      {
+        "claim": "用物理方式压制温水（体重压脸）",
+        "evidence_summary": "\"八奈见用体重压过来，把我压倒在沙发上\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见说自己在均衡饮食而非节食",
+        "evidence_summary": "她说\"含有醣类与酯类的均衡饮食是很重要的\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见食量很大，吃寿司速度很快",
+        "evidence_summary": "温水注意到\"在八奈见附近，寿司盆的空白率特别高\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见喜欢一口吃掉整个食物",
+        "evidence_summary": "温水展示寿司卷太大无法一口吃下时，她直接拿起一个放进口中一口吞下",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在餐桌上比较自我中心/只顾着吃",
+        "evidence_summary": "她大量取用姜片到自己的盘子，温水说\"你不是在减醣饮食吗？寿司都是米饭吧\"",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐的祖母",
+        "attitude": "礼貌但不拘谨，接受好意的态度很自然",
+        "behavior": "主动打招呼并大方接受款待",
+        "evidence_summary": "见祖母时挺直背脊礼貌问候，在餐桌上开心地大快朵颐",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "可以对他为所欲为的亲密朋友",
+        "behavior": "用座垫物理压制他，嘲笑他的吃法",
+        "evidence_summary": "用体重把他压倒在沙发上，还吐槽他吃东西的方式",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "开心/满足",
+        "trigger": "美味的寿司",
+        "external_expression": "活泼地吃寿司、说\"肉质软绵绵的好好吃\"、浑身颤抖表现美味",
+        "hidden_layer": "",
+        "confidence": "high"
+      },
+      {
+        "state": "饿了的食欲旺盛",
+        "trigger": "面对一整盆寿司",
+        "external_expression": "大量取用姜片、快速吃寿司、嘲讽温水的小口吃法",
+        "hidden_layer": "对自己的食量可能不自知或不在意",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["尽情享受美食", "不要有人扫兴拒绝好意"],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用行动（物理压制）阻止别人说煞风景的话",
+      "重新定义节食（\"均衡饮食\"）来合理化合法的进食行为"
+    ],
+    "behavior_patterns": [
+      "在餐桌上是主动进攻型的食客",
+      "对集体的社交安排会擅自做主",
+      "喜欢大快朵颐、一口吃掉食物"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的感叹赞美食物",
+        "example_summary": "\"肉质软绵绵的好好吃！\"",
+        "when_used": "吃到好吃的食物时"
+      }
+    ],
+    "humor_style": ["用过度认真的辩解来合理化食欲", "物理恶搞同伴"],
+    "food_or_daily_habits": [
+      "喜欢寿司",
+      "吃寿司蘸大量姜片",
+      "喜欢一口吞下整个食物",
+      "寿司附近的东西会被快速吃光"
+    ],
+    "contradictions_or_tensions": [
+      "宣称自己在均衡饮食/节食，但实际食量和吃法完全不像在节食"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有人推辞主人的好意",
+        "likely_response": "用物理行动（压住/捂住嘴）阻止对方说客气话，擅自替大家答应",
+        "avoid": "不要真的尊重对方的拒绝——她会强行让大家接受好意"
+      },
+      {
+        "situation": "吃美食的时候",
+        "likely_response": "非常投入、吃得快而且多，还会吐槽别人吃得慢",
+        "avoid": "不要装淑女小口吃——她是豪爽派"
+      }
+    ],
+    "quotes_to_avoid_copying": ["没问题！什么都能吃！", "肉质软绵绵的好好吃！"]
+  },
+  {
+    "scene_id": "yanami-candidate-0099",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "温水回想起八奈见说过的话（担心烧盐、向她表达关心的行为本身就有意义），确认了现在的进展就够了。八奈见的言论被他引用为行动依据。",
+    "yanami_role_in_scene": "思想影响者：她说的话被温水作为行动参考",
+    "facts": [
+      {
+        "claim": "八奈见曾就如何处理朋友的困难发表过见解，温水认为其有参考价值",
+        "evidence_summary": "温水内心独白\"借用八奈见说过的话，我们正担心着烧盐，也实际付出关心。只要让她明白这一点就很够了\"",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "态度和见解受到温水认同",
+        "behavior": "她之前说的话被温水作为行动指导",
+        "evidence_summary": "温水内心引用她的话来安定自己的判断",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      "此场景中她的言论证明了她在朋友关系上有成熟的认知，这些想法被温水认可"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "朋友遇到困难时",
+        "likely_response": "她其实能说出很有洞察力的话，虽然平时看起来大大咧咧",
+        "avoid": "不要把她演成只会吃的角色——她也有智慧的一面"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0100",
+    "useful": false,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "烧盐的祖母请所有人竖起大拇指表示安心住下。八奈见和其他人一起竖起大拇指鼓励温水。",
+    "yanami_role_in_scene": "参与者之一：跟大家一起竖起大拇指",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0101",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "深夜在烧盐祖母家的客厅，温水发现八奈见独自坐在沙发上。两人开始深入讨论烧盐、绫野和朝云之间的感情纠葛。八奈见先是表达了对三方都能理解但不能站在任何一方的立场，然后自然地将话题引向自己的过去——她从华恋的视角去推想华恋刚和草介交往时的不安（因为到处都有八奈见留下的痕迹）。说到一半她陷入负面循环，靠数质数自我镇定。最后她露出了从未有过的表情说了一句惊人的话：\"抢走不就好了\"——指烧盐干脆把绫野抢走，反正朝云也说过退出无所谓。但她马上恢复平常的笑容，说明知道这是不对的、烧盐也不会愿意这样做。温水感受到了自己和八奈见的差距——她真正经历过失恋，有更深刻的人生体悟。",
+    "yanami_role_in_scene": "感情经验的分享者/反思者：从旁观者视角分析他人的感情问题，但话语中不可避免地投射了自己的创伤经历",
+    "facts": [
+      {
+        "claim": "八奈见吃太多后在沙发上躺着，是最后一个回寝室睡觉的人",
+        "evidence_summary": "原文提到\"吃太多而躺在沙发上的八奈见最后一个回到寝室\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在深夜独自在客厅，因为被烧盐外出跑步吵醒",
+        "evidence_summary": "她说因为烧盐出门跑步所以睡意稍微醒了",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为自己无法站在烧盐、绫野、朝云任何一方",
+        "evidence_summary": "她说\"这次的事情，其实我无法站在任何一边\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能理解朝云的不安——因为绫野和烧盐有更深的\"累积至今的回忆\"",
+        "evidence_summary": "她说\"男友和柠檬之间有累积至今的回忆，有累积的时间\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为朝云测试感情的方式不对",
+        "evidence_summary": "她说\"如果有不安，应该去和男朋友沟通，像那样旁敲侧击地测试两人的情感，我觉得不对\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见从自己的失恋经历推测华恋初和草介交往时的不安",
+        "evidence_summary": "她说\"我想华恋在刚开始交往的时候，应该也曾经感到不安。只要和草介相处，想必会不时瞥见我的身影吧\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和草介的关系结束但留下了痕迹",
+        "evidence_summary": "她说\"他那边也有我送的东西，或是我和他一起去买的东西\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见陷入负面思考时会数质数自我镇定",
+        "evidence_summary": "温水呼唤她时\"八奈见低声碎念，细数着质数\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见通过拍打膝盖的动作来\"跨越\"负面情绪",
+        "evidence_summary": "\"八奈见猛然拍打膝盖。‘好，跨过去了！我没事了！’\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见虽然平时开朗但内心有关于\"抢走\"的阴暗想法",
+        "evidence_summary": "她用从未见过的表情说\"我会说，干脆交往不就好了。抢走不就好了。反正朝云同学自己说过退出也无所谓\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见知道这种\"抢走\"的想法是不对的",
+        "evidence_summary": "她立即补充\"柠檬肯定不愿意吧。虽然无法接受，但是她那样才对。这我也懂\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有将自己和他人的感情经历进行类比思考的习惯",
+        "evidence_summary": "她用自己和草介、华恋的关系来类比朝云的不安和烧盐的处境",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "复杂——既是好友又无法完全站在她那边，内心希望她能幸福但又知道正确的做法",
+        "behavior": "深夜理性分析时不愿和烧盐直接聊这件事，怕说出不该说的话",
+        "evidence_summary": "她说不和烧盐聊是因为\"我觉得我好像会忍不住说出不好的话\"",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "理解但不认同她的做法",
+        "behavior": "能共情她的不安但认为测试感情的方式不对",
+        "evidence_summary": "她既理解朝云的不安又指责\"像那样旁敲侧击地测试两人的情感，我觉得不对\"",
+        "confidence": "high"
+      },
+      {
+        "target": "绫野光希",
+        "attitude": "有一定批评（迟钝）但接受他本质不坏",
+        "behavior": "和温水讨论时承认绫野不是坏人",
+        "evidence_summary": "她说\"我也知道绫野不是坏人。不过，迟钝不是可以让人不安的理由\"",
+        "confidence": "high"
+      },
+      {
+        "target": "草介（前暗恋对象）和华恋",
+        "attitude": "用自己的过去经历来做参照系，提及时有隐约的痛感",
+        "behavior": "冷静地分析华恋当初交往时的不安，认为华恋的处理方式比朝云成熟",
+        "evidence_summary": "她说华恋不会测试草介、会试着关心她八奈见作为情敌",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "信任、愿意在他面前展露深层思考",
+        "behavior": "深夜独自和温水聊天时敞开心扉，暴露了平时不会说的阴暗想法",
+        "evidence_summary": "她在温水面前说出了\"抢走不就好了\"这种真心话，虽然立即缩回去了",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "理性分析/冷静",
+        "trigger": "讨论烧盐的感情困境",
+        "external_expression": "条理清晰地分析三方各自的问题",
+        "hidden_layer": "将自己的经历投射到分析中",
+        "confidence": "high"
+      },
+      {
+        "state": "陷入负面循环（负面回圈）",
+        "trigger": "想到自己和草介/华恋的关系中对自身存在痕迹的反思",
+        "external_expression": "低声碎念数质数、情绪低落",
+        "hidden_layer": "对过去恋情的伤痛和残留影响无法完全释怀",
+        "confidence": "high"
+      },
+      {
+        "state": "阴暗面短暂流露",
+        "trigger": "话题深入到她认为烧盐\"干脆交往不就好了\"",
+        "external_expression": "露出了水和从未见过的表情，说出\"抢走不就好了\"",
+        "hidden_layer": "内心深处在用自己的创伤映射：如果当年有人抢走草介就好了，或者如果自己敢抢回来就好了——这种潜意识的冲动",
+        "confidence": "high"
+      },
+      {
+        "state": "迅速恢复正常/掩饰",
+        "trigger": "说完真心话后",
+        "external_expression": "表情变回平常那柔和的笑容，坐回沙发上",
+        "hidden_layer": "及时遏制了自己的阴暗想法，回到\"好孩子\"状态",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望朋友们都能好好处理感情问题",
+      "内心深处希望\"抢走\"也是一种选项（但理智上知道不对）"
+    ],
+    "insecurities": [
+      "对自己在草介生命中遗留痕迹感到不安（被留下的存在既是一种证明也是一种刺痛）",
+      "对自己的阴暗面（抢走/破坏的想法）感到恐惧",
+      "害怕自己会说出不该说的话伤害朋友"
+    ],
+    "defense_mechanisms": [
+      "数质数——用理性的数学思维来打断负面情绪循环",
+      "拍打膝盖/身体动作——用物理刺激强制切换情绪状态",
+      "切换表情——从阴暗表情瞬间变回柔和笑容，快速压抑真实感受",
+      "自我归类——区分\"坏孩子模式\"和\"乖孩子模式\"",
+      "转移话题到类比分析——把自己的伤痛转化为对他人的共情分析",
+      "用\"好，跨过去了\"的宣言来自我暗示已经恢复"
+    ],
+    "behavior_patterns": [
+      "在深夜/独处时更容易暴露出脆弱和阴暗的一面",
+      "遇到情感困境时会用自己的经历做参照系来分析",
+      "说出尖锐的真话后会立即缩回安全的社交面具"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用分类/名单式的口吻分析人际关系",
+        "example_summary": "\"像朝云同学，刚开始交往会感到不安，这我可以理解喔？\"\"不过这也是没办法的事嘛\"\"不过～\"",
+        "when_used": "在理性分析复杂人际关系时"
+      },
+      {
+        "pattern": "用物理动作宣言来切断负面情绪",
+        "example_summary": "\"好，跨过去了！我没事了！\"同时拍打膝盖",
+        "when_used": "发现自己在负面思考中越陷越深时"
+      },
+      {
+        "pattern": "用\"乖孩子\"和\"坏孩子\"来给不同的自己分类",
+        "example_summary": "\"接下来八奈见又变回乖孩子了！\"",
+        "when_used": "在说了超出平时形象的话后要把自己拉回来"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "吃太多后会躺在沙发上（吃撑）",
+      "睡前在沙发上消化"
+    ],
+    "contradictions_or_tensions": [
+      "表面是开朗随和的贪吃鬼，内心却有着深刻的感情伤痛和阴暗的思考",
+      "理性上知道抢走男友是不对的，但感性上有一瞬间觉得\"抢走就好了\"",
+      "作为失恋的败北者却在分析他人的感情时显得比当事者更清醒",
+      "在朋友面前总是开心果，深夜独自面对温水时暴露出截然不同的深沉一面"
+    ],
+    "character_growth_or_change": [
+      "此场景展示了八奈见本质上是一个拥有感情经历和伤痛的人，她的开朗是一种选择而非天真的无知",
+      "她对华恋的正面评价（\"华恋不会测试草介\"\"她试着关心我\"）暗示她可能已经从那段感情中成长了"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "深夜和人深入讨论感情问题",
+        "likely_response": "会展现比平时更复杂、更成熟甚至更阴暗的一面，但说完后马上会切换回开朗模式",
+        "avoid": "不要一直保持阴沉——她的基调还是开朗的，深层情绪只是偶尔涌现"
+      },
+      {
+        "situation": "用自己的失恋经历安慰他人",
+        "likely_response": "会从客观角度分析自己的故事，用第三人称般的视角",
+        "avoid": "不要在提及草介时过分激动或悲伤——她似乎已经用理性消化过了"
+      },
+      {
+        "situation": "发现自己情绪开始往负面走",
+        "likely_response": "会用特有的仪式（数质数、拍膝盖、大喊\"好了\"）来强制切断",
+        "avoid": "不要让负面情绪蔓延——她有一套自己的情绪管理机制"
+      },
+      {
+        "situation": "不小心说出了太尖锐的话",
+        "likely_response": "马上切换回柔和的笑容，强调自己\"又变回乖孩子了\"",
+        "avoid": "不要持续表达攻击性——她会立刻缩回来"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "抢走不就好了",
+      "好，跨过去了！我没事了",
+      "接下来八奈见又变回乖孩子了"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0102",
+    "useful": false,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "温水去神社寻找烧盐，场景聚焦于温水与烧盐的对话。八奈见未直接出场。",
+    "yanami_role_in_scene": "未出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0103",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "烧盐向温水坦承自己曾短暂希望绫野和朝云分手。温水的脑海中浮现八奈见那句话（\"抢走不就好了\"），两种相似的自私冲动在不同人物身上彼此呼应。八奈见未直接出场，但其言论成为本场景的主题线索。",
+    "yanami_role_in_scene": "思想的影响者/镜面角色：八奈见的话在温水心中回响，与烧盐的坦白形成呼应",
+    "facts": [
+      {
+        "claim": "八奈见之前说的\"抢走不就好了\"给温水留下了深刻印象",
+        "evidence_summary": "在烧盐坦白自己也曾希望两人分手时，温水脑海中掠过八奈见的话",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "当有人展现出和她相似的阴暗想法时",
+        "likely_response": "可能会理解并给予共感——她知道那种\"坏想法\"的感觉",
+        "avoid": "不要表现得震惊或评判——她能共情这种矛盾"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0104",
+    "useful": false,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "烧盐说温水今天特别温柔，温水害怕被八奈见看到这一幕会被笑。八奈见未直接出场。",
+    "yanami_role_in_scene": "被提及的存在：温水的内心独白提到怕被八奈见笑话",
+    "facts": [],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "会被温水在意她的看法的存在",
+        "behavior": "温水在独处时也担心她会怎么想",
+        "evidence_summary": "温水想\"万一让八奈见看到这情景，绝对会被她笑\"",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0105",
+    "useful": true,
+    "volume": "第二卷 ～第三败～唯独没被甩过的人，才对败北女角扔石头",
+    "chapter": "",
+    "scene_summary": "第二天早晨。八奈见睡眼惺忪地说没胃口只吃了三片吐司。她注意到温水穿着烧盐的T恤并询问。烧盐说漏嘴——那件T恤原本要借给八奈见但尺寸穿不下（因为她胸围太大）。八奈见大声阻止已来不及。温水意识到这件T恤对八奈见太小是因为胸围后赶紧冷却思绪。",
+    "yanami_role_in_scene": "被曝光秘密的受害者：前一天的身材秘密在所有人面前被揭开",
+    "facts": [
+      {
+        "claim": "八奈见早餐吃了三片吐司",
+        "evidence_summary": "她虽然说自己没胃口，但温水注意到\"这家伙早上吃了三片吐司\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见因失眠睡眠不足",
+        "evidence_summary": "她说\"我不记得几点才重新睡着了。太想睡了，早餐也没什么胃口\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "烧盐的T恤对八奈见太小（因为胸围）",
+        "evidence_summary": "烧盐说\"这件昨天原本要借给八奈，可是尺寸——\"被八奈见尖声制止，但已经说漏嘴",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见不希望温水知道自己穿不下烧盐的衣服是因为身材原因",
+        "evidence_summary": "尖声叫道\"这件事，我不是说过不要讲吗！？\"",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和烧盐的关系特点是\"互曝秘密/互相捉弄\"",
+        "evidence_summary": "烧盐认为\"让阿温知道也没差吧\"，但八奈见不这么认为",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐（柠檬）",
+        "attitude": "亲密但会互相爆料的关系",
+        "behavior": "虽然请求烧盐保密，但再次被说漏嘴",
+        "evidence_summary": "烧盐再次不小心说出了她身材的秘密",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "在意在他眼中的形象",
+        "behavior": "不想让他知道自己穿不下烧盐的衣服",
+        "evidence_summary": "拼命阻止烧盐说出来，但已经暴露了",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "困倦",
+        "trigger": "没睡好",
+        "external_expression": "睡眼惺忪、打大呵欠、说没胃口",
+        "hidden_layer": "",
+        "confidence": "high"
+      },
+      {
+        "state": "害羞/生气",
+        "trigger": "身材秘密被公开",
+        "external_expression": "拔尖的叫声、大声抗议",
+        "hidden_layer": "在意温水对自己身材的认知",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["不要在温水面前暴露身材的尴尬"],
+    "insecurities": ["对自己胸部较大的身体在意", "在意温水对她的看法"],
+    "defense_mechanisms": [
+      "用大声制止来阻止尴尬话题继续",
+      "用夸张的表演（尖声抗议）把尴尬转化成喜剧"
+    ],
+    "behavior_patterns": [
+      "明明嘴上说没胃口实际还是会吃不少",
+      "秘密被人说漏嘴时反应剧烈"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "尖声制止别人泄露自己的秘密",
+        "example_summary": "\"柠檬！？\" \"这件事，我不是说过不要讲吗！？\"",
+        "when_used": "当烧盐要说出她不想让人知道的事情时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "早餐吃三片吐司（说没胃口但实际食量不小）",
+      "对柑橘酱有兴趣"
+    ],
+    "contradictions_or_tensions": [
+      "说没胃口但吃了三片吐司",
+      "在长辈家睡得不好但食量不减"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "没睡好的早晨",
+        "likely_response": "会抱怨睡眠不足但不会真的少吃",
+        "avoid": "不要完全没精神——她还是能正常互动和吃饭"
+      },
+      {
+        "situation": "身材尴尬再次被朋友揭穿",
+        "likely_response": "尖声抗议但不会真的记仇",
+        "avoid": "不要真的生气到破坏气氛——她虽然害羞但朋友之间的互动基调是轻松的"
+      }
+    ],
+    "quotes_to_avoid_copying": ["这件事，我不是说过不要讲吗！？"]
+  }
+]

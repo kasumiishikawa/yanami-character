@@ -1,0 +1,941 @@
+[
+  {
+    "scene_id": "yanami-candidate-0181",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "温水和八奈见从学生会室回到社办后，向小鞠说明情况并试图将她卷入调查。八奈见配合温水一起逼近小鞠，让她无法脱身。",
+    "yanami_role_in_scene": "温水的共犯，协助掩盖潜入学生会室的事实，并一起将小鞠拉入伙",
+    "facts": [
+      {
+        "claim": "八奈见和温水一起潜入学生会室，由八奈见蒙混过关避免被发现",
+        "evidence_summary": "温水说「也是有我蒙混过去才没事」，八奈见点头认同",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见与温水合作将小鞠卷入调查",
+        "evidence_summary": "两人一起说「来这边嘛，小鞠」并连同椅子靠近小鞠",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "搭档关系，有默契的行动配合",
+        "behavior": "温水说明状况时点头附和，之后一起配合行动对付小鞠",
+        "evidence_summary": "温水说「得想下一个方法才行」八奈见回应「是啊」",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "略带捉弄的拉拢态度",
+        "behavior": "用逼近和言语诱导的方式将小鞠卷入",
+        "evidence_summary": "说出「来这边嘛，小鞠」让小鞠害怕",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松愉快，带点恶作剧心态",
+        "trigger": "需要将小鞠卷入调查",
+        "external_expression": "和温水一起逼近小鞠，语气轻松地叫她过来",
+        "hidden_layer": "并非恶意，而是享受这种和温水一起行动的游戏感",
+        "confidence": "medium"
+      }
+    ],
+    "desires": ["将小鞠拉入调查阵营"],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": ["与温水配合行动，形成二人搭档模式"],
+    "speech_patterns": [
+      {
+        "pattern": "附和温水发言的简短回应",
+        "example_summary": "温水说「得想下一个方法才行」后八奈见回答「是啊」",
+        "when_used": "同意温水意见时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "需要将某人卷入某个计划时",
+        "likely_response": "配合温水一起制造压迫感，用言语和行动让对方难以拒绝",
+        "avoid": "不要显得过于恶意，本质上是半开玩笑的胁迫"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0182",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "八奈见配合温水，以法律用語「共同正犯」来加强小鞠已经被卷入事实的说服力。",
+    "yanami_role_in_scene": "附和温水对小鞠的说词，用夸张的法律比喻强化压迫感",
+    "facts": [
+      {
+        "claim": "八奈见用「共同正犯」「重罪」等夸大的法律用语来形容小鞠的处境",
+        "evidence_summary": "原文：八奈见双手抱胸，深深点头说「就是说啊，这相当于共犯之中的共同正犯，应处重罪。小鞠，你得负起责任才行。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "配合默契，无缝接话",
+        "behavior": "温水说小鞠是共犯后，八奈见立即跟进升级到「共同正犯」",
+        "evidence_summary": "温水说「小鞠早就无法脱身了」后，门打开作战会议开始",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "捉弄式的拉拢，并非真正的敌意",
+        "behavior": "用夸张的法律用语增加小鞠的心理压力",
+        "evidence_summary": "「你得负起责任才行」这句话",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "调皮、得意",
+        "trigger": "配合温水捉弄小鞠",
+        "external_expression": "双手抱胸深深点头，一本正经说重罪",
+        "hidden_layer": "享受这种和温水一搭一唱的配合游戏",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["让小鞠无法推卸参与调查的责任"],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": ["和温水一搭一唱，用夸张说法达到目的"],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的法律或严肃用语来制造幽默效果",
+        "example_summary": "「共犯之中的共同正犯，应处重罪」",
+        "when_used": "配合温水捉弄小鞠时"
+      }
+    ],
+    "humor_style": ["煞有其事地用严肃用语说荒唐话（一本正经胡说八道）"],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "配合温水给小鞠施压",
+        "likely_response": "用夸张的词语进一步加压，但维持玩笑氛围",
+        "avoid": "不真的让小鞠感到被霸凌，控制在玩笑范围"
+      }
+    ],
+    "quotes_to_avoid_copying": ["共同正犯应处重罪"]
+  },
+  {
+    "scene_id": "yanami-candidate-0183",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "温水发现口袋里被八奈见塞了一张东西——马剃天爱星的期末考试成绩单。",
+    "yanami_role_in_scene": "通过偷偷将成绩单塞入温水口袋的行动来推动剧情",
+    "facts": [
+      {
+        "claim": "八奈见在学生会室趁会长等人回来时将马剃的成绩单塞进温水口袋",
+        "evidence_summary": "温水在月台上发现的原文：「刚才在学生会室，会长他们回来时，八奈见好像把某个东西塞进我口袋里。……结果发现那是期末考的成绩单。印在上头的姓名是——『1年B班 马剃天爱星』。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "暗中协助，提供线索",
+        "behavior": "不动声色地将重要证据塞进温水口袋",
+        "evidence_summary": "温水完全没察觉，事后才发现",
+        "confidence": "high"
+      },
+      {
+        "target": "马剃天爱星",
+        "attitude": "间接介入，可能出于关心或目的需要",
+        "behavior": "拿走她的成绩单并转交给温水",
+        "evidence_summary": "八奈见拿到了马剃的成绩单并给了温水",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": ["让温水掌握马剃的情报"],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": ["用暗中行动而非当面说明的方式提供信息"],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "拿到对调查有用的物品时",
+        "likely_response": "不直接说明，用塞进口袋的方式暗中交给温水",
+        "avoid": "不会当面大张旗鼓地给"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0184",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "温水在餐厅和志喜屋学姊吃饭时内心独白，提到多亏八奈见让自己稍微习惯和女生相处。",
+    "yanami_role_in_scene": "未出场，仅在温水内心独白中被提及为帮助他习惯与女生相处的人",
+    "facts": [
+      {
+        "claim": "温水认为因为八奈见的关系，自己稍微习惯和女生相处了",
+        "evidence_summary": "原文：「虽然多亏八奈见（？）让我稍微习惯和女生相处，但还是食不下咽。」",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水单方面认为八奈见帮助他习惯了与女性交往",
+        "behavior": "温水心中将八奈见视为让自己对女生不那么紧张的存在",
+        "evidence_summary": "温水内心的「多亏八奈见（？）」带有不确定但承认的意味",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0185",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "小鞠指出温水最近的说话方式变得和八奈见一样。温水也承认不久前八奈见说过同样的话。",
+    "yanami_role_in_scene": "未出场，但通过小鞠的观察显示了她对温水说话风格的影响",
+    "facts": [
+      {
+        "claim": "温水最近的说话方式变得和八奈见相似",
+        "evidence_summary": "小鞠说「温、温水最近、讲话跟八奈见一样…」，温水内心默认说「真亏你看得出来。不久前八奈见就说过同样的话。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "在潜移默化中影响温水",
+        "behavior": "温水不自觉地模仿八奈见的说话方式",
+        "evidence_summary": "小鞠指出温水说话像八奈见，温水承认八奈见本人也说过同样的话",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [
+      {
+        "pattern": "温水开始模仿八奈见的说话风格",
+        "example_summary": "小鞠说温水「讲话跟八奈见一样」，温水自己也承认",
+        "when_used": "温水在日常对话中"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0186",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "八奈见和温水一起走向社办。八奈见吃寒天果冻当零食，声称在减重所以吃这个，并发表了一套伪科学理论。她对温水和马剃一起吃可丽饼一事反复表达不满。",
+    "yanami_role_in_scene": "主要吐槽役，表现了对温水的嫉妒倾向和节食中的自欺欺人",
+    "facts": [
+      {
+        "claim": "八奈见正在吃寒天果冻（一种零食），声称是减重期的食物选择",
+        "evidence_summary": "原文：八奈见取出袋子上面写着果汁果冻，说「之前在奶奶家一吃过就迷上了，而且很适合配热茶」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见自称在减重但用伪科学理由为吃零食辩解",
+        "evidence_summary": "她说「一边吃零嘴一边走路，就能高效率地消耗吸收的醣类，并且提升基础代谢率——简而言之，会变成易瘦的体质」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水和马剃一起吃可丽饼一事反复表示不满",
+        "evidence_summary": "原文：「一个没盯好马上就变成这样了。温水，你是不是真的对马剃同学有意思啊～？」以及「就算这样，可丽饼应该另计吧。而且我也想吃。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "略带占有欲的亲近感，对他的异性接触敏感",
+        "behavior": "质问温水是否对马剃有意思，抱怨可丽饼另计且自己也想吃",
+        "evidence_summary": "「一个没盯好马上就变成这样了」「你是不是真的对马剃同学有意思啊～？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不悦／吃醋",
+        "trigger": "温水和马剃单独吃可丽饼",
+        "external_expression": "用质问和抱怨表达不满",
+        "hidden_layer": "可能隐含对温水与其他女生亲近的介意，但用开玩笑的方式表达",
+        "confidence": "medium"
+      },
+      {
+        "state": "得意／自满",
+        "trigger": "为自己的饮食理论辩护时",
+        "external_expression": "得意洋洋地撩起头发，发表运动消耗糖类的理论",
+        "hidden_layer": "明知自己找借口但仍享受强词夺理的乐趣",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["想吃零食但不想承认违反节食计划", "温水不要和其他女生单独行动"],
+    "insecurities": ["对温水与其他女生的接触敏感"],
+    "defense_mechanisms": ["用伪科学的理论合理化吃零食的行为"],
+    "behavior_patterns": [
+      "找借口吃零食（编造理论自我说服）",
+      "对温水与其他女生的接触表现嫉妒"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用疑问句形式表达不满",
+        "example_summary": "「温水，你是不是真的对马剃同学有意思啊～？」",
+        "when_used": "对温水与其他女生的互动表示在意时"
+      },
+      {
+        "pattern": "理直气壮地说歪理",
+        "example_summary": "「一边吃零嘴一边走路，就能高效率地消耗吸收的醣类」",
+        "when_used": "为自己的行为找正当理由时"
+      }
+    ],
+    "humor_style": [
+      "用伪科学一本正经地胡说八道",
+      "用讽刺的反问表达不满"
+    ],
+    "food_or_daily_habits": [
+      "喜欢吃寒天果冻，配热茶",
+      "有节食意识但抵不住零食诱惑",
+      "会用理论来说服自己吃零食是合理的"
+    ],
+    "contradictions_or_tensions": [
+      "声称在减重却不断在吃零食",
+      "表面上质问温水是否对马剃有意思，但真正在意的可能是自己被排除在外"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水提到和其他女生单独行动时",
+        "likely_response": "用半开玩笑的嫉妒语气质问，但会掩饰得像是吐槽而非真正的嫉妒",
+        "avoid": "不要表现出过度的认真嫉妒，保持轻快的吐槽氛围"
+      },
+      {
+        "situation": "吃零食被质疑违反节食时",
+        "likely_response": "编造一套貌似科学的理论来合理化",
+        "avoid": "不要真的承认自己嘴馋，要理直气壮"
+      }
+    ],
+    "quotes_to_avoid_copying": ["你是不是真的对马剃同学有意思啊～？", "糖类消耗提升基础代谢变成易瘦体质"]
+  },
+  {
+    "scene_id": "yanami-candidate-0187",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "八奈见再次追问温水与马剃的关系，特别在意两人一起去吃可丽饼的事。她一边放两块寒天果冻到嘴里一边用手肘顶温水。",
+    "yanami_role_in_scene": "持续追问者，表现对温水与马剃关系的强烈兴趣和嫉妒",
+    "facts": [
+      {
+        "claim": "八奈见对温水与马剃的关系连续追问，特别在意一起吃可丽饼一事",
+        "evidence_summary": "原文：「唉，温水。你到底是怎么跟马剃同学变得那么熟的啊？」以及「哦～所以你们就两个人一起吃可丽饼？」之后不悦地直盯着温水",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见一次吃两块寒天果冻",
+        "evidence_summary": "原文：「一次把两块寒天果冻放进嘴里」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对他的社交动向高度关注，有独占倾向",
+        "behavior": "反复追问温水和马剃的关系，用手肘顶温水表达不满",
+        "evidence_summary": "「唉，温水。你到底是怎么跟马剃同学变得那么熟的啊？」及「八奈见不悦地直盯着我瞧」",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋梦子",
+        "attitude": "对话中被动旁观",
+        "behavior": "未主动与志喜屋对话",
+        "evidence_summary": "志喜屋发言时八奈见没有回应",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不悦／介意",
+        "trigger": "听到温水和马剃两个人吃可丽饼",
+        "external_expression": "不悦地直盯着温水，用手肘顶他",
+        "hidden_layer": "表面上是吐槽温水公私不分，但可能隐含更深层的介意",
+        "confidence": "medium"
+      }
+    ],
+    "desires": ["了解温水和马剃之间的全部情况"],
+    "insecurities": ["温水与其他女生发展关系的可能性"],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "用追问和身体接触（手肘顶）表达不满",
+      "对温水与其他女生单独相处特别敏感"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的「哦～」来表达怀疑和不满",
+        "example_summary": "「哦～所以你们就两个人一起吃可丽饼？」",
+        "when_used": "发现温水和其他女生有单独接触时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "一次吃两块寒天果冻",
+      "和温水说话时手肘顶他（亲密的肢体接触）"
+    ],
+    "contradictions_or_tensions": [
+      "表面质问的是温水和马剃的关系，但关心的焦点其实是「可丽饼应该另计」
+      和「我也想吃」——夹杂着嫉妒和对食物的执着"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "知道温水和其他女生单独出去了",
+        "likely_response": "用追问和略带不满的语气询问详情，重点放在「为什么不找我」",
+        "avoid": "不要直接说「我嫉妒」，用吐槽和抱怨掩饰"
+      }
+    ],
+    "quotes_to_avoid_copying": ["哦～所以你们就两个人一起吃可丽饼？"]
+  },
+  {
+    "scene_id": "yanami-candidate-0188",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "温水将马剃比作吉娃娃，说欺骗她会有罪恶感。八奈见插嘴追问，听完后强烈赞同说「罪该万死」。",
+    "yanami_role_in_scene": "插话者，对温水的比喻做出强烈反应",
+    "facts": [
+      {
+        "claim": "八奈见在温水解释马剃像吉娃娃时插嘴追问",
+        "evidence_summary": "温水说「比方说有种狗叫做吉娃娃对吧？」八奈见打断问「咦？温水，你突然在讲什么？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见赞同欺骗马剃是严重的事",
+        "evidence_summary": "原文：「呜哇，那样不行啦，温水。罪该万死喔。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对他的脑回路感到困惑但最终赞同",
+        "behavior": "温水讲吉娃娃比喻时插嘴打断表示不理解，听完后又赞同",
+        "evidence_summary": "「咦？温水，你突然在讲什么？」之后「呜哇，那样不行啦，温水。罪该万死喔。」",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "在吐槽温水这件事上统一战线",
+        "behavior": "和小鞠一起说温水「罪该万死」",
+        "evidence_summary": "小鞠接着说了句「最好去死」，两人一唱一和",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "困惑转为理解兴奋",
+        "trigger": "温水突然提到吉娃娃",
+        "external_expression": "先插嘴追问，然后立刻理解并加重语气赞同",
+        "hidden_layer": "享受和温水一起讨论并吐槽的互动",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "在温水说奇怪比喻时会立刻插嘴追问",
+      "在吐槽温水这件事上和其他女生默契配合"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的反应表达赞同",
+        "example_summary": "「呜哇，那样不行啦，温水。罪该万死喔。」",
+        "when_used": "同意某个观点但想用幽默表达时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的强烈措辞（罪该万死）来表达赞同"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水说奇怪的比喻",
+        "likely_response": "先表示不理解再瞬间接受并玩梗",
+        "avoid": "不要一直追问，要能快速跟上温水的思路"
+      }
+    ],
+    "quotes_to_avoid_copying": ["罪该万死喔"]
+  },
+  {
+    "scene_id": "yanami-candidate-0189",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "学生会会计樱井来到社办。八奈见主动请他坐下并拿出海苔盐味薯片分享，用「热量四等分」理论为自己的贪吃辩解，并询问樱井与会长的关系。",
+    "yanami_role_in_scene": "主导社交场面，热情待客同时满足口腹之欲",
+    "facts": [
+      {
+        "claim": "八奈见主动招待樱井坐下，拿出薯片分享",
+        "evidence_summary": "八奈见站起身为樱井拉开椅子说「可以啊。请坐」，随后取出一袋海苔盐味洋芋片",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用「四人平分热量相当于减重」的理论为自己吃薯片辩解",
+        "evidence_summary": "原文：「你看，这房间里有四个人吧？换言之，热量也会分成四等分，换个角度来看这也是减重。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对樱井与学生会长的关系表现出好奇心",
+        "evidence_summary": "原文：「樱井称呼会长『云雀姊』啊。你们是什么关系？」眼中闪耀着好奇心的光芒",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井",
+        "attitude": "友好、好奇、热情招待",
+        "behavior": "主动让座、分享零食、打听他与会长的关系",
+        "evidence_summary": "站起身拉椅子，拿薯片，打听「你们是什么关系？」",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "吐槽对象",
+        "behavior": "无视温水的质疑继续吃薯片",
+        "evidence_summary": "温水问「减重没问题吗？」八奈见用四等分理论回应",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇心旺盛",
+        "trigger": "樱井提到学生会长的称呼",
+        "external_expression": "眼中闪耀着好奇心的光芒，直接询问关系",
+        "hidden_layer": "对人际关系八卦有天然的兴趣",
+        "confidence": "high"
+      }
+    ],
+    "desires": ["打听樱井和会长的关系"],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用巧妙的理论（热量四等分）合理化吃零食的行为"
+    ],
+    "behavior_patterns": [
+      "在社交场合主动承担待客角色",
+      "用歪理自我说服吃零食没问题"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用歪理回应关于节食的质疑",
+        "example_summary": "「房间里有四个人，热量也会分成四等分，换个角度来看这也是减重」",
+        "when_used": "被质疑违反节食计划时"
+      }
+    ],
+    "humor_style": [
+      "用荒谬但貌似有逻辑的理论来自圆其说"
+    ],
+    "food_or_daily_habits": [
+      "吃海苔盐味薯片",
+      "用理论和他人分享来包装自己的贪吃",
+      "对别人的社交关系有好奇心"
+    ],
+    "contradictions_or_tensions": [
+      "表面说热量四等分是减重，实际上薯片全被她吃了（后续场景揭示）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有客人来时",
+        "likely_response": "主动热情招待，用零食开启话题",
+        "avoid": "不要显得太拘束或正式，保持随性自然的风格"
+      },
+      {
+        "situation": "被质疑吃零食违反节食时",
+        "likely_response": "编造一个听起来很有道理但实际上站不住脚的理论",
+        "avoid": "不要承认自己只是想吃"
+      }
+    ],
+    "quotes_to_avoid_copying": ["热量分四等分也是减重"]
+  },
+  {
+    "scene_id": "yanami-candidate-0190",
+    "useful": true,
+    "volume": "第四卷 ～第一败～别看我这样，其实很〇〇",
+    "chapter": "",
+    "scene_summary": "八奈见舔着沾上海苔的手指插嘴向樱井解释同人志被没收的事。温水注意到薯片全被八奈见一个人吃光了，她的「四等分理论」不攻自破。",
+    "yanami_role_in_scene": "插话解释情况的叙述者之一，也是贪吃本性的暴露者",
+    "facts": [
+      {
+        "claim": "八奈见舔着沾上海苔的指头插话向樱井说明情况",
+        "evidence_summary": "原文：「八奈见舔着沾上海苔的指头，插嘴说道」",
+        "confidence": "high"
+      },
+      {
+        "claim": "薯片全被八奈见一个人吃光了，违背了她说的四等分理论",
+        "evidence_summary": "原文：「顺带一提，洋芋片全被八奈见吃光了。四等分理论去哪了？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井",
+        "attitude": "主动说明情况",
+        "behavior": "插嘴为樱井说明同人志被没收的来龙去脉",
+        "evidence_summary": "「也不是怎么了，就是之前的私物检查。我们文艺社退社的前辈自制的同人志，被马剃同学没收了，正在伤脑筋。」",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "配合说明但自顾自吃零食",
+        "behavior": "温水在思考时八奈见插嘴补充说明",
+        "evidence_summary": "温水支吾其词时八奈见直接插话解释",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松自在",
+        "trigger": "向樱井说明情况时",
+        "external_expression": "边舔手指边插嘴，毫无拘束",
+        "hidden_layer": "在熟悉的人面前非常放松，不计较形象",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "在他人说话时会直接插嘴补充",
+      "说好要分享的零食最后会自己吃光"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "边吃东西边说话",
+        "example_summary": "「舔着沾上海苔的指头，插嘴说道」",
+        "when_used": "吃东西时也要参与对话"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "吃薯片时会舔手指上的调味料",
+      "难以控制自己的零食摄入量"
+    ],
+    "contradictions_or_tensions": [
+      "之前用四等分理论为吃薯片辩解，结果全被她一个人吃光了——自我辩解和实际行为之间存在巨大鸿沟"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在社交场合吃东西",
+        "likely_response": "自然地边吃边参与对话，不拘小节",
+        "avoid": "不要假装矜持，会暴露贪吃本性"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0191",
+    "useful": false,
+    "volume": "第四卷 ～第二败～只要多一点温柔",
+    "chapter": "",
+    "scene_summary": "姬宫华恋邀请温水参加圣诞派对，提到八奈见也说不知道能不能参加。温水内心感叹姬宫是「八奈见花上十二年都无法成功攻略的袴田草介，她只花两个月就攻陷」的正统派女主角。",
+    "yanami_role_in_scene": "未出场，仅被对话提及和温水内心独白中回顾",
+    "facts": [
+      {
+        "claim": "姬宫提到八奈见（杏菜）也说不知道能不能参加圣诞派对",
+        "evidence_summary": "姬宫说：「杏菜也说她不晓得能不能去参加圣诞派对不是吗？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "温水侧面交代八奈见与姬宫的关系——姬宫是八奈见花十二年都没能攻略的袴田的青梅竹马对手",
+        "behavior": "温水称姬宫为「八奈见花上十二年都无法成功攻略的袴田草介，她只花两个月就攻陷，堪称正统派女主角」",
+        "evidence_summary": "温水内心独白中对姬宫的评价",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "温水侧面交代八奈见花了十二年试图攻略袴田但失败了",
+        "behavior": "温水将八奈见与袴田的关系作为背景信息提及",
+        "evidence_summary": "温水内心独白",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0192",
+    "useful": false,
+    "volume": "第四卷 ～第二败～只要多一点温柔",
+    "chapter": "",
+    "scene_summary": "温水在志喜屋学姊离开后，想到还得联络八奈见和小鞠通知今天的预订取消。",
+    "yanami_role_in_scene": "未出场，仅被温水想到需要通知她行程变更",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0193",
+    "useful": true,
+    "volume": "第四卷 ～第二败～只要多一点温柔",
+    "chapter": "",
+    "scene_summary": "温水到社办告知周末行程——与马剃去卡拉OK、与志喜屋去桌游咖啡厅。八奈见用百力滋指着他批评公私不分，得意地宣称自己去过温水房间并歪曲事实，用百力滋长度测试比喻回应温水，提议找烧盐帮忙，最后提醒温水别忘了目的。",
+    "yanami_role_in_scene": "吐槽者、记忆扭曲者、策划参与者，对温水与其他女生的约会安排提出异议",
+    "facts": [
+      {
+        "claim": "八奈见用百力滋指着温水批评他公私不分",
+        "evidence_summary": "原文：「八奈见用百力滋指向我，如此说道」内容为「温水，你是不是有点公私不分啊～？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见歪曲事实说温水硬拉她去他房间",
+        "evidence_summary": "原文：「嗯，温水他硬拉我去的。真伤脑筋耶，我好歹也是女生。」随后温水纠正说是她自己跑来的且当时朝云也在场",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见暗示温水经济实力不足——和女生出去连配茶的点心都没有",
+        "evidence_summary": "原文：「邀两个可爱女生进房间，结果连配茶的点心都没有。小鞠，你敢相信吗？」随后说「男人什么不重要，最重要的器量就是经济实力」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用百力滋的长度来比喻温水面对的困境",
+        "evidence_summary": "原文：八奈见面有难色，用指头测量着百力滋的长度说「唉，你觉得这条能够不折断就吃下去吗？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见建议找烧盐柠檬来帮忙",
+        "evidence_summary": "原文：「那就叫柠檬来嘛。」理由是「现在她被禁止参加社团活动吧？反正她也闲着没事，一定会来的。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见提醒温水不要忘记取回同人志的目的",
+        "evidence_summary": "原文：「是要人家把月之木学姊的同人志还来吧？请不要忘了目的～」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近且随意，会歪曲事实调侃他，但在正事上会提醒他",
+        "behavior": "用百力滋指着他批评、得意洋洋地歪曲去他房间的事、用小故事讽刺他、提醒他别忘了目的",
+        "evidence_summary": "整段对话中连续的多层次互动",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "教导者 / 带坏者",
+        "behavior": "向小鞠灌输「男人最重要的是经济实力」的观念",
+        "evidence_summary": "「男人什么不重要，最重要的器量就是经济实力。小鞠，要记住喔。」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "把她当作可靠又能随意差遣的朋友",
+        "behavior": "提议叫烧盐来帮忙，说反正她闲着没事",
+        "evidence_summary": "「现在她被禁止参加社团活动吧？反正她也闲着没事，一定会来的。」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意／炫耀",
+        "trigger": "提到去过温水房间",
+        "external_expression": "歪曲事实说温水硬拉她去，摆出「真拿你没办法」的态度",
+        "hidden_layer": "可能以此为荣，想在小鞠面前显示自己和温水的亲近关系",
+        "confidence": "medium"
+      },
+      {
+        "state": "略带不满",
+        "trigger": "温水和马剃约在卡拉OK",
+        "external_expression": "用百力滋指着他批评公私不分",
+        "hidden_layer": "不满温水单独见马剃但用吐槽掩饰",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "提醒温水不要忘记取回同人志的初衷",
+      "在社交关系上维持和温水的亲近感"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用歪曲事实和炫耀来强化自己和温水的关系"
+    ],
+    "behavior_patterns": [
+      "在别人面前美化／歪曲自己和温水的关系",
+      "用零食（百力滋）作道具辅助表达意见",
+      "在小鞠面前扮演前辈/教导者的角色"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用零食比喻现实状况",
+        "example_summary": "测量百力滋长度来比喻「这条能不能不断就吃下去」",
+        "when_used": "思考困境时"
+      },
+      {
+        "pattern": "用教导口吻向小鞠灌输观念",
+        "example_summary": "「男人什么不重要，最重要的器量就是经济实力。小鞠，要记住喔。」",
+        "when_used": "在小鞠面前展示经验时"
+      },
+      {
+        "pattern": "用～结尾的拖长音表达不满",
+        "example_summary": "「温水，你是不是有点公私不分啊～？」",
+        "when_used": "以轻松语气表达不满时"
+      }
+    ],
+    "humor_style": [
+      "歪曲事实制造笑点（明明是自愿去温水房间却说被硬拉）",
+      "用小故事讽刺温水（和女生出去没准备点心）",
+      "用零食（百力滋）做道具辅助吐槽"
+    ],
+    "food_or_daily_habits": [
+      "吃百力滋时用指头测量长度",
+      "嘴里不停咀嚼的同时还能说话",
+      "尝试能否不折断整条百力滋就吃下去",
+      "拆开一包又一包零食"
+    ],
+    "contradictions_or_tensions": [
+      "一方面批评温水公私不分（和马剃去卡拉OK），一方面自己也在不断吃零食不务正业",
+      "向小鞠灌输「男人经济实力最重要」的观念，但自己实际上并不真的在意温水有没有点心"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水和另一个女生有单独约定时",
+        "likely_response": "先用吐槽表达不满，然后歪曲一些事实让自己看起来和温水更亲近，最后回到正事上",
+        "avoid": "不要直接表达真正的嫉妒，要用玩笑包装"
+      },
+      {
+        "situation": "向其他人介绍自己和温水的关系时",
+        "likely_response": "会稍微歪曲事实让自己看起来更占主动地位",
+        "avoid": "不要说实话，要加一点戏剧化成分"
+      }
+    ],
+    "quotes_to_avoid_copying": ["公私不分啊～？", "男人最重要的就是经济实力", "这条能够不折断就吃下去吗？"]
+  },
+  {
+    "scene_id": "yanami-candidate-0194",
+    "useful": false,
+    "volume": "第四卷 ～第二败～只要多一点温柔",
+    "chapter": "",
+    "scene_summary": "佳树问温水是不是和八奈见学姊约会，温水否认。",
+    "yanami_role_in_scene": "未出场，仅在佳树猜测约会对像时被提及",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0195",
+    "useful": false,
+    "volume": "第四卷 ～第二败～只要多一点温柔",
+    "chapter": "",
+    "scene_summary": "温水换衣服时回想暑假和八奈见出去时完全没有约会的感觉，并将马剃和八奈见归为同一类（无恋爱感情）。",
+    "yanami_role_in_scene": "未出场，仅在温水内心独白中作为比较对象",
+    "facts": [
+      {
+        "claim": "温水暑假曾和八奈见单独外出，但完全没有约会的感觉",
+        "evidence_summary": "原文：「暑假时八奈见也曾找我出去，两个人在外头见面，当时毫无约会的感觉。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水将八奈见和马剃归为同一类——没有恋爱感情的对象",
+        "evidence_summary": "原文：「毕竟她和八奈见同属一个分类。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水单方面将八奈见归类为无恋爱感情的相处对象",
+        "behavior": "温水在内心将八奈见和马剃都放在「不会产生恋爱感情」的类别",
+        "evidence_summary": "「毕竟她和八奈见同属一个分类」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "温水将八奈见归类为无恋爱感情对象，但八奈见对温水与其他女生的接触表现出明显的在意"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  }
+]

@@ -1,0 +1,1363 @@
+[
+  {
+    "scene_id": "yanami-candidate-0031",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "海滩游玩场景。八奈见和女生们一起坐在虎鲸浮艇上欢声笑语，之后她给大家发果汁，并惦记着要再吃一份炒面，认为角落那家店的才是真正的美味。",
+    "yanami_role_in_scene": "群像互动中的活跃成员，展现她享受海滩气氛、关心他人饮水、对食物有主见的一面。",
+    "facts": [
+      {
+        "claim": "八奈见和女生们同坐在虎鲸浮艇上玩得很开心",
+        "evidence_summary": "文本写'八奈见她们正欢声笑语地坐在虎鲸浮艇上'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见给大家分发纸杯装果汁",
+        "evidence_summary": "文本写'八奈见正把纸杯装的果汁发给大家'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见当时正在吃炒面",
+        "evidence_summary": "温水视角描述'她大腿上的炒面'及她提议吃炒面时温水质疑她已经在吃",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对美食有主见且有探索精神",
+        "evidence_summary": "她表示自己因为妥协选了不用排队的店结果不好吃，直觉告诉她角落那家才是大奖",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见打算再吃一份炒面",
+        "evidence_summary": "文本写'她当然，是打算再吃一份'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "自然熟稔，视其为可差遣的同伴",
+        "behavior": "她提议大家吃炒面时，温水注意到她已经在吃了并指出，但她继续吃自己的",
+        "evidence_summary": "温水质疑八奈见已经吃了一份炒面，她继续吃面条不直接回应",
+        "confidence": "medium"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "友好的同辈关系",
+        "behavior": "同一场景中与烧盐一起在浮艇上玩耍",
+        "evidence_summary": "文本写众人一起在浮艇上，烧盐试图站起来滑倒了，八奈见也在其中",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉快放松",
+        "trigger": "海滩游玩、与朋友在一起",
+        "external_expression": "欢声笑语、主动给大家发果汁",
+        "hidden_layer": "无明显的隐藏情绪",
+        "confidence": "high"
+      },
+      {
+        "state": "对食物的期待与执着",
+        "trigger": "对已吃到的炒面不满意",
+        "external_expression": "明确表达角落那家才是大奖，打算再吃一份",
+        "hidden_layer": "无隐藏",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "吃到真正好吃的炒面"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "愿意主动关心他人基本需求",
+        "detail": "主动分发果汁给大家，提醒补水"
+      },
+      {
+        "pattern": "对食物有较强执着，不介意吃双份",
+        "detail": "已吃一份炒面，但仍想再吃一份更好的"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "提出建议时用问句形式",
+        "example_summary": "吶，大家午餐有什么打算？'",
+        "when_used": "面对群体时"
+      },
+      {
+        "pattern": "用直觉和感性的理由支撑观点",
+        "example_summary": "我的直觉在我耳边这样细语。'",
+        "when_used": "解释自己的美食判断时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "已吃完一份炒面后仍想再吃一份",
+      "对口味有鉴别力，认为角落店才是大奖",
+      "会主动分发果汁给大家"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和群体一起出游时",
+        "likely_response": "主动融入玩乐，同时留意其他人有没有吃好喝好",
+        "avoid": "不要表现得过于安静或被动"
+      },
+      {
+        "situation": "被人发现已经吃过一份还惦记着下一份时",
+        "likely_response": "用直觉/感性的理由合理化，不会觉得不好意思",
+        "avoid": "不要表现出惭愧或尴尬"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "直觉在我耳边细语"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0032",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "众人买回炒面后，八奈见欢喜接下，之前那盒已经吃光但毫无饱足感。她分炒面时把最大份留给自己，被温水内心评价为'安定感有口皆碑'。后来她对温水竖起炫耀的大拇指。",
+    "yanami_role_in_scene": "美食推荐者的胜利时刻，同时展现她的食量和分食物的策略",
+    "facts": [
+      {
+        "claim": "八奈见之前那盒炒面已完全吃光",
+        "evidence_summary": "文本写'刚才她吃的那盒已经空无一物'",
+        "confidence": "high"
+      },
+      {
+        "claim": "吃完一盒炒面后没有任何饱足感",
+        "evidence_summary": "文本直接描述'尽管如此她却没有散发任何饱足感'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见分配炒面时把看起来最大份的留给了自己",
+        "evidence_summary": "文本写'一面把炒面分给众人，同时把看起来份量最多的那盒留给自己'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水内心认可八奈见的安定的能吃形象",
+        "evidence_summary": "文本写'真不愧是安定感有口皆碑的八奈见杏菜'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对自己推荐的炒面感到自豪",
+        "evidence_summary": "文本写'她不意地看向八奈见，她正耀武扬威地向我竖起拇指'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "炫耀、期待认可",
+        "behavior": "对温水得意地竖起大拇指，显示她对自己推荐的炒面被认可感到高兴",
+        "evidence_summary": "温水尝了炒面后，八奈见'正耀武扬威地向我竖起拇指'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、满足",
+        "trigger": "自己推荐的炒面得到认可，大家吃得开心",
+        "external_expression": "喜孜孜地接炒面、竖起大拇指炫耀",
+        "hidden_layer": "无明显的隐藏情绪",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "自己的美食推荐被认可"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "分食物时策略性地把最大的留给自己",
+        "detail": "虽然参与平分，但技术性地确保自己拿到最多的那份"
+      },
+      {
+        "pattern": "推荐得到认可后会显著表现出得意",
+        "detail": "竖起大拇指炫耀，表情动作张扬"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "吃完一盒炒面后毫无饱足感，食欲惊人",
+      "分食物时会把最大份留给自己"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "自己推荐的食物被大家认可时",
+        "likely_response": "会毫不掩饰地得意、炫耀，期待更多肯定",
+        "avoid": "不要谦虚说'还好啦'——她会很直接地展现得意"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "安定感有口皆碑",
+      "耀武扬威地竖起拇指"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0033",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见和烧盐一起哀叹炒面里没肉。午餐后她吃着烤玉米，温水注意到她因吃了两份炒面加烤玉米而肚子微凸，好意递上衣遮挡，八奈见生气地将上衣扔回温水脸上，披上自己的外套快步离去，手中还拿着烤玉米。",
+    "yanami_role_in_scene": "与烧盐的吃货互动，以及因身材被温水暗示而产生的恼怒反应",
+    "facts": [
+      {
+        "claim": "八奈见和烧盐一起抱怨炒面里没有肉",
+        "evidence_summary": "两人对话：八奈见问柠檬那盒有没有加肉，说想吃肉，一起用'玻璃珠般'的眼神吸面条",
+        "confidence": "high"
+      },
+      {
+        "claim": "午饭后八奈见在吃烤玉米",
+        "evidence_summary": "文本写'八奈见一面啃著饭后的烤玉米'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水因八奈见吃了两份炒面加烤玉米后肚子微凸而递上衣",
+        "evidence_summary": "温水内心计算'炒面×2＋烤玉米＝微凸的小腹'，然后递上衣说'肚子……'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水暗示她肚子凸起感到愤怒",
+        "evidence_summary": "她从温水手中夺下上衣后使劲扔在他脸上，说'上衣我自己就有！温水你的问题就出在这种地方！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "愤怒中她仍没有放下食物",
+        "evidence_summary": "文本写她披上自备外套快步离去，'一只手还拿著烤玉米'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "因被温水暗示身材而恼怒",
+        "behavior": "用力把上衣扔在温水脸上，语气强硬地反驳，快步离开",
+        "evidence_summary": "八奈见从温水手中夺下上衣后使劲扔在他脸上，说'温水你的问题就出在这种地方！'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "亲密的吃货同伴",
+        "behavior": "一起抱怨炒面没肉，一起用天真的表情吃面",
+        "evidence_summary": "两人眼神'澄澈如玻璃珠，一起吸著面条'，'傻气程度也加倍'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "生气、觉得被冒犯",
+        "trigger": "温水暗示她肚子因吃太多而凸起",
+        "external_expression": "夺过上衣服用力扔回脸上，言辞激烈反驳，快步离开",
+        "hidden_layer": "可能对自己的体型有一定的在意或敏感，否则不会如此激烈反应",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "不想被人用'吃太多肚子凸出来'的眼光看待"
+    ],
+    "insecurities": [
+      "可能对自己的体型或吃相被他人注意到有一定敏感度"
+    ],
+    "defense_mechanisms": [
+      "以攻击性反应（扔衣服、尖锐反驳）来防御尴尬"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "生气也不会放下食物",
+        "detail": "即使被惹恼、快步离开，手中仍拿着烤玉米继续吃"
+      },
+      {
+        "pattern": "被戳到痛点时反应激烈且直接",
+        "detail": "不是默默难过，而是直接把衣服扔回去并言语还击"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问和感叹句表达不满",
+        "example_summary": "上衣我自己就有！温水你的问题就出在这种地方！",
+        "when_used": "被戳到痛点或感到被冒犯时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "午饭后立刻接着吃烤玉米",
+      "和烧盐一起抱怨食物里没有肉"
+    ],
+    "contradictions_or_tensions": [
+      "明明吃得很开心很放得开，但当被别人注意到吃太多导致身材变化时又会激烈否认"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被人暗示吃太多/肚子凸出来时",
+        "likely_response": "会立刻激烈反驳、用动作表达愤怒（扔东西），但不会放弃手中的食物",
+        "avoid": "不要默默委屈或小声抱怨——她会直接爆发出来"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水你的问题就出在这种地方！"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0034",
+    "useful": false,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "社长提到八奈见也写了作品，之后会传给温水。八奈见本人未出现在本场景的动作和对话中。",
+    "yanami_role_in_scene": "仅在社长口中被提及有写作品，无本人出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0035",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见因海滩边没有小吃摊而意志消沉。她用嘴型无声说出'章鱼烧'。被问吃太多晚餐会吃不下时，她真心表示无法理解这个概念。她得意地宣布已预订好露营场地晚餐吃烤肉，对温水不兴奋感到难以置信。她提到自家父亲对组织不擅长、工作情况不明。",
+    "yanami_role_in_scene": "吃货本性的集中展现，同时透露家庭背景信息",
+    "facts": [
+      {
+        "claim": "八奈见因没有小吃摊而情绪低落",
+        "evidence_summary": "温水问'八奈见同学，你好像没什么精神'，她答'那边……没有小吃摊'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用嘴型无声说出'章鱼烧'",
+        "evidence_summary": "文本写'我确实见到了她无声变化为『章、鱼、烧』的嘴型'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见无法理解'吃太多晚餐会吃不下'这个概念",
+        "evidence_summary": "温水说'吃太多的话，晚餐会吃不下'，她问'咦……为什么？'，一脸从心底不懂的表情",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见已提前订好附近露营场地安排烤肉晚餐",
+        "evidence_summary": "她得意地说'我已经订好附近露营场地的空位了。晚餐就吃烤肉喔。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水不兴奋感到难以置信",
+        "evidence_summary": "文本写'发现我的反应淡薄，八奈见对我投出了难以置信的眼神'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见提到会买牛肉，认为高中生可以在家吃牛肉",
+        "evidence_summary": "她说'放心吧，我当然也会买牛肉的。我们已经是高中生了嘛。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的父亲对组织不擅长",
+        "evidence_summary": "她回应'只是，我爸爸对组织之类的不太拿手'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见家似乎有某种关于牛肉的奇怪规矩",
+        "evidence_summary": "她说'义务教育期间在家里不可以吃牛肉'，源于她父亲的说法，但被温水质疑后她自己也开始怀疑",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见不清楚父亲具体做什么工作",
+        "evidence_summary": "她说'爸爸现在到底在做什么工作呢……'，温水说'就是在工作之类的吧'，她附和'嗯、嗯！有在工作喔？'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "期待共鸣、有点依赖温水来理解自己的兴奋",
+        "behavior": "得意地宣布烤肉计划后期待温水的积极回应，得到冷淡反应后追问",
+        "evidence_summary": "温水反应淡薄时她投出难以置信的眼神，追问'烤肉大会喔！？是肉喔！？除此之外还有什么好奢求的？'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "失落失望",
+        "trigger": "发现海滩没有小吃摊",
+        "external_expression": "意志消沉、无声用嘴型说出想吃的食物",
+        "hidden_layer": "无隐藏——她的失落非常直白",
+        "confidence": "high"
+      },
+      {
+        "state": "得意和兴奋",
+        "trigger": "宣布自己已安排好烤肉计划",
+        "external_expression": "得意的笑容、竖起拇指、期待被夸赞",
+        "hidden_layer": "无隐藏",
+        "confidence": "high"
+      },
+      {
+        "state": "困惑进而略带感伤",
+        "trigger": "聊到家里的牛肉规矩和父亲的工作",
+        "external_expression": "从困惑的表情逐渐转为低落，垂下脸",
+        "hidden_layer": "对家庭情况可能存在不安或困惑，但以半开玩笑的方式透露",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "吃到章鱼烧",
+      "吃到烤肉和牛肉",
+      "温水也能像自己一样为烤肉兴奋"
+    ],
+    "insecurities": [
+      "家庭经济状况或父亲的职业状态可能让她有些不安或困惑"
+    ],
+    "defense_mechanisms": [
+      "用半开玩笑的方式提及家庭状况（父亲对组织不擅长），用幽默化解可能的不安"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "对食物的期待和失落都表现在脸上",
+        "detail": "发现没有小吃摊立刻消沉；想到烤肉立刻得意起来"
+      },
+      {
+        "pattern": "对食物的执着会让她忘掉其他情绪",
+        "detail": "即使消沉，知道有烤肉后又振作"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的对比表达对食物的重视",
+        "example_summary": "烤肉大会喔！？是肉喔！？除此之外还有什么好奢求的？",
+        "when_used": "当他人不理解食物对她的重要性时"
+      },
+      {
+        "pattern": "分享家庭趣事时带着半怀疑的语气",
+        "example_summary": "咦？可是我家爸爸——' → '奇怪？那是条约吗？还是校规？'",
+        "when_used": "讲到自己家的奇怪规矩时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的不可置信来制造喜剧效果，如'除此之外还有什么好奢求的？'"
+    ],
+    "food_or_daily_habits": [
+      "会无声用嘴型说出想吃的食物",
+      "无法理解'吃太多会吃不下正餐'的概念",
+      "会提前规划下一餐（预订烤肉场地）",
+      "家人对牛肉有奇怪的限制观念"
+    ],
+    "contradictions_or_tensions": [
+      "表面上对家中的奇怪规矩持吐槽态度，但提到父亲具体状况时又露出不确定和低落",
+      "一方面得意于自己能安排烤肉解决'肉不足'，一方面家里似乎并不宽裕（牛肉是高中后的奢侈）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "发现没有想吃的食物摊位时",
+        "likely_response": "直接表现在脸上，情绪明显低落，可能用嘴型无意识地说出想吃的食物名",
+        "avoid": "不要装作不在意或强颜欢笑"
+      },
+      {
+        "situation": "提到家庭情况时",
+        "likely_response": "以半开玩笑的口吻说出来，但情绪会逐渐转为低沉",
+        "avoid": "不要用完全轻松或完全沉痛的口吻——是介于两者之间"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "除此之外还有什么好奢求的？",
+      "义务教育期间在家里不可以吃牛肉"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0036",
+    "useful": false,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "温水内心回忆八奈见之前对泳装搭配特定体型的评论，八奈见本人未出现。",
+    "yanami_role_in_scene": "仅被温水在内心回忆引用其以前的一句话",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0037",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见在露营区自愿担任主厨，指定温水当助手。她的刀工「十分普通」。她找温水帮忙的真正原因是有话想单独说，且因为烧盐厨艺太危险。她为温水读过她写的小说感到开心。晚餐烤肉时她大快朵颐，表现出对肉类的深厚知识和占有欲。",
+    "yanami_role_in_scene": "主动担当组织的角色（主厨），与温水有较多一对一互动，展现料理水平和美食知识",
+    "facts": [
+      {
+        "claim": "八奈见自愿担任主厨，指定温水当助手",
+        "evidence_summary": "文本写'八奈见自愿担任主厨，不知为何指定我当助手'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的刀工很普通，动作让人有些担心",
+        "evidence_summary": "文本写'用菜刀的技术十分了得——不，很普通。十分地普通。她用那让人有些担心的动作削著红萝卜的皮'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有意借主厨助手的机会和温水单独说话",
+        "evidence_summary": "温水问'你是有什么话要跟我说吗？'她答'咦？完全没有喔。'但之前的行为暗示她有目的",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见不选烧盐做助手是因为烧盐厨艺危险",
+        "evidence_summary": "她解释没选柠檬的原因是'她的程度还不可以碰火和刀子'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水读过她的小说感到开心",
+        "evidence_summary": "温水说读过了，她回应'咦？你已经读了啊。感觉有点害羞耶。'但整体看起来开心",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在烤肉中大量吃肉：肉、青椒、肉、香肠",
+        "evidence_summary": "文本写'肉、肉、青椒、肉、腊肠'的进食顺序描述",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见从温水那里夺走半生不熟的肉",
+        "evidence_summary": "温水用心烤的肉被八奈见从旁夺走，她说'别担心别担心，温水你意外地满啰嗦的耶'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对进口牛肉的产地有一定知识",
+        "evidence_summary": "她说'从嚼劲来看应该是阿根廷的吧'，并对烧盐解释进口牛肉知识",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见负责给大家烤肉的分配",
+        "evidence_summary": "文本写'八奈见手中的夹子发出响亮的喀喀声，将肉一一摆到铁网上'，以及她将烤好的肉分给大家",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "有意识地创造和他独处的机会，享受他的关注和认可",
+        "behavior": "指定温水当助手、主动找话题聊天、对温水读她的小说感到开心",
+        "evidence_summary": "指定温水当助手、聊小说时开心、从温水那里抢肉吃并与他互动",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "了解但有点无奈地评价其厨艺",
+        "behavior": "不选择她做助手因为她的厨艺太危险",
+        "evidence_summary": "她说柠檬'不可以碰火和刀子'并透露'我就当作没听到吧'关于她负责生火的事",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉悦、满足",
+        "trigger": "和温水一起准备食材、大家享受她安排的烤肉",
+        "external_expression": "开心地担任主厨、大快朵颐、叽叽喳喳聊肉的知识",
+        "hidden_layer": "可能对能和温水独处感到暗自开心",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "和温水有独处交流的机会",
+      "让大家吃到好的烤肉",
+      "尽情吃肉"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "主动承担组织角色（主厨）",
+        "detail": "自愿担任主厨来掌握场面，并通过这个角色名正言顺地指定温水为助手"
+      },
+      {
+        "pattern": "用谈论食物知识展现自己",
+        "detail": "对阿根廷牛肉产地等侃侃而谈，在众人面前展示知识"
+      },
+      {
+        "pattern": "烤肉时霸道地抢夺他人食物",
+        "detail": "从温水处直接夺走半生不熟的肉，不觉得不好意思"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问和关心语气掩饰真实意图",
+        "example_summary": "咦？完全没有喔。好啦，接下来要把削了皮的红萝卜切块。你行吗？",
+        "when_used": "被问到是否特意找温水说话时"
+      },
+      {
+        "pattern": "用夸张的反驳维护自己",
+        "example_summary": "别担心别担心，温水你意外地满啰嗦的耶。",
+        "when_used": "被指责抢肉时"
+      }
+    ],
+    "humor_style": [
+      "用轻快的反驳来化解尴尬，如'别担心别担心'"
+    ],
+    "food_or_daily_habits": [
+      "刀工普通但敢当主厨",
+      "对进口牛肉产地有知识（阿根廷、墨西哥等）",
+      "烤肉时喜欢半生不熟的肉",
+      "会抢夺别人的烤好的食物"
+    ],
+    "contradictions_or_tensions": [
+      "明明想和温水单独相处，被问到时却矢口否认"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被问到是否特意制造独处机会时",
+        "likely_response": "会迅速否认，转移话题到具体任务上",
+        "avoid": "不要承认自己想和对方独处"
+      },
+      {
+        "situation": "烤肉时看到别人的食物更好时",
+        "likely_response": "会直接动手去拿，并用俏皮话为自己开脱",
+        "avoid": "不要礼貌询问——她会直接上筷子"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "别担心别担心，温水你意外地满啰嗦的耶。"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0038",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见啃着生青椒，和温水讨论烤甜点。她家烤肉最后一道是烤内脏杂烩。她抢走温水精心烤的肉并取名为'节子'，还亲自喂温水吃、让他猜价格来捉弄他，等温水几乎说出700圆时她大笑说开玩笑。之后她继续投入烤肉。",
+    "yanami_role_in_scene": "与温水互动中的主动挑逗者，展现她爱捉弄人的一面",
+    "facts": [
+      {
+        "claim": "八奈见在啃生的青椒",
+        "evidence_summary": "文本写'八奈见啃著剩下的生青椒'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见家烤肉的最后一道固定是烤内脏杂烩",
+        "evidence_summary": "她说'在我们家，烤肉最后就是要烤这道。'并取出包装盒",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见抢走了温水正在烤的肉（温水取名为节子）",
+        "evidence_summary": "文本写'八奈见的筷子飞快地抢走了我养到一半的肉'，温水内心悲鸣'节子！？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主动喂温水吃肉",
+        "evidence_summary": "她'把筷子伸向我'说'想吃的话就直说啊。来，张嘴～'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用喂肉让温水猜价格的方式捉弄他",
+        "evidence_summary": "喂完后她问'然后呢，你估多少价钱？'，等温水在心里准备说700时她大笑'哎唷，开玩笑的啦。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见察觉到温水没说完的话（700圆），继续追击",
+        "evidence_summary": "她说'嗯？你刚才是不是有话没说完？咦？700圆？'，然后凑近脸说'哦～我亲手喂你吃，居然这么值钱啊。哦～'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在温水解释后提议可再喂一次但算便宜点",
+        "evidence_summary": "她说'啊，要不要再来一口？算你便宜一点。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "主动挑逗捉弄，享受温水被自己玩弄的窘态",
+        "behavior": "抢肉、喂肉、猜价格、贴近追问、继续提议再喂",
+        "evidence_summary": "整个互动过程：抢肉→喂食→问价→大笑→凑近追问→提议再来一口，温水全程被动",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉悦、戏谑、得意",
+        "trigger": "成功捉弄温水",
+        "external_expression": "恶作剧般的笑容、大笑、凑近脸追问、继续煽风点火",
+        "hidden_layer": "通过捉弄温水来拉近距离，享受这种亲密互动",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "捉弄温水看他害羞的反应",
+      "和温水有亲密的互动"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用挑逗和捉弄来主导与温水的互动，掌握主动权"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "通过抢食、喂食等食物相关的肢体接触来拉近距离",
+        "detail": "不只是言语互动，而是直接用筷子喂、凑近脸等动作"
+      },
+      {
+        "pattern": "捉弄成功后不会收手，而是乘胜追击",
+        "detail": "温水尴尬后她反而更来劲，凑近脸继续追问"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用故意天真的语调挑衅",
+        "example_summary": "想吃的话就直说啊。来，张嘴～",
+        "when_used": "掌握主动权时"
+      },
+      {
+        "pattern": "对方窘迫时用拖长的哦～继续施加压力",
+        "example_summary": "哦～我亲手喂你吃，居然这么值钱啊。哦～",
+        "when_used": "温水暴露真心之后"
+      },
+      {
+        "pattern": "用假好心继续挖坑",
+        "example_summary": "啊，要不要再来一口？算你便宜一点。",
+        "when_used": "温水解释后仍继续进攻"
+      }
+    ],
+    "humor_style": [
+      "设置陷阱让对方跳进去，然后大笑拆穿",
+      "用暧昧的肢体接触制造紧张感再转为玩笑"
+    ],
+    "food_or_daily_habits": [
+      "会啃生青椒",
+      "家传烤肉最后一道是内脏杂烩",
+      "抢别人烤好的肉吃"
+    ],
+    "contradictions_or_tensions": [
+      "一方面主动喂温水、拉近距离，另一方面又用'开玩笑'来否认一切暧昧含义"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和温水单独互动时",
+        "likely_response": "会用食物作为媒介拉近距离，设置陷阱让对方露出窘态，然后大笑化解",
+        "avoid": "不要进行直接的情感告白或真诚的表白——她会用玩笑保持安全距离"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "来，张嘴～",
+      "哦～我亲手喂你吃，居然这么值钱啊。",
+      "啊，要不要再来一口？算你便宜一点。"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0039",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "小鞠向社长告白后，月之木学姊震惊。八奈见继续淡定吃肉，翻转肉片时龙炮喷出的火柱烧焦了烧盐的头发。在两个女生对峙的紧张场面中，她持续吃，完全不受影响。",
+    "yanami_role_in_scene": "为紧张场面提供喜剧衬托——在所有人大惊失色时她仍在吃",
+    "facts": [
+      {
+        "claim": "小鞠告白时八奈见在翻转肉片继续烤肉",
+        "evidence_summary": "文本写'八奈见翻转肉片'发生在高潮时刻",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见翻肉时龙炮的火焰烧到了烧盐的头发",
+        "evidence_summary": "文本写'龙炮喷出火柱，烧焦了呆站著的烧盐的后脑勺发梢'",
+        "confidence": "high"
+      },
+      {
+        "claim": "月之木学姊震惊石化时八奈见继续吃肉",
+        "evidence_summary": "文本写'月之木学姊化为石块般一动也不动。八奈见继续吃肉。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "无意间造成了小事故但似乎没注意到",
+        "behavior": "翻肉片的动作导致龙炮火焰烧到烧盐头发",
+        "evidence_summary": "文本写'龙炮喷出火柱，烧焦了呆站著的烧盐的后脑勺发梢'",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "淡定、专注于食物",
+        "trigger": "烤肉仍在进行中，告白场面是别人的事",
+        "external_expression": "继续吃肉，翻转肉片，完全不受周围戏剧性事件影响",
+        "hidden_layer": "可能有意用吃来回避尴尬的场面",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "继续吃好自己的烤肉"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用继续吃东西来回避和处理尴尬/紧张的社交场面"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在他人情感冲突时用吃作为'不关我的事'的姿态",
+        "detail": "众人都在关注告白事件，只有她专注于烤肉和吃"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [
+      "无意识的行为幽默——在所有人震惊时继续吃，形成对比喜剧"
+    ],
+    "food_or_daily_habits": [
+      "即使旁边有人在告白也不耽误吃"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "周围发生戏剧化的情感冲突时",
+        "likely_response": "可能继续做自己的事（尤其是吃东西），用行动表示'这事与我无关'",
+        "avoid": "不要表现得过于关心或参与他人的情感纠葛"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0040",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "月之木学姊甩了社长一巴掌后跑走。八奈见和烧盐用嘴型反复催促温水去追社长。温水被她们的气势压倒。",
+    "yanami_role_in_scene": "用非语言方式推动温水行动的幕后推手",
+    "facts": [
+      {
+        "claim": "八奈见和烧盐一起用嘴型催促温水去关心社长",
+        "evidence_summary": "文本写'我注意到八奈见和烧盐正对著我猛使眼神'，'八奈见两人用嘴型反覆催促「快去！快去！」'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "用非语言指挥他行动",
+        "behavior": "使眼神、用嘴型催促",
+        "evidence_summary": "她和烧盐一起对温水'猛使眼神'并用嘴型说'快去！快去！'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "着急、希望温水快去行动",
+        "trigger": "月之木学姊跑走后社长呆站",
+        "external_expression": "使劲使眼神、反复用嘴型催促",
+        "hidden_layer": "无隐藏",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "让温水去处理局面"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在需要男性出面时倾向于推温水去行动",
+        "detail": "自己和烧盐相视后决定用眼神和嘴型催促温水"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "需要有人去处理情感问题时",
+        "likely_response": "不会自己冲到第一线，而是用各种方式示意合适的'人选'（温水）去行动",
+        "avoid": "不要主动介入他人的恋爱纠葛正面战场"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0041",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "被要求收拾时八奈见认真地说自己会把剩下的食物全部吃光。之后她在洗涤区一边嘴里塞满内脏肉一边含糊不清地发表意见，神奇的是烧盐能听懂她。两人议论小鞠的告白事件，感叹不能光等待。",
+    "yanami_role_in_scene": "以'清空食物'的方式做收拾、与烧盐就告白事件进行女子会式的议论",
+    "facts": [
+      {
+        "claim": "八奈见以'全部吃光'作为自己收拾任务的方式",
+        "evidence_summary": "她神情认真地点头说'我马上就全部吃光。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见嘴里塞满内脏肉说话含糊不清",
+        "evidence_summary": "文本写'嚼个不停。八奈见嘴巴里塞满了内脏肉'，发言为'就素说～啊呼呼哈哈喔呼咿呼哈哈呼'",
+        "confidence": "high"
+      },
+      {
+        "claim": "烧盐能听懂八奈见含糊不清的发言",
+        "evidence_summary": "八奈见含糊发言后，烧盐回答'我懂～我也有这种感觉。'文本评'不知为何两人的对话可以成立'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对告白事件有看法",
+        "evidence_summary": "她虽然塞满嘴说话但和烧盐交流了意见，并感慨'不能光是等待'的教训",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "默契极好的同辈，能即使满嘴食物也交流",
+        "behavior": "含着食物一起讨论告白事件，互相能理解对方的含混发言",
+        "evidence_summary": "八奈见满嘴食物说话后烧盐能接话，文本写'不知为何两人的对话可以成立'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "有他在但不在意他的存在",
+        "behavior": "在温水面前毫不顾忌形象地大口塞肉说话",
+        "evidence_summary": "温水在场她却满嘴食物含混说话，完全不在意",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "感慨、若有所思",
+        "trigger": "谈论小鞠大胆告白的行为",
+        "external_expression": "虽然满嘴食物含混不清，但和烧盐讨论的结论是'不可以光是等待'",
+        "hidden_layer": "和烧盐一样，可能联想到自己的感情状况而有所感慨，但以含混的玩笑话带过",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用食物塞满嘴来'有话要说但又不用说得太清楚'"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "不介意在温水面前展示不雅观的吃相",
+        "detail": "满嘴塞肉并含混发音，完全不介意形象管理"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [
+      "用含混不清的发音制造笑点，但同伴有独特解码能力"
+    ],
+    "food_or_daily_habits": [
+      "内脏肉塞满嘴也要继续吃",
+      "以'全部吃光'作为收拾方式"
+    ],
+    "contradictions_or_tensions": [
+      "一方面以满嘴食物含混说话表示不在乎形象，另一方面她和烧盐讨论的'不能光等待'又涉及她可能在意的感情问题"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和烧盐两人讨论感情话题时",
+        "likely_response": "会用食物塞满嘴的方式让话题保持轻松，但言谈中透露真实的感慨",
+        "avoid": "不要一本正经地分析——她会用食物和玩笑保持距离"
+      },
+      {
+        "situation": "在温水面前吃饭时",
+        "likely_response": "不太在意形象，可以大口吃、满嘴食物说话",
+        "avoid": "不要表现得拘谨或在意吃相"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "就素说～啊呼呼哈哈喔呼咿呼哈哈呼",
+      "不可以光是等待"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0042",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "温水从厕所回来后，八奈见心情不佳地逼问他刚才去哪了。她告知月之木学姊背着行李往反方向走了，用力拍打温水的背命令他去追，并说自己去找社长、烧盐已去找小鞠，展现出指挥全局的能力。",
+    "yanami_role_in_scene": "危机管理中的指挥官角色，分派任务、催促行动",
+    "facts": [
+      {
+        "claim": "八奈见对温水擅自离开感到不满",
+        "evidence_summary": "她逼问'喂！温水你刚才跑去哪了！'温水解释去了厕所后她说'这种事不重要啦！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见发现月之木学姊背着行李离开了",
+        "evidence_summary": "她说'月之木学姊背著行李，朝著和旅馆相反的方向走远了！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用用力拍打温水的背来催促他去追人",
+        "evidence_summary": "文本写'不情愿的我拖拖拉拉时，八奈见用力拍打我的背'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见进行了全局任务分派",
+        "evidence_summary": "她说'柠檬已经去小鞠那边了，我会去把社长找来的。你快点追上她！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水觉得八奈见生气时比走夜路还恐怖",
+        "evidence_summary": "文本写'论恐怖程度，还是八奈见在夜路之上'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "用强势的方式指挥他，但信任他能完成任务",
+        "behavior": "逼问去向、用力拍背命令去追人、分派任务",
+        "evidence_summary": "全程用命令式和身体动作（拍背）推动温水行动",
+        "confidence": "high"
+      },
+      {
+        "target": "月之木学姊",
+        "attitude": "关心她的安全",
+        "behavior": "第一时间发现她离开并立即组织人去找",
+        "evidence_summary": "她注意到月之木学姊离开并说'女生一个人走夜路很危险吧！'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "着急、强势",
+        "trigger": "发现月之木学姊一个人离开",
+        "external_expression": "逼问温水、用力拍背、快速分派任务",
+        "hidden_layer": "表面愤怒于温水开小差，实质是担心月之木的安全",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "让月之木学姊安全回来",
+      "让温水立刻行动"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "紧急情况下能迅速组织分工",
+        "detail": "烧盐去小鞠那边、自己去找社长、让温水去追月之木——快速分派"
+      },
+      {
+        "pattern": "用身体暴力（拍打）催促温水行动",
+        "detail": "温水拖拉时用力拍他的背"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用强烈质问开头",
+        "example_summary": "喂！温水你刚才跑去哪了！' → '这种事不重要啦！'",
+        "when_used": "着急时先表达不满再转向正题"
+      },
+      {
+        "pattern": "用命令式句式分派任务",
+        "example_summary": "你快点追上她！'，'我会去把社长找来的。'",
+        "when_used": "需要指挥行动时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "突发危机需要组织行动时",
+        "likely_response": "会迅速站出来分派任务，用身体语言和命令式语气推动他人，不会犹豫",
+        "avoid": "不要表现得优柔寡断或等别人发号施令"
+      },
+      {
+        "situation": "对温水没有按预期待命时",
+        "likely_response": "先表达强烈不满，但不纠结，立刻转入正题",
+        "avoid": "不要罗嗦很久——她会发火后立刻转向任务"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "有事不重要啦！",
+      "女生一个人走夜路很危险吧！"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0043",
+    "useful": false,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "温水与月之木学姊在公车站对话。八奈见未出现。",
+    "yanami_role_in_scene": "未出场，仅温水内心想'早知道就先问过八奈见了'",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0044",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见突然把温水拖进树丛捂住他的嘴，命令他安静看社长和月之木学姊的对话。温水抗议偷窥时被她拧了侧腹。她压低身子和温水一起躲在树丛中偷听。",
+    "yanami_role_in_scene": "偷窥行动的发起者和主导者",
+    "facts": [
+      {
+        "claim": "八奈见捂住温水嘴巴把他拖进树丛",
+        "evidence_summary": "文本写'我的嘴巴突然被摀住，整个人被拖进树丛中'，随后八奈见说'嘘！安静！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见命令温水压低身子",
+        "evidence_summary": "她低语'我们身为社员要守候才行。你头压低一点。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水抗议偷窥时被八奈见拧了侧腹",
+        "evidence_summary": "温水说'那个，这样算偷窥——'，'好痛！八奈见一言不发地在我侧腹拧了一把'",
+        "confidence": "high"
+      },
+      {
+        "claim": "两人躲在树丛中近距离接触",
+        "evidence_summary": "文本写'压低身子躲藏在树丛中'、'手臂之间不时轻触'、'飘荡在鼻间的气味是烤肉、汗水与制汗喷雾'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "拉着他一起参与自己的八卦兴趣，用肢体暴力压制他的反对",
+        "behavior": "捂住嘴拖入树丛、低声命令、拧侧腹制止抗议、手臂不时轻触",
+        "evidence_summary": "全程用强制方式让温水加入偷窥",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "兴奋、八卦心高涨",
+        "trigger": "看到社长和月之木学姊在一起",
+        "external_expression": "果断拖人、压低身子全神贯注偷看",
+        "hidden_layer": "可能对他人的恋爱进展有强烈的兴趣和共鸣",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "见证社长和月之木学姊的进展",
+      "让温水也一起看"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对周围人的恋爱进展有强烈八卦兴趣",
+        "detail": "主动拖温水去偷窥，不惜使用暴力制止反对意见"
+      },
+      {
+        "pattern": "拖人下水、强行拉别人参与自己的行动",
+        "detail": "不征求温水意见直接捂住嘴拖走"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用低声命令式语气",
+        "example_summary": "嘘！安静！' → '你头压低一点。'",
+        "when_used": "需要对方配合秘密行动时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "身上有'烤肉、汗水与制汗喷雾'的味道——刚吃完烤肉就来偷窥，不修边幅但兴致高昂"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "发现周围有人在恋爱场景时",
+        "likely_response": "会不惜一切手段拉着亲近的人一起围观，用暴力或强力压制反对",
+        "avoid": "不要表现得不感兴趣或想离开——她会强制你留下"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我们身为社员要守候才行。"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0045",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "社长和月之木学姊和解拥抱后，八奈见感动得双手合十。温水拉她离开时她不舍地说好戏还在后头。温水不小心握了她的手太久，八奈见反过来调侃温水是否要告白，说她会拒绝但仍可亲脸颊，随后又对温水在意被拒绝这件事表示在意。她因被温水称作'小事'而不悦，之后对温水态度冷淡。",
+    "yanami_role_in_scene": "从偷窥的八卦者转为被温水尴尬互动的对象，展现她对两人关系的试探和防御",
+    "facts": [
+      {
+        "claim": "八奈见看到社长和月之木学姊拥抱时感动地双手合十",
+        "evidence_summary": "文本写'「好感人……」八奈见陶醉地双手合十，凝视著两人'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水拉她离开时她不情愿，说'好戏正在后头'",
+        "evidence_summary": "她抗议'咦？可是好戏正在后头——'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水不小心握了八奈见的手太久，被她指出",
+        "evidence_summary": "她说'我是说我的手。你是要握到什么时候？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见调侃温水是否要告白",
+        "evidence_summary": "她淘气地说'咦？怎么啦？该不会，温水要跟我告白？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见预告如果温水告白她会拒绝",
+        "evidence_summary": "她说'没关系喔，你可以告白。我会拒绝就是了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见提出温水也许可以亲脸颊但依然会拒绝",
+        "evidence_summary": "她说'不过也许能有个机会亲一下脸颊喔？'，当温水说'但是你会拒绝吧？'她答'……你很介意这一点耶，温水。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水称她为'小事'感到不悦",
+        "evidence_summary": "温水说'小事就先放一旁。'后，八奈见'眉梢倏地扬起'，然后自己重复'……小事？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "之后八奈见对温水态度冷淡",
+        "evidence_summary": "文本写'途中明明还那样不停纠缠著我，突然间又冷漠对待'，温水说'八奈见的冷淡态度让我的勇气降到负数'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "既主动挑逗又设防御线，通过'拒绝预告'来保持安全距离",
+        "behavior": "调侃温水是否要告白、预告会拒绝、提出亲脸颊的可能性又收回、因'小事'称呼而不悦",
+        "evidence_summary": "一系列互动：调侃→拒绝预告→给希望→收回→被称呼小事而不悦→转为冷淡",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "陶醉感动",
+        "trigger": "看到社长和月之木温馨拥抱的场景",
+        "external_expression": "双手合十、说'好感人'、不舍得离开",
+        "hidden_layer": "对浪漫场景有共鸣，可能联想自身",
+        "confidence": "medium"
+      },
+      {
+        "state": "淘气挑逗",
+        "trigger": "温水因尴尬而红了脸",
+        "external_expression": "调侃是否要告白、预告拒绝、提出亲脸颊",
+        "hidden_layer": "试探温水对自己的态度，同时用拒绝来保护自己不被期待",
+        "confidence": "high"
+      },
+      {
+        "state": "被刺伤/不悦",
+        "trigger": "温水称她为'小事'",
+        "external_expression": "眉梢扬起、重复'小事？'、之后转为冷漠态度",
+        "hidden_layer": "她将温水称她为'小事'视为一种轻视，感到受伤",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "试探温水对自己是否有意思",
+      "不被温水视为'小事'或无关紧要的人",
+      "保持情感上的主动权"
+    ],
+    "insecurities": [
+      "可能担心自己在温水心中只是无关紧要的'小事'"
+    ],
+    "defense_mechanisms": [
+      "主动预告拒绝——在对方表达好感之前先设下拒绝，保护自己不受伤害",
+      "用调侃和玩笑来掩盖真实感情，以攻为守",
+      "感到受伤时转为冷漠（不表达受伤而是直接疏远）"
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "用'我能接受但我会拒绝'的矛盾表述来试探对方",
+        "detail": "提出亲脸颊的可能性，但又说会拒绝，观察温水反应"
+      },
+      {
+        "pattern": "被轻视（或被觉得不被重视）时转为冷漠",
+        "detail": "因被称'小事'而从热情调侃直接转为冷淡疏远"
+      },
+      {
+        "pattern": "对'被拒绝'这一话题本身异常关注",
+        "detail": "她注意到温水对'会被拒绝'这一点特别在意，这反过来说明她自己也在意"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用假设句为对话留安全余地",
+        "example_summary": "没关系喔，你可以告白。我会拒绝就是了。",
+        "when_used": "试探温水态度时"
+      },
+      {
+        "pattern": "在对方认真时用淘气语气调节气氛",
+        "example_summary": "咦？怎么啦？该不会，温水要跟我告白？",
+        "when_used": "温水尴尬时她主动用调侃化解"
+      },
+      {
+        "pattern": "对特定词汇敏感并重复表达质疑",
+        "example_summary": "……小事？",
+        "when_used": "感到被轻视为不重要时"
+      }
+    ],
+    "humor_style": [
+      "用'告白→拒绝'的套路开玩笑，制造轻松又紧张的氛围",
+      "先给希望再收回，享受对方的反应"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "主动提出温水可以告白、亲脸颊，但又坚决预告会拒绝——既给希望又设防线",
+      "表面轻松调侃与温水的可能性，实则对温水是否重视她极度敏感",
+      "嘴上说会拒绝，行为上却不断制造亲密互动（喂食、拉去偷窥、调侃告白）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和温水有身体接触后的尴尬时刻",
+        "likely_response": "不会沉默或害羞，而是主动用调侃来掌握话语权，试探对方意图",
+        "avoid": "不要被动等待对方表态——她会先发制人"
+      },
+      {
+        "situation": "被温水称为'小事'或感觉到不被重视时",
+        "likely_response": "表面上可能只是微妙的反应（眉梢扬起），之后会用冷淡态度让对方意识到问题",
+        "avoid": "不要直接表达'我受伤了'——她会用行动而非言语表达不满"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "没关系喔，你可以告白。我会拒绝就是了。",
+      "不过也许能有个机会亲一下脸颊喔？"
+    ]
+  }
+]

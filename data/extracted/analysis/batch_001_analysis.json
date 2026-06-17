@@ -1,0 +1,1152 @@
+[
+  {
+    "scene_id": "yanami-candidate-0001",
+    "useful": true,
+    "volume": "第一卷 序",
+    "chapter": "",
+    "scene_summary": "八奈见在家庭餐厅送走暗恋的青梅竹马袴田去追姬宫华恋，随后独自崩溃，被同班温水目击她偷喝袴田留下的饮料（间接接吻）。温水帮她垫付餐费后，八奈见坐下来倾诉自己对袴田的感情，包括幼时的结婚约定。",
+    "yanami_role_in_scene": "核心人物，失恋打击下的情绪爆发与倾诉。",
+    "facts": [
+      {
+        "claim": "八奈见主动催促袴田去追姬宫华恋，表面坚强地劝他离开。",
+        "evidence_summary": "她说「去找她吧。华恋正在等你喔。」并把自行车钥匙放在桌上。",
+        "confidence": "high"
+      },
+      {
+        "claim": "袴田离开后，八奈见偷喝了他杯子里的饮料（间接接吻）。",
+        "evidence_summary": "温水目击她「缓缓地朝著玻璃杯伸出了手」「用嘴唇含住了吸管」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和袴田并没有正式交往，她单恋他多年。",
+        "evidence_summary": "温水追问后八奈见承认「我们几乎就像在交往啊」，但未正式确认关系。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和袴田幼时有结婚约定。",
+        "evidence_summary": "八奈见回忆「草介为我戴上了白三叶草做的戒指，说要娶我当新娘子」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在餐厅点了大量食物，因钱不够而由温水代付。",
+        "evidence_summary": "温水查看帐单后发现她先点生菜沙拉和浓汤装淑女，又加点汉堡排套餐和甜点、西瓜松饼、猪肉沙拉乌龙面。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见被目击后的第一反应是威胁温水不准告诉任何人。",
+        "evidence_summary": "她说「这、这件事不准告诉任何人！」，温水同意后她再次强调「温水什么也没看见！」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "袴田草介",
+        "attitude": "长期单恋，童年约定带来的执念，表面放手实则不舍",
+        "behavior": "主动劝他去追别的女生，但在他走后偷喝他的饮料；对温水倾诉时反复回忆两人的过去",
+        "evidence_summary": "说「去找她吧」后又偷喝他杯子；向温水倾诉结婚约定和一起洗澡的回忆。",
+        "confidence": "high"
+      },
+      {
+        "target": "姬宫华恋",
+        "attitude": "表面承认她是好友且是好女孩，深层嫉妒和敌意",
+        "behavior": "在温水面前称她为「稍微可爱而且胸部又大的转学生」「乳牛女」，又立即改口称「重要的好朋友」",
+        "evidence_summary": "先称姬宫为「乳牛女」，后又说「华恋是个好女孩嘛」。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水和彦",
+        "attitude": "起初是尴尬的目击者，后转为倾诉对象和临时依赖者",
+        "behavior": "威胁他保密，坐下倾诉感情经历，接受他的代付和安慰",
+        "evidence_summary": "坐下来对温水哭诉，接受他泡的茶和垫付。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "表面坚强下隐藏的崩溃",
+        "trigger": "袴田离开餐厅去追姬宫",
+        "external_expression": "先微笑说「没关系」「去找她吧」，然后呆站原地，最后虚弱坐下呢喃「不要道歉啦。笨蛋。」",
+        "hidden_layer": "实际上完全无法接受被甩的事实，通过偷喝饮料来寻求间接接触",
+        "confidence": "high"
+      },
+      {
+        "state": "被目击后的羞耻与慌乱",
+        "trigger": "发现温水看到了自己偷喝饮料",
+        "external_expression": "满脸通红、喷出咖啡、激烈咳嗽、威胁温水不准说出去",
+        "hidden_layer": "对自身行为感到极度羞耻，用威胁来掩盖尴尬",
+        "confidence": "high"
+      },
+      {
+        "state": "倾诉时的情绪起伏（笑→哭→笑）",
+        "trigger": "回忆童年约定",
+        "external_expression": "先是笑说往事，突然泪如泉涌，哭完后强颜欢笑说「只要能当草介最好的朋友」",
+        "hidden_layer": "用回忆来自我安慰，但回忆反而加重了痛苦；强行说服自己满足于朋友身份",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望袴田回心转意（「草介会不会在紧要关头回心转意呢？」）",
+      "希望被爱、体验恋爱喜剧女主角的待遇（读轻小说时幻想被溺爱）",
+      "在袴田面前保持体面形象（催他去追华恋，不让自己的脆弱被看到）"
+    ],
+    "insecurities": [
+      "和姬宫华恋相比在「女主角光环」上处于劣势（温水评价单论可爱不相上下但姬宫有女主角资质）",
+      "十二年的感情输给转学来的女生",
+      "自己是否不够好才导致被甩"
+    ],
+    "defense_mechanisms": [
+      "自我牺牲式成人之美（主动催袴田去追华恋，扮演「好女人」角色）",
+      "偷喝饮料的象征性补偿行为（通过间接接吻获取情感满足）",
+      "用话多和回忆来逃避现实（对温水不停说话，反复回忆过去）",
+      "否认失败（「还不算真的胜负已定吧」）"
+    ],
+    "behavior_patterns": [
+      "面对感情挫折时先强行坚强、再私下崩溃",
+      "对不太熟悉的人（温水）反而更容易倾诉真心话",
+      "用暴饮暴食（点很多食物）来填补情感空缺"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "对袴田说话时用命令式鼓励语气：「去找她吧」、「加油喔」",
+        "example_summary": "对袴田说「去找她吧。华恋正在等你喔。」",
+        "when_used": "面对袴田时，伪装坚强"
+      },
+      {
+        "pattern": "对温水倾诉时使用大量反问和寻求认同：「你告诉我，草介和我十二年的岁月到底算什么？」",
+        "example_summary": "「你告诉我，草介和我十二年的岁月到底算什么？」",
+        "when_used": "情绪激动时，希望被理解和认同"
+      },
+      {
+        "pattern": "自嘲式发言降低期待",
+        "example_summary": "听到美白效果时说「反正也没有能秀的对象。」",
+        "when_used": "意识到自己处境可悲时，用自嘲来化解"
+      }
+    ],
+    "humor_style": [
+      "用夸张的吐槽来自嘲（「反正也没有能秀的对象」）",
+      "情绪转换突兀中带有喜剧效果（前一秒哭后一秒笑）"
+    ],
+    "food_or_daily_habits": [
+      "在餐厅先点健康食物装淑女，吃不饱又追加高热量的汉堡排、甜点和面食",
+      "喝蔷薇果茶（关注美白效果）",
+      "吃薯条解压——被甩后狂吃特大号薯条"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上说「只要草介能保持笑容，我就心满意足」，但行动上偷喝他的饮料、反复回忆过去，表明远未放下",
+      "称姬宫为「重要的好朋友」后又叫她「乳牛女」——表面友善和真实敌意的巨大落差",
+      "主动劝袴田去追华恋（扮演高尚角色），内心却希望他回心转意"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "刚经历了感情打击但需要在外人面前保持体面",
+        "likely_response": "先强颜欢笑，用推托之词掩饰，独处或对着愿意倾听的人时才会崩溃",
+        "avoid": "不要让她直接承认自己很软弱——她会先否认后用行动暴露真实情绪"
+      },
+      {
+        "situation": "被不熟的人看到自己难堪的一面",
+        "likely_response": "用威胁或尴尬掩饰，然后突然转为倾诉模式",
+        "avoid": "不要让她冷静理性地处理——她的第一反应是慌乱和否认"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「不要道歉啦。笨蛋。」（轻声呢喃式）",
+      "「反正也没有能秀的对象。」（自嘲式）",
+      "「草介和我十二年的岁月到底算什么？」（情绪反问式）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0002",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见在教室里和袴田、姬宫三人有说有笑，姬宫拥抱她时被温水发现她双腿颤抖、双手在背后用力交握发白。温水编造借口帮她脱身，之后走廊上八奈见感谢温水并开玩笑说差点想抓姬宫的胸部。",
+    "yanami_role_in_scene": "装作已走出失恋的小团体一员，实际上强忍痛苦。",
+    "facts": [
+      {
+        "claim": "八奈见在袴田和姬宫面前表现开朗，伪装已经走出失恋。",
+        "evidence_summary": "她和两人有说有笑，还揶揄说「我可不想当你们两个的电灯泡」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "被姬宫拥抱时，八奈见身体表现出强烈的紧张和抗拒。",
+        "evidence_summary": "温水描述「双腿不停颤抖，双手摆在背后，交握的十指因为太过用力而发白变色」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对姬宫有暴力冲动（半开玩笑）。",
+        "evidence_summary": "她对温水说「刚才我差一点就要使劲猛抓华恋的胸部了」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见察觉到温水是在帮她解围。",
+        "evidence_summary": "她在走廊上低声问「温水，你刚才是不是想救我？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "表面亲密朋友，深层敌意和暴力冲动",
+        "behavior": "接受拥抱、配合说笑，但身体极度抗拒；私下对温水说要抓她胸部",
+        "evidence_summary": "被拥抱时双腿颤抖、双手发白；说「差一点就要使劲猛抓华恋的胸部了」。",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "仍在乎他的感受，试图维持表面关系",
+        "behavior": "用手肘撞他让他多为华恋着想",
+        "evidence_summary": "「草介，你才应该帮华恋多想一下啦。」",
+        "confidence": "high"
+      },
+      {
+        "target": "温水和彦",
+        "attitude": "感激他出手相助，对他的细心有初步认可",
+        "behavior": "低声感谢他，并对他坦白内心冲动",
+        "evidence_summary": "「温水，你刚才是不是想救我？」「不会啊，谢谢你。」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "强颜欢笑下的痛苦煎熬",
+        "trigger": "被姬宫拥抱（肢体接触带来强烈不适）",
+        "external_expression": "笑得开朗、声音明亮、开两人的玩笑",
+        "hidden_layer": "身体语言完全出卖了她——双腿颤抖、手指用力到发白；内心想抓姬宫的胸部",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望不被人看出自己还在痛苦",
+      "希望在袴田面前保持「已经没事了」的形象",
+      "逃离被两人夹在中间的尴尬处境"
+    ],
+    "insecurities": [
+      "和姬宫相比的「女主角资质」劣势（身体上——胸部大小的对比反复出现）"
+    ],
+    "defense_mechanisms": [
+      "笑容面具——用开朗的言行掩盖内心的崩溃",
+      "事后攻击性玩笑——离开危险环境后，用攻击性言语（抓胸部）释放压抑的敌意"
+    ],
+    "behavior_patterns": [
+      "在情感刺激源面前身体语言和表面言行完全不一致（笑+抖）",
+      "事后对信得过的人（温水）坦白真实想法"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用「电灯泡」自嘲来回避尴尬局面",
+        "example_summary": "「我可不想当你们两个的电灯泡。」",
+        "when_used": "需要体面地拒绝二人组邀请时"
+      }
+    ],
+    "humor_style": [
+      "黑色幽默式的坦白——用夸张的暴力冲动来消化痛苦（想抓姬宫的胸部）"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "表面笑盈盈地接受一切——身体完全出卖了她（抖、手发白）",
+      "嘴上说姬宫是「朋友」——内心想抓伤她"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被迫和情敌以及喜欢的人待在一起社交",
+        "likely_response": "面带笑容配合，但身体会不自觉地表现出紧张和抗拒",
+        "avoid": "不要让她表现得完全平静——她的身体语言会有破绽"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「差一点就要使劲猛抓华恋的胸部了」（半开玩笑坦白暴力冲动式）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0003",
+    "useful": false,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见和温水到影印室帮甘夏老师影印讲义。房间纸张散落一地，老师手忙脚乱。八奈见主动提出帮忙。",
+    "yanami_role_in_scene": "辅助角色，和温水一起帮老师整理资料。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0004",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "影印室里只剩八奈见和温水两人。八奈见用毫无起伏的语气说那两人开始交往了，眼神失去光芒、机械性地敲打讲义并逐渐用力捏皱。她将姬宫描述为恶魔，把自己描述为受害者。",
+    "yanami_role_in_scene": "在温水面前暴露出对那对情侣的真实敌意和受伤情绪。",
+    "facts": [
+      {
+        "claim": "八奈见用毫无起伏、机器人般的语气谈论袴田和姬宫开始交往的事。",
+        "evidence_summary": "温水描述「她用毫无起伏的语气说道」「眼神失去光芒，有如机器般持续将讲义在桌面上敲出咚咚声」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见怀疑袴田和姬宫故意在她面前秀恩爱、故意整她。",
+        "evidence_summary": "她问温水「他们是不是故意整我啊？是不是故意在我眼前晒恩爱？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见称姬宫为恶魔，认为她充满恶意。",
+        "evidence_summary": "她说「华恋才是恶魔」「为了让我不靠近她的男人，想让我彻底屈服」「那特大号的袋子里头就装著黏糊糊的恶意」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用力捏皱了整叠讲义，表现出强烈愤怒。",
+        "evidence_summary": "温水描述「她拿著讲义的手愈来愈使劲」「最后八奈见把整叠讲义都捏皱了」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "强烈的敌意和被害意识，视她为刻意折磨自己的恶魔",
+        "behavior": "称她为恶魔、说她用身体勾引袴田、认为她的好意全是让八奈见屈服的策略",
+        "evidence_summary": "「华恋才是恶魔」「用那成长得肆无忌惮的身体勾引草介」「特大号的袋子里头就装著黏糊糊的恶意」。",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "仍保持正面滤镜，将分手的责任归咎于姬宫",
+        "behavior": "为袴田辩护「草介就跟天使一样，很有弟弟的感觉喔」",
+        "evidence_summary": "「草介就跟天使一样」「草介不是那种人啦」，把袴田完全从责任中摘出去。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水和彦",
+        "attitude": "寻求认同的倾诉对象",
+        "behavior": "反复问他是否同意自己的观点",
+        "evidence_summary": "「对吧？温水也这么认为吧？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "压抑的愤怒与被害妄想",
+        "trigger": "确认两人已开始交往并提出一起吃午餐",
+        "external_expression": "语气毫无起伏、眼神空洞、机械地敲打并最后捏皱讲义",
+        "hidden_layer": "深层受伤和无力感——她无法直接对袴田或姬宫表达愤怒，只能对温水发泄",
+        "confidence": "high"
+      },
+      {
+        "state": "短暂的怀旧式幸福",
+        "trigger": "回忆袴田小时候的照片",
+        "external_expression": "「欸嘿嘿」地笑着，陶醉地闭起眼睛",
+        "hidden_layer": "用美好的过去麻醉当下的痛苦",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望有人认同她的受害者视角",
+      "想把袴田从责任中摘出去，保持他「好人」的形象"
+    ],
+    "insecurities": [
+      "和姬宫身材对比（反复提到「特大号」）",
+      "十二年的感情如此轻易被取代的无力感"
+    ],
+    "defense_mechanisms": [
+      "投射——将自己的愤怒投射到姬宫身上，认为姬宫是恶魔、在故意整她",
+      "理想化——将袴田天使化，回避他对这段感情也有责任的现实",
+      "物化敌意——把姬宫的身体（胸部）作为攻击目标，将其物化为「黏糊糊的恶意」",
+      "宣泄式破坏行为——捏皱讲义来释放情绪"
+    ],
+    "behavior_patterns": [
+      "在独处空间（影印室）中才会卸下笑容面具",
+      "用破坏物品来释放情绪（捏皱讲义）",
+      "把青梅竹马理想化"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "寻求温水认同的反问",
+        "example_summary": "「对吧？温水也这么认为吧？」",
+        "when_used": "说出对姬宫的极端评价后，需要有人赞同来加固自己的立场"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "当面称姬宫为朋友——独处时称她为恶魔并认为她的一切行为都是恶意",
+      "把袴田摘得一干二净（天使）——把姬宫妖魔化（恶魔），偏执化的二元对立视角"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "进入偏执状态时",
+        "likely_response": "话语变得极端，把世界分为好人和坏人，需要听众认同",
+        "avoid": "不要直接否定她的偏执看法（会让她更坚持），也不要强化她的偏执"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「华恋才是恶魔」",
+      "「那特大号的袋子里头就装著黏糊糊的恶意」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0005",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "午休时八奈见在逃生梯找到温水，向他求救说姬宫约三人放学后去唱卡拉OK。她向温水透露借钱那天晚上袴田和姬宫正式报告了交往消息，八奈见陷入被背叛的痛苦中。",
+    "yanami_role_in_scee": "向温水展示自己的脆弱，继续倾诉失恋的痛苦。",
+    "facts": [
+      {
+        "claim": "八奈见被邀请放学后三人去唱卡拉OK，感到极度痛苦。",
+        "evidence_summary": "她一见到温水就说「救救我」，说会「被迫听他们两个合唱」并反问「温水，你是叫我去死吗！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "借钱当晚袴田和姬宫正式向她报告了交往消息。",
+        "evidence_summary": "八奈见说「跟你借钱的那天晚上很晚的时候，他们跟我报告说正式开始交往了」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对那天晚上袴田和姬宫在一起做了什么充满疑虑。",
+        "evidence_summary": "她问「在那之前，他们到底在哪里做些什么事呢？」并且提到袴田的姐姐找不到他。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水和彦",
+        "attitude": "视为紧急避险的救命稻草",
+        "behavior": "一见面就求救，对他坦白自己的困境",
+        "evidence_summary": "一坐下来就说「救救我」。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "绝望与被迫害感",
+        "trigger": "被邀请三人卡拉OK（被迫看情侣秀恩爱）",
+        "external_expression": "抱头说「我会被迫听他们两个合唱耶！温水，你是叫我去死吗！？」",
+        "hidden_layer": "真正害怕的不仅是看人秀恩爱，更是被排除在两人世界之外的失落感",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "逃逸——不想面对那对情侣在一起的场景"
+    ],
+    "insecurities": [
+      "自己被排除在二人世界之外",
+      "他们正式交往是在她帮忙付钱的那天晚上，增强了被利用感"
+    ],
+    "defense_mechanisms": [
+      "求助第三者（温水）来逃避面对情侣的场景",
+      "用反复咀嚼痛苦细节来折磨自己（追问他们那晚做了什么）"
+    ],
+    "behavior_patterns": [
+      "遇到无法面对的情感场景时，主动寻求第三方介入来逃避",
+      "对痛苦细节进行反刍（反复琢磨交往那晚的事情）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "夸张的求救式开场白",
+        "example_summary": "「救救我。」",
+        "when_used": "一见到可能提供帮助的人，开门见山"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "表面上在问「他们在哪里做些什么」，实际上是自己痛苦的反刍——理性知道不该追问，情感上停不下来"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被邀请参加会有情侣在的社交活动",
+        "likely_response": "第一反应是找借口逃掉，如果逃不掉会找同伴来分散注意力",
+        "avoid": "不要让她轻易接受参加——她会非常抗拒"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「救救我。」（简短求救式开场）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0006",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见继续在逃生梯向温水倾诉，同时提出用亲手做的便当来偿还债务的方案。温水产生误会（以为她要提供身体接触类补偿），最后发现说的是做便当。两人约定以便当抵债。",
+    "yanami_role_in_scene": "主动提出新的互动方式（做便当），展示了她灵活解决问题和不愿欠人情的一面。",
+    "facts": [
+      {
+        "claim": "八奈见提出用亲手做的便当来抵偿债务。",
+        "evidence_summary": "她说「我可以用其他东西代替吗？」然后说「我做便当应该还行」，并提出温水每次评分、直到金额累积到收据上的数字。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见说自己不太擅长料理。",
+        "evidence_summary": "她说「我其实不太熟练」，以及用筷子夹起的鸡肉「失手掉落」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水的态度已经从尴尬目击者转变为信任的倾听者。",
+        "evidence_summary": "她说「这种话我也不能讲给朋友或认识的人听，我很高兴」——虽然同时称温水连「认识的人」都还算不上。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见把芋头戳得粉碎来宣泄情绪。",
+        "evidence_summary": "温水描述「她用筷子使劲戳著芋头」「不停被戳刺的芋头惨遭粉碎」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水和彦",
+        "attitude": "从一个可以倾诉的陌生人发展为可以建立临时交换关系的人",
+        "behavior": "提出做便当偿还债务，建立持续性的日常互动",
+        "evidence_summary": "主动提出「我可以用其他东西代替吗？」并详细说明便当抵债方案。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "短暂的释然与感谢",
+        "trigger": "温水愿意听她倾诉并接受便当方案",
+        "external_expression": "露出柔和的笑靥，开心地咀嚼鸡肉",
+        "hidden_layer": "终于找到了一个可以不用伪装的对象，暂时松了一口气",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "不欠人情——想用自己的方式偿还债务",
+      "持续的联系——提出做便当某种程度上也是在维持和温水的联系"
+    ],
+    "insecurities": [
+      "「这种话我也不能讲给朋友或认识的人听」——没有可以倾诉真正痛苦的朋友",
+      "「我对温水还有很多误会没解开」——意识到自己对温水有偏见"
+    ],
+    "defense_mechanisms": [
+      "行为化处理情绪——用戳食物（戳芋头）来宣泄",
+      "实用主义折衷——用做便当替代还钱，既解决问题又维持联系"
+    ],
+    "behavior_patterns": [
+      "用食物相关的行为来处理情绪（戳芋头、用便当抵债）",
+      "在需要帮助时主动想出折中方案"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "先说消极后感谢的句式",
+        "example_summary": "「抱歉喔，我一个人讲个没完。」「谢谢你，温水。」",
+        "when_used": "在长篇倾诉后的收束，表达歉意和感谢"
+      }
+    ],
+    "humor_style": [
+      "天然呆式的歧义制造——用「不太熟练」「用其他东西代替」等暧昧表述无意间让温水产生误会"
+    ],
+    "food_or_daily_habits": [
+      "便当里的煎蛋卷是甜口味（来自八奈见家的习惯）",
+      "戳芋头泄愤——食物成为情绪宣泄对象"
+    ],
+    "contradictions_or_tensions": [
+      "说温水连「认识的人都算不上」，却和他分享最私密的感情创伤并建立每日便当约定"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和不太熟但信任的人建立新的约定关系",
+        "likely_response": "主动提出替代方案，用实用主义的方式解决问题，同时也在试探对方的接受度",
+        "avoid": "不要让她显得过于算计——她提出便当方案是真心想还债，不是刻意制造机会"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「这种话我也不能讲给朋友或认识的人听」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0007",
+    "useful": false,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "温水在家调整购书计划，妹妹佳树出现推荐书目。八奈见仅在温水计算购书资金时作为「因为她的便当省下午餐费」的背景因素被提及。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0008",
+    "useful": false,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "妹妹佳树质疑温水没有朋友，温水举例自己和八奈见说过话。八奈见仅作为温水的社交计数中的名字被提及。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0009",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见在逃生梯向温水抱怨前一天的卡拉OK经历——被迫听袴田和姬宫合唱冰雪奇缘的定情曲，感到身在地狱。她带给温水的便当是用传单折成的纸盒装的廉价食品，并非亲手做的料理。",
+    "yanami_role_in_scene": "继续诉苦并开始履行便当抵债的约定，但执行得相当敷衍。",
+    "facts": [
+      {
+        "claim": "八奈见被迫听袴田和姬宫在卡拉OK合唱冰雪奇缘情侣对唱曲。",
+        "evidence_summary": "她说「当我听他们合唱冰雪奇缘的歌时，会有什么样的心情」「最后那段的两人台词，我在旁边听著都觉得置身地狱」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见带给温水的第一个「便当」是用超市传单折成的纸盒装着的便利店食品。",
+        "evidence_summary": "温水描述「便当盒是五彩缤纷的纸盒。从鸡腿肉98日圆的字样来看，这应该是用传单折成的」。盒内有鸡腿肉（98日元标签可见）。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见原本打算做两人份的便当，但早上发生了状况。",
+        "evidence_summary": "她说「今天早上，我原本想连同我的份一起，帮温水做便当」但没做成。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见继续称姬宫为冰雪魔女。",
+        "evidence_summary": "她说「那女人果真是打算让我彻底屈服。像冰雪般无情的魔女……」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "投射性的敌意持续加深",
+        "behavior": "将她比喻为冰雪魔女，认为她的一切行为都是有意折磨",
+        "evidence_summary": "「像冰雪般无情的魔女」。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水和彦",
+        "attitude": "习惯性抱怨对象，但对便当约定执行敷衍",
+        "behavior": "用便利店食品装在纸盒里充当便当",
+        "evidence_summary": "带来的便当是超市传单折成的盒子，内装印有价签的鸡腿肉。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "ptsd式的痛苦反刍",
+        "trigger": "回忆卡拉OK中情侣合唱的场景",
+        "external_expression": "抱头大叫、主动重现场景（自己唱台词）然后再次崩溃",
+        "hidden_layer": "主动重现场景是一种自我折磨式的宣泄——明知道会痛还是要说",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望温水对她的痛苦感同身受（「女孩子啊，是种想要人家感同身受的生物」）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用吐槽将痛苦转化为喜剧——把痛苦场景变成可讲述的故事",
+      "象征性妖魔化——给姬宫贴标签（冰雪魔女）来简化复杂情感",
+      "用敷衍的执行力进行关系管理——便当方案虽然启动但没认真做"
+    ],
+    "behavior_patterns": [
+      "主动撕开伤口再喊痛——自己提及冰雪奇缘的合唱场景然后崩溃",
+      "约定的事情执行打折扣——说做便当但带了便利店食品"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "引导对方感同身受的句式",
+        "example_summary": "「你设身处地想一下，当我听他们合唱冰雪奇缘的歌时，会有什么样的心情。」",
+        "when_used": "希望听众理解她的痛苦程度时"
+      },
+      {
+        "pattern": "自言自语式掀伤口再喊痛",
+        "example_summary": "自己唱完台词后「啊啊啊啊啊！」抱头大叫",
+        "when_used": "情绪激动、主动回忆痛苦场景时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的比喻把痛苦喜剧化（「像冰雪般无情的魔女」「置身地狱」）"
+    ],
+    "food_or_daily_habits": [
+      "便当第一次交付失败——带的是便利店食品而非亲手做的",
+      "纸盒便当是用传单折成的，体现节约（或临时应付）的一面"
+    ],
+    "contradictions_or_tensions": [
+      "主动提出做便当抵债——执行时却敷衍了事（便利店食品）",
+      "自己主动回忆痛苦场景然后崩溃——自虐式的反刍"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "需要对方理解自己的痛苦程度",
+        "likely_response": "会用夸张的比喻和戏剧化的描述让对方设身处地",
+        "avoid": "不要简单地敷衍或转移话题——她会更用力地想要你理解"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「像冰雪般无情的魔女」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0010",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见和温水继续便当计价互动。她提到班上同学对她小心翼翼怕触及失恋话题。她误以为温水加入的是园艺社而非文艺社，表现出天然呆的一面。温水注意到她脸上沾着饭粒。",
+    "yanami_role_in_scene": "在轻松的便当计价游戏中流露班级社交处境和天然呆特质。",
+    "facts": [
+      {
+        "claim": "八奈见在班上被同学小心翼翼对待，因为大家都知道她被甩了。",
+        "evidence_summary": "她说「在教室啊，大家都对我小心翼翼的」「『奇怪，八奈见是不是被甩了？』类似这样的气氛」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见温水的便当进行计价互动——她往便当盒里加菜提价。",
+        "evidence_summary": "她先放入煎蛋卷让价格从268涨到300，后放进炸鸡块涨到350。温水给她最低估价268圆。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见混淆了文艺社和园艺社。",
+        "evidence_summary": "温水说加入文艺社，八奈见说「那我也去参观看看」「我喜欢花草喔」，温水纠正「那是园艺社。我加入的是文艺社。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见平时就注意温水的行动模式。",
+        "evidence_summary": "她说「因为你总是一个人直接走向鞋柜，很明显啊」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水和彦",
+        "attitude": "逐渐习惯和他相处，会自然地观察和评论他的日常",
+        "behavior": "注意他是否直接走向鞋柜（判断他是否直接回家），提议去参观他加入的社团",
+        "evidence_summary": "「话说温水，你昨天放学后去哪里了啊？我看到你朝著不是鞋柜的方向走过去。」",
+        "confidence": "high"
+      },
+      {
+        "target": "同班同学（群体）",
+        "attitude": "感受到被同情和小心对待带来的社交压力",
+        "behavior": "对温水透露班级气氛的微妙变化",
+        "evidence_summary": "「大家都对我小心翼翼的」。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "对班级社交地位的觉察与疲惫",
+        "trigger": "被同学小心翼翼地对待的处境",
+        "external_expression": "用平淡语气告诉温水，好像在说别人的事",
+        "hidden_layer": "在班级原本是受欢迎的高人气女生，现在成了被同情的对象，面子受损",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "摆脱班级里被同情的气氛",
+      "找到新的日常去处（提议参观文艺社）"
+    ],
+    "insecurities": [
+      "在班级里从人气女生变成了被小心对待的「被甩的人」",
+      "社交地位的微妙变化"
+    ],
+    "defense_mechanisms": [
+      "用轻松的计价游戏转移注意力",
+      "主动找新的社交圈（提议去参观文艺社）来逃避班级尴尬气氛"
+    ],
+    "behavior_patterns": [
+      "用食物计价的小游戏来维持互动——将日常互动游戏化",
+      "主动拓展新的社交空间（想去文艺社）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问来反击温水的说教",
+        "example_summary": "温水提醒她和两人保持距离，她回「温水，问题就出在这里吧？你没朋友的原因。」",
+        "when_used": "被温水说教时不甘示弱地反击"
+      }
+    ],
+    "humor_style": [
+      "天然呆式误解（混淆文艺社和园艺社）",
+      "反击式吐槽（用「你没朋友的原因」回击温水）"
+    ],
+    "food_or_daily_habits": [
+      "便当互动——每次加菜涨价，把吃饭变成游戏",
+      "煎蛋卷是甜口味（反映家庭料理习惯）",
+      "脸上沾饭粒——吃相不太注意"
+    ],
+    "contradictions_or_tensions": [
+      "吐槽温水没朋友——但自己也是因为失恋才和温水走得近的孤独者",
+      "说温水总是一个人很显眼——说明她自己其实也在注意班上不起眼的人"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被说教或建议时",
+        "likely_response": "不会乖乖接受，会找到对方的弱点反击",
+        "avoid": "不要让她变成逆来顺受的角色——她会反击"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「温水，问题就出在这里吧？你没朋友的原因。」（反击式吐槽）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0011",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见履行约定和温水一起去文艺社参观。被副社长月之木问是不是温水女友时，她平淡否认说「只是同班而已」。她好奇地环顾社团环境，询问活动内容。",
+    "yanami_role_in_scene": "社团访客，展现出对温水世界的兴趣。",
+    "facts": [
+      {
+        "claim": "被问是不是温水女友时，八奈见语气平淡，不带感情。",
+        "evidence_summary": "温水描述「八奈见的反应就是一个『无』字。既不害羞也不厌恶，就像回答今天的天气一样」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主动且认真地来参观文艺社。",
+        "evidence_summary": "温水原本以为她在开玩笑，但她真的跟来了。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对文艺社一无所知。",
+        "evidence_summary": "她问「这个社团有很多书耶。活动内容主要是什么？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水和彦",
+        "attitude": "愿意进入他的社交圈，但对外仍划清界限",
+        "behavior": "跟着他来参观社团，但对外界的误解（女友猜测）反应冷淡",
+        "evidence_summary": "否认是女友时说「只是同班而已」。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇但保持社交距离",
+        "trigger": "进入陌生的社团环境",
+        "external_expression": "好奇地环顾四周，主动询问活动内容",
+        "hidden_layer": "可能想找一个新的可以避开那对情侣的去处",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "拓展新的社交空间，逃离教室里的尴尬气氛"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "对外界可能产生的关系猜测立即否定——保持社交距离"
+    ],
+    "behavior_patterns": [
+      "会主动进入感兴趣的新环境（参观社团）",
+      "对可能产生恋情误解的场合立即撇清"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "否定关系时的平淡陈述句",
+        "example_summary": "「不是喔。只是同班而已。」",
+        "when_used": "被问及和温水的关系时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "愿意跟温水去社团（表现出亲近）——被问关系时立即平淡否定（划清界限）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被外人猜测和温水的关系",
+        "likely_response": "平淡直接地否定，不带多余感情",
+        "avoid": "不要让她害羞地否认或恼怒——她的反应是淡然"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「不是喔。只是同班而已。」"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0012",
+    "useful": false,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "社长玉木学长来到文艺社。八奈见自我介绍是来参观的。社长和她打招呼后小鞠插话打断。场景以社长和副社长的互动为主，八奈见仅作为旁观者。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0013",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "社长和副社长离开后，八奈见注意到小鞠强调社长和副社长是「青梅竹马」后受到强烈刺激。她低声对温水说「明明有青梅竹马却又冒出来的女人全都是狐狸精」，并用怀疑眼光看向小鞠。八奈见将自己青梅竹马被夺走的愤怒投射到眼前的场景中。",
+    "yanami_role_in_scene": "因「青梅竹马」一词被触发深层创伤，将自身经历投射到他人关系上。",
+    "facts": [
+      {
+        "claim": "听到小鞠强调社长和副社长是青梅竹马后，八奈见立刻情绪激动。",
+        "evidence_summary": "温水描述「八奈见的眼睛顿时眯起」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见说「明明有青梅竹马却又冒出来的女人全都是狐狸精」。",
+        "evidence_summary": "她在温水耳边低语，将小鞠视为潜在的「狐狸精」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见将小鞠也投射为情敌/狐狸精角色。",
+        "evidence_summary": "她盯着小鞠，以低沉的声音说「狐狸精？」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "因情境触发而投射敌意，视其为潜在的「狐狸精」",
+        "behavior": "眯起眼睛盯着她看，低声说她可能是狐狸精",
+        "evidence_summary": "「……狐狸精？」以低沉的声音呢喃。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水和彦",
+        "attitude": "分享内心偏执想法的对象",
+        "behavior": "把脸贴近温水低声说出对青梅竹马情境的偏执观点",
+        "evidence_summary": "把脸使劲靠向温水说「明明有青梅竹马却又冒出来的女人全都是狐狸精」。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "触景生情的创伤激活",
+        "trigger": "听到「青梅竹马」这个词+小鞠否定社长和副社长在交往",
+        "external_expression": "眼睛眯起、声音低沉、身体靠近温水低语",
+        "hidden_layer": "将自己的经历（青梅竹马被夺走）投射到社长和小鞠的互动上，感到强烈的物伤其类",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望有人认同她对「青梅竹马被第三者介入」的愤怒",
+      "希望自己的失败不是孤例"
+    ],
+    "insecurities": [
+      "青梅竹马身份被完全取代的深层恐惧",
+      "对「后来者」的强烈不安全感"
+    ],
+    "defense_mechanisms": [
+      "投射——将自己的创伤情境投射到他人的关系上",
+      "标签化——将所有介入青梅竹马关系的人统称为「狐狸精」，简化复杂情感"
+    ],
+    "behavior_patterns": [
+      "被特定关键词（青梅竹马）触发后快速进入激动状态",
+      "会低声和温水分享偏执的想法，寻求认同"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "绝对化论断式表达",
+        "example_summary": "「明明有青梅竹马却又冒出来的女人全都是狐狸精。」",
+        "when_used": "谈到青梅竹马关系中的第三者时，情绪激动时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "她自己就是「青梅竹马被夺走」的受害者——但她对这个角色的执着让她无法客观看待所有青梅竹马情境"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "听到「青梅竹马」相关话题时",
+        "likely_response": "会被触发并产生强烈反应，将自己的经验投射到他人身上",
+        "avoid": "不要让她理性地看待——「青梅竹马」是她的情感按钮"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「明明有青梅竹马却又冒出来的女人全都是狐狸精。」（绝对化论断）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0014",
+    "useful": false,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "社办剩下八奈见和温水两人。八奈见在参观名册上签名、翻阅名册、看书架。再次询问文艺社的活动内容。温水后来加入了社团LINE群组。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0015",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "逃生梯上八奈见继续抱怨被情侣邀请去姬宫家读书。她和温水进行角色扮演模拟姬宫如何利用独处机会勾引袴田。吃完便当后上天台，看着田径队烧盐柠檬跑步时，八奈见突然流泪，终于说出「原来我真的被甩了呢」。",
+    "yanami_role_in_scene": "核心情感戏——从逃避式角色扮演到突然的顿悟性崩溃。",
+    "facts": [
+      {
+        "claim": "八奈见仍在继续接受两人的社交邀请，担心拒绝会导致两人独处。",
+        "evidence_summary": "她说「如果我不去的话，他们就会两人独处喔！？」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和温水进行了一次角色扮演——她扮演姬宫，温水扮演袴田。",
+        "evidence_summary": "她说「情境模拟啦。设想华恋和草介两人独处时的状况」，让温水当草介。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用尽全力把两人份的午餐塞进一个便当盒，米饭被压成糕状。",
+        "evidence_summary": "温水描述「她用尽全力，把两人份的午餐塞进一个便当盒」「米粒已经被压烂，几乎变成糕状了」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在看烧盐柠檬跑步时突然流泪，承认自己被甩了。",
+        "evidence_summary": "温水看到「八奈见的眼眶中盈满了泪水」「滴落的泪珠闪闪发光，随风飞散」，她说「原来我真的被甩了呢」「该怎么说呢，感觉渐渐传遍全身了」「柠檬跑得好卖力喔～我一边看一边这样想，然后突然间就明白，我真的被甩了」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见这次的便当是铝制便当盒装的，但只有一份。",
+        "evidence_summary": "温水问便当在哪，八奈见取出铝制便当盒，说了「我只能用一个便当盒」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水和彦",
+        "attitude": "当做可以一起玩角色扮演和分享脆弱时刻的伙伴",
+        "behavior": "拉他一起情境模拟、和他分享天台空间、在他面前流泪",
+        "evidence_summary": "强拉温水扮演草介进行情境模拟；在他身旁无声流泪。",
+        "confidence": "high"
+      },
+      {
+        "target": "姬宫华恋",
+        "attitude": "将她投射为精于算计的掠夺者",
+        "behavior": "通过角色扮演推测姬宫的意图——认为她在逐步降低带袴田回家的心理门槛",
+        "evidence_summary": "角色扮演中说出「如果我是故意没找她的，你会怎么想？」并推理「事先这样压低带家里去的心理门槛」。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "突然的顿悟式悲伤",
+        "trigger": "看着烧盐柠檬在操场上全力奔跑",
+        "external_expression": "泪水盈眶、无声落泪、说出「原来我真的被甩了呢」",
+        "hidden_layer": "之前一直在用各种方式否认和逃避，看柠檬跑步时被那种纯粹的专注和活力触动，突然意识到自己的感情已经无可挽回",
+        "confidence": "high"
+      },
+      {
+        "state": "角色扮演中的偏执兴奋",
+        "trigger": "设想姬宫和袴田独处的场景",
+        "external_expression": "表情投入地引导温水进行角色扮演，身体靠近温水",
+        "hidden_layer": "用角色扮演来窥视自己不敢面对的场景——既是折磨也是确认",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想要确认自己的推测（姬宫在算计）",
+      "希望温水配合她的情感剧本"
+    ],
+    "insecurities": [
+      "彻底失去袴田的确认带来的空洞感"
+    ],
+    "defense_mechanisms": [
+      "角色扮演——将自己代入情敌的视角，通过模拟来应对焦虑",
+      "转移注意力到他人身上（柠檬跑步）后反而被现实击中",
+      "「感觉渐渐传遍全身」——将痛苦身体化（somatization），用身体感受来描述心理冲击"
+    ],
+    "behavior_patterns": [
+      "用情境模拟和角色扮演来应对焦虑（强迫性地重复假设场景）",
+      "在看似平凡的日常瞬间被情感击中（看人跑步时突然顿悟）",
+      "通过身体感受来描述心理状态（「感觉渐渐传遍全身」）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "引导式角色扮演对话",
+        "example_summary": "「来，温水。你来当草介，快一点！」",
+        "when_used": "想要通过情境模拟来推测情敌的想法时"
+      },
+      {
+        "pattern": "身体感受式的情感表达",
+        "example_summary": "「该怎么说呢，感觉渐渐传遍全身了。」",
+        "when_used": "描述无法用理性语言表达的情感冲击时"
+      }
+    ],
+    "humor_style": [
+      "角色扮演中带有自嘲意味（突然切换到华恋的声音说「今天杏菜突然说没办法来了」）"
+    ],
+    "food_or_daily_habits": [
+      "便当进阶——从便利店食品升级到实际做了（但把米压成了糕状）",
+      "两人份食物塞进一个便当盒：用尽全力压缩米饭的行为体现了性格中蛮干的一面",
+      "便当里有现成的可乐饼（并非全手工）"
+    ],
+    "contradictions_or_tensions": [
+      "激烈地角色扮演推测姬宫的阴谋——然后在平凡的瞬间突然承认「我真的被甩了」——偏执防御和突然的清醒并存",
+      "能用轻松的语气谈论便当的价格——下一秒流泪崩溃"
+    ],
+    "character_growth_or_change": [
+      "这是八奈见在本卷中第一次真正承认自己被甩了——从否认和逃避到接受现实的转折点"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "情感顿悟时刻——突然意识到无法挽回",
+        "likely_response": "不会歇斯底里地哭喊，而是无声落泪，用身体感受来描述心理状态",
+        "avoid": "不要让她用大哭大闹来表达——她的崩溃是安静的、渐进的、顿悟式的"
+      },
+      {
+        "situation": "角色扮演或情境模拟时",
+        "likely_response": "投入度高，会引导对方扮演指定角色，甚至切换声线和视角",
+        "avoid": "不要让她只是理性分析——她会用演的方式来处理焦虑"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "「原来我真的被甩了呢。」（平静的顿悟式台词）",
+      "「感觉渐渐传遍全身了。」（身体化情感表述）",
+      "「柠檬跑得好卖力喔～……然后突然间就明白，我真的被甩了。」（从日常观察到情感顿悟的句式）"
+    ]
+  }
+]

@@ -1,0 +1,811 @@
+[
+  {
+    "scene_id": "yanami-candidate-0121",
+    "useful": false,
+    "volume": "第三卷 ～第一败～ 志喜屋梦子多方关照",
+    "chapter": "",
+    "scene_summary": "文艺社新顾问小拔小夜初次登场。八奈见与烧盐一同欢呼表示欢迎，此外无其他信息。",
+    "yanami_role_in_scene": "仅作为在场社团成员出现，无独立行动或台词。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0122",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "姬宫华恋首次以跨坐在温水身上的姿态登场。八奈见仅在被提及为袴田草介的青梅竹马时出现一次。",
+    "yanami_role_in_scene": "仅通过温水内心独白被提及身份（八奈见的青梅竹马袴田草介的女朋友），无出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0123",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水与姬宫华恋首次单独交谈。姬宫提到八奈见最近食量减少的异常现象（章鱼烧从15个装变12个装、不加免费米饭），暗示她无精打采。温水意外说出4K一词被八奈见听到。八奈见打断两人交谈后以工作为由支开温水。",
+    "yanami_role_in_scene": "虽未全程在场，但作为交谈中心话题间接出场，末尾本人出现打断温水与姬宫的交流。",
+    "facts": [
+      {
+        "claim": "八奈见最近食量有所减少——从车站大楼买章鱼烧时不选15个装而买12个装",
+        "evidence_summary": "姬宫华恋观察到八奈见最近买章鱼烧从15个装变成12个装，并向温水提及此事作为她状态异常的证据。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见最近不加免费米饭，与以往习惯不同",
+        "evidence_summary": "姬宫说'去吃饭的时候，加饭明明不用钱却没加喔'，说明她过去一定会加免费米饭。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见暑假推行过'八奈见式减重法'但失败了",
+        "evidence_summary": "温水内心推测'那大概是因为她暑假时提倡的八奈见式减重法失败了吧'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "在温水面前八奈见的胃口依然很大，没有明显变化",
+        "evidence_summary": "温水内心独白：'八奈见在我面前时，胃口还是老样子啊'。说明她在温水面前维持正常食量。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见进入第二学期后与姬宫华恋的交往恢复频繁",
+        "evidence_summary": "姬宫说'进入第二学期后，又变得常常一起玩了'。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "亲近但有距离——姬宫是最了解她日常变化的密友之一，能察觉她食量异常；但八奈见在她面前也有所保留",
+        "behavior": "与姬宫一起吃饭逛街（车站大楼买章鱼烧、一起吃饭），但姬宫说'也许是我害杏菜不自在'暗示八奈见在她面前也可能不完全放松",
+        "evidence_summary": "姬宫知道她的饮食习惯细节并在担心她，但同时担心自己的存在让她不自在。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "熟悉且互动模式固定的朋友——在温水面前维持正常的食量和大方态度，会主动接话、拿东西、以工作安排打断他与姬宫的交谈",
+        "behavior": "从温水手中接过遮光帘，以'野野村同学在找温水'为由让他去开会，表面上对温水与姬宫在一起表示'随便啦'但随后露出纳闷表情",
+        "evidence_summary": "对话显示：八奈见主动接过温水手中的东西、转移话题、注意到温水与姬宫的气氛异常后露出纳闷表情。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "隐藏的低落/无精打采",
+        "trigger": "未明确说明触发事件，但可能与被比较（姬宫华恋的存在）或失恋后遗有关",
+        "external_expression": "食量减少（不买大份章鱼烧、不加免费米饭）",
+        "hidden_layer": "可能因姬宫华恋正式登场并成为袴田女友而感到不安或被比下去，选择以减少食量作为应对",
+        "confidence": "medium"
+      },
+      {
+        "state": "疑惑/警惕",
+        "trigger": "看到温水和姬宫华恋一起出现且两人之间有特别气氛",
+        "external_expression": "表面说'是喔，哎，随便啦'以示不在意，但表情露出纳闷",
+        "hidden_layer": "对温水与姬宫的亲近感到介意，但不愿直接表现出来",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "在姬宫华恋面前维持正常——至少在食量和态度上不想被看出受影响",
+      "阻止温水与姬宫华恋过于亲近（以事务性理由打断他们独处）"
+    ],
+    "insecurities": [
+      "与被比较压力——在姬宫面前可能感到自己'不够好'（温水内心将姬宫比作8K OLED而八奈见是4K也侧面印证了这种对比的存在）",
+      "对自身身材/体重的在意（推行减重法虽失败但反映出持续的关注）"
+    ],
+    "defense_mechanisms": [
+      "假装不在乎——看到温水与姬宫在一起时嘴上说'随便啦'",
+      "事务性打断——以公事为由让温水离开，避免他继续与姬宫相处"
+    ],
+    "behavior_patterns": [
+      "在密友面前和在温水面前食量/状态可能有差异（姬宫看到的食量减少 vs 温水看到的'还是老样子'）",
+      "遇到介意的事情时选择表面上满不在乎然后用其他理由介入"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "重复呼唤对方名字——'等一下等一下！温水你等等啦！'",
+        "example_summary": "用急切的重复语气叫住温水，然后才说出目的",
+        "when_used": "需要引起对方注意或阻止对方离开时"
+      },
+      {
+        "pattern": "用'哎，随便啦'之类的大方语气掩盖真实情绪",
+        "example_summary": "对温水与姬宫在一起表示'哎，随便啦'",
+        "when_used": "当内心实际在意但不想表现出来时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "通常买15个装的章鱼烧，近期减为12个",
+      "平时用餐一定会加免费米饭",
+      "暑假推行过'八奈见式减重法'但失败"
+    ],
+    "contradictions_or_tensions": [
+      "在姬宫面前食量减少 vs 在温水面前仍维持大食量——暗示她在不同人面前表现不同",
+      "表面上不想让姬宫感到自己不舒服（'她绝对是无精打采'的担忧来自姬宫而非本人承认）vs 实际可能在硬撑"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "面对温水与姬宫华恋单独交谈后被撞见",
+        "likely_response": "八奈见会先用随意的语气打招呼或调侃，然后以合理的理由（工作、别人在找）让温水离开。表面上不在意，但会露出细微的怀疑表情。",
+        "avoid": "避免直白地表示嫉妒或不悦——她会用事务性借口来介入，而不是直接质问。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "等一下等一下！温水你等等啦！",
+      "是喔，哎，随便啦"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0124",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水观察万圣节小道具清单，发现有大量南瓜装饰。仅间接提到南瓜多是采用了八奈见的意见。",
+    "yanami_role_in_scene": "仅通过温水内心独白被提及（肯定采用了八奈见的意见——说明她在班级活动策划中有发言权），本人未出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0125",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水确认八奈见的行程后锁上社办门，给社办的小鞠品尝他妹妹制作的点心样品。温水内心提到放在社办的点心会被八奈见吃掉。",
+    "yanami_role_in_scene": "不在场，但温水确认了她今天不会来社办的行程，并提到她的饮食习惯。",
+    "facts": [
+      {
+        "claim": "八奈见会吃掉社办里没人看管的食物",
+        "evidence_summary": "温水内心独白'反正放在社办只会被八奈见吃掉'，说明社办的食物放在那里就会被八奈见消灭是已知惯例。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "社办里的食物会被她吃掉——在社团里有'清空食物'的名声"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在社办发现食物时",
+        "likely_response": "会自然地吃掉，不会深究食物是谁的。被质问时可能会找借口或卖萌蒙混过去。",
+        "avoid": "不要让她表现出会特意征询所有人意见才吃——她更像是看到就吃、默认大家都无所谓。"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0126",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水硬塞点心给小鞠。热水内心再次提到'反正放在社办只会被八奈见吃掉'，并说'某种角度上算是帮她减重'。",
+    "yanami_role_in_scene": "仅被温水在内心独白中提及作为塞点心给小鞠的理由，本人未出场。与scene 0125信息重复。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0127",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水与烧盐事后在家庭餐厅聊天。温水为劝小鞠点餐说出'点餐反而能拿到钱'的歪理，被小鞠吐槽'为什么突然说出八奈见会讲的话'。温水因被说像八奈见而感到失落。",
+    "yanami_role_in_scene": "不在场，但她的说话风格被他人作为参照系——小鞠能识别出温水说的歪理是八奈见的典型话术。",
+    "facts": [
+      {
+        "claim": "八奈见有将省钱合理化描述的独特说话方式——能用歪理把'点餐等于省钱'之类的小算盘说得冠冕堂皇",
+        "evidence_summary": "小鞠听到温水说'点餐反而能拿到钱'后直接反应'为什么突然说出八奈见会讲的话'，说明这种逻辑推理方式是小鞠认知中八奈见的特征。",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水对自己被说像八奈见感到介意/失落",
+        "evidence_summary": "温水内心独白：'咦？刚才那句话很像八奈见的感觉吗？是喔……好失落……'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "八奈见在小鞠心中有印象鲜明的'抠门合理化话术'特征",
+        "behavior": "小鞠能立即识别出类似逻辑并直接点名——说明八奈见这种说话方式在社内很出名",
+        "evidence_summary": "小鞠脱口而出的吐槽证明了八奈见的言语特征在朋友间已形成固定印象。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "八奈见的话语体系已经潜移默化影响到温水——温水会不自觉得使用八奈见式的逻辑来说服别人",
+        "behavior": "温水用了八奈见式的省钱歪理来说服小鞠，说明两人日常相处已使温水吸收了部分她的表达方式",
+        "evidence_summary": "温水自己没意识到那是八奈见的话风，经小鞠提醒后才发现。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [
+      {
+        "pattern": "将省钱（或利己行为）用复杂逻辑包装成正面的、合理的选择——'点餐反而能拿到钱'式的话术",
+        "example_summary": "把'点了食物就可以打折享用饮料吧'反转为'点餐反而能拿到钱'的诡辩逻辑",
+        "when_used": "为自己想多吃的欲望或省钱行为找正当理由时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "用经济学歪理来说服别人接受自己的提案时",
+        "likely_response": "会构建一套听起来自洽的绕逻辑，把'我想吃'包装成'这样做反而划算'。被戳穿时会装傻或转移话题。",
+        "avoid": "不要让她说直白的'因为我饿了/我想吃'——她会用歪理来合理化，而非坦率承认欲望。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "点餐反而能拿到钱"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0128",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水点特大号薯条时向小鞠解释，以八奈见的行为作为参照——八奈见会把汉堡排当甜点吃，所以薯条完全可以算甜点。",
+    "yanami_role_in_scene": "不在场，但温水以她的饮食习惯为基准来合理化自己的行为。",
+    "facts": [
+      {
+        "claim": "八奈见会吃汉堡排当甜点",
+        "evidence_summary": "温水向小鞠说'八奈见同学会吃汉堡排当甜点喔。相比之下，薯条完全算得上甜点。'以此说明薯条也是合理的甜点。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "会把汉堡排当作甜点——对食量的认知标准远超常人",
+      "她的饮食习惯被温水当作'任意食物都能是甜点'的量尺来引用"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被问及食量或饮食选择时",
+        "likely_response": "不觉得自己的食量有什么问题，能将正餐当点心、点心当正餐。对'什么算甜点'有非常宽泛的定义。",
+        "avoid": "不要让她对自己的食量表现出羞愧——她更可能将其视为正常而反过来让提问者困惑。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "八奈见同学会吃汉堡排当甜点"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0129",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "温水内心独白反思自己过去对八奈见和烧盐的介入，认为自己只是刚好在场没有帮上忙。八奈见仅被提及一次。",
+    "yanami_role_in_scene": "仅出现在温水内心回顾中作为'过去曾介入过的事件当事人'，本人未出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0130",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "万圣节准备场景。八奈见被提及为'包含八奈见在内的班上顶尖俊男美女'正在试穿服装，但本人未在该场景有具体行动或台词。",
+    "yanami_role_in_scene": "仅被列为班上高颜值学生之一正在试装，无具体描写。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0131",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "万圣节服装亮相场景。八奈见以穿白色和服、额头贴三角纸片的幽灵造型出场。温水先说她是'尸体'遭她反驳。她要求温水做鬼火小道具并指定要'方便用手拿着吃完的大小'。男同学西川因嫉妒打断他们谈话。温水感到烦躁，并注意到八奈见有异性缘。随后烧盐以绷带木乃伊造型登场。",
+    "yanami_role_in_scene": "主要出场景角色。以幽灵装扮出场，与温水有打闹式互动，展现了幽默感和对温水态度的敏感。",
+    "facts": [
+      {
+        "claim": "八奈见在万圣节装扮中扮演幽灵——身穿白色和服、额头贴三角纸片",
+        "evidence_summary": "温水描述'一身纯白和服，加上额头的三角纸片'；八奈见自己说'是幽灵！'并说打算走'日本柔弱幽灵路线'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见注意到温水当天与平时态度不同，觉得他'见外'",
+        "evidence_summary": "八奈见主动问温水：'温水感觉很见外耶。平常像雕刻刀一样直捅心窝的刀子嘴跑哪去了？'说明她很在意温水态度的变化并直视询问。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在学校有异性缘，有其他男生（西川）对她有意思",
+        "evidence_summary": "温水观察到西川'先瞪了我一眼，之后才跟着她离开'，并评论'虽然是那种个性，但八奈见很有异性缘'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用食物（食量）作为测量物品尺寸的参照系",
+        "evidence_summary": "她要求鬼火要'方便用手拿着吃完的大小'，温水推测'这家伙能吃完的尺寸'大约排球的尺寸。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性地与温水斗嘴打闹——会主动找他搭话、展示服装、提要求；同时在意温水对自己的态度变化并直接指出来",
+        "behavior": "主动向温水展示服装（转圈），指出温水态度见外，以食物尺寸为参照向他提需求",
+        "evidence_summary": "主动互动细节：'在我面前俐落转圈'、'你看，怎么样怎么样？很不错吧'、质问'刀子嘴跑哪去了'。",
+        "confidence": "high"
+      },
+      {
+        "target": "西川（男同学）",
+        "attitude": "八奈见对喜欢自己的男生持平常心，并未给予特殊对待",
+        "behavior": "被叫去练习时正常回应，没有表现出对西川的特别好感或排斥",
+        "evidence_summary": "西川叫她练习时她只说'来了，现在就过去'然后离开，对西川瞪温水一事无反应。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "开心/兴奋——展示服装时的积极状态",
+        "trigger": "身穿幽灵服装，被温水看到",
+        "external_expression": "在温水面前转圈展示、主动问'你看，怎么样怎么样？很不错吧'",
+        "hidden_layer": "可能有在温水面前刻意展现自己可爱一面的意图——选择走'柔弱路线'的幽灵或许是为了塑造与平时不同的印象",
+        "confidence": "medium"
+      },
+      {
+        "state": "不满/介意——对温水当天的冷淡态度",
+        "trigger": "温水没有像平时一样吐槽她，反而显得见外",
+        "external_expression": "直接提出问题'刀子嘴跑哪去了？'并耸肩表示无奈",
+        "hidden_layer": "温水对她态度的变化可能让她感到不安或被疏远，所以她主动指出来寻求解释",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "在温水面前展示自己可爱的一面（特意转圈展示服装、走柔弱路线造型）",
+      "希望温水用平时的方式对待自己——对温水变得见外感到不适并直接表达",
+      "吃到方便顺手拿着的食物（鬼火要做得便于手持和食用）"
+    ],
+    "insecurities": [
+      "温水对自己态度变冷淡的可能性——她主动提出来说明她察觉到了变化并在意",
+      "对自身'柔弱'属性的不自信——选择幽灵造型走'柔弱路线'，但被温水吐槽'健康的尸体'"
+    ],
+    "defense_mechanisms": [
+      "以吐槽来找回互动节奏——指出温水态度变化（要求他恢复毒舌）实际上是在试探双方关系是否还和以前一样",
+      "用食物话题缓解尴尬——把鬼火需求规格与'吃'挂钩"
+    ],
+    "behavior_patterns": [
+      "在温水面前有展示欲——喜欢主动呈现自己的新造型并期待反馈",
+      "对温水态度的变化高度敏感——能察觉到他细微的疏远并直接质问",
+      "用食物作为所有事物的度量衡——连小道具尺寸也用'能否拿着吃'来判断"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "夸张的反问/抗议——'是幽灵！温水，你刚才说了什么！？有这么健康的尸体吗！？'",
+        "example_summary": "以夸张的震惊和抗议回应温水的吐槽，用反问来强调自己的观点",
+        "when_used": "被温水故意误读或吐槽时，以更大的声势反击回去"
+      },
+      {
+        "pattern": "以重复句肯定自己的选择——'既柔弱又健康'",
+        "example_summary": "对自己的矛盾属性（柔弱×健康）用并列的句式自我总结，带着自我解嘲的意味",
+        "when_used": "当自己的设定或行为有内在矛盾时"
+      },
+      {
+        "pattern": "用轻松调侃维持关系常态——'今天的温水，感觉很不对劲耶～'",
+        "example_summary": "以温和的调侃指出温水的变化，用轻松的语气掩盖话题的严肃性",
+        "when_used": "需要就关系状态进行试探性沟通时"
+      }
+    ],
+    "humor_style": [
+      "自我矛盾幽默——自称走柔弱路线却有健康的体质，她对此有自觉且能自嘲",
+      "调侃式指出他人异常——用轻松的'不对劲哦～'语调来指出温水的变化"
+    ],
+    "food_or_daily_habits": [
+      "用进食便利性作为物品规格基准（'方便用手拿着吃完的大小'）",
+      "被温水认知为能吃完排球大小的鬼火（如果有馅料的话）"
+    ],
+    "contradictions_or_tensions": [
+      "自称'柔弱路线幽灵' vs 被吐槽'健康的尸体'——她有自我认知偏差或故意选择反差的幽默",
+      "在温水面前展示可爱造型 vs 被西川等男生打断——她可能并未意识到或不在意周围男生对她的关注"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水没有像往常一样毒舌吐槽时",
+        "likely_response": "八奈见会直接指出异常，用轻松调侃的语气询问'你今天好见外哦'。她依赖两人之间既有的吐槽互动模式来维持关系的安全感，模式被打破时会主动修复。",
+        "avoid": "不要让她完全无视温水的变化——她对此高度敏感。但也不要让她真的生气或伤心，而是用带着困惑的调侃来询问。"
+      },
+      {
+        "situation": "有其他男生（暗恋者）在场时",
+        "likely_response": "不会特别改变对温水的态度，对其他男生的接近照常应对——不会刻意亲近温水来刺激别人，也不会回避。被喊去练习时正常回应后离开。",
+        "avoid": "不要让她表现出对其他追求者的意识或优越感——她的注意力更多在当下的互动而非谁在看她。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "是幽灵！",
+      "温水感觉很见外耶",
+      "方便用手拿着吃完的大小",
+      "既柔弱又健康"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0132",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "八奈见与姬宫华恋以'12K搭档'身份组队，将袴田从走廊架走（因为他看到了烧盐的木乃伊装）。随后八奈见怒气冲冲地瞪温水并放话'温水也是。之后再来跟你讲。'",
+    "yanami_role_in_scene": "与姬宫搭档执行'惩罚'袴田的行动，随后对温水也发出警告。",
+    "facts": [
+      {
+        "claim": "八奈见和姬宫华恋自称或被称为'12K搭档'",
+        "evidence_summary": "温水旁白称她们为'12K搭档'——延续之前4K（八奈见）与8K（姬宫）的电视比喻，12K是两者相加。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见看不惯袴田看到烧盐的木乃伊装，与姬宫一起架走他",
+        "evidence_summary": "两人从左右架住袴田：'杏菜，这需要说教吧''就是啊。华恋，你抓那边。'然后拖走了他。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见同时也对温水生气，预告要找他算账",
+        "evidence_summary": "温水注意到八奈见'正不爽地瞪着我'，随后八奈见说'温水也是。之后再来跟你讲。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "在这件事上立场一致、行动同步——组成'12K搭档'联手打击男友偷看其他女生",
+        "behavior": "与姬宫默契配合，一人一句、左右架走袴田",
+        "evidence_summary": "对话默契：'「杏菜，这需要说教吧。」「就是啊。华恋，你抓那边。」'",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "虽然他是青梅竹马且现在是姬宫的男友，但八奈见会动手（架走）惩罚他看向其他女生",
+        "behavior": "与姬宫合作将袴田从走廊拖走进行'说教'",
+        "evidence_summary": "两人一左一右架走袴田，说明八奈见在'管教'前男友这件事上没有避讳。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "同样对温水不满，认为他也应该被追究——与袴田一视同仁",
+        "behavior": "瞪着温水并警告他'之后再来跟你讲'，说明她对温水看到烧盐的造型也感到不悦",
+        "evidence_summary": "温水旁白'八奈见似乎正不爽地瞪着我喔'，八奈见说'温水也是。之后再来跟你讲。'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不满/嫉妒",
+        "trigger": "温水（和袴田）看到了烧盐的裸露木乃伊装扮",
+        "external_expression": "表情不爽地瞪温水、用警告的语气说'温水也是。之后再来跟你讲。'",
+        "hidden_layer": "她将自己放在与姬宫华恋相同的位置——像是'正宫'在警告男友不要看其他女生，暗示了她内心对温水的占有欲",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "温水不看/不看太多其他女生的暴露装扮",
+      "自己和姬宫一样有资格警告/管教温水"
+    ],
+    "insecurities": [
+      "被烧盐的暴露装扮比下去的可能——温水看到了烧盐的身材曲线和裸露肌肤",
+      "自己在温水眼中的吸引力可能不如其他女生"
+    ],
+    "defense_mechanisms": [
+      "以'惩罚'和'警告'的形式表达不满——将嫉妒包装成正当的'管教'",
+      "与姬宫组队行动——和'情敌'（姬宫）联手来弱化自己的独占欲显得合理（'大家都这样做'）"
+    ],
+    "behavior_patterns": [
+      "无法直接表达嫉妒/占有欲时会选择以惩罚或警告的形式来宣泄",
+      "在意温水对其他女生的视线——她会监视并追究",
+      "喜欢用'之后再来跟你讲'这种预告来保留追究权"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用'之后再来跟你讲'保持威慑和控制",
+        "example_summary": "不对温水当场说教而选择延期追究",
+        "when_used": "在当前场合不方便深入说教时，用这句话保留未来追责的权利"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "八奈见是袴田的前（暗恋）女友，但此刻却和现女友姬宫站在同一阵线联手'管教'袴田——体现她已接受这段关系的新格局",
+      "她以姬宫对袴田同样的标准来要求温水——但她自己与温水并不是情侣关系，这种'正妻'式的嫉妒缺乏名分支撑"
+    ],
+    "character_growth_or_change": [
+      "与姬宫华恋从潜在情敌发展为可以组队合作的伙伴关系——暗示她正在接受新的人际格局"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "温水看了其他女生（尤其是关系亲近的女生）的暴露装扮",
+        "likely_response": "不会直接说'我吃醋了'，而是用不满的表情和'之后再来跟你讲'来施加压力。语气中有真正的恼怒，但不会真的吵起来。可能会在后面找机会以轻松调侃的方式翻旧账。",
+        "avoid": "不要让她直接承认嫉妒或表现出软弱——她会用理直气壮的态度'你该被说教'来掩盖。也不要让她对温水真的发大火——气恼的程度有限。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水也是。之后再来跟你讲。"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0133",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "小鞠房间描写。八奈见和烧盐在文艺社海边合照中出现，呈现开心笑容。八奈见本人不在场。",
+    "yanami_role_in_scene": "仅出现在墙上照片中——夏天文艺社海边合照里与烧盐一起开心笑着。本人未出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0134",
+    "useful": false,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "文艺社安排石蕗祭准备工作。温水说会联络八奈见和烧盐集合。八奈见本人未在此场景出场。",
+    "yanami_role_in_scene": "仅被温水提及为需要联络的社团成员之一，本人未出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0135",
+    "useful": true,
+    "volume": "第三卷 ～第二败～ 姬宫华恋隆重登场",
+    "chapter": "",
+    "scene_summary": "石蕗祭准备日清晨。八奈见咬着手里的金枪鱼蛋黄酱饭团登场，发表'鲔鱼美乃滋是人类智慧的结晶'的言论。她来帮忙温水准备文艺社展览，实际是她通过联系温水的妹妹佳树得知温水需要帮助，进而召集了烧盐、社长、月之木学姊全体到场。温水发现是八奈见暗中组织了所有人。",
+    "yanami_role_in_scene": "实际上的'幕后指挥者'——主动从佳树处获取信息、召集文艺社全员来支援温水。以吃饭团入场，展现标志性的食物热情和组织能力。",
+    "facts": [
+      {
+        "claim": "八奈见主动联系了温水的妹妹佳树，获取温水需要帮助的信息",
+        "evidence_summary": "八奈见说：'你妹妹告诉我的喔。温水完全不愿意详细说明昨天的事情嘛。我说要帮忙，你也只会回不用。那我当然只能去问你妹妹了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见召集了烧盐、社长和月之木学姊来帮忙温水",
+        "evidence_summary": "社长说：'是八奈见学妹集合了大家。再说，也不能让温水一个人专美于前啊。'说明八奈见是组织者。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为自己是文艺社成员，有权利和义务参与社团事务",
+        "evidence_summary": "她回应温水对佳树联系方式的质疑时说：'你太见外了吧？我们也是社员，也在担心小鞠喔。'以社员身份作为正当理由。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见深知温水不愿意麻烦别人的性格，因此采取迂回方式帮忙",
+        "evidence_summary": "她说'温水完全不愿意详细说明昨天的事情嘛。我说要帮忙，你也只会回不用'——准确预判了温水的反应。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见吃金枪鱼蛋黄酱饭团，并对其高度赞赏",
+        "evidence_summary": "她说'鲔鱼美乃滋真是人类的智慧结晶，我要颁赠八奈见赏给发明者'，随后很快开始吃第二个饭团。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "表面调侃但实质上非常关心——深知温水不愿麻烦人的性格，因此用迂回方式（联系妹妹、召集大家）来提供帮助",
+        "behavior": "不直接说自己来帮忙，而是通过召集全员来'被迫'接受帮助；调侃温水'是不是惊喜过头让你说不出话了'",
+        "evidence_summary": "她联系佳树、召集全社成员、但以轻松的调侃态度对待温水，避免让帮助显得太沉重或正式。",
+        "confidence": "high"
+      },
+      {
+        "target": "佳树（温水的妹妹）",
+        "attitude": "主动建立联系——与温水关系亲近到能直接联系他的家人",
+        "behavior": "主动与佳树交换了联系方式，并从她那里获取温水需要帮助的情报",
+        "evidence_summary": "温水震惊：'你什么时候和佳树交换联络方式的……？'八奈见没有正面回答。",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐",
+        "attitude": "亲近——叫烧盐来帮忙，两人见面击掌互动",
+        "behavior": "烧盐跑来与她击掌，她叫烧盐'柠檬'（昵称）。两人的互动轻松自然无需解释。",
+        "evidence_summary": "'烧盐跑向八奈见，举高手与她响亮地击掌'，八奈见回应'柠檬早安'。",
+        "confidence": "high"
+      },
+      {
+        "target": "文艺社社长和月之木学姊",
+        "attitude": "八奈见以学妹身份能召集学姊们——说明她在社团内有一定号召力和人缘",
+        "behavior": "成功说服社长和月之木学姊一大早来帮忙",
+        "evidence_summary": "社长说'是八奈见学妹集合了大家'。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "精神饱满、心情愉快",
+        "trigger": "一大早在学校与朋友会合、吃到金枪鱼蛋黄酱饭团",
+        "external_expression": "发表对饭团的赞赏宣言、笑着调侃温水、与烧盐击掌",
+        "hidden_layer": "表面玩世不恭的发言掩盖了她今天一大早来学校的真实目的——她不是来吃早饭的，是来组织支援温水的",
+        "confidence": "high"
+      },
+      {
+        "state": "被温水指出乱丢垃圾时的不满",
+        "trigger": "饭团包装纸被风吹走，温水让她捡起来",
+        "external_expression": "嘴上嘟哝着'我刚才就想说之后会捡的'但还是听话地捡起了垃圾",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "帮温水分担——不愿他被事情压垮",
+      "维护文艺社的凝聚力——强调'我们也是社员，也在担心小鞠'",
+      "吃好东西——金枪鱼蛋黄酱饭团"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "以搞笑和调侃来掩盖真心——用'鲔鱼美乃滋是人类智慧的结晶'的夸张发言来营造轻松气氛，不让自己的帮助显得刻意或沉重",
+      "迂回行动而非直接请求——不直接请求温水接受帮助，而是通过联络佳树和召集社群来间接实现目的",
+      "用社团身份正当化行动——用'我们也是社员'来掩盖个人对温水关心的真实动机"
+    ],
+    "behavior_patterns": [
+      "想要帮助温水时会通过'绕路'的方式实现——不直接开口，而是通过第三方（佳树）或集体行动来实现",
+      "在乎集体/社团——会组织和召集大家共同应对问题",
+      "配合调侃互动——用调侃弱化正式氛围",
+      "对美食有发表夸张赞辞的习惯（'鲔鱼美乃滋真是人类的智慧结晶'）",
+      "吃完东西后会随手丢垃圾（或至少被温水提醒前会忘记处理）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "对食物发表夸张的、颁奖式的评价——'鲔鱼美乃滋真是人类的智慧结晶，我要颁赠八奈见赏给发明者'",
+        "example_summary": "用'人类智慧的结晶'和自创奖项（八奈见赏）等夸张措辞赞美简单食物",
+        "when_used": "吃到自己喜欢的食物时，用夸张修辞表达幸福感"
+      },
+      {
+        "pattern": "以责备对方见外/见外的方式来掩盖自己的体贴——'你太见外了吧？我们也是社员'",
+        "example_summary": "用'你太见外了'来反客为主，将自己的关心包装成'理所应当'",
+        "when_used": "想要帮助对方但不想让帮助本身成为话题焦点时"
+      }
+    ],
+    "humor_style": [
+      "夸张赞美平凡事物（金枪鱼蛋黄酱饭团）",
+      "在认真/有用的行动上包裹一层搞笑外衣（组织全社支援却用饭团和调侃开场）"
+    ],
+    "food_or_daily_habits": [
+      "早餐吃便利店的饭团（金枪鱼蛋黄酱口味）",
+      "吃东西速度很快（'开始吃第二颗饭团'。'这家伙吃得还真快'）",
+      "对食物有特殊的赞美方式（设立'八奈见赏'）"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上说'惊喜过头让你说不出话了'调侃温水，实际上她是那个精心策划惊喜的人——她故意用轻松搞笑开场来淡化自己背后付出的努力",
+      "表面上是来吃早饭、调侃温水的，实际上她是组织者和幕后推手——行动与话语之间存在反差",
+      "被温水说'先把垃圾捡起来'时虽然嘴上不满但还是照做了——抱怨但服从，表面叛逆实际配合"
+    ],
+    "character_growth_or_change": [
+      "从第一、二卷中较为被动的角色（等待温水介入/陷入自己的情绪）发展到第三卷开始主动组织支援——她主动联系佳树、召集全员，展现了更强的能动性",
+      "懂得利用'社团成员'身份来正当化对温水的关心——人际手腕更加成熟"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "在温水不知情的情况下帮助他",
+        "likely_response": "八奈见会通过迂回路线来实现——先联系第三方（如温水妹妹），再以集体形式出现，绝不承认自己是发起者。被揭穿后会转移话题或调侃对方。",
+        "avoid": "不要让她直接说'我是来帮你的'——她的帮助必须包裹在'顺便'和'理所当然'的外壳中。不要让她表现得太感性或认真——搞笑是她的保护色。"
+      },
+      {
+        "situation": "被温水指出行为上的小问题（如乱丢垃圾）",
+        "likely_response": "会先嘴上抱怨（'我刚才就想说之后会捡的'），然后照做。不会真的生气或反驳——温水指出问题在她这里是可接受的。",
+        "avoid": "不要让她过度对抗或真的生气——这种小摩擦是两人互动的常态，她接受温水的小管束。"
+      },
+      {
+        "situation": "吃自己喜欢的东西时",
+        "likely_response": "会发表夸张的评价（'人类的智慧结晶'），吃得很快，而且会吃第二份。美食能明显提升她的情绪。",
+        "avoid": "不要让她对食物冷淡或以小份为满足——她的食欲是她性格的标志性特征。"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "鲔鱼美乃滋真是人类的智慧结晶",
+      "我要颁赠八奈见赏给发明者",
+      "你太见外了吧？我们也是社员",
+      "我刚才就想说之后会捡的"
+    ]
+  }
+]

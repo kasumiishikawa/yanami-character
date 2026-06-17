@@ -1,0 +1,1144 @@
+[
+  {
+    "scene_id": "yanami-candidate-0391",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 想见方便的男生的女生 精文馆书店特典短篇",
+    "scene_summary": "八奈见约温水去书店找一部关于青梅竹马修成正果的漫画，意图让草介读后意识到青梅竹马的宝贵。她仅凭模糊描述就大胆向店员求助，最终找到了《从今天开始做青梅竹马》。温水指出草介已有女友（她的好友华恋），八奈见声称不是想出轨，只是希望草介重新认知她的价值。",
+    "yanami_role_in_scene": "主动策划者，利用温水的帮助执行她对草介的间接攻略计划。",
+    "facts": [
+      {
+        "claim": "八奈见仍然试图挽回草介的关注，尽管对方已有女友",
+        "evidence_summary": "她主动寻找青梅竹马题材的漫画，意图让草介读后意识到她的价值。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见声称不是想要草介出轨，只是希望提升在他心中的排名",
+        "evidence_summary": "温水指出草介有女友（华恋）后，她回应'我又不是想要跟他出轨。只是希望草介重新认知青梅竹马的宝贵，让我在草介心目中的排名稍微提升而已。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在草介心中的排名已经低落到需要刻意提升的程度",
+        "evidence_summary": "温水内心独白：'现在已经低落到需要提升的地步了吗？听起来怪可怜的。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有勇气仅凭模糊信息主动向陌生人求助",
+        "evidence_summary": "她只记得'主角交到一个青梅竹马，然后两个人会在一起'，就敢直接去问店员。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "袴田草介（青梅竹马）",
+        "attitude": "仍抱有期待，试图用间接方式重新吸引他的注意",
+        "behavior": "专门寻找青梅竹马题材的漫画想让草介读，希望通过作品唤醒他对青梅竹马价值的认知",
+        "evidence_summary": "她向温水说明意图：'如果草介读完充满青梅竹马魅力的漫画，突然察觉了待在身边的青梅竹马有多么美好'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水（朋友/帮手）",
+        "attitude": "信任且随意，不介意展示自己的小心思",
+        "behavior": "主动约温水假日出来帮忙，毫不在意地坦露自己对草介的企图",
+        "evidence_summary": "她直接约温水去书店并坦白目的，温水对她的计划感到无语但也配合。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "乐观/得意",
+        "trigger": "想到自己的计划可能奏效",
+        "external_expression": "解释意图时'不知为何表情洋洋得意'，找到书后'哼着歌前去结帐'",
+        "hidden_layer": "其实内心清楚草介已经有女友华恋，自己的希望渺茫，因此才需要这样拐弯抹角地行动",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "希望草介重新意识到她的存在价值",
+      "在草介心中提升排名，即使他有女友也不放弃努力"
+    ],
+    "insecurities": [
+      "在草介心中地位低下的事实（温水指出'低落到需要提升的地步'时，她没有否认）"
+    ],
+    "defense_mechanisms": [
+      "用行动表达悲伤不满而不是说出来——不直接对草介/华恋表达不满，而是想用迂回手法改变局面"
+    ],
+    "behavior_patterns": [
+      "喜欢用间接、策划的方式应对情感问题，而非直接表达"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "重复关键词表示强调或质疑",
+        "example_summary": "对温水连续重复'在假日？在假日？'和'只有这么笼统的资讯？'",
+        "when_used": "对温水的迟钝或敷衍表示不满时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "声称不想让草介出轨，但她的行为本质上是在试图动摇草介对华恋的专注度",
+      "她对温水说'不要出轨'但自己的计划就是想让草介重新关注自己，存在道德上的灰色地带"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "当别人质疑她对草介的感情时",
+        "likely_response": "她会用逻辑化的解释来包装自己的情感需求，比如'我只是想提升排名'，不会直面承认失落",
+        "avoid": "不要让她直接哭诉或被甩的痛苦——她会用计划性的语言来掩饰"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "重复两次词的说话句式",
+      "洋洋得意地解释青梅竹马计划"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0392",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 黑色封袋是信赖之证 Melon×GAGAGA15周年特典短篇",
+    "scene_summary": "前半：八奈见在社办擅自打开温水带来的点心，和烧盐、小鞠一起吃掉。温水回来时三人笑着掩盖。后半：八奈见约温水去Melonbooks买漫画《所有同事都溺爱我一个》，温水买了轻小说漫画版后被八奈见调侃黑色袋子里的内容。",
+    "yanami_role_in_scene": "小吃货兼气氛制造者，在社办带节奏；后半是引导温水进入不熟悉领域的带路人。",
+    "facts": [
+      {
+        "claim": "八奈见会擅自吃掉别人的东西并合理化自己的行为",
+        "evidence_summary": "温水不在时她打开点心吃了，声称'只有他品尝过这份美味太不公平了'，并促使柠檬一起吃。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见自知做错事但用轻松态度应对",
+        "evidence_summary": "吃完后说'很好，这样证据也湮灭了'，温水来时主动笑着摆手说'没事喔～'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水和小鞠的关系有特别观察",
+        "evidence_summary": "她说'因为温水对小鞠特别宽容啊。他就不会把甜点分给我吃。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会因温水和其他女生的亲密关系产生警惕，确认安全后放松",
+        "evidence_summary": "柠檬说她在社办换衣服温水有些慌张时，八奈见先是大惊'为什么在眼前！？该不会柠檬和温水，其实是那种关系！？'，听到柠檬不以为意的回答后'顿时松了口气'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见最近刚被青梅竹马甩了，内心对人生感到疲倦",
+        "evidence_summary": "旁白直接描述：'八奈见不久前才刚被青梅竹马甩了，大概同样对人生感到疲倦吧。'她选的书是关于疲惫成年女性被溺爱的题材。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见善于调侃温水，能发现他紧张时会话变快的习惯",
+        "evidence_summary": "温水解释黑色袋子是隐私保护时，八奈见说'温水，你讲很快喔。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友/同学）",
+        "attitude": "亲密随意，乐于调侃，但也会在意他和别的女生的关系",
+        "behavior": "吃他的点心、调侃他的品味、指出他紧张时的习惯，但也会和他单独去逛书店",
+        "evidence_summary": "整段互动极为自然亲近——从擅自吃点心到一同买书互相调侃。",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬（朋友/社友）",
+        "attitude": "亲密朋友，会拉她一起做'坏事'",
+        "behavior": "主动邀她一起吃温水带来的点心；但也会警惕柠檬和温水的关系",
+        "evidence_summary": "劝说柠檬一起吃点心；柠檬提起换衣事件后她立即紧张。",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠知花（朋友/社友）",
+        "attitude": "友好但会半开玩笑地无视她的劝阻",
+        "behavior": "小鞠阻止她吃点心时她用'温水已经被我们迷得神魂颠倒了'来敷衍",
+        "evidence_summary": "小鞠说'不可以随便吃掉'时，八奈见用歪理说服了动摇的小鞠。",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介（青梅竹马）",
+        "attitude": "被甩后仍有创伤，但用对他人情感状态的观察来转移注意",
+        "behavior": "没有直接提草介，但选的书和旁白的说明暴露了她的情感状态",
+        "evidence_summary": "旁白直接点出她刚被青梅竹马甩了。她选《所有同事都溺爱我一个》也暗示对情感安慰的需求。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "放松开心（吃点心/与朋友相处时）",
+        "trigger": "和社办朋友在一起",
+        "external_expression": "闹别扭般地大口吃点心、笑着摆手、哼歌",
+        "hidden_layer": "用轻松的社交氛围掩盖被甩后的低落——她选择的漫画揭示了她对"被溺爱"的渴望",
+        "confidence": "high"
+      },
+      {
+        "state": "瞬间警惕",
+        "trigger": "听到柠檬曾在温水面前换衣服",
+        "external_expression": "大惊、追问'为什么在眼前！？'，随后'顿时松了口气'",
+        "hidden_layer": "对温水与其他女生的关系仍保持一定敏感度",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "被关注、被溺爱（体现在她选的漫画主题上）",
+      "在朋友群体中维持主导地位"
+    ],
+    "insecurities": [
+      "被青梅竹马甩后的孤独感和疲惫感",
+      "温水可能和其他女生有特殊关系的可能性"
+    ],
+    "defense_mechanisms": [
+      "用吃东西和轻松态度转移内心不快",
+      "用群体欢闹氛围逃避个人情感问题"
+    ],
+    "behavior_patterns": [
+      "先斩后奏——先吃掉再说，之后再找理由",
+      "喜欢带动群体气氛，让大家跟着她的节奏走"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用歪理说服别人",
+        "example_summary": "'其实温水已经被我们迷得神魂颠倒了喔'来让小鞠接受吃点心的事实",
+        "when_used": "需要为自己不太理直气壮的行为找借口时"
+      }
+    ],
+    "humor_style": [
+      "自嘲式幽默——用夸张的方式掩盖内心的尴尬或亏心事"
+    ],
+    "food_or_daily_habits": [
+      "看到点心就忍不住，会找借口先吃"
+    ],
+    "contradictions_or_tensions": [
+      "表面上满不在乎地吃温水的点心，但内心其实清楚自己做错了（'证据湮灭'的发言）",
+      "对被甩表现得若无其事，但选书暴露了真实情感需求"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被问到关于草介的事情时",
+        "likely_response": "不会正面回答，会用其他话题转移或保持沉默，但言行中会不经意暴露真实心情",
+        "avoid": "不要让她直接长篇谈论自己有多难过——她更倾向于用行动和选择（比如选书）来暗示"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "很好，这样证据也湮灭了",
+      "温水，你讲很快喔"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0393",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "丰桥综合动植物公园合作短篇故事 序章",
+    "scene_summary": "八奈见在动植物公园集合时迟到，边吃御手洗团子边出现。她用抽到的门票邀请文艺社全员来动植物公园，顺便想完成生物作业的'生活中的植物'调查。烧盐称赞她聪明时她坦白是刚想起来的。",
+    "yanami_role_in_scene": "活动的发起者和组织者，提供门票和活动理由。",
+    "facts": [
+      {
+        "claim": "八奈见总是边吃东西边出现",
+        "evidence_summary": "温水旁白：'大致上的印象就是总是在吃东西，实际上每次见到也真的都在吃东西。'登场时正在吃御手洗团子。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水而言是令人安心的存在",
+        "evidence_summary": "温水旁白：'从某种角度来说，是个比老家更让人有安心感的女生。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见是这次动植物公园活动的发起者",
+        "evidence_summary": "她抽中门票邀请大家，并用完成生物作业的名义组织活动。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会临时想起借口并坦白承认",
+        "evidence_summary": "烧盐夸她聪明时，她说'还好啦，其实我也是刚刚才想起来。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（同学）",
+        "attitude": "随性亲近，不介意让他看到自己迟到和边吃边出现的样子",
+        "behavior": "迟到后振振有词地用门票邀功，对温水的催促不以为然",
+        "evidence_summary": "面对温水'你好歹也稍微装一下在赶时间的样子吧'的指责，她晃着门票回应'你应该对我更感谢一点喔？'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬（朋友）",
+        "attitude": "亲密好友，可以一起傻",
+        "behavior": "两人在'低水准的对话中'并肩走向大门",
+        "evidence_summary": "温水评价两人对话为'低水准'——说明她们之间有一种轻松无负担的友谊。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "悠然自得",
+        "trigger": "作为活动发起者掌控局面",
+        "external_expression": "迟到却不慌不忙，边吃东西边晃门票",
+        "hidden_layer": "可能只是单纯忘记时间/在吃东西忘记集合时间，但用门票作为挡箭牌",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "和朋友们一起玩，分享她抽中的门票"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "用实际贡献（门票）来合理化自己的散漫行为",
+      "和朋友一起时享受一种无需绷紧的松弛状态"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "对批评不正面回应，转而强调自己的贡献",
+        "example_summary": "被说迟到时回答：'门票可是我抽奖抽到，邀请大家一起来的喔。'",
+        "when_used": "被温水指出问题时"
+      }
+    ],
+    "humor_style": [
+      "坦率承认自己的不足（'其实我也是刚刚才想起来'）——用自己的迷糊制造轻松氛围"
+    ],
+    "food_or_daily_habits": [
+      "见面时总是在吃东西（此处为御手洗团子）",
+      "能用食物作为社交/活动的理由（门票/作业）"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被指出犯错或不足之处时",
+        "likely_response": "不会慌张或道歉，而是用另一个理由来进行平衡或转移话题",
+        "avoid": "不要让她显得真心认错忏悔——她更倾向于用轻松的方式化解"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0394",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "丰桥综合动植物公园合作短篇故事 小故事4 玫瑰 八奈见杏菜 / 离开动植物公园的回程路上",
+    "scene_summary": "八奈见在玫瑰园想起玫瑰果酱，想用玫瑰花自己做果酱。温水科普花瓣本身不甜后她闹别扭，回忆小时候吃莲华草花瓣的经历。后来在回程路上，八奈见脸颊沾到果酱被误认为偷吃了温室果实，她拿出随身携带的果酱包澄清，大喊'温水你问题就出在这里啦'。",
+    "yanami_role_in_sceen": "被观察的对象——她的天然呆、贪吃和嘴硬在这段中集中展现",
+    "facts": [
+      {
+        "claim": "八奈见看到植物首先联想到能不能吃",
+        "evidence_summary": "她说'之前人家送的玫瑰果酱很好吃，我在想普通的玫瑰能不能做。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对'吃'有惊人的执着和误解",
+        "evidence_summary": "她以为玫瑰花本身有甜味，被温水科普后大受打击：'沉默造访。就这么过了大概一分钟吧。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见小时候会吃莲华草花瓣吃到饱",
+        "evidence_summary": "温水问她为什么吃莲华草花时她反问'这样不会饱吧？'；她承认'只吃到八分饱'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会随身携带果酱包并偷偷吸取",
+        "evidence_summary": "她从口袋取出营养午餐常见的果酱包，解释因为爸爸带回很多果酱所以随身带着，'只是偷偷吸一点而已。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见被误会时的典型反应是大喊经典台词",
+        "evidence_summary": "被误会偷吃果实后她呐喊：'温水你问题就出在这里啦！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见犯错后会迅速生气转移焦点",
+        "evidence_summary": "发现温水把她当罪犯后眯眼瞪他、呐喊，但镜头回放最初是她脸颊沾果酱的行为引发了误会",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友）",
+        "attitude": "对他既依赖又嘴硬，在他面前容易暴露无知但不愿承认",
+        "behavior": "被科普后闹别扭转身背对他走；被误会后对他撒气呐喊",
+        "evidence_summary": "整段互动充满温水指出事实→八奈见不愿接受→闹别扭的循环。",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬和小鞠知花（朋友）",
+        "attitude": "她们会联合起来捉弄八奈见",
+        "behavior": "烧盐温柔地说'好好赎罪才行'，小鞠说'我会去探监的'——故意火上浇油",
+        "evidence_summary": "两人配合温水捉弄她，随后又'背叛'温水站在八奈见这边。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "害羞/尴尬（被科普时）",
+        "trigger": "温水指出玫瑰花不甜",
+        "external_expression": "沉默后小声嘀咕'……我知道啊。'，随后完全闹起脾气转身背对温水",
+        "hidden_layer": "为自己常识不足感到难为情，用闹脾气来掩饰",
+        "confidence": "high"
+      },
+      {
+        "state": "委屈/冤枉（被误会时）",
+        "trigger": "三人以为她偷吃温室果实",
+        "external_expression": "满脸困惑→大喊否认→拿出果酱自证→眯眼瞪温水",
+        "hidden_layer": "不仅委屈，更在意温水把她当坏人的判断",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想证明自己懂得很多（关于食物、关于常识）",
+      "希望被信任"
+    ],
+    "insecurities": [
+      "常识不足被揭穿时的羞耻",
+      "被温水看作'坏孩子'或'罪犯'"
+    ],
+    "defense_mechanisms": [
+      "闹别扭/生气——在知识不足或理亏时先用情绪反应盖过",
+      "转移话题——用经典台词'温水你问题就出在这里'把焦点转向对方"
+    ],
+    "behavior_patterns": [
+      "吃东西的行为几乎是无意识的——连她自己都注意不到脸颊沾到果酱"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用喊叫和经典台词转移话题",
+        "example_summary": "'温水你问题就出在这里啦！'",
+        "when_used": "被逼到理亏或无法反驳时的终极反击技"
+      }
+    ],
+    "humor_style": [
+      "天然呆式的搞笑——她对于吃的执着和缺乏常识构成了大量喜剧效果"
+    ],
+    "food_or_daily_habits": [
+      "随身携带果酱包",
+      "看到植物第一反应是能不能吃",
+      "小时候吃花吃到八分饱"
+    ],
+    "contradictions_or_tensions": [
+      "她声称'我知道花瓣不甜'但明显之前没意识到，是个经典的'嘴硬不承认'",
+      "随身携带果酱包并偷偷吸食——这种行为和'青春洋溢的女高中生'形象有很大落差"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被指出知识性错误时",
+        "likely_response": "先是沉默消化打击，然后嘴硬地说'我知道'，再然后转移话题或闹别扭走开",
+        "avoid": "不要让她坦率承认'我不懂'——她会用情绪反应来掩盖"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水你问题就出在这里啦！",
+      "……我知道啊。（小声嘀咕）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0395",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 歌唱吧，败北女角 安利美特特典短篇",
+    "scene_summary": "八奈见在卡拉OK包厢给温水开讲座，传授选曲和气氛把控心得。她将卡拉OK比作战场，有丰富的社交经验。当温水失言提到草介和华恋唱冰雪奇缘的事后，八奈见表现出明显的不快。最后她玩味地喂温水吃洋葱圈并问'那你要估多少钱？'",
+    "yanami_role_in_scene": "卡拉OK教师/社交经验的传授者，同时也是情感创伤的携带者",
+    "facts": [
+      {
+        "claim": "八奈见在卡拉OK社交方面经验丰富",
+        "evidence_summary": "她详细讲解选曲策略、避开冷门慢歌、注意气氛把控等问题。温水评价：'眼前的正是身经百战的沙场老将。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对动画歌曲有强烈的负面情绪",
+        "evidence_summary": "她说'初学者严禁唱抒情慢歌和动画歌'，当温水提起冰雪奇缘时她'甚至能杀人的视线'制止了他。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在夏天经历过创伤性的卡拉OK事件",
+        "evidence_summary": "温水提到'姬宫同学他们唱过冰雪奇缘的双人对唱'后发现自己失言。旁白：'难道七月的冰雪奇缘事件，真的那样摧残了八奈见的心灵？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用暧昧的动作来逗温水",
+        "evidence_summary": "她喂温水吃洋葱圈，然后问'那你要估多少钱？我可以算便宜一点喔。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友/学生）",
+        "attitude": "亲近到可以传授社交技巧，也会用暧昧举动调侃他",
+        "behavior": "认真教他卡拉OK技巧，喂他吃东西并调戏他",
+        "evidence_summary": "全程互动显示两人已经非常熟悉，可以进行这种既教学又调情的互动。",
+        "confidence": "high"
+      },
+      {
+        "target": "草介和华恋（青梅竹马/好友）",
+        "attitude": "提到相关话题仍有强烈情感反应",
+        "behavior": "一听到草介和华恋的名字和冰雪奇缘就产生杀意般的视线",
+        "evidence_summary": "'又不是我，是草介和华恋唱的喔？'这句话配合杀人的视线。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "快乐/自信（传授知识时）",
+        "trigger": "分享卡拉OK心得",
+        "external_expression": "得意洋洋戳着遥控器屏幕，充满自信地讲解",
+        "hidden_layer": "通过成为专家来获得掌控感和价值感",
+        "confidence": "medium"
+      },
+      {
+        "state": "愤怒/受伤（被戳到痛处时）",
+        "trigger": "温水提及草介和华恋唱冰雪奇缘",
+        "external_expression": "杀人的视线盯着温水，打断他的话",
+        "hidden_layer": "夏天的事件仍在心中留下伤痕，不愿被触及",
+        "confidence": "high"
+      },
+      {
+        "state": "狡黠/调皮（逗温水时）",
+        "trigger": "喂温水吃东西后",
+        "external_expression": "咧嘴一笑，把脸移到温水视线前方问估价",
+        "hidden_layer": "用暧昧的玩笑测试温水的反应，保持一种有掌控感的距离",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "帮助温水融入社交场合",
+      "在自己擅长的领域获得认可",
+      "用轻松表象掩饰内心的创伤"
+    ],
+    "insecurities": [
+      "夏季被草介和华恋共同唱歌的记忆带来的创伤"
+    ],
+    "defense_mechanisms": [
+      "把情感痛苦转化为专业知识和说教——用卡拉OK选曲理论包裹自卑和受伤",
+      "用挑逗/调戏温水来转移对草介的注意力"
+    ],
+    "behavior_patterns": [
+      "在自己擅长或经验丰富的领域会主动担任指导者角色"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "切换情绪极快——从教学者到受伤者到调戏者",
+        "example_summary": "先认真教学→提到冰雪奇缘时杀气→主动喂食调戏",
+        "when_used": "当场景或话题发生变化时，她的情绪状态能迅速切换"
+      }
+    ],
+    "humor_style": [
+      "用挑逗式幽默——'那你要估多少钱？'——把暧昧场景变成商业谈判式的玩笑"
+    ],
+    "food_or_daily_habits": [
+      "吃洋葱圈（和小吃有关）"
+    ],
+    "contradictions_or_tensions": [
+      "一边教温水社交场合的自保技巧，一边自己也没有完全从创伤中走出",
+      "调戏温水的举动和她声称还在意草介的状态之间存在张力"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在教别人做事时",
+        "likely_response": "会变得很认真专业，像是一个有充分经验的前辈；但一旦被触及软肋，情绪会急剧变化",
+        "avoid": "不要让她在教人时表现得太温柔——她的教学风格更偏向'战场老将'式的严厉"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "卡拉OK可是战场喔"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0396",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 请勿于店内直接搭话 精文馆书店特典短篇",
+    "scene_summary": "八奈见在生日当天因为健走没带钱包、手机没电，跑到温水家。温水做了低热量炒面招待她，并赠送了精心准备的生日礼物《食肉大全》。八奈见大为感动，吃完一盘后又撒娇要求第二盘。这是两人之间非常温馨的日常互动场景。",
+    "yanami_role_in_scene": "闯入温水私人空间的亲密的访客，在生日当天展现各种真实面",
+    "facts": [
+      {
+        "claim": "八奈见会为自己的体型找各种借口",
+        "evidence_summary": "对体重她说'四舍五入'；衣服穿不下她说'大概是单位之类的变了。公制之类的改了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对食物有异常的执着，晚餐计划是高级烧肉",
+        "evidence_summary": "她说'晚餐我会去吃烧肉。很贵的那种，不是吃到饱的。'还把11月29日称为'好肉之日'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在温水家非常放松，像在自己家一样",
+        "evidence_summary": "她自动开电视、看报纸、要求续茶，温水内心吐槽'这家伙真的打算在我家打发时间'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见真心欣赏温水的厨艺但不愿直接承认他的'会做饭'",
+        "evidence_summary": "吃完半盘后她突然说'很过分耶'——责备温水明明会做菜却看着她做的差劲便当不吭声。但被安抚后又得意起来。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对肉类知识有浓厚兴趣",
+        "evidence_summary": "收到《食肉大全》后大喜，指着书上牛的胃解说页面兴奋地说'有这个我就不会认错瘤胃或皱胃了！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见收到温水的礼物时真情流露",
+        "evidence_summary": "'真的很谢谢你，温水。我好高兴。'——水野注意到她这么率直的欣喜让他'乱了方寸'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用撒娇的口吻要求更多食物",
+        "evidence_summary": "她玩弄着发丝、忸忸怩怩如同恋爱中的少女，说'剩下的材料不多不少的，是不是不太方便——'暗示想要第二盘。",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水认为八奈见短期内找不到男朋友",
+        "evidence_summary": "温水内心独白：'离这家伙交到男朋友的日子大概还很远吧——'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（特别的朋友）",
+        "attitude": "在他家极其放松自在，信任他，愿意暴露自己最真实（甚至不太体面）的一面",
+        "behavior": "不请自来、赖着不走、被喂食、率真表达感动、用撒娇要第二盘",
+        "evidence_summary": "整段互动从她强行闯入温水家到吃完两盘炒面离开，展现极高程度的亲密度。她对温水的礼物表现出的真诚喜悦也暗示温水在她心中的特殊位置。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "疲惫但开心（刚到时）",
+        "trigger": "健走后到达温水家",
+        "external_expression": "满头大汗，一口气喝完乌龙茶，看到金枪鱼节目看得出神",
+        "hidden_layer": "其实可能是故意跑向温水家方向——手机没电'只能'来找他",
+        "confidence": "medium"
+      },
+      {
+        "state": "微妙的不满/酸楚（吃炒面时）",
+        "trigger": "想到自己之前为温水做的不成功的便当",
+        "external_expression": "用力放下筷子说'很过分耶'，用不悦的眼神由下往上刺向温水",
+        "hidden_layer": "其实是为自己厨艺不如温水感到小小的挫败和不甘",
+        "confidence": "high"
+      },
+      {
+        "state": "纯粹的开心和感动",
+        "trigger": "收到生日礼物",
+        "external_expression": "惊声欢呼、眼神灿亮、紧紧抱住书本、率直道谢",
+        "hidden_layer": "被温水记得生日并准备礼物这件事本身比礼物内容更让她感动",
+        "confidence": "high"
+      },
+      {
+        "state": "撒娇/装可爱",
+        "trigger": "想要第二盘炒面",
+        "external_expression": "玩弄发丝、忸怩害羞，问"剩下的材料"是不是不好处理",
+        "hidden_layer": "她完全不害羞于要求食物，但选择了一种装可爱的形式来表达",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "被温水记得和重视（生日惊喜的效果佐证）",
+      "吃更多好吃的食物",
+      "在温水面前维持一种'值得被照顾'的形象"
+    ],
+    "insecurities": [
+      "体重问题——用各种借口掩盖",
+      "厨艺不如温水——被比下去时的小小不甘",
+      "温水是否会嫌弃她——她问温水'你是不是每次都想赶我早点回去'"
+    ],
+    "defense_mechanisms": [
+      "用幽默的借口（'公制变了'）来回避体重问题",
+      "用生气/谴责转移内心的被比下去感（'你明明就会做菜'）"
+    ],
+    "behavior_patterns": [
+      "遇到困境时会第一时间想到温水（手机没电→跑来温水家）",
+      "对温水说她坏话时会用视线威慑",
+      "被照顾后会加倍给予正面反馈"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用伪装的生气掩饰真实的受伤",
+        "example_summary": "责备温水'看到我的便当，你心里一定觉得很'那个'吧'",
+        "when_used": "当对比让她感到不安全时"
+      },
+      {
+        "pattern": "会用半真半假的撒娇口吻提要求",
+        "example_summary": "为了第二盘炒面，玩弄头发，忸怩地说'剩下的材料不多不少的'",
+        "when_used": "想要什么但不想直接说时"
+      }
+    ],
+    "humor_style": [
+      "自我调侃式的幽默——'人称维持适当体重之鬼喔'",
+      "和温水之间的吐槽互动——'被告白了'、'是公制改了'"
+    ],
+    "food_or_daily_habits": [
+      "会为了晚餐吃烧肉提前空腹健走",
+      "会偷偷吸食随身携带的果酱包",
+      "对肉类知识有异于常人的兴趣",
+      "收到食物相关的礼物最开心"
+    ],
+    "contradictions_or_tensions": [
+      "声称自己在减重（健走），但却在计划高级烧肉大餐",
+      "对体重敏感（凶相制止温水说完'胖——'），但又在温水面前大吃两盘炒面",
+      "一方面以'得体大方的女高中生'自居，另一方面吸果酱、看牛的胃解剖图"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在温水家的私人空间里",
+        "likely_response": "她会非常放松自然，像在自己家一样——开电视、看报纸、要吃的。同时也会展现更多真实情感",
+        "avoid": "不要让她在温水家表现得太拘谨或客气——她已经把温水家当成安全空间"
+      },
+      {
+        "situation": "被人真心对待时",
+        "likely_response": "会直接表达感动和开心，这是一个让她放下防御的时刻",
+        "avoid": "不要让她对温水的生日礼物反应平淡——她真心被触动"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "公制之类的改了",
+      "人称维持适当体重之鬼",
+      "离这家伙交到男朋友的日子大概还很远吧（温水的内心独白，不是八奈见的台词，但避免复制此句式）"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0397",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "丰桥综合动植物公园合作短篇故事2nd",
+    "scene_summary": "八奈见在动植物公园解谜活动中，一边吃披萨一边出现。她因为看到蝴蝶标本翅斑像莎乐美肠而产生食欲。她有汉字检定五级（小学六年级水平）。读了谜题说明后因为汗渍看不清文字还怪是字糊了。匆匆来又匆匆走。",
+    "yanami_role_in_scene": "谜题策划者之一（但本人不太认真），在解谜游戏中担任关主",
+    "facts": [
+      {
+        "claim": "八奈见会把任何事物和食物联想起来",
+        "evidence_summary": "看到蝴蝶标本的翅斑后说'有点像切片的莎乐美肠'，于是跑去买了披萨。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的汉字水平停留在小学程度",
+        "evidence_summary": "她自称有汉字检定五级（温水内心：'五级——我好像也通过了喔。小六的时候。'）",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见读了谜题说明但因为汗渍看不清",
+        "evidence_summary": "她眯起眼睛凝视纸面，温水问'遇到不会念的汉字了吗？'她狠瞪后说'只是汗水害字迹糊掉了！'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（被捉弄的对象）",
+        "attitude": "享受策划谜题让温水跑腿的角色",
+        "behavior": "出谜题让他解密找到自己，但自己却跑去吃披萨",
+        "evidence_summary": "她明明出了谜题，但温水找到她时她在吃披萨，之后马上又走了。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "心情好、随意",
+        "trigger": "在公园玩+吃东西",
+        "external_expression": "一边咀嚼披萨一边走进小屋",
+        "hidden_layer": "她策划活动但还是以自己想吃东西为先",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想吃好吃的（蝴蝶→莎乐美肠→披萨的联想链）"
+    ],
+    "insecurities": [
+      "汉字水平不高，被别人注意到时会不高兴"
+    ],
+    "defense_mechanisms": [
+      "被指出弱点（汉字不会读）时立即否认并找借口（'汗水害字迹糊掉'）"
+    ],
+    "behavior_patterns": [
+      "策划活动但不认真执行——自己出谜题却跑去吃东西",
+      "吃东西的冲动会随时打断任何计划"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "被说中弱点时强烈反击",
+        "example_summary": "狠瞪说'只是汗水害字迹糊掉了！别看我这样，我有过汉字检定五级！'",
+        "when_used": "被质疑能力时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的联想制造笑点——蝴蝶→莎乐美肠→披萨的跳跃式思维"
+    ],
+    "food_or_daily_habits": [
+      "任何视觉刺激都能转化为食欲",
+      "会一边执行计划一边吃零食"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "策划活动但自己先跑去享受时",
+        "likely_response": "不会觉得有任何不妥——她的逻辑是'想吃就去吃'",
+        "avoid": "不要让她为自己的散漫道歉——她认为这是理所当然的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我有过汉字检定五级"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0398",
+    "useful": false,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "烧盐问温水是否已见过八奈见，仅此而已。",
+    "yanami_role_in_scene": "不在场景中，仅被提及。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0399",
+    "useful": false,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "温水经过香蕉树时心想如果是八奈见看到会一直盯着直到闭园。",
+    "yanami_role_in_scene": "不在场景中，仅出现在温水的内心想象里。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0400",
+    "useful": false,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "小鞠说这是'八奈见企划'，温水想'那家伙自己大概也搞不懂吧'。八奈见本人不在场景中。",
+    "yanami_role_in_scene": "不在场景中，仅被提及为活动策划者。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0401",
+    "useful": false,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "温水提到文艺社社员八奈见也在今天的活动里。八奈见本人不在场景中。",
+    "yanami_role_in_scene": "不在场景中，仅被提及为参与成员之一。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0402",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "在孩童广场，八奈见腰部被溜滑梯卡住动弹不得，孩子们帮忙拉她出来。随后她和烧盐、小鞠一起，手藏身后走向温水，似乎有某种计划。",
+    "yanami_role_in_scene": "朋友团体的一员，参与策划对温水的惊喜",
+    "facts": [
+      {
+        "claim": "八奈见玩儿童滑梯时卡住了腰部",
+        "evidence_summary": "温水远远看到'八奈见则是腰部被溜滑梯卡住，动弹不得。围观的小孩子们帮忙拉她——啊，挣脱了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和朋友们策划了对温水的某种惊喜",
+        "evidence_summary": "三人互相使眼神，八奈见手藏在身后，和另外两人相视而笑，然后一起叫温水名字。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友/被捉弄对象）",
+        "attitude": "友好亲密，喜欢策划让他意外的惊喜",
+        "behavior": "和烧盐、小鞠一起走向温水，手藏身后",
+        "evidence_summary": "三人强忍着笑意互相使眼神后，一起喊温水。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "开心/期待",
+        "trigger": "即将给温水惊喜",
+        "external_expression": "和众人相视而笑，手藏身后走向温水",
+        "hidden_layer": "她对温水的事很上心，愿意花心思给他惊喜",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "让温水开心/给他惊喜"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和朋友一起策划事情时",
+        "likely_response": "她会很投入，享受和朋友一起做某件事的氛围",
+        "avoid": ""
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0403",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "",
+    "scene_summary": "三人把温水的生日和八奈见的生日搞混了，误以为当天是温水生日。八奈见的生日是11月29日'好肉之日'。发现错误后，八奈见对温水说'你一定是饿了，吃点炸物会让脑袋清醒'，和其他人一起温柔地对待陷入混乱的温水。",
+    "yanami_role_in_scene": "温柔又迷糊的朋友，在朋友关系和关心温水之间展现温暖",
+    "facts": [
+      {
+        "claim": "八奈见的生日是11月29日（好肉之日）",
+        "evidence_summary": "她说'那是我的生日，而且'好肉之日'也不是今天喔。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "三人误以为当天是温水的生日，原因是因为烧盐听说温水的生日是'好肉之日'",
+        "evidence_summary": "烧盐说'阿温的生日是'好肉之日'吧？'八奈见纠正那不是今天。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会体贴地照顾陷入困惑的温水",
+        "evidence_summary": "当温水坚持见过佳树时，八奈见温柔地说'温水，你一定是饿了，吃点炸物会让脑袋清醒喔。'并握住他的手指。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友）",
+        "attitude": "体贴温柔、愿意照顾他的情绪",
+        "behavior": "当温水陷入困惑和混乱时，用温柔的语气安抚他，提出给他吃东西",
+        "evidence_summary": "'我明白，温水。你一定是饿了'——她选择用食物和温和的态度来安抚他，而不是嘲笑。",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬和小鞠知花（朋友）",
+        "attitude": "互相配合的挚友",
+        "behavior": "三人一起策划，一起搞错，一起安抚温水",
+        "evidence_summary": "发现错误后三人窃窃私语，然后统一口径一起对待温水。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "惊讶/困惑",
+        "trigger": "发现搞错生日",
+        "external_expression": "和另外两人面面相觑，随后纠正错误",
+        "hidden_layer": "略感尴尬但很快用体贴来掩盖",
+        "confidence": "medium"
+      },
+      {
+        "state": "温柔/关怀",
+        "trigger": "温水陷入混乱胡言乱语时",
+        "external_expression": "用温柔的语气安抚他，握住他的手指，提出给他食物",
+        "hidden_layer": "真正关心温水的状态，愿意放下自己的尴尬来照顾他",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "让温水开心（即使搞砸了也仍然想照顾他）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用照顾他人的方式来转移自己的尴尬"
+    ],
+    "behavior_patterns": [
+      "在朋友需要安慰时会自然地用'食物'作为安抚手段"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用温和肯定的语气安抚他人",
+        "example_summary": "'嗯，我明白，温水。你一定是饿了，吃点炸物会让脑袋清醒喔。'",
+        "when_used": "看到温水陷入混乱时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "用食物作为安抚他人的工具"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "看到朋友陷入困惑或不安时",
+        "likely_response": "她不会取笑，而是选择用温柔的方式安抚，并且第一个想到的是用食物来解决问题",
+        "avoid": "不要让她在朋友需要安慰时还只顾自己"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水，你一定是饿了"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0404",
+    "useful": true,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 没有名为杂草的草，少女如是说 Gamers特典短篇",
+    "scene_summary": "八奈见在中庭花坛摘了一朵花插在牛奶瓶中，想展示自己的'女子力'。温水认出那是志喜屋学姐种的圣诞玫瑰。八奈见得知自己摘了别人种的花后想逃跑，还试图拉温水做共犯。社办灯光闪烁、志喜屋幽灵般出现时两人吓得抱在一起。",
+    "yanami_role_in_scene": "试图展现女子力但失败的笨拙女生",
+    "facts": [
+      {
+        "claim": "八奈见会主动尝试展现'女子力'",
+        "evidence_summary": "她说'近来某人好像在怀疑我的女子力嘛？我想展现一下我也是有本事的女人。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见缺乏植物知识，误把别人种的花当作杂草",
+        "evidence_summary": "她摘了志喜屋学姐种的圣诞玫瑰，坚定地认为'当然是在没用到的花坛里自己长出来的啦'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见做坏事被发现时会想拉温水当共犯",
+        "evidence_summary": "她说'等等，温水也是共犯吧！？'——尽管温水什么也没做。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见害怕恐怖/诡异氛围",
+        "evidence_summary": "灯光闪烁、志喜屋学姐幽灵般出现时，她和温水'不由得抱住彼此'叫着'呀！'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（朋友）",
+        "attitude": "在意他对自己的看法，想在他面前展现自己的优点",
+        "behavior": "主动展示插花来证明自己的女子力，被揭穿后想拉他下水",
+        "evidence_summary": "她主动说明'近来某人好像在怀疑我的女子力'——这个'某人'指温水。",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋梦子（学姐）",
+        "attitude": "对她有些敬畏/害怕",
+        "behavior": "志喜屋出现时吓得抱住温水",
+        "evidence_summary": "志喜屋幽灵般出现时两人吓得抱在一起。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意/期待认可",
+        "trigger": "展示插花时",
+        "external_expression": "摆出得意的表情，等温水表扬",
+        "hidden_layer": "她希望温水看到自己的女性化一面",
+        "confidence": "high"
+      },
+      {
+        "state": "慌张/理亏",
+        "trigger": "被指出那是别人种的花",
+        "external_expression": "沉默后想逃跑，被温水抓住后试图拉他当共犯",
+        "hidden_layer": "为自己犯的错感到尴尬",
+        "confidence": "high"
+      },
+      {
+        "state": "恐惧",
+        "trigger": "诡异氛围+志喜屋学姐出现",
+        "external_expression": "吓得抱住温水",
+        "hidden_layer": "",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "在温水面前展示自己的女性魅力/女子力"
+    ],
+    "insecurities": [
+      "女子力不被认可——担心温水认为自己'不够女人'"
+    ],
+    "defense_mechanisms": [
+      "试图拉别人下水来分散自己的责任",
+      "用逃跑来回避问题"
+    ],
+    "behavior_patterns": [
+      "做错事后第一反应是逃避而不是道歉"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "试图用歪理巩固自己的立场",
+        "example_summary": "'不过花坛里就只有这朵花，一定是在没用到的花坛里自己长出来的啦。'",
+        "when_used": "当证据不利于她时仍坚持自己的看法"
+      }
+    ],
+    "humor_style": [
+      "笨拙的行为本身构成喜剧——拼命想展现女子力结果反而出丑"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "想展现女子力但缺乏最基本的植物常识",
+      "想被温水视为有魅力的女性，但行为上却像个做了坏事的小孩子"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "想展示自己的女性魅力时",
+        "likely_response": "她会用一种'你等着看吧'的高姿态主动展示，但如果失败会立刻试图掩饰",
+        "avoid": "不要让她成功流畅地展现女子力——她的魅力恰恰在于笨拙和真实"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "近来某人好像在怀疑我的女子力嘛"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0405",
+    "useful": false,
+    "volume": "第七卷 Bookwalker特典 S同学像是想成为伙伴似的看向这里",
+    "chapter": "SSS短篇集 俗谚道手冷心暖，那手暖的人不就（以下省略）精文馆书店特典短篇",
+    "scene_summary": "温水在速食店面对志喜屋学姐的间接接吻时，回想八奈见从不介意吃别人吃过的东西，以此说服自己间接接吻没什么大不了的。八奈见本人不出场。",
+    "yanami_role_in_scene": "不在场景中，仅作为温水内心对比的参照出现。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  }
+]

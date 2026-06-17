@@ -1,0 +1,946 @@
+[
+  {
+    "scene_id": "yanami-candidate-0436",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "温水思考樱井获胜后八奈见将成为学生会副会长的可能性，以及这对文艺部的影响。仅作为假设情境提及八奈见姓名。",
+    "yanami_role_in_scene": "被提及的假设性角色，未实际出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0437",
+    "useful": true,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "清晨温水为助选紧张时，八奈见带着炸猪排三明治出现，用乐天的态度缓解他的情绪。她挑逗温水是否吃醋，后因误会温水在谈论两人关系而尴尬，咬了一大口三明治后踢了温水的腿离开。",
+    "yanami_role_in_scene": "主动角色，以乐天态度和食物缓解温水的紧张，通过玩笑掩饰自己的尴尬",
+    "facts": [
+      {
+        "claim": "八奈见最近一直在吃炸猪排三明治，口袋里塞满做三明治剩下的面包边",
+        "evidence_summary": "原文: '八奈见递出装满炸猪排三明治的保鲜盒。最近，八奈见一直在吃炸猪排三明治，口袋里塞满了做三明治时剩下的面包边。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见走路时会掉面包屑，引来麻雀",
+        "evidence_summary": "原文: '因为八奈见总是掉面包屑，连麻雀都跟着来了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见知道温水吃醋的言论是玩笑式的试探，但不排斥温水与樱井之间的关系话题",
+        "evidence_summary": "原文: '八奈见拍拍我的肩膀。\"不要吃醋不要吃醋。选举只到今天为止吧？明天开始就会回到普通朋友关系了\"'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见习惯于依赖温水跑腿或分享食物",
+        "evidence_summary": "原文: '来，温水君多吃点。你得再长点肉才行。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见习惯舔手指上的酱汁",
+        "evidence_summary": "原文: '八奈见一边舔着手指上的酱汁，一边眨了眨眼。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见将演讲紧张应对方法总结为'把人想象成蔬菜'",
+        "evidence_summary": "原文: '对策都准备好了。就是那个把人想象成蔬菜的招数。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见误解温水的话题方向并感到极度尴尬，用暴力动作（踢腿）和转身离开来掩饰",
+        "evidence_summary": "原文: '八奈见默默地咬了一大口炸猪排三明治，然后踢我的腿。' '八奈见撇过脸，把我留在原地就进入了校舍。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近随意，喜欢逗弄他，享受'吃醋'的玩笑",
+        "behavior": "主动分享食物、拍肩膀、语言挑逗（'难道你吃醋了？'）、尴尬后踢腿泄愤",
+        "evidence_summary": "原文: '哦～难道你吃醋了？就因为我和樱井君的关系好？' '真不坦率啊，温水君。承认也没关系哦？'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松乐天",
+        "trigger": "面对紧张的温水，以日常互动分散注意力",
+        "external_expression": "笑脸相迎、分享食物、开玩笑",
+        "hidden_layer": "有意帮温水缓解紧张，展现照顾的一面",
+        "confidence": "high"
+      },
+      {
+        "state": "尴尬后的恼怒",
+        "trigger": "误以为温水在谈论两人的感情关系，发现自己完全会错意",
+        "external_expression": "咬一大口三明治→踢温水的腿→撇脸快步离开",
+        "hidden_layer": "为自己自作多情感到丢脸，用暴力动作掩盖羞耻",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望温水多吃点长肉",
+      "希望通过食物和玩笑缓解温水的紧张"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "转移焦点",
+        "description": "尴尬时用夸张动作（咬三明治、踢人）替代语言回应，回避直面情绪",
+        "evidence_summary": "尴尬后没有语言解释，直接暴力动作后离开"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "分享食物作为建立联系的方式",
+        "description": "用食物开启对话、缓解气氛、表达关心",
+        "evidence_summary": "递出三明治、劝多吃、边说边吃"
+      },
+      {
+        "pattern": "物理性表达情绪",
+        "description": "在情绪波动时通过身体动作（拍肩、踢腿、撇脸）而非语言表达",
+        "evidence_summary": "拍肩膀→踢腿→撇脸离开"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "挑逗性反问",
+        "example_summary": "'哦～难道你吃醋了？' '真不坦率啊'",
+        "when_used": "和温水斗嘴、想看他慌张反应时"
+      },
+      {
+        "pattern": "食物联想式转移话题",
+        "example_summary": "把观众想成蔬菜后联想到烹饪方法——'糟糕，流口水了'",
+        "when_used": "用自己熟悉的食物话题化解紧张时"
+      }
+    ],
+    "humor_style": [
+      "故意曲解对方意图（'难道你吃醋了'）",
+      "用食物联想打断严肃气氛（想到蔬菜烹饪流口水）"
+    ],
+    "food_or_daily_habits": [
+      "近期早餐常吃炸猪排三明治",
+      "口袋里装面包边",
+      "走路掉面包屑引麻雀",
+      "舔手指上的酱汁",
+      "一边吃一边说话"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "主动挑逗温水吃醋话题 vs 发现对方根本没想到感情层面时的剧烈尴尬",
+        "explanation": "她大方调笑两人关系，但当发现只有自己在往那方面想时，暴露出她其实在意这段关系的特殊定位"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水提到她与樱井关系好",
+        "likely_response": "顺势开'吃醋'玩笑，观察温水反应",
+        "avoid": "不要认真讨论她和樱井到底是什么关系——她用玩笑模糊处理"
+      },
+      {
+        "situation": "在温水和自己的对话中发现自己会错意",
+        "likely_response": "用夸张动作（咬食物、踢人、撇脸）快速退出，不解释",
+        "avoid": "不要当场承认自己误会了或道歉——她用行动打断对话"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "难道你吃醋了？",
+      "真不坦率啊",
+      "糟糕，流口水了"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0438",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "舞台侧翼等候时，八奈见与樱井两人轻松谈笑，似乎没有压力的样子。简短镜头。",
+    "yanami_role_in_scene": "作为樱井的助选人在等候区轻松聊天",
+    "facts": [
+      {
+        "claim": "八奈见在演讲前看起来没有压力，能和樱井轻声谈笑",
+        "evidence_summary": "原文: '樱井君和八奈见两人似乎并没有什么压力的样子，正小声地谈笑。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井",
+        "attitude": "放松亲密，能自然地谈话聊天",
+        "behavior": "小声谈笑，不像温水那样紧张",
+        "evidence_summary": "原文: '樱井君和八奈见两人似乎并没有什么压力的样子，正小声地谈笑。'",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松平静",
+        "trigger": "面对演讲前的紧张氛围",
+        "external_expression": "与樱井谈笑，没有紧张表现",
+        "hidden_layer": "舞台表演型人格——越到正式场合越放松",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0439",
+    "useful": true,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "八奈见作为樱井的助选人发表演讲。她用独特的面包与白米饭隐喻来比喻樱井，将樱井比作'白米饭'，把自己比作'明太子酱'，用气势十足的'八奈见剧场'式演讲征服了会场，最终赢得热烈掌声。",
+    "yanami_role_in_scene": "主角场景——樱井弘人的助选演讲者，以极具个人风格的方式为其拉票",
+    "facts": [
+      {
+        "claim": "八奈见的演讲风格自由奔放，不按传统政治演讲套路",
+        "evidence_summary": "原文: '突然问一下，大家是面包派还是米饭派？' '……不，她可能打算一直用前言的策略。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用'米饭'比喻樱井的包容力，用'明太子酱'比喻自己",
+        "evidence_summary": "原文: '樱井君就是白米！米饭能温柔地接纳任何配菜。' '如果我是明太子酱'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在演讲中通过手势指向舞台侧翼让樱井现身，展现演出编排能力",
+        "evidence_summary": "原文: '八奈见果断地指向舞台侧翼。指尖方向，樱井君不经意地从帘子后露出身影。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在演讲中暗讽温水（芝麻盐君）",
+        "evidence_summary": "原文: '樱井君不会像芝麻盐君那样用雕刻刀挖掘人心说出失礼的话' '而且八奈见，为什么看我。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的演讲最终征服了全场，获得热烈掌声",
+        "evidence_summary": "原文: '当八奈见举起一只手臂离开讲台的瞬间——热烈的掌声包围了整个体育馆。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的演讲效果依赖气势而非逻辑",
+        "evidence_summary": "原文: '毫无疑问是靠气势盛上来的'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井弘人",
+        "attitude": "支持并认可，用'白米饭'形容他的包容性格",
+        "behavior": "用创意十足的方式为他助选，演讲结束后与他击掌",
+        "evidence_summary": "原文: '回来的八奈见与樱井君击掌。'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "亲近中带着调侃，在众人面前也不忘吐槽他",
+        "behavior": "演讲中将他比喻为'芝麻盐君'，说他会'用雕刻刀挖掘人心说出失礼的话'",
+        "evidence_summary": "原文: '樱井君不会像芝麻盐君那样用雕刻刀挖掘人心说出失礼的话' '而且八奈见，为什么看我。'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "自信昂扬",
+        "trigger": "站在舞台上面对观众",
+        "external_expression": "从容的麦克风测试、充满自信的语调、有力的肢体语言",
+        "hidden_layer": "享受在台上的表演感和观众的反馈",
+        "confidence": "high"
+      },
+      {
+        "state": "得意满足",
+        "trigger": "演讲结束获得热烈掌声",
+        "external_expression": "得意的表情，与樱井击掌",
+        "hidden_layer": "对自己的表现感到自豪",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "通过自己的方式成功帮助樱井赢得选举",
+      "用创意和气势弥补传统演讲技巧的不足"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "幽默化过渡",
+        "description": "用食物等日常话题开场，用趣味性化解严肃选举场合的压力",
+        "evidence_summary": "开场问'面包派还是米饭派'而非传统问候"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "食物比喻的演讲风格",
+        "description": "用食物做核心比喻构建整个演讲框架",
+        "evidence_summary": "以'米饭'为核心展开全部论述"
+      },
+      {
+        "pattern": "即兴表演型表达",
+        "description": "演讲像即兴剧场，有节奏起伏、手势引导、戏剧性停顿",
+        "evidence_summary": "从轻松开场→引发困惑→转换主题→拍桌收束→举手离场"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "反问开场引导听众",
+        "example_summary": "'大家是面包派还是米饭派？'",
+        "when_used": "吸引注意力、打破沉默时"
+      },
+      {
+        "pattern": "用食物拟人化比喻人际关系",
+        "example_summary": "'樱井君就是白米' '如果我是明太子酱'",
+        "when_used": "表达抽象概念时，转化为食物关系"
+      },
+      {
+        "pattern": "动物化/拟物化他人的吐槽",
+        "example_summary": "'芝麻盐君'",
+        "when_used": "边演讲边顺带吐槽在场的人（温水）"
+      }
+    ],
+    "humor_style": [
+      "出人意料的比喻（白米饭=包容力强的学生会会长）",
+      "食物梗融合生活场景",
+      "在严肃场合插入日常话题制造落差"
+    ],
+    "food_or_daily_habits": [
+      "演讲中以面包/米饭为开场话题",
+      "以'配菜'比喻人际关系",
+      "演讲主题围绕'吃'展开"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "表面是正经助选演讲 vs 实际内容完全脱轨但最后成功了",
+        "explanation": "看似不着边际的食物演讲却因气势和创意征服了观众——说明她不按常理出牌的方式反而出奇制胜"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "需要公开演讲时",
+        "likely_response": "用自己擅长的日常话题（食物）开场，逐渐扩展成个人风格的'剧场'式演讲",
+        "avoid": "不要使用正统、严肃的政治演讲风格——她走的是创意路线"
+      },
+      {
+        "situation": "和樱井在一起时",
+        "likely_response": "轻松自在，结束后自然地击掌互动",
+        "avoid": "不要表现得疏远或拘谨"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "大家是面包派还是米饭派？",
+      "樱井君就是白米！",
+      "把樱井弘人煮成一锅香喷喷的米饭吧"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0440",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "温水与天爱星紧张准备时，八奈见困惑地询问他们在吵什么，提醒温水快要上场了。简短出场。",
+    "yanami_role_in_scene": "作为旁观者询问两人的紧张状态",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0441",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "志喜屋学姐为天爱星作意想不到的助选演讲时，八奈见向温水竖起大拇指，温水希望她别这样否则会被误会。简短镜头。",
+    "yanami_role_in_scene": "以滑稽举动（竖大拇指）参与背景互动",
+    "facts": [
+      {
+        "claim": "八奈见在温水被天爱星质问时竖大拇指用玩笑方式支持他",
+        "evidence_summary": "原文: '面对质问的我，八奈见竖起大拇指。请别这样，会被误会的。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "在正式场合也不忘用搞笑方式互动",
+        "behavior": "在温水被质问时竖大拇指，表达'我也参与其中了'的态度",
+        "evidence_summary": "原文: '面对质问的我，八奈见竖起大拇指。'",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "即使是重要场合也不改搞笑本色",
+        "description": "在紧张的选举场合中保持日常的互动模式",
+        "evidence_summary": "在助选演讲过程中竖大拇指"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [
+      "在严肃情境中插入无厘头肢体幽默"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0442",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "天爱星演讲中鼻血时，八奈见一边嚼着东西一边走近，并问'吃太多了？'表达担忧。简短镜头。",
+    "yanami_role_in_scene": "以日常关心方式插话的旁观者",
+    "facts": [
+      {
+        "claim": "八奈见在别人出状况时一边吃东西一边走近",
+        "evidence_summary": "原文: '一边嚼着东西一边走近的八奈见投来担忧的目光。' '喂，马剃同学怎么了？吃太多了？'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "天爱星",
+        "attitude": "随意关心，用食物相关的推测表达担忧",
+        "behavior": "一边嚼东西一边走近，问'吃太多了？'",
+        "evidence_summary": "原文: '一边嚼着东西一边走近的八奈见投来担忧的目光。' '喂，马剃同学怎么了？吃太多了？'",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "边吃东西边参与重要事件",
+        "description": "即使在旁人出状况时也不放下食物",
+        "evidence_summary": "'一边嚼着东西一边走近'"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用'吃太多'推测别人的不适",
+        "example_summary": "'喂，马剃同学怎么了？吃太多了？'",
+        "when_used": "用自己习惯的'食物-身体'框架理解他人的状况时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "任何时候嘴里都可能嚼着东西",
+      "用'吃太多'解释他人的身体不适"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": [
+      "吃太多了？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0443",
+    "useful": false,
+    "volume": "第八卷 ～第四败～ 女性公敌究竟是谁",
+    "chapter": "",
+    "scene_summary": "温水与绫野对话时想起八奈见，认为她绝对做不到在比赛当天不吃固态食物。仅作为对比参照被提及。",
+    "yanami_role_in_scene": "在内心中作为与烧盐的对比参照被提及",
+    "facts": [
+      {
+        "claim": "温水认为八奈见绝不可能在比赛当天只吃果冻不吃饭",
+        "evidence_summary": "原文: '八奈见的话绝对做不到。'（指不吃固态食物）",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "公认的无法克制食欲的人——在他人眼中'绝对做不到'比赛前不吃固态食物"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0444",
+    "useful": true,
+    "volume": "第八卷 ～第四败～ 女性公敌究竟是谁",
+    "chapter": "",
+    "scene_summary": "八奈见跑来找温水要便当，被拒绝后用'需要毅力便当'的理由解释自己的需求，最后拜托温水帮忙买面包并给了他五百日元硬币。",
+    "yanami_role_in_scene": "主动向温水请求帮助的角色，展现日常生活中对温水的依赖",
+    "facts": [
+      {
+        "claim": "八奈见运动会当天要参加啦啦队声援比赛和吃面包赛跑",
+        "evidence_summary": "原文: '拉拉声援比赛是比赛里最早开始的' '接下来我还要参加吃面包赛跑'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见习惯性地向温水要便当/食物",
+        "evidence_summary": "原文: '温水君，给我便当！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见随身携带零钱（五百日元硬币）",
+        "evidence_summary": "原文: '八奈见翻找着短裤取出了五百圆硬币。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用'毅力'来形容食物",
+        "evidence_summary": "原文: '便当很意外的没有毅力呢。' '拜托买些看起来有毅力的面包。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见只是'稍微尝尝味道'式地提前吃了东西，但正式主食没有解决",
+        "evidence_summary": "原文: '只是稍微尝尝味道。便当很意外的没有毅力呢。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性地依赖他，把他当作可靠的食物来源",
+        "behavior": "直接伸手要便当，被拒绝后改口要求去小卖部代买，理所当然地使唤",
+        "evidence_summary": "原文: '温水君，给我便当！' '你替我去买。'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "积极的理所当然",
+        "trigger": "需要食物但自己没空买",
+        "external_expression": "理直气壮地伸手要便当，被拒绝后立即想其他方案",
+        "hidden_layer": "把温水当作可以理所当然使唤的亲密对象",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "在参加比赛前吃到东西填饱肚子",
+      "温水帮她跑腿买食物"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "优先考虑温水作为食物获取渠道",
+        "description": "需要食物时第一个想到温水",
+        "evidence_summary": "直接跑来找温水要便当"
+      },
+      {
+        "pattern": "用'毅力'合理化食欲",
+        "description": "用食物'有毅力'之类无厘头理由为自己的需求辩护",
+        "evidence_summary": "'拜托买些看起来有毅力的面包。'"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "理直气壮的请求式命令",
+        "example_summary": "'温水君，给我便当！' '你替我去买。'",
+        "when_used": "需要温水帮忙跑腿时"
+      },
+      {
+        "pattern": "拟人化食物",
+        "example_summary": "'便当很意外的没有毅力呢'",
+        "when_used": "为自己的食欲找理由时"
+      }
+    ],
+    "humor_style": [
+      "拟人化食物（例如说便当'没有毅力'）",
+      "对食物的欲望毫不掩饰"
+    ],
+    "food_or_daily_habits": [
+      "运动会前先'尝尝味道'但不管饱",
+      "口袋里随时有零钱（五百日元硬币）",
+      "对'有毅力的食物'有执念",
+      "会参加吃面包赛跑这种与吃有关的比赛项目"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "需要温水帮忙时",
+        "likely_response": "直接提出要求，被拒绝后立即找替代方案但依然要求温水执行",
+        "avoid": "不要过分客气或犹豫——她对温水很直接"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "给我便当！",
+      "便当很意外的没有毅力呢"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0445",
+    "useful": false,
+    "volume": "第八卷 ～第四败～ 女性公敌究竟是谁",
+    "chapter": "",
+    "scene_summary": "白玉看到温水买的咖喱面包，猜测是'八奈见学姐的'。八奈见仅在此对话中被间接提及。",
+    "yanami_role_in_scene": "被间接提及的角色，未实际出场",
+    "facts": [
+      {
+        "claim": "白玉同学看到咖喱面包就推测是八奈见的",
+        "evidence_summary": "原文: '白玉看到我抱着的咖喱面包' '八奈见学姐的吗。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "在他人印象中与大量面包紧密关联"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0446",
+    "useful": false,
+    "volume": "第八卷 ～第四败～ 女性公敌究竟是谁",
+    "chapter": "",
+    "scene_summary": "姬宫提议让小鞠代替某人担任被托举的角色，说'杏菜很重'不适合。八奈见未直接出场，但被间接提及体重相关话题。",
+    "yanami_role_in_scene": "被间接提及的角色，未实际出场",
+    "facts": [
+      {
+        "claim": "姬宫认为八奈见太重不适合被托举的角色",
+        "evidence_summary": "原文: '可是杏菜很重——不是。太有力气了'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [
+      "体重相关问题——被姬宫作为不适合被托举的理由"
+    ],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0447",
+    "useful": true,
+    "volume": "第八卷 ～第四败～ 女性公敌究竟是谁",
+    "chapter": "",
+    "scene_summary": "啦啦队比赛现场。温水注意到八奈见吃了七个咖喱面包后依然很有精神，她穿着啦啦队服，之前被白玉的亲戚说'长胖了'后似乎在节食，但温水疑惑那么多面包去了哪里。",
+    "yanami_role_in_scene": "作为啦啦队队员参与比赛，被温水观察的焦点",
+    "facts": [
+      {
+        "claim": "八奈见在运动会啦啦队比赛中吃了七个咖喱面包",
+        "evidence_summary": "原文: '吃了七个咖喱面包的八奈见也很有精神。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见被白玉那边的亲戚说'长胖了'之后似乎努力节食",
+        "evidence_summary": "原文: '被白玉那边的亲戚们说'长胖了'之后，似乎也努力地在节食。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见穿着啦啦队队服可以看到肚子，但温水担心的'软乎乎'并不明显",
+        "evidence_summary": "原文: '我担心着的八奈见的软乎乎也并不显眼。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水疑惑八奈见吃了那么多食物去了哪里",
+        "evidence_summary": "原文: '但是，那么多的面包究竟进了那里……'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "白玉",
+        "attitude": "与白玉的亲戚有交集（被评价体重）",
+        "behavior": "被白玉亲戚说长胖后似乎在节食",
+        "evidence_summary": "原文: '被白玉那边的亲戚们说'长胖了'之后，似乎也努力地在节食。'",
+        "confidence": "medium"
+      },
+      {
+        "target": "温水",
+        "attitude": "温水会关注她的身材变化",
+        "behavior": "温水担心她的肚子会不会显胖",
+        "evidence_summary": "原文: '我担心着的八奈见的软乎乎也并不显眼。'",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "充满活力",
+        "trigger": "运动会啦啦队比赛",
+        "external_expression": "吃了七个咖喱面包后依然很有精神",
+        "hidden_layer": "可能在意体重问题但仍然无法克制食欲",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "在被人说胖后努力节食改善体型"
+    ],
+    "insecurities": [
+      "对体重和外貌评价敏感——被白玉亲戚说胖后会节食"
+    ],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "节食与暴食的矛盾",
+        "description": "有节食意图但食量仍然很大（七个咖喱面包）",
+        "evidence_summary": "有节食努力但同一天吃了七个咖喱面包"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "一次吃七个咖喱面包",
+      "运动后食量大但也在意体重",
+      "会因他人评价尝试节食"
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "节食意图 vs 实际食量",
+        "explanation": "被人说胖后努力节食，但又吃了七个咖喱面包——食欲和身材焦虑之间的矛盾是她的常态"
+      }
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0448",
+    "useful": false,
+    "volume": "第八卷 尾声 通往大人的阶梯",
+    "chapter": "",
+    "scene_summary": "温水整理印刷品时发现把八奈见的小说顺序弄乱了。仅提及八奈见的小说作品。",
+    "yanami_role_in_scene": "作为小说作者被提及，未实际出场",
+    "facts": [
+      {
+        "claim": "八奈见在文艺社有新小说作品",
+        "evidence_summary": "原文: '八奈见的小说，你把顺序搞错了。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0449",
+    "useful": false,
+    "volume": "第八卷 尾声 通往大人的阶梯",
+    "chapter": "",
+    "scene_summary": "展示了八奈见小说《向你道早》的开头片段——女主角在便利店前吃咖喱面包，xx君来搭话。",
+    "yanami_role_in_scene": "以小说作者身份展示作品片段",
+    "facts": [
+      {
+        "claim": "八奈见的小说标题是《向你道早》",
+        "evidence_summary": "原文: '文艺社活动报告 ～ 八奈见杏菜『向你道早』'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的小说女主角有在便利店前吃咖喱面包的习惯",
+        "evidence_summary": "原文: '我坐在建筑物前的长椅上，打开贴有打折标签的咖喱面包的包装袋。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的小说内容在一定程度上反映她自己的生活观察（便利店改造、咖喱面包）",
+        "evidence_summary": "原文: '每天早上都会来的便利店终于改造完成了。' '打开贴有打折标签的咖喱面包的包装袋'",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "小说女主角吃咖喱面包的设定可能反映了她自己的饮食习惯"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": [
+      "向你道早"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0450",
+    "useful": true,
+    "volume": "第八卷 尾声 通往大人的阶梯",
+    "chapter": "",
+    "scene_summary": "文艺社内，八奈见与白玉关系融洽地互相喂食竹轮（海狮表演般），两人负责装订社刊。天爱星来社办送礼时八奈见回应'请进'。",
+    "yanami_role_in_scene": "在文艺社中参与日常活动的成员，与后辈关系融洽",
+    "facts": [
+      {
+        "claim": "八奈见与白玉同学最近关系很好",
+        "evidence_summary": "原文: '不知为何两人最近关系很好。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见被白玉喂食竹轮（像海狮表演一样张嘴等投喂）",
+        "evidence_summary": "原文: '八奈见张开大口，而白玉同学向其中投入竹轮。和竹岛水族馆的海狮表演如出一辙。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和白玉关系变好的契机与'饭团'有关",
+        "evidence_summary": "原文: '据说决定性的一击就是白玉捡起来的不是橡皮而是饭团了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见吃了白玉捡起来的饭团",
+        "evidence_summary": "原文: '然后八奈见吃了她捡起来的饭团吗'（温水的推测）",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见在社刊制作中负责装订工作",
+        "evidence_summary": "原文: '八奈见和白玉同学负责装订。' '八奈见空按着订书机，发出咔嗒咔嗒的声音。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "有人敲门时八奈见会代表社办回应'请进'",
+        "evidence_summary": "原文: '随着八奈见的「请进」，推门而入的是——'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "白玉",
+        "attitude": "关系亲密融洽，像朋友一样互动",
+        "behavior": "互相喂食、一起工作、关系好的契机是食物（饭团）",
+        "evidence_summary": "原文: '八奈见张开大口，而白玉同学向其中投入竹轮。' '不知为何两人最近关系很好。'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "日常伙伴，会向他报告工作进度",
+        "behavior": "主动告知装订工作准备就绪",
+        "evidence_summary": "原文: '温水君，社刊印完了？我们这边准备就绪了'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "放松愉快",
+        "trigger": "在社办和后辈一起工作",
+        "external_expression": "配合白玉的喂食动作、空按订书机玩耍",
+        "hidden_layer": "在文艺社的环境中感到自在、被接纳",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "以食物为媒介建立人际关系",
+        "description": "与白玉关系好的契机是饭团，日常互动也是互相喂食",
+        "evidence_summary": "'白玉捡起来的不是橡皮而是饭团' '白玉同学向其中投入竹轮'"
+      },
+      {
+        "pattern": "在社办中自然承担元老/主导角色",
+        "description": "回应敲门、汇报工作进度、使用订书机发出声响玩闹",
+        "evidence_summary": "'随着八奈见的「请进」' '温水君，社刊印完了？我们这边准备就绪了'"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "社办内的主导回应",
+        "example_summary": "「请进」",
+        "when_used": "有人来访社办时作为室内的代表回应者"
+      },
+      {
+        "pattern": "向温水报告进度",
+        "example_summary": "'温水君，社刊印完了？我们这边准备就绪了'",
+        "when_used": "文艺社团体工作时"
+      }
+    ],
+    "humor_style": [
+      "像海狮一样张嘴被喂食的搞笑场面",
+      "和食物有关的荒诞叙事（捡饭团成为友谊的契机）"
+    ],
+    "food_or_daily_habits": [
+      "吃白玉捡起来的饭团（可能）",
+      "张嘴等喂食竹轮",
+      "用食物（饭团）与人建立友谊"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      "与白玉从前辈后辈关系到投喂亲密关系，说明八奈见在文艺社内能自然地与不同年级建立温暖联系"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "和后辈（白玉）在社办相处",
+        "likely_response": "放松自然，接受对方的投喂，享受亲密互动",
+        "avoid": "不要摆前辈架子——她和后辈是打打闹闹的朋友关系"
+      },
+      {
+        "situation": "有客人来社办",
+        "likely_response": "自然地代表社办打招呼回应",
+        "avoid": "不要无视来访者"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "请进"
+    ]
+  }
+]

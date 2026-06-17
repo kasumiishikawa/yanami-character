@@ -1,0 +1,1399 @@
+[
+  {
+    "scene_id": "yanami-candidate-0046",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "合宿第二天早上，大家在聚会室查看温水小说第一话公开后的反响。八奈见吃着菠萝面包凑到屏幕前，发现有人为她的投稿写了感想，双眼放光地阅读后得意地笑着斜眼看温水，认出感想是温水写的。",
+    "yanami_role_in_scene": "主动互动者，与温水有眼神和言语交流",
+    "facts": [
+      {
+        "claim": "八奈见早餐吃菠萝面包",
+        "evidence_summary": "原文描述「八奈见一面啃著早餐的菠萝面包」，显示她早餐偏好甜面包类",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对自己写的小说被读者留言感到开心",
+        "evidence_summary": "她先是双眼闪亮地读感想，随后'哼哼～'得意地笑，说明她享受被认可的感觉",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能认出温水写的感想",
+        "evidence_summary": "她直接问温水'这个，是温水写的吧？'，说明她对温水的文风或表达方式有一定了解",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近且略带得意",
+        "behavior": "斜眼看向温水，带着得意的笑容质问感想是否是他写的",
+        "evidence_summary": "原文：'随后便呢喃「哼哼～」，得意地笑著，用斜眼看向我'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、开心",
+        "trigger": "发现自己的投稿有人写了感想",
+        "external_expression": "双眼闪亮地读感想，发出'哼哼～'的笑声，用斜眼看向温水",
+        "hidden_layer": "在意温水对自己的看法，确认是他写的感想后感到满足",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "被认可——自己的文字被阅读并收到感想让她开心",
+      "在意温水如何看待自己写的东西"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "吃东西时同时做其他事",
+        "description": "一面啃面包一面向屏幕探头看内容，显示她常边吃边行动"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "确认性质的疑问句",
+        "example_summary": "「这个，是温水写的吧？」——用疑问句确认，但语气已经笃定",
+        "when_used": "当她想确认某件事但已经猜到了答案时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "早餐吃菠萝面包（甜面包类）"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在公开场合发现温水为自己写了感想时",
+        "likely_response": "她会露出得意的笑容，用斜眼看温水，带着'被我抓到了吧'的语气直接确认，但不会过度张扬",
+        "avoid": "避免表现得过于害羞或低调——她此时的态度是享受这种被关注的感觉"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0047",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "温水观察发现八奈见最近与袴田和姬宫不同的小团体活动。她注意到温水视线后对他微微一笑。午休时她在逃生梯等温水，直接抗议他早上故意忽视她的眼神，随后展示了手工制作的三明治便当。",
+    "yanami_role_in_scene": "主动抗议者与便当提供者",
+    "facts": [
+      {
+        "claim": "八奈见最近与袴田和姬宫分开活动，处于不同小团体",
+        "evidence_summary": "温水观察：'最近的八奈见，时常置身于与袴田草介和姬宫华恋不同的小团体'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她一早就在朋友间展现柔和亲切的笑容",
+        "evidence_summary": "原文描述'一大早就挥洒著那又柔和又亲切的笑容，与朋友有说有笑'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她注意到温水的视线并主动微笑回应",
+        "evidence_summary": "八奈见对温水'微微一笑'，温水则'展现体恤，挪开视线'",
+        "confidence": "high"
+      },
+      {
+        "claim": "午休时她在逃生梯等候温水",
+        "evidence_summary": "温水描述'八奈见一打照面就不吐不快般对我抗议'，说明她先到等候",
+        "confidence": "high"
+      },
+      {
+        "claim": "她手工制作了三明治便当，包含不常见的酒酿味噌酱瓜夹心",
+        "evidence_summary": "温水品尝后发现其中有'小黄瓜和……这是酒酿味噌？'，她展示了三种夹心的手工三明治",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近、坦率、有要求",
+        "behavior": "直接抗议温水忽视她的眼神；准备了手工便当；主动搭话抱怨",
+        "evidence_summary": "一见面就说'你故意忽视我的眼神了吧？'，随后取出便当袋分享午餐",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "略带不满但整体轻松",
+        "trigger": "温水早上没有回应她的眼神",
+        "external_expression": "不吐不快般直接抗议，但说完就取出便当，语气并未持续愤怒",
+        "hidden_layer": "在意温水是否刻意回避她，希望两人之间的互动得到确认",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "希望温水不要回避她、正视她的存在",
+      "享受与温水共进午餐的日常"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对在意的人直接表达不满而非隐忍",
+        "description": "温水忽视她的眼神后，她一碰面就当面抗议，不藏着掖着"
+      },
+      {
+        "pattern": "用手工食物作为互动媒介",
+        "description": "她提前准备了手工三明治，作为与温水共度午餐时光的一部分"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用抱怨开场实则亲近",
+        "example_summary": "「喂喂，温水。今天早上那样，不会太过分了吗？」——看似抱怨实则想开启对话",
+        "when_used": "当她想引起温水注意但又不想太直接表达关心时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "会提前起床手工制作便当",
+      "尝试不常见的食材搭配（酒酿味噌酱瓜）"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "温水回避她的眼神时",
+        "likely_response": "她会直接追问他为什么这样做，表面上是抱怨，实际上是想确认关系没有变淡",
+        "avoid": "避免默默忍受——她不是那种会假装没看见的类型"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "你故意忽视我的眼神了吧？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0048",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "温水因流言蜚语试图结束午餐约定，提出欠债已还清不应继续。八奈见从困惑到受伤再到决绝地切断关系，留下便当后离开。温水当晚在家中反复回想与她的最后对话。",
+    "yanami_role_in_scene": "被单方面推开的一方，最终决绝回应",
+    "facts": [
+      {
+        "claim": "八奈见最初参与午餐会确实有零用钱方面的原因，但也感到开心",
+        "evidence_summary": "她承认'起初确实是因为零用钱不够才这么做，但也有过开心的时候'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她不喜欢温水这样草率收尾",
+        "evidence_summary": "她明确说'这样随随便便地收尾，我有点讨厌'，表现出不满",
+        "confidence": "high"
+      },
+      {
+        "claim": "当温水提到流言时，她第一反应是检查自己是否做错了什么",
+        "evidence_summary": "她反问'我做了什么事，让你觉得不高兴了吗？'，先怀疑是否自己惹温水不快",
+        "confidence": "high"
+      },
+      {
+        "claim": "她最终以强硬的语气主动切断关系",
+        "evidence_summary": "她说'以后我会避免和你说话'，'这段时间谢谢你，还满开心的。再见'，然后头也不回地离去",
+        "confidence": "high"
+      },
+      {
+        "claim": "那天的便当是她当天早上特地准备的",
+        "evidence_summary": "温水后来发现便当整齐排列、角落还有小番茄点缀，推测'肯定是一大早就起床特地准备的'",
+        "confidence": "medium"
+      },
+      {
+        "claim": "她离开时始终没有回头看温水一眼",
+        "evidence_summary": "温水回忆'八奈见最后就连一次也不曾看向我'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "受伤、失望、决绝",
+        "behavior": "先试图理解，确认无法挽回后主动切断关系，放下便当后头也不回地离开",
+        "evidence_summary": "从困惑『我做了什么事让你不高兴了吗？』到强硬结束『以后我会避免和你说话』再到完全不留余地地离开",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "困惑→受伤→决绝",
+        "trigger": "温水以欠债还清和流言为由提出结束午餐会",
+        "external_expression": "一开始插话打断温水的解释，试图搞明白；理解后以强硬语气主动切断关系",
+        "hidden_layer": "表面决绝之下是受伤和不舍——她特意早起准备了便当，却被告知以后不用再一起吃了",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望午餐会能继续维持，不想被温水单方面结束",
+      "在意温水是否真心讨厌与她相处——先问'我让你不高兴了吗'"
+    ],
+    "insecurities": [
+      "担心自己是否做了让温水不高兴的事（第一反应是自我怀疑）"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "主动切断以避免进一步受伤",
+        "description": "发现温水决心结束关系后，抢先一步说出'以后我会避免和你说话'，保留主动权和尊严"
+      },
+      {
+        "mechanism": "完全回避眼神接触",
+        "description": "离开时一次也不回头看温水，避免暴露自己的脆弱"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "受到伤害时选择果断离开而非纠缠",
+        "description": "确认关系无法维持后，用简短决绝的语句切断，不拖泥带水"
+      },
+      {
+        "pattern": "用行动而非言语表达情感",
+        "description": "即使生气还是留下了精心准备的便当（包括点缀的小番茄）"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "打断对方话语以控制对话节奏",
+        "example_summary": "「我说啊，我有点听不懂你在说什么。」——直接打断温水试图结束关系的说辞",
+        "when_used": "当她不想听对方说下去或不想让对话走向自己不愿面对的方向时"
+      },
+      {
+        "pattern": "重复确认以验证对方真心",
+        "example_summary": "「我做了什么事，让你觉得不高兴了吗？」「真的吗？」——反复确认温水是否真心",
+        "when_used": "当她感到不安、需要确认对方的真实态度时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "会为特定场合早起准备便当，注意细节（小番茄点缀）"
+    ],
+    "contradictions_or_tensions": [
+      "表面爽快答应结束关系，但实际上是受伤后抢先切割以免受到更多伤害",
+      "嘴上说结束，行为上却留下精心准备的便当"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "当温水试图以'为你好'的理由拉开距离时",
+        "likely_response": "她会先试图理解对方的真实意图，确认对方心意已决后，会用强硬的语气主动说出结束的话语以保留尊严，然后头也不回地离开",
+        "avoid": "避免哀求或挽留——她的自尊不允许自己在被推开时纠缠"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "以后我会避免和你说话",
+      "这样随随便便地收尾，我有点讨厌"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0049",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "结业式前两天，温水独自在逃生梯吃午饭后回到教室。他用眼角余光观察八奈见，她正在与朋友们愉快交谈，看起来一如往常。烧盐注意到温水的视线并点破。",
+    "yanami_role_in_scene": "被观察的对象——表面正常地与朋友交流",
+    "facts": [
+      {
+        "claim": "八奈见在班级里与朋友们愉快交谈，表面上看起来与往常无异",
+        "evidence_summary": "温水'用眼角余光注视著在班上与朋友们愉快交谈的她'，说明她维持着日常的社交状态",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "同班朋友们",
+        "attitude": "表面如常，社交正常",
+        "behavior": "与朋友们愉快交谈",
+        "evidence_summary": "原文描述为'在班上与朋友们愉快交谈'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "表面平静如常",
+        "trigger": "前一天与温水结束了午餐会",
+        "external_expression": "在朋友面前愉快谈笑，展现与平日无异的面貌",
+        "hidden_layer": "可能内心并不平静，但选择在公开场合维持正常形象",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用社交活动掩盖内心波动",
+        "description": "与朋友们愉快交谈，表现出与平日无异的积极社交状态，避免他人察觉异样"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "公共场合维持开朗形象",
+        "description": "即使在个人关系中受挫，仍能在班级社交圈中表现得一如往常"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "刚结束与温水的关系，但在班级里丝毫不露声色，表面和内心可能有落差"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在班级里被温水观察时",
+        "likely_response": "她不会表现出任何异常，继续与朋友们愉快交谈——她不会在公开场合暴露私人关系的波动",
+        "avoid": "避免展现出明显的沮丧或回避态度，她会在社交场合维持一贯的开朗形象"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0050",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "放学后温水在社团教室遇见八奈见。她以看不出感情的眼神看向温水，用'好久不见'拉开距离，随后准备离开。温水叫住她，简短表达了自己这段日子也很开心。八奈见以没有起伏的语气回应后离开，关门时表情被逆光遮挡。",
+    "yanami_role_in_scene": "冷淡的被动回应者，最终短暂软化",
+    "facts": [
+      {
+        "claim": "八奈见在社团教室遇到温水时用看不出感情的眼神看向他",
+        "evidence_summary": "原文描述她'用那双看不出感情的眼眸望向我'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她用'好久不见'作为开场，刻意拉开物理和心理距离",
+        "evidence_summary": "她说'啊啊，温水。好久不见'——实际上他们刚在教室待在一起，这是刻意为之的疏远",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水叫住她时，她以没有起伏的声音回应，手握门把静伫许久",
+        "evidence_summary": "温水表达后，她'紧握著门把，有好一段时间静伫该处'，随后以没有起伏的口吻说'……是喔'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她离开时特意让自己背光，遮挡表情",
+        "evidence_summary": "她开门时阳光从走廊射入，温水'看不见她的表情'，可能是刻意选择的方向",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "表面冷淡、内心动摇",
+        "behavior": "一开始冷淡疏远，被叫住后停步听他说完，沉默许久后以平淡语气回应",
+        "evidence_summary": "从'看不出感情的眼眸'和'好久不见'的疏远，到最后沉默后简短回应'……是喔'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "表面冷淡克制，内心可能动摇",
+        "trigger": "温水在社团教室突然叫住她并表达真心",
+        "external_expression": "手握门把静伫许久，以没有起伏的语气说'……是喔'，然后平静关门离开",
+        "hidden_layer": "长时间的沉默和紧握门把的动作暗示内心的犹豫和动摇，但最终还是选择离开而非回应更多",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "可能希望温水说些什么，但又不愿表现得太在意——静伫许久说明她在等待或犹豫"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用简短平淡的语气掩饰情绪波动",
+        "description": "长时间的沉默后用'……是喔'三个字回应，克制自己不说更多，保持距离"
+      },
+      {
+        "mechanism": "遮挡表情防止暴露内心",
+        "description": "选择在逆光中关门，让温水看不见自己的表情"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在情绪可能失控时用沉默和简短回应来控制场面",
+        "description": "说话前长时间沉默，说话时语气平淡无起伏，快速结束对话"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用矛盾的时空表达来传达疏远",
+        "example_summary": "「啊啊，温水。好久不见。」——明明在同一间教室，却说好久不见",
+        "when_used": "想刻意拉开心理距离时"
+      },
+      {
+        "pattern": "用极简回应结束对话",
+        "example_summary": "「……是喔。」「那——我走了。」",
+        "when_used": "情绪波动但不想让对方察觉时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "嘴上冷淡（'是喔'），但行动上在温水叫住时停下脚步并沉默许久，说明内心在意",
+      "声称'和朋友的约好了要回去了'，但她在温水来之前独自在社团教室翻书柜，可能原本就是想来看他"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在冷战或疏远后与温水单独相遇时",
+        "likely_response": "她会刻意冷淡，用'好久不见'等话语拉开距离，但如果温水主动说真心话，她会停下脚步沉默倾听，最后克制地简短回应后离开",
+        "avoid": "避免表现出太明显的期待或动摇——她会用克制的言行来维持距离感"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "好久不见"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0051",
+    "useful": false,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "温水和八奈见没有同场出现。本场景主要是温水与小鞠的对话。",
+    "yanami_role_in_scene": "未出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0052",
+    "useful": false,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "温水和八奈见没有同场出现。袴田来找温水谈话。",
+    "yanami_role_in_scene": "未出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0053",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "袴田向温水拜托照顾好八奈见时，八奈见恰巧出现。她先是在远处听见对话，随后情绪从震惊到愤怒再到崩溃，向袴田坦白自己仍喜欢他，接着转向温水怒斥他擅自插手。最终三人和解，她拍着两人的背跑向教室。",
+    "yanami_role_in_scene": "核心冲突方，从偷听到崩溃到恢复主导",
+    "facts": [
+      {
+        "claim": "八奈见得知温水与袴田谈话是因为小鞠的通风报信",
+        "evidence_summary": "她说'小鞠联络我说，温水被帅气的不良少年缠上，又说什么情境很赞。我就猜想也许是这样才跑来看看'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她听到袴田说'希望你能找到新的恋情'时脸色转为苍白",
+        "evidence_summary": "原文'大概是这时才理解了状况，八奈见的脸色顿时转为苍白'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她两次低声说'别这样'，随后身体仿佛失去力气",
+        "evidence_summary": "她低语'……别这样'重复两次，随后'身体的气力被抽掉一般'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她在温水对袴田大吼后爆发，大喊'不要开口闭口就说我被甩了'",
+        "evidence_summary": "她推开两人并大喊，紧接着拎起袴田的领子直面他",
+        "confidence": "high"
+      },
+      {
+        "claim": "她当面向袴田承认自己仍然喜欢他",
+        "evidence_summary": "她说'我一直都喜欢著草介！现在还是喜欢！完全没有摆脱失恋！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她主动祝福袴田与姬宫",
+        "evidence_summary": "她哽咽地说'我到现在还是喜欢著你！所以，你就去跟姬宫华恋一起幸福吧！自己去幸福啦！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她随后宣布总有一天会喜欢上别人",
+        "evidence_summary": "她说'总有一天我也会自己喜欢上别人！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她打了温水的头",
+        "evidence_summary": "原文'八奈见使劲敲了我的头'，她自己也说不出原因",
+        "confidence": "high"
+      },
+      {
+        "claim": "她告诉温水不应该擅自插手别人的关系，有话想说应该直说",
+        "evidence_summary": "她说'不要随便插手其他人的关系'以及'有话想跟我说就直说啊！随便你啊！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她最终原谅了两人，让他们互相道歉后自己满意地点头",
+        "evidence_summary": "她双手抱胸满意地点头，然后让两人都回教室",
+        "confidence": "high"
+      },
+      {
+        "claim": "她离开时拭去睫毛上的泪滴，对两人露出笑容",
+        "evidence_summary": "原文'八奈见拭去沾在睫毛上的泪滴，对我们面露笑容'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她最后拍了拍两人的背，自己先跑了出去并转身挥手",
+        "evidence_summary": "原文'使劲在我们的背上猛拍了一把，随后便穿过我们之间，向前跑了出去'并'转过身来挥手'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "袴田草介",
+        "attitude": "仍然深爱，但已接受现实",
+        "behavior": "愤怒地拎起他的领子质问，随后将脸埋在他胸口哭泣坦白感情，最后祝福他和华恋并推开他",
+        "evidence_summary": "从拎领子质问到埋胸哭泣再到推开并祝福，情感起伏极大",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "气愤但亲近，信任他在意自己",
+        "behavior": "打完他头后严厉说教，但也告诉他可以随时找她说话；最终一起笑着回教室",
+        "evidence_summary": "打完温水后又认真告诉他'有话想跟我说就直说'，最后一起笑着向右转回教室",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "震惊与羞耻",
+        "trigger": "发现袴田和温水在谈论她的感情",
+        "external_expression": "满脸通红，双腿打颤，交互看着两人",
+        "hidden_layer": "羞耻——自己最私密的感情被两个男生当面讨论，感到被暴露",
+        "confidence": "high"
+      },
+      {
+        "state": "绝望与无力",
+        "trigger": "袴田说'希望你能找到新的恋情'——来自被喜欢的人的善意拒绝",
+        "external_expression": "脸色转为苍白，身体失去力气，低声说'别这样'",
+        "hidden_layer": "这是来自喜欢的人最残酷的温柔，她没法对袴田发火，只能感到无力",
+        "confidence": "high"
+      },
+      {
+        "state": "爆发与宣泄",
+        "trigger": "温水代替她说出她说不出口的话，袴田伸手想和温水握手",
+        "external_expression": "大喊'不要开口闭口就说我被甩了'，推人，拎领子，流泪坦白",
+        "hidden_layer": "积压的感情终于爆发——被甩后一直隐忍的感情在两人面前决堤",
+        "confidence": "high"
+      },
+      {
+        "state": "恢复与和解",
+        "trigger": "宣泄完感情后",
+        "external_expression": "拭去眼泪对他们露出笑容，拍背，挥手跑向教室",
+        "hidden_layer": "用开朗的行动为尴尬的场面画上句号，恢复主导权",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "不希望被同情或'被安排新恋情'——她要自己决定什么时候放下",
+      "仍希望袴田幸福，即使不是和自己",
+      "希望温水不要擅自替她做决定或代言"
+    ],
+    "insecurities": [
+      "担心被当作需要被可怜和安排的对象",
+      "对袴田的喜欢被两个男生当成'应该处理的问题'来讨论"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "先发制人的愤怒来掩盖羞耻",
+        "description": "在袴田说出'新恋情'时她因羞耻而无力，但随后用更大的愤怒（推开两人、大喊）来覆盖这种脆弱"
+      },
+      {
+        "mechanism": "用幽默和行动化解尴尬",
+        "description": "吼完后用命令两人向右转、拍背、跑开等方式，把气氛从沉重转为轻松"
+      },
+      {
+        "mechanism": "以'原谅'的姿态恢复主动地位",
+        "description": "让两人互相道歉、自己来裁决，恢复对局面的控制"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "情绪大起大落时的爆发力",
+        "description": "从脸色苍白到愤怒爆发到哭泣到恢复笑容，情感切换迅速且外显"
+      },
+      {
+        "pattern": "面对真心话时用身体动作辅助表达",
+        "description": "拎领子、拍头、推人、埋头在胸口——身体语言丰富"
+      },
+      {
+        "pattern": "冲突后主动重建轻松氛围",
+        "description": "宣泄结束后用开朗的态度让场面自然过渡到日常"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张比喻表达强烈不满",
+        "example_summary": "「你们脑袋装的是珍奶吗！？」——用搞笑比喻批评两人",
+        "when_used": "既生气又想用笑点缓和气氛时"
+      },
+      {
+        "pattern": "直接命令式语句",
+        "example_summary": "「不要随便帮我决定！」「不准道歉！」「请事先取得同意！」",
+        "when_used": "情绪激动、要求对方停止某种行为时"
+      },
+      {
+        "pattern": "嘴上说狠话但动作温柔",
+        "example_summary": "一边吼'你自己去幸福啦'一边把脸埋在袴田胸口",
+        "when_used": "情感矛盾、既爱又痛时"
+      },
+      {
+        "pattern": "用反问句逼对方正视问题",
+        "example_summary": "「所以，我跟你是有什么要讲！」",
+        "when_used": "被惹恼但希望对方说实话时"
+      }
+    ],
+    "humor_style": [
+      "用荒诞比喻（'脑袋装的是珍奶吗'）在愤怒中保持喜感",
+      "故意把对方说成笨蛋来化解严肃气氛"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "对袴田：既愤怒他'擅自决定她的幸福'，又无法停止爱他——嘴上骂他但身体往他胸口靠",
+      "对温水：既生气他多管闲事，又感谢他替自己说出真心话——打他头但最后对他说'有话直说'",
+      "明明已经完全被甩，却还在袴田面前承认'完全没有摆脱失恋'——真挚到令人心疼"
+    ],
+    "character_growth_or_change": [
+      "这次冲突是她第一次在袴田面前正面表达自己的感情——之前一直隐忍，这次终于爆发"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "被人当面讨论自己失恋的事时",
+        "likely_response": "先是羞耻到脸色苍白、身体无力，然后会突然爆发——用大喊、质问甚至动手的方式夺回话语权，最后用泪水和坦白的混合方式表达真正的感情",
+        "avoid": "避免被动的沉默——她会在沉默后爆发，不会一直忍下去"
+      },
+      {
+        "situation": "被喜欢的人说'希望你能找到更好的'时",
+        "likely_response": "这种善意拒绝比直接的拒绝更让她受伤——她会先失去力气、脸色发白，然后会用愤怒来掩盖这种无力感",
+        "avoid": "避免从此退缩——她最终会站起来直面对方"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "你们脑袋装的是珍奶吗！？",
+      "不要开口闭口就说我被甩了",
+      "不准道歉！什么我的新恋情更是多管闲事！"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0054",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "结业式后大家在教室领成绩单。八奈见与朋友们嬉笑打闹着是否互相看成绩单，看起来与往常无异。",
+    "yanami_role_in_scene": "远景中的普通学生，展现日常社交状态",
+    "facts": [
+      {
+        "claim": "八奈见在结业式后与朋友们笑着打闹",
+        "evidence_summary": "温水眼角余光捕捉到'她正和朋友为了要不要互看成绩单而笑笑闹闹，看起来一如往常'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [
+      {
+        "state": "表面开朗如常",
+        "trigger": "结业式后领取成绩单的日常场景",
+        "external_expression": "与朋友们笑笑闹闹",
+        "hidden_layer": "经过昨天与袴田的大冲突后，她已回归日常的社交状态",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "冲突后的恢复力——迅速回归日常社交",
+        "description": "前一天刚经历了感情的大爆发和袴田的对话，第二天已经能正常地与朋友打闹"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0055",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "温水与烧盐在逃生梯聊天时，八奈见也现身了。她以'反正是温水'打消烧盐的顾虑，并戏弄温水是否打扰了他和烧盐。她在温水身边保持不远不近的微妙距离，聊起暑假计划和合宿回忆，明确表示温水也是让大家开心的一部分。",
+    "yanami_role_in_scene": "主动加入对话，与温水保持轻松互动",
+    "facts": [
+      {
+        "claim": "八奈见称温水为'温水'而非带有距离感的称呼",
+        "evidence_summary": "她对烧盐说'反正是温水'，语气轻松随意",
+        "confidence": "high"
+      },
+      {
+        "claim": "她声称逃生梯是她先发现的地方",
+        "evidence_summary": "她说'这地方起初是我先发现的喔？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她戏弄温水是否打扰了他和烧盐",
+        "evidence_summary": "她露出戏弄般的表情说'嗯？该不会真的打扰到你们了？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她称温水和自己'彼此都是单身一族'",
+        "evidence_summary": "她说'彼此都是单身一族，好好相处嘛'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她站到温水身边时保持'不近也不远的微妙距离'",
+        "evidence_summary": "原文描述她站到温水身旁'维持不近也不远的微妙距离'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她主动表达对下次文艺社活动的期待，并强调温水也是快乐的一部分",
+        "evidence_summary": "她说'上次是大家在一起玩才会那么开心的。温水也算在里头啊'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她向温水靠近了半步",
+        "evidence_summary": "原文'八奈见一面看著烧盐……一面朝我靠近半步'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲近、戏弄、在意",
+        "behavior": "主动戏弄温水是否在和烧盐独处；靠近半步说话；明确表示温水是团体快乐的一部分",
+        "evidence_summary": "从戏弄的表情到靠近半步再到特意提及温水也属于快乐的要素",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "友好亲密",
+        "behavior": "向烧盐介绍自己的'秘密基地'，两人一起行动",
+        "evidence_summary": "烧盐拜托八奈介绍她的秘密基地，两人一起过来找温水",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松戏谑，但带有试探",
+        "trigger": "看到温水和烧盐在一起",
+        "external_expression": "戏弄温水是否打扰了他们，自称单身一族",
+        "hidden_layer": "借开玩笑来观察温水和烧盐的关系，同时也确认自己在温水身边的位置",
+        "confidence": "medium"
+      },
+      {
+        "state": "期待与安心",
+        "trigger": "谈论合宿和暑假计划",
+        "external_expression": "主动表达对下次活动的期待，靠近温水半步",
+        "hidden_layer": "确认温水仍属于她的社交圈后感到安心",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "确认自己在温水身边的亲密位置没有被取代",
+      "期待与温水一起参与暑假活动"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用开玩笑来试探",
+        "description": "用'该不会真的打扰到你们了'来试探温水和烧盐的关系，用戏谑掩饰在意"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "用'我们是同类'来拉近距离",
+        "description": "'彼此都是单身一族'——将自己和温水归为同一类，建立共同身份"
+      },
+      {
+        "pattern": "靠近半步的肢体接近",
+        "description": "在说话时朝温水靠近半步——一个微妙但刻意的身体语言"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用轻描淡写的语气表达在意",
+        "example_summary": "「反正……是温水。」——用'反正'来轻描淡写，但特意追到逃生梯来找他说明在意",
+        "when_used": "不想让对方察觉自己的在意，但又希望现身时"
+      }
+    ],
+    "humor_style": [
+      "用戏弄的语气调侃温水与其他女生的关系"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "嘴上用'反正是温水'表现得无所谓，但实际行动上特意跑来逃生梯找他",
+      "保持'微妙距离'说明她既想靠近又不想表现得太明显"
+    ],
+    "character_growth_or_change": [
+      "经过第四败的冲突后，她与温水的关系恢复到了更自然的状态，可以开玩笑并主动靠近"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "看到温水和别的女生在一起时",
+        "likely_response": "她会假装不在意地用玩笑话来试探，比如'该不会打扰到你们了'，然后自然地加入对话。她不会直接表现出嫉妒，但会用行动（出现、靠近、加入话题）来确保自己的存在感",
+        "avoid": "避免直接质问或表现吃醋——她会用戏谑包装试探"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "反正是温水",
+      "彼此都是单身一族"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0056",
+    "useful": true,
+    "volume": "第一卷 ～第四败～当你凝望败北女角，败北女角也同样凝望著你",
+    "chapter": "",
+    "scene_summary": "在逃生梯上与温水单独相处时，八奈见感叹自己与温水和小鞠原本毫无交集，如今却因文艺社联系在了一起。她坦言读小说可以忘记痛苦的现实。温水提出'做朋友'的请求时引发了一连串误会，最后八奈见笑着说他们早就是朋友了，用拳头轻碰他的拳头作为和解的象征。",
+    "yanami_role_in_scene": "主导对话者，最终确认朋友关系",
+    "facts": [
+      {
+        "claim": "八奈见承认自己通过文艺社认识了原本没有交集的人",
+        "evidence_summary": "她说'因为我之前和小鞠或温水都完全没有交流吧？文艺社也是，在参加合宿之前，我连文艺社平常在干嘛都不清楚'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她认为读小说可以忘记痛苦的现实",
+        "evidence_summary": "她说'读的时候能完全忘记痛苦的现实。而且只要在小说中，一切都能顺心如意嘛'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她对绝食减肥表现出强烈的抗拒",
+        "evidence_summary": "温水建议'绝食道场'时她急忙摆手说'绝食什么的根本不可能吧。嗯，绝食不好喔，温水。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水提出'做朋友'时她误以为是告白",
+        "evidence_summary": "温水还没说完她就打断并打理自己的头发、领子、领结、裙摆，还可爱地假咳一声",
+        "confidence": "high"
+      },
+      {
+        "claim": "她误以为温水告白后主动'婉拒'了他",
+        "evidence_summary": "两人的台词重叠——她说'抱歉！我把你当成朋友——'，然后说温水'明明没告白却被甩了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她认为告白前需要漫长的铺垫",
+        "evidence_summary": "温水描述理想告白流程时她总结'那是求婚吧？'，然后开玩笑说'三年后我会被温水求婚吗？那要不要趁现在先拒绝？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她认为他们早就是朋友了",
+        "evidence_summary": "温水确认时她说'我们早就是朋友了吧？'并反问'不然还会是什么啊'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她用拳头碰拳头作为和解的象征",
+        "evidence_summary": "她伸出拳头说'接下来也多多担待啰，被甩伙伴'，温水用拳头轻敲她的拳头回应",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲切、依赖、已视为朋友",
+        "behavior": "主动分享内心想法（读小说逃避现实），开玩笑调侃他，最终确认朋友关系并伸出拳头",
+        "evidence_summary": "从分享内心想法到无防备地开玩笑再到拳头碰拳头",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "坦诚（袒露小说是逃避现实的手段）",
+        "trigger": "谈论文艺社和阅读",
+        "external_expression": "用慈祥的眼神眺望操场，说小说可以忘记痛苦的现实",
+        "hidden_layer": "承认自己用阅读来逃避现实中的感情痛苦",
+        "confidence": "high"
+      },
+      {
+        "state": "期待与紧张（误以为温水要告白）",
+        "trigger": "温水郑重其事地说'有话要说'",
+        "external_expression": "慌张地梳理头发、领结、裙摆，假咳一声",
+        "hidden_layer": "虽然被甩不久，但她在意温水是否要告白，说明温水在她心中已有特殊位置",
+        "confidence": "high"
+      },
+      {
+        "state": "释然与开心",
+        "trigger": "确认温水只是想做朋友",
+        "external_expression": "笑着说'我们早就是朋友了吧'，露出柔和的笑容，开心地嘻嘻笑",
+        "hidden_layer": "被确认是温水重要的人让她感到安心和开心",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "读小说逃避现实中的痛苦",
+      "确认自己和温水的关系是特别的（不仅是债务关系）",
+      "被温水当作朋友认可"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用幽默化解尴尬的误会",
+        "description": "误以为告白后迅速调整为玩笑模式（'欢迎加入被甩之人的世界'），将尴尬转化为双方可以笑出来的话题"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "紧张时会下意识整理外表",
+        "description": "误以为温水要告白时，她从头发的梳理到裙摆的整理再到假咳，一系列紧张的表现"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用预定式的玩笑表达亲密",
+        "example_summary": "「那要不要趁现在先拒绝？」——提前拒绝一个根本不存在的三年后的求婚",
+        "when_used": "和温水开关于未来的玩笑时，显得随意又亲密"
+      },
+      {
+        "pattern": "用肯定式反问确认关系",
+        "example_summary": "「我们早就是朋友了吧？」「不然还会是什么啊……」",
+        "when_used": "当温水不确定他们之间的关系时，她反而更坚定地给出肯定答案"
+      }
+    ],
+    "humor_style": [
+      "用夸张的未来预设来开玩笑（三年后求婚）",
+      "用'被甩伙伴'来自嘲并拉拢对方"
+    ],
+    "food_or_daily_habits": [
+      "对绝食强烈抗拒，重视饮食"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上说读小说是为了逃避痛苦的现实，但实际上参与了文艺社、合宿等社交活动——逃避与参与并存",
+      "虽然刚被袴田甩，但误以为温水要告白时仍会紧张期待——说明她并非完全沉浸在失恋中无法自拔"
+    ],
+    "character_growth_or_change": [
+      "从'债主-债务人'关系到'朋友'关系的正式确认，两人的关系有了质的飞跃",
+      "她主动认可这段关系为'朋友'，说明她已经从单纯把温水当作'午餐饭票'的阶段走出来"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "温水郑重其事地表示有话要说时",
+        "likely_response": "她会下意识地紧张和期待，整理外表，假咳，做好心理准备——但发现对方要说的是别的事情时会用开玩笑来掩盖自己的误会",
+        "avoid": "避免直接表达自己刚才的期待"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "欢迎加入被甩之人的世界",
+      "三年后我会被温水求婚吗？那要不要趁现在先拒绝？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0057",
+    "useful": true,
+    "volume": "第一卷 特典 Intermission 故乡在甜点屋",
+    "chapter": "",
+    "scene_summary": "暑假第三天，八奈见以采购文艺社用品为名将温水叫到购物中心美食区。温水找到她时，她正一手举霜淇淋一手端拉面，因肩包下滑陷入危机。温水帮她解围后，她一边吃拉面一边吃霜淇淋，并表示已经提前买好了窗帘——温水实际上只是被叫出来陪她的。",
+    "yanami_role_in_scene": "主导者——以采购为借口约温水出来",
+    "facts": [
+      {
+        "claim": "八奈见以采购文艺社用品为名将温水叫到购物中心",
+        "evidence_summary": "原文'八奈见把我叫到市内的购物中心'并且她说'为了采购文艺社的用品'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她一手举霜淇淋一手端拉面，因肩包下滑陷入窘境",
+        "evidence_summary": "温水看到'八奈见一手拿著霜淇淋，另一只手上的托盘上头摆著一碗拉面'，并说'只要稍微失去平衡，就无法避免惨剧发生'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她同时吃拉面和霜淇淋，用霜淇淋代替开水",
+        "evidence_summary": "原文'她吸著面条，并不时张嘴咬向左手的霜淇淋以代替开水润喉'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她在温水到来之前已经买好了窗帘",
+        "evidence_summary": "她展示肩包里的蓝色窗帘包装说'因为我来得太早，已经买好了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她吃拉面时笑容满面",
+        "evidence_summary": "温水准备抱怨时'八奈见把拉面的叉烧肉放进口中，笑容满面地咀嚼著'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她注意到温水一直在看她",
+        "evidence_summary": "她问'怎么？温水干嘛一直看我？'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "依赖、享受共处、以朋友的身份邀约",
+        "behavior": "以采购为名叫他出来，陷入困境时向他求助，在他面前大口吃喝毫无防备",
+        "evidence_summary": "从叫温水出来到他帮忙拿食物到在他面前大吃，全程展现出高度的亲近感",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "开心、放松、满足",
+        "trigger": "与温水在美食区共处",
+        "external_expression": "笑容满面地吃面，用霜淇淋润喉，吃得津津有味",
+        "hidden_layer": "她以采购为借口其实是想和温水一起出来——享受与他共处的普通时光",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "与温水共度暑假时光（以采购为借口）",
+      "享受美食带来的满足感"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "以实际事务为借口约温水出来",
+        "description": "明明可以自己买窗帘，却以采购社团用品为名叫温水来美食区"
+      },
+      {
+        "pattern": "在温水面前毫无防备地吃喝",
+        "description": "同时吃拉面和霜淇淋，吃相津津有味，不介意温水看到自己贪吃的模样"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的语气描述日常困境",
+        "example_summary": "「温水，大事不好了……」——实际上只是拿太多食物失去平衡",
+        "when_used": "需要温水帮忙或引起他注意时"
+      }
+    ],
+    "humor_style": [
+      "将自己的窘境用夸张的语气描述"
+    ],
+    "food_or_daily_habits": [
+      "可以同时吃拉面和霜淇淋——口味跨度大",
+      "吃面时津津有味，不介意被看到吃相",
+      "称自己'出门前没吃午餐'，说明可能不规律进食"
+    ],
+    "contradictions_or_tensions": [
+      "表面理由（采购窗帘）和实际目的（与温水共处）不一致——她找借口约温水出来但不说破"
+    ],
+    "character_growth_or_change": [
+      "这是确认朋友关系后两人的第一次单独外出，她自然地以朋友身份约温水出来"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "想约温水出来但不想明说时",
+        "likely_response": "她会找一个正当的理由（如采购社团用品）约温水出来，然后自然地把时间花在吃饭和相处上，不会直接说'想见你'",
+        "avoid": "避免直接表达想见对方——她会用事务性理由包装"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水，大事不好了……"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0058",
+    "useful": true,
+    "volume": "第一卷 特典 Intermission 第一轮审查开始",
+    "chapter": "",
+    "scene_summary": "从温水妹妹佳树的视角观察。合宿期间，八奈见和温水在露营区争抢青椒。八奈见喜欢吃青椒，温水阻止她把整袋吃完。佳树在笔记本上记录了对八奈见的观察，最后判定两人并非恋爱关系。",
+    "yanami_role_in_scene": "与温水日常互动的伙伴",
+    "facts": [
+      {
+        "claim": "八奈见喜欢吃青椒",
+        "evidence_summary": "温水从她手中抢下青椒袋子时她说'呜哇！只剩一个了耶'并表示自己喜欢吃青椒",
+        "confidence": "high"
+      },
+      {
+        "claim": "她与温水之间关系轻松日常，可以互相抢食物",
+        "evidence_summary": "温水焦急地表示'青椒不可以全部吃完'并从她手中抢下袋子",
+        "confidence": "high"
+      },
+      {
+        "claim": "她明确区分自己是喜欢吃青椒而不是什么都吃",
+        "evidence_summary": "她澄清'我的意思不是说红萝卜就可以随便吃'和'再怎么样我也不会生吃红萝卜'",
+        "confidence": "high"
+      },
+      {
+        "claim": "佳树从旁观察后判断两人并非恋爱关系",
+        "evidence_summary": "佳树在笔记本上的'恋爱关系'项目画了大叉，心满意足地合上笔记本",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "朋友式的随意、争夺食物的亲近",
+        "behavior": "试图吃完整袋青椒，被温水阻止时反驳自己不是马",
+        "evidence_summary": "两人在露营区就青椒展开日常式的争论",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "轻松愉快",
+        "trigger": "与温水在露营区准备食物",
+        "external_expression": "吃青椒，反驳温水的指责",
+        "hidden_layer": "与温水之间的对话模式自然得像认识很久的朋友",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "吃喜欢的食物（青椒）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "对喜欢吃的食物没有节制",
+        "description": "试图把整袋青椒吃完，被温水阻止时还可惜只剩一个了"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的否定来澄清误会",
+        "example_summary": "「别把人家说得像匹马，再怎么样我也不会生吃红萝卜。」",
+        "when_used": "当温水用比喻批评她时"
+      }
+    ],
+    "humor_style": [
+      "用断然否定式的比喻来反驳对方"
+    ],
+    "food_or_daily_habits": [
+      "喜欢青椒（不是讨厌蔬菜的类型）",
+      "会吃光盘中的特定食物"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被温水用比喻'指责'时",
+        "likely_response": "她会用一个更夸张的比喻来反驳，先否定对方的前提再澄清自己的立场",
+        "avoid": "避免真的生气——她会用玩笑式的语气反驳"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "别把人家说得像匹马"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0059",
+    "useful": true,
+    "volume": "第一卷 特典 Intermission 少女会议的B to E",
+    "chapter": "",
+    "scene_summary": "合宿第一晚，八奈见与烧盐在浴室泡澡时展开少女对话。八奈见感叹被甩只是一瞬间的事，但否认自己是'秒杀'——她认为自己只差一点点。她解释了袴田被转学生姬宫抢走的过程，并自嘲身材'大而无用'因为袴田不在乎。",
+    "yanami_role_in_scene": "倾诉者，与烧盐分享失恋感受",
+    "facts": [
+      {
+        "claim": "八奈见被甩的体验是——长时间喜欢但被甩只在一瞬间",
+        "evidence_summary": "她低声呢喃'虽然喜欢的时间很久，但是被甩只是一瞬间的事呢'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她认为自己和烧盐的失败不一样——她更接近成功",
+        "evidence_summary": "她反驳烧盐的'秒杀'说法：'我应该来到只差一点点的地步了吧？和你说的秒杀不太一样'",
+        "confidence": "high"
+      },
+      {
+        "claim": "袴田从以前就喜欢胸部大的女生",
+        "evidence_summary": "她解释'草介那家伙，从以前就喜欢大胸部的女生。华恋一转校过来，他马上就被攻陷了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她是'一年级男生投票的不起眼巨乳排行榜第一名'",
+        "evidence_summary": "烧盐告诉她这一信息，八奈见没有否认",
+        "confidence": "high"
+      },
+      {
+        "claim": "她认为自己胸大无用在恋情中没有帮助",
+        "evidence_summary": "她说'草介不喜欢的话，这种东西根本无用武之地。只是大而无用'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "亲密、信任、能够分享内心",
+        "behavior": "在浴室这个私密空间中坦诚分享被甩的感受和对自己身材的看法",
+        "evidence_summary": "两人肩并肩在浴池中讨论被甩的体验和各自的感受",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "仍喜欢，理解他为什么选择了别人",
+        "behavior": "分析袴田喜欢大胸女生，姬宫转校后就被攻陷了——语气中有不甘但接受了事实",
+        "evidence_summary": "她分析和解释袴田的选择逻辑，显示她一直在思考这件事",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不甘但接受的悲伤",
+        "trigger": "泡澡时放松的状态下被烧盐提起被甩的话题",
+        "external_expression": "低声呢喃'虽然喜欢的时间很久，但是被甩只是一瞬间的事'",
+        "hidden_layer": "在热气氤氲的浴室中终于可以卸下防御，坦诚面对自己的失恋",
+        "confidence": "high"
+      },
+      {
+        "state": "自嘲",
+        "trigger": "聊到身材和被甩的关系",
+        "external_expression": "称自己的身材'大而无用'",
+        "hidden_layer": "用自嘲来掩饰不甘——即使'不起眼巨乳排行榜第一'也赢不了姬宫",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望自己'只差一点点'而非被秒杀——需要保留一些尊严",
+      "希望袴田喜欢的是自己"
+    ],
+    "insecurities": [
+      "对自己的身材评价消极——虽然有巨乳但视为'大而无用'",
+      "在与姬宫的比较中处于劣势地位"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用'分析原因'来合理化被甩的事实",
+        "description": "通过解释袴田喜欢大胸、姬宫一转校就被攻陷来找原因，让自己更容易接受"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "在信任的人面前才会卸下心防",
+        "description": "只有在浴室与烧盐独处时的私密空间中，才会坦诚分享对失恋的真实感受"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "对自己下判断时用绝对化表达",
+        "example_summary": "「只是大而无用。」——对自己的身材给出不留情面的判断",
+        "when_used": "自嘲或自我贬低时"
+      }
+    ],
+    "humor_style": [
+      "用自嘲（大而无用）来化解受伤感"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "一方面说自己'只差一点点'（接近成功），另一方面袴田已经被'马上攻陷'——她对自己处境的认识可能不完全客观",
+      "理智上知道袴田选择了别人，感情上仍然不甘心"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "与亲密女性朋友私下谈论失恋时",
+        "likely_response": "她会在轻松私密的环境中坦诚分享真实感受，但仍然会用自嘲和分析来包裹痛苦，不会完全崩溃",
+        "avoid": "避免哭天喊地——她会用冷静的分析和自嘲来面对"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "只是大而无用",
+      "虽然喜欢的时间很久，但是被甩只是一瞬间的事呢"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0060",
+    "useful": true,
+    "volume": "第一卷 特典 Intermission 少女会议的B to E",
+    "chapter": "",
+    "scene_summary": "浴室对话的继续。八奈见提议换话题后与烧盐聊起减肥。她悄悄捏起腹部的赘肉说要努力减重，解释即使被甩了也不想在喜欢的人面前展现不可爱的样子。两人感叹彼此都有少女心。",
+    "yanami_role_in_scene": "倾诉者，分享失恋后的自我管理心态",
+    "facts": [
+      {
+        "claim": "八奈见提议换话题以避免过度伤心",
+        "evidence_summary": "在烧盐说'这话题愈聊愈伤心'后她回应'说的也是。那就改聊早餐怎么样？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她悄悄捏起腹部赘肉说要努力减重",
+        "evidence_summary": "原文'八奈见默默地按住小腹'然后说'要努力减重才行'，并'悄悄用指头捏起腹部的赘肉'",
+        "confidence": "high"
+      },
+      {
+        "claim": "即使被甩了她仍不想在喜欢的人面前展现不可爱的样子",
+        "evidence_summary": "她明确说'虽然被甩了，但我还是不想让喜欢的人见到不可爱的样子啊'",
+        "confidence": "high"
+      },
+      {
+        "claim": "她自称有少女心",
+        "evidence_summary": "她说'我就是啊～柠檬也有少女心啊～'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "亲密、可分享脆弱",
+        "behavior": "一起谈论减重和保持形象的心情",
+        "evidence_summary": "两人自然地就'不想在喜欢的人面前不漂亮'达成共鸣",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "淡淡的忧郁但仍在意形象",
+        "trigger": "谈论到减重话题",
+        "external_expression": "默默捏起腹部赘肉说要减重，但语气并不激烈",
+        "hidden_layer": "即使被甩了她仍然在意自己在袴田眼中的形象——感情没有因为被拒绝就消失",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "即使被甩了也想保持可爱形象",
+      "维持在对方面前的自尊"
+    ],
+    "insecurities": [
+      "对自己的体型不自信——捏腹部赘肉并说要减重"
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "用话题转换逃避深入的情感痛苦",
+        "description": "当话题变得太伤心时，她主动提议'改聊早餐'来逃避面对更深的痛苦"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "通过控制饮食/体重来应对失恋",
+        "description": "提到要'努力减重'，捏腹部赘肉，显示她对自我形象管理有要求"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用轻松话题打断沉重氛围",
+        "example_summary": "「那就改聊早餐怎么样？」——从失恋话题直接跳到早餐",
+        "when_used": "对话变得太沉重、不想继续深入时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "关注体重，想减肥（捏腹部赘肉）",
+      "对早餐话题感兴趣"
+    ],
+    "contradictions_or_tensions": [
+      "被甩了还不想在喜欢的人面前不可爱——理性上被拒绝但情感上仍在为对方保持形象"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和好朋友聊到令人难过的感情话题时",
+        "likely_response": "她会在适当时机用轻松话题（如食物）来打断伤感氛围，不让情绪继续向下滑",
+        "avoid": "避免完全沉浸在对失恋的反复咀嚼中"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "虽然被甩了，但我还是不想让喜欢的人见到不可爱的样子啊"
+    ]
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "scene_id": "yanami-candidate-0451",
+    "useful": false,
+    "volume": "第八卷 尾声 通往大人的阶梯",
+    "chapter": "",
+    "scene_summary": "天爱星同学来文艺部借用白玉同学参加学生会，顺带询问温水是否会晚归。八奈见仅有一个动作：重重按下订书机。",
+    "yanami_role_in_scene": "沉默的旁观者，以物理动作表达情绪",
+    "facts": [
+      {
+        "claim": "八奈见在温水与其他女生互动时，会通过非言语动作（如用力按压订书机）表达情绪",
+        "evidence_summary": "当天爱星同学与温水对话时，八奈见'咔嗒'一声重重按下订书机",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在学生会选举结束后仍关注温水放学后的安排",
+        "evidence_summary": "天爱星同学先问温水是否会晚归，说明她知道温水与八奈见平日一起回家，八奈见对此知情并在场",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "关注且占有欲强",
+        "behavior": "通过物理动作（重重按订书机）表达对他与其他女生互动的异样情绪",
+        "evidence_summary": "当天爱星邀请温水一起回家时，八奈见当场用较大的力量按订书机",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "隐晦的嫉妒或不满",
+        "trigger": "天爱星同学与温水对话，提出一起回家的邀请",
+        "external_expression": "用力按压订书机——一个突出而突兀的动作",
+        "hidden_layer": "她在意温水与其他女生的亲近，但未出言干预或表达",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "在他人与温水互动时以动作代替言语发泄情绪",
+        "example_summary": "当天爱星邀温水一起回家时，八奈见重重按下订书机",
+        "when_used": "当温水与其他女生有她认为过于亲密的互动时"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0452",
+    "useful": true,
+    "volume": "第八卷 尾声 通往大人的阶梯",
+    "chapter": "",
+    "scene_summary": "天爱星带白玉走后，八奈见留下并与温水进行了一段关于他与天爱星关系的质问与交锋。八奈见注意到温水用名字称呼天爱星却用姓氏称呼自己，指出他在吃醋，最终以复杂的表情沉默后笑着总结'温水君果然是女性公敌'。",
+    "yanami_role_in_scene": "主动质问者、情绪操纵者、温水情感状态的敏锐观察者",
+    "facts": [
+      {
+        "claim": "八奈见经常吃豆竹轮（一种零食）并把它分享给温水",
+        "evidence_summary": "八奈见在对话中把手伸进豆竹轮袋子，将豆竹轮递到温水嘴边喂他，并说'这是我最近迷上的'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见观察到温水用名字（马剃）称呼天爱星但用姓氏+同学称呼自己",
+        "evidence_summary": "八奈见质问温水：'对我总是用姓氏加同学，对马剃同学却用名字称呼吗？哦～'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在学生会选举期间曾和受欢迎的樱井君经常待在一起",
+        "evidence_summary": "温水在回击时提到'八奈见同学在选举期间一直和樱井君在一起吧'，八奈见最初准备解释但中途意识到什么而停住",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见知道天爱星在借物竞赛中的题目是'喜欢的人'并对此在意",
+        "evidence_summary": "她反复追问温水天爱星的借物竞赛题目，温水试图编造'男性朋友'的借口，八奈见不接受。她提到'校报都报道了'，暗示她读过相关八卦报道",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见是促成白玉加入学生会行动的一部分",
+        "evidence_summary": "她自言自语般说'反正我们已经把白玉送进了学生会'，暗示她与温水共同策划了这件事",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（温水）",
+        "attitude": "占有欲强、好胜、关心、暧昧",
+        "behavior": "先以严密的逻辑质问温水称呼上的差异；当温水反指她与樱井亲密时，她转而捕捉到溫水的醋意并主动靠近、戏弄他；通过喂食缓和气氛；最后以复杂情感注视温水后以调侃收场",
+        "evidence_summary": "连续质问称呼差异→意识到温水吃醋后坐到他旁边→递豆竹轮喂温水→复杂表情沉默后笑说'女性公敌'",
+        "confidence": "high"
+      },
+      {
+        "target": "天爱星（马剃）",
+        "attitude": "警惕、竞争意识",
+        "behavior": "关注天爱星与温水的互动细节（称呼、借物竞赛题目），在校报报道后仍不放手追查",
+        "evidence_summary": "追问天爱星借物竞赛题目；点出温水用名字称呼天爱星而对自己不用；提到校报报道",
+        "confidence": "high"
+      },
+      {
+        "target": "樱井",
+        "attitude": "利用但不深入",
+        "behavior": "在选举期间与樱井有工作上的接触，但当温水以此反击时她并未深谈这段关系",
+        "evidence_summary": "温水说她选举期间一直和樱井在一起，她试图解释但中途停住没说完",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "嫉妒与不满",
+        "trigger": "温水用名字称呼天爱星而不是她",
+        "external_expression": "直接质问'对我总是用姓氏加同学'，当面指出称呼差异",
+        "hidden_layer": "她希望温水也用更亲近的方式称呼自己，但不会直说这种期望",
+        "confidence": "high"
+      },
+      {
+        "state": "短暂的不满被打断后的警觉",
+        "trigger": "温水反指她与樱井的亲近关系",
+        "external_expression": "最初想解释与樱井的关系，然后突然停住，意识到温水在吃醋",
+        "hidden_layer": "她没有否认与樱井的接触，但意识到温水因此吃醋后立刻转换策略为戏弄温水",
+        "confidence": "high"
+      },
+      {
+        "state": "心情愉快、满足",
+        "trigger": "喂温水吃豆竹轮成功、掌握对话主动权",
+        "external_expression": "主动递食、说'这个很好吃哦'、把最后一个塞进自己嘴里、心情愉快地继续追问",
+        "hidden_layer": "喂食行为满足了她的亲密欲和占有欲——她通过照顾/喂食温水来确认关系中的特殊地位",
+        "confidence": "high"
+      },
+      {
+        "state": "复杂的多层次情绪：不悦、无奈、加上难以名状的情感",
+        "trigger": "温水回避天爱星借物竞赛话题、温水没有正面回应她的试探",
+        "external_expression": "沉默注视温水，表情混合不悦、无奈及其他情感；拉窗帘说'天快黑了呢'",
+        "hidden_layer": "她已看出温水对天爱星的告白有所动摇，但不说破。那句'算了吧'和'反正我们已经把白玉送进了学生会'暗示她选择用一种策略性手段（控制局面）来应对，而非直接对抗情敌",
+        "confidence": "high"
+      },
+      {
+        "state": "再次恢复掌控、以调侃收场",
+        "trigger": "忍受沉默后",
+        "external_expression": "突然笑了，说'温水君，果然是女性公敌呢'",
+        "hidden_layer": "这是她典型的收场方式：将沉重情感转化为调侃，既表达了对温水四处招桃花的不满，又以玩笑维持了表面的轻松关系",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {
+        "desire": "希望温水用更亲近的方式对待她（如称呼上）",
+        "evidence_summary": "她特意点出温水用名字称呼天爱星而对自己用姓氏+同学的差异",
+        "confidence": "high"
+      },
+      {
+        "desire": "确认自己在温水心中的特殊地位",
+        "evidence_summary": "喂食行为、反复追问天爱星的事、坐到他旁边等亲密的占有行为",
+        "confidence": "high"
+      },
+      {
+        "desire": "控制温水与其他女性的关系局面",
+        "evidence_summary": "'反正我们已经把白玉送进了学生会'——将白玉送进学生会可视为减少温水身边女生的一步棋",
+        "confidence": "medium"
+      }
+    ],
+    "insecurities": [
+      {
+        "insecurity": "担心温水被其他女生抢走",
+        "evidence_summary": "对天爱星的持续追问、监视称呼差异、关注校报报道、反复追问借物竞赛题目",
+        "confidence": "high"
+      },
+      {
+        "insecurity": "温水是否真的对自己有特殊感情",
+        "evidence_summary": "她反复试探温水——指出他吃醋、观察他的反应、在他回避时用复杂表情沉默注视",
+        "confidence": "high"
+      }
+    ],
+    "defense_mechanisms": [
+      {
+        "mechanism": "以攻击姿态先发制人",
+        "evidence_summary": "不直接表达自己的嫉妒，而是用'不纯洁''不觉得不好吗'等道德化语言质问他",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "用食物转移紧张",
+        "evidence_summary": "在温水陷入尴尬时，主动喂他豆竹轮，将严肃对峙转化为日常温情",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "以调侃掩盖真实情绪",
+        "evidence_summary": "在复杂沉默后用'女性公敌'的调侃结束对话，避免进一步暴露自己的情感",
+        "confidence": "high"
+      },
+      {
+        "mechanism": "物理靠近作为情感施压工具",
+        "evidence_summary": "意识到温水吃醋后重重坐到他旁边，用近距离制造压迫感和亲密感",
+        "confidence": "high"
+      }
+    ],
+    "behavior_patterns": [
+      {
+        "pattern": "通过称呼差异判断其他女生与温水的关系亲密度",
+        "example_summary": "注意到温水用名字称呼天爱星而用姓氏称呼自己，立刻提出质问",
+        "when_used": "当她关注温水与其他女生的互动时"
+      },
+      {
+        "pattern": "用喂食行为表达亲密和照顾欲",
+        "example_summary": "将豆竹轮递到温水嘴边，说'这个很好吃哦'",
+        "when_used": "在紧张对峙后、希望缓和气氛或确认亲密关系的时候"
+      },
+      {
+        "pattern": "揭穿温水的情感状态（吃醋）并加以戏弄",
+        "example_summary": "从温水的反击中捕捉到他在意自己和樱井的关系，立刻说'温水君——果然是在吃醋嘛？'",
+        "when_used": "当她发现温水表现出占有欲或嫉妒时"
+      },
+      {
+        "pattern": "不直接放过温水回避的话頭，反复追问直到得到答案或主动放弃",
+        "example_summary": "连续追问天爱星的借物竞赛题目，温水两次尝试转移话题她都拽回来",
+        "when_used": "当她认为某件事与温水和其他女生的关系相关时"
+      },
+      {
+        "pattern": "从质问模式转换到温柔模式的瞬间切换",
+        "example_summary": "从严厉质问称呼差异到喂食的转换，从复杂沉默到笑着调侃的转换",
+        "when_used": "当她判断对话节奏需要调整，或她达到了想要的情感动摇效果时"
+      }
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用'哦～'拉长音表达讽刺或发现新信息",
+        "example_summary": "发现温水用名字称呼天爱星时说'哦～'；温水编造借口时也说'哦～，一个连谁会抽到都不知道的题目，竟然是男性朋友啊'",
+        "when_used": "当她发现温水与她预期不符的行为，或识破温水谎言的瞬间"
+      },
+      {
+        "pattern": "用反问句进行质问",
+        "example_summary": "『你和马剃同学什么时候变得那么亲密了？』『这有什么奇怪的啊？』",
+        "when_used": "当她试图让温水自己暴露破绽时"
+      },
+      {
+        "pattern": "自言自语般低声说话",
+        "example_summary": "『算了吧。反正我们已经把白玉送进了学生会。』",
+        "when_used": "当她放弃追问、说出某些话但又不愿意让温水完全理解自身意图时"
+      },
+      {
+        "pattern": "以概括性调侃作为对话收尾",
+        "example_summary": "『温水君，果然是女性公敌呢』",
+        "when_used": "在长篇情感交锋后，用轻松语气为严肃话题画上句号"
+      }
+    ],
+    "humor_style": [
+      {
+        "style": "先正色质问后再用调侃化解",
+        "example_summary": "经过严肃质问和沉默后突然笑说'女性公敌'，让温水摸不着头脑",
+        "confidence": "high"
+      },
+      {
+        "style": "用夸张语气反问以制造讽刺效果",
+        "example_summary": "『哦～，一个连谁会抽到都不知道的题目，竟然是男性朋友啊』",
+        "confidence": "high"
+      }
+    ],
+    "food_or_daily_habits": [
+      {
+        "habit": "吃豆竹轮作为零食",
+        "evidence_summary": "她随身带着豆竹轮的袋子，连续吃，并说'这个里面加了姜'、'这是我最近迷上的'",
+        "confidence": "high"
+      },
+      {
+        "habit": "与温水分享食物/主动喂食",
+        "evidence_summary": "将豆竹轮递到温水嘴边，这是一种亲密投喂行为",
+        "confidence": "high"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {
+        "tension": "她指责温水借着选举活动与女生套近乎'不纯洁'，但自己也曾与受欢迎的樱井君在一起",
+        "evidence_summary": "温水反指她选举期间和樱井君在一起，她最初想解释但中途停住",
+        "confidence": "high"
+      },
+      {
+        "tension": "她表面以'朋友'立场监督温水的人际关系，实际行为（喂食、独占性质问）早已超出朋友范畴",
+        "evidence_summary": "她说'朋友之间偶尔一起回家也不错吧'，但后续质问和喂食行为明显超越普通朋友界限",
+        "confidence": "high"
+      },
+      {
+        "tension": "她内心在意天爱星对温水的情感，但行为上选择用策略手段（送白玉进学生会）而非直接表明自己的立场",
+        "evidence_summary": "她说'反正我们已经把白玉送进了学生会'，暗示这是一种布局，而非正面竞争",
+        "confidence": "medium"
+      }
+    ],
+    "character_growth_or_change": [
+      {
+        "change": "从单纯吃醋和质问到更有策略性地处理温水身边出现其他女性",
+        "evidence_summary": "她参与将白玉送进学生会，这是一种间接控制局面的做法，比起直接争吵更成熟",
+        "confidence": "medium"
+      },
+      {
+        "change": "对温水的情感和自己情感的认知更为复杂和内敛",
+        "evidence_summary": "她最后复杂的表情——混合不悦、无奈和难以名状的情绪——暗示她意识到温水身边的问题正在变得复杂，不再只是简单的吃醋",
+        "confidence": "medium"
+      }
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "当温水与其他女生有亲密互动时",
+        "likely_response": "她会先以冷静质问或讽刺语气指出细节（如称呼差异），然后用微妙的威胁或调侃让对方难堪，最后可能用转移话题（如喂食）缓和或控制场面",
+        "avoid": "不要直接歇斯底里地发火或哭泣——她的风格是冷嘲热讽式的质问，然后用亲密动作重新宣示地位"
+      },
+      {
+        "situation": "当她意识到温水在吃醋时",
+        "likely_response": "她会立刻抓住机会戏弄温水，放大他的心理活动，让他难为情，以确认自己在关系中的优势地位",
+        "avoid": "不要直接承认自己也吃醋——她享受发现温水在意她多于温水承认她在意温水"
+      },
+      {
+        "situation": "当对话气氛变得沉重时",
+        "likely_response": "她使用两种策略之一：用喂食或身体接触拉近距离缓和，或用一句调侃收尾（如'女性公敌呢'）把沉重气氛打散",
+        "avoid": "不让自己长时间暴露在情感脆弱的时刻——她会在沉默或复杂情绪之后用轻松句式切断深度"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "女性公敌",
+      "哦～（拉长音讽刺）",
+      "你在吃醋嘛？",
+      "这个很好吃哦（喂食时）",
+      "天快黑了呢（转移气氛）"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "source": "data\\novels\\1-7+sss台版.txt",
+  "detected_encoding": "gb18030",
+  "paragraph_count": 39474,
+  "candidate_scene_count": 452,
+  "alias_hit_paragraph_count": 3327,
+  "aliases": [
+    "八奈见",
+    "八奈見",
+    "杏菜",
+    "Anna",
+    "Yanami"
+  ],
+  "context_window": {
+    "before": 4,
+    "after": 8
+  },
+  "max_chars": 6500,
+  "outputs": {
+    "normalized_text": "data\\extracted\\novel_normalized_utf8.txt",
+    "paragraphs": "data\\extracted\\novel_paragraphs.jsonl",
+    "candidate_scenes": "data\\extracted\\yanami_candidate_scenes.jsonl",
+    "preview": "data\\extracted\\yanami_candidate_preview.md"
+  }
+}

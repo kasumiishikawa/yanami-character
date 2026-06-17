@@ -1,0 +1,1196 @@
+[
+  {
+    "scene_id": "yanami-candidate-0346",
+    "useful": false,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "朝云同学在白板上书写作战计划，列出作战本部成员为朝云千早和八奈见杏菜。温水确认了各人分工。",
+    "yanami_role_in_scene": "仅作为作战本部成员被列出名字，无实际行动或对话。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0347",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "佳树退出计划后需要替身，朝云同学注意到八奈见的身高与白玉相近，提议由她扮演白玉的替身。温水差点评论到八奈见的体型/体重，被她的视线逼退。朝云用照片模拟两人的体型调整目标：八奈见需减2公斤，白玉需增2公斤。",
+    "yanami_role_in_scene": "被选为白玉的替身演员，成为作战计划的核心执行人之一。面临减重挑战。",
+    "facts": [
+      {
+        "claim": "八奈见的身体数据——身高、腿长、脸部大小——与白玉学妹相似，适合担任替身。",
+        "evidence_summary": "朝云同学仔细观察后指出两人的身高与头身比近似。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见需要为作战减重2公斤。",
+        "evidence_summary": "朝云模拟照片设置目标：八奈见需减少2公斤以接近白玉的体型。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见当时的体重/体型与白玉存在明显差异。",
+        "evidence_summary": "温水内心描写：两人全身轮廓"类别不一样"，温水的发言（被八奈见打断）暗示了体型差异。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见正在吃法国面包和吸食果酱袋。",
+        "evidence_summary": "场景开头提到"吃完了法国面包的八奈见"，之后描写她"一面看着画面，一面吸允着果酱袋"。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "敏感防御",
+        "behavior": "当温水差点评论她的体重/体型时，用尖锐视线阻止他说出口。",
+        "evidence_summary": "「……温水，你是想说什么？」配合"尖刺般的视线"。",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉",
+        "attitude": "间接竞争对手/对比对象",
+        "behavior": "被拿来与白玉做体型对比，需要改变自己的身体以符合替身要求。",
+        "evidence_summary": "朝云的模拟照片显示八奈见需减2公斤而白玉需增2公斤，暗示两人体型差距。",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云",
+        "attitude": "配合/信赖",
+        "behavior": "虽然听不懂朝云的说明，但愿意配合。",
+        "evidence_summary": "「虽然听不太懂……总之我先别吃第二条面包比较好？」可见即使不理解也愿意执行。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "困惑但配合",
+        "trigger": "朝云提出复杂的体型调整方案",
+        "external_expression": "歪过头表示听不懂，但主动表示愿意少吃面包",
+        "hidden_layer": "对自己体型被公开讨论的尴尬被用幽默掩盖",
+        "confidence": "medium"
+      },
+      {
+        "state": "防御性警惕",
+        "trigger": "温水差点评论她的体型",
+        "external_expression": "尖锐视线逼退温水的话",
+        "hidden_layer": "对自己的体型被比较感到不安/不悦",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想要配合作战计划完成任务"
+    ],
+    "insecurities": [
+      "对自己的体型有敏感度，不乐于被公开讨论或比较"
+    ],
+    "defense_mechanisms": [
+      "用幽默和迟钝的表象（"虽然听不太懂"）来应对尴尬局面",
+      "用视线威胁/肢体语言来阻止不愉快的话题"
+    ],
+    "behavior_patterns": [
+      "正在吃东西时也能参与对话（法国面包、果酱袋）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用短促、略带傻气的回应掩饰理解不足",
+        "example_summary": "「咦？我？」两次，以及「虽然听不太懂……总之我先别吃第二条面包比较好？」",
+        "when_used": "当自己被点名或需要理解复杂计划时"
+      }
+    ],
+    "humor_style": [
+      "用自嘲式的幽默化解尴尬——听懂了一部分的结论是少吃面包"
+    ],
+    "food_or_daily_habits": [
+      "边说话边吃东西（法国面包、果酱袋）",
+      "对"少吃面包"这样的减重指令有本能的关注"
+    ],
+    "contradictions_or_tensions": [
+      "被公开讨论体型时表面配合（听不懂），但内心在意（用眼神制止温水进一步发言）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被公开比较体型时",
+        "likely_response": "表面用傻气或幽默带过，但会用眼神/语气警告对方不要继续",
+        "avoid": "不要以为她真的不在意，她只是用迟钝表象掩饰不快"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "虽然听不太懂……总之我先别吃第二条面包比较好？",
+      "咦？我？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0348",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "为备战婚礼作战，八奈见认真减重：慢跑、喝朝云的特制低卡饮料。但因过度节食导致精神恍惚，说出"人为什么一定要夺走其他生命才能活下去"等怪话。温水发现她在车站立食店外吃香蕉"看别人吃乌龙面"以安抚食欲。两人展开了关于一年前她对草介感情的真诚对话——八奈见坦言当时知道告白会被拒绝才不敢迈出那一步，但表示现在的自己接受了且不后悔。温水提议事后请吃拉面，她立刻恢复活力。",
+    "yanami_role_in_scene": "核心角色——展示了减重过程中的脆弱、毅力，以及对过去感情的反思。是主要驱动者。",
+    "facts": [
+      {
+        "claim": "八奈见为了减重去慢跑，运动后瘫坐在椅子上。",
+        "evidence_summary": "描写她"身穿运动服"出现，"瘫坐在椅子上"。",
+        "confidence": "high"
+      },
+      {
+        "claim": "朝云收走了八奈见的含糖饮料，给了她低卡运动饮料。",
+        "evidence_summary": "「这个糖分太多了。我做了热量较低的运动饮料，请用。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见听到"会瘦"后立即接受了饮料。",
+        "evidence_summary": "「……会瘦喔。」「我喝！」",
+        "confidence": "high"
+      },
+      {
+        "claim": "减重期间她出现了精神和身体上的异常状态，包括眼神涣散和关于食欲的哲学性言论。",
+        "evidence_summary": "「眼神涣散，空洞的视线在半空中游荡」「唉，吃到底是什么……」「食欲是什么来着……人为什么一定要夺走其他生命才能活下去……」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "她坚持要继续跑步，声称"可以跑到美国"。",
+        "evidence_summary": "「不知道为什么，我觉得还能跑。甚至可以跑到美国。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她站在乌龙面立食店外吃香蕉，称之为"吃空气乌龙面"。",
+        "evidence_summary": "温水发现她"彷佛要贴在乌龙面立食店的玻璃墙上，正观察店内状况"，「嗯，我在吃空气乌龙面。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她坦言一年前就知道向草介告白会被拒绝，所以没敢迈出那一步，只想维持当时的关系。",
+        "evidence_summary": "「当时我是晓得就算向草介告白也会被拒绝，所以才没办法踏出那一步。想说至少维持当下的关系。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她明确表示自己已经接受过去，不后悔。",
+        "evidence_summary": "「你别误会喔？我现在接受了，而且一点都不后悔。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她同情白玉是因为看到了过去的自己。",
+        "evidence_summary": "「况且啊，看着那孩子，我就想到一年前的我，没办法放着她不管。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "信任/依赖",
+        "behavior": "向温水坦诚了过去对草介的感情，接受温水帮她处理香蕉皮，接受温水请客拉面的提议进行调侃式互动。",
+        "evidence_summary": "完整吐露了从未明说的内心挣扎；让温水收走香蕉皮；对拉面邀请笑着回应「哦～那你先做好心理准备喔。让你见识我的全力。」",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉",
+        "attitude": "共情/保护欲",
+        "behavior": "看到白玉的胡来，想到一年前的自己，无法放着不管。希望拍照能让她接受现实。",
+        "evidence_summary": "「看着那孩子，我就想到一年前的我，没办法放着她不管。」「如果拍张照片能让她接受现实，我觉得那样最好。」",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云",
+        "attitude": "信赖",
+        "behavior": "无条件接受朝云给的饮料，即使味道可疑。",
+        "evidence_summary": "听到"会瘦"就喝，之后虽然状态异常但仍信任朝云。",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "已接受过去的单恋",
+        "behavior": "回顾一年前的感情，承认自己因恐惧被拒绝而不敢行动，但强调现在已释怀。",
+        "evidence_summary": "「我当时是晓得就算向草介告白也会被拒绝，所以才没办法踏出那一步。」「我现在接受了，而且一点都不后悔。」嘴上说接受，但提及此事时带有自嘲笑容。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "身体虚弱/精神恍惚",
+        "trigger": "极端节食和运动导致的饥饿和疲劳",
+        "external_expression": "眼神涣散、说怪话、瘫坐",
+        "hidden_layer": "为了帮助他人（白玉）而强撑自己，不愿示弱",
+        "confidence": "high"
+      },
+      {
+        "state": "怀念/伤感",
+        "trigger": "看到白玉的自暴自弃联想到一年前的自己",
+        "external_expression": "露出自嘲的笑容，平静地承认过去的恐惧",
+        "hidden_layer": "虽然嘴上说不后悔，但"如果当时也能乱来结果会不会不同"的设问流露了遗憾",
+        "confidence": "high"
+      },
+      {
+        "state": "伪装接受/真实遗憾",
+        "trigger": "回忆与草介的关系",
+        "external_expression": "笑着说接受了、不后悔",
+        "hidden_layer": "提出"如果当时也能像她这样乱来"的假设，暗示内心仍有一丝遗憾和未解的疑问",
+        "confidence": "high"
+      },
+      {
+        "state": "短暂恢复活力",
+        "trigger": "温水提到请吃拉面",
+        "external_expression": "淘气地笑，放话说要让温水见识她的全力",
+        "hidden_layer": "食物和与温水的互动能迅速转移她的注意力，让她从伤感中摆脱",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想要成功完成任务（减重2公斤）",
+      "想要帮助白玉（因为映射到过去的自己）",
+      "在被草介拒绝的边缘，她曾想要告白但缺乏勇气——现在似乎想帮助当时没得到的勇气"
+    ],
+    "insecurities": [
+      "对过去感情的遗憾——尽管嘴上说接受，但"如果当初"的设问显示仍有未愈合的部分",
+      "对自身意志力的不安（需要朝云严格控制饮食）"
+    ],
+    "defense_mechanisms": [
+      "用幽默/怪话来应对身体不适（"空气乌龙面"的创意）",
+      "用自嘲来消解伤感话题的沉重感",
+      "用转移话题/恢复活力来回避深入伤感（食物话题立即让她恢复）",
+      "用"现在接受了"的声明来为过去的自己辩护"
+    ],
+    "behavior_patterns": [
+      "极端减重时容易出现精神恍惚和哲学性言论",
+      "通过观察别人吃东西来替代性地满足食欲",
+      "对食物有特殊的创意命名（"空气乌龙面"）",
+      "感情话题上优先保护自己——先用"接受了"打预防针，再谈真实感受"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "饥饿/虚弱时说出超脱常理的哲学性言论",
+        "example_summary": "「唉，吃到底是什么……」「食欲是什么来着……人为什么一定要夺走其他生命才能活下去……」",
+        "when_used": "极度饥饿/疲劳、精神恍惚时"
+      },
+      {
+        "pattern": "用创意比喻来描述自己的行为",
+        "example_summary": "「我在吃空气乌龙面。」——用看别人吃来替代自己吃",
+        "when_used": "解释自己奇怪的行为时"
+      },
+      {
+        "pattern": "先声明立场再展开话题",
+        "example_summary": "「你别误会喔？我现在接受了，而且一点都不后悔。」——先打预防针再谈过去",
+        "when_used": "谈论敏感感情话题时"
+      },
+      {
+        "pattern": "用挑战式语气回应温水的关心",
+        "example_summary": "「哦～那你先做好心理准备喔。让你见识我的全力。」",
+        "when_used": "与温水进行友好的调侃和互动时"
+      }
+    ],
+    "humor_style": [
+      "用荒诞/哲学性幽默（"人为什么要夺走其他生命才能活下去"）",
+      "用创意定义来幽默化自己的窘境（"空气乌龙面"）",
+      "用夸张放话来试图调侃（"让你见识我的全力"）"
+    ],
+    "food_or_daily_habits": [
+      "极度珍惜食物：站在饭店外看着别人吃自己吃香蕉来安抚食欲",
+      "对"会瘦"的食物/饮料有本能反应",
+      "减肥时喜欢吃香蕉",
+      "拉面是极其有效的激励手段",
+      "日常储存体力以应对减重（"我就是为了这种时刻，平常都吃得很饱"）"
+    ],
+    "contradictions_or_tensions": [
+      "表面说对草介"接受了、不后悔"，但"如果当时也能乱来"的设问暗示了内心未解的遗憾",
+      "表面配合朝云的严格饮食管理，但偷偷在车站看人吃面——身体在配合但精神在反抗",
+      "声称自己"完全没问题"却明显处于精神状态异常（眼神涣散说怪话）",
+      "对白玉说出成熟共情的话语，但自己的应对方式仍带有幼稚（饿到恍惚仍不去正常吃饭）"
+    ],
+    "character_growth_or_change": [
+      "从一年前不敢向草介告白、害怕被拒绝而维持现状，到现在愿意为了帮助他人而减重、付出努力，展示了成长",
+      "能够正视并表达自己过去的情感弱点，比一年前更坦诚",
+      "成长是渐进的——她仍用食物和幽默来防御深层情感"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "被问到过去与草介的感情时",
+        "likely_response": "先声明"已经接受了"作为缓冲，然后自嘲地谈及，但语气里可能有一丝没有完全放下的遗憾",
+        "avoid": "不要以为她真的彻底放下了——"如果当初"式的假设说明仍有未解的心结"
+      },
+      {
+        "situation": "减重/节食时",
+        "likely_response": "想法会变得怪异，可能会说出超脱常识的哲学性语言，但不会主动求助",
+        "avoid": "不要嘲笑她的状态或认真与她辩论她的哲学问题"
+      },
+      {
+        "situation": "温水主动提出请客时",
+        "likely_response": "立即恢复活力，用带点挑衅的玩笑回应，实际很开心",
+        "avoid": "不要把她的威胁当真——她说的"全力吃"是亲密友人间的玩笑"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我现在接受了，而且一点都不后悔",
+      "我当时是晓得就算告白也会被拒绝",
+      "食欲是什么来着",
+      "空气乌龙面",
+      "让你见识我的全力"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0349",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "白玉换上婚纱礼服后，八奈见骄傲地宣布是她帮忙化的妆。她以夸张的"锵～"方式介绍白玉出场，并得意地自夸她的化妆技术。",
+    "yanami_role_in_scene": "辅助角色——化妆师和气氛活跃者。",
+    "facts": [
+      {
+        "claim": "八奈见负责为白玉化妆。",
+        "evidence_summary": "「哼哼～是我帮忙化妆的」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "她对自己的化妆技术感到自豪。",
+        "evidence_summary": "「感觉很不错嘛。小白玉肤质这么好，上妆过程非常顺利，途中我都开心起来了。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "白玉",
+        "attitude": "照顾/宠爱",
+        "behavior": "帮她化妆、以夸张方式介绍她出场，像在炫耀自己的作品。",
+        "evidence_summary": "「锵～！小白玉的婚纱礼服打扮，首次亮相！」然后得意地说明化妆经过。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "间接关注",
+        "behavior": "温水在内心帮她打气（"八奈见，你要更有自信点"），暗示温水察觉到她在展示自己时的自信不足。",
+        "evidence_summary": "温水内心独白「单论年轻这点，你还不输给人家喔。」",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "自豪/满足",
+        "trigger": "成功为白玉化妆并获得展示",
+        "external_expression": "得意洋洋地挺起胸脯，大声宣布",
+        "hidden_layer": "通过帮助他人和获得认可来获得自我价值的确认",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想要通过自己的努力做出贡献",
+      "想要被认可"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用夸张的宣布方式（"锵～"）来吸引注意并主导气氛"
+    ],
+    "behavior_patterns": [
+      "在他人取得成就时乐于充当"展示者"和气氛活跃者"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的语气词和自夸来介绍成果",
+        "example_summary": "「锵～！小白玉的婚纱礼服打扮，首次亮相！」「哼哼～是我帮忙化妆的，感觉很不错嘛。」",
+        "when_used": "想要展示自己参与成果时"
+      }
+    ],
+    "humor_style": [
+      "用夸张的动漫式登场效果来制造轻松氛围"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "完成某项辅助工作后",
+        "likely_response": "会骄傲地宣告成果，希望获得认可",
+        "avoid": "不要无视她的贡献——她需要这种被肯定的感觉"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "哼哼～是我帮忙化妆的"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0350",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "朝云提出在会场附近需要一个房间用于更衣和准备。八奈见主动提议借用她在桐木高中话剧社朋友的社办，展示了她的社交网络和解决问题的能力。",
+    "yanami_role_in_scene": "主动提议解决方案——利用自己的人脉资源。",
+    "facts": [
+      {
+        "claim": "八奈见认识桐木高中话剧社的朋友，可以借用社办。",
+        "evidence_summary": "「我朋友是桐木高中话剧社的，我去拜托人家借用社办吧？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她还提到可以借用话剧社的服装。",
+        "evidence_summary": "「变装所需的服装，如果不够也能借到。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "桐木高中的朋友",
+        "attitude": "有人脉资源",
+        "behavior": "主动提出利用自己的社交关系来帮助团队",
+        "evidence_summary": "「我朋友是桐木高中话剧社的，我去拜托人家借用社办吧？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [
+      "想要为作战做出切实的贡献"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "遇到实际问题时能用自己的人脉和社交能力来提供解决方案"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "以"我有一个想法"开头提出建议",
+        "example_summary": "「这样的话，我有一个想法。」接着提出朋友学校的使用方案。",
+        "when_used": "思考问题解决方案时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "团队遇到实际困难时",
+        "likely_response": "会主动运用自己的人脉和社交网络来解决问题",
+        "avoid": "不要低估她的社交能力——虽然她常在食物话题上显得幼稚，但关键时刻有人脉资源"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0351",
+    "useful": true,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "在桐木高中话剧社社办，八奈见与朋友新菜重逢。两人是"到处品尝美食的伙伴"，八奈见用自己做拉面店地图交换了社办使用权。她为朋友自豪，但视线一直盯着地上剩下的零食。温水与新菜握手时先看八奈见脸色。",
+    "yanami_role_in_scene": "主导人物——带领团队到熟人地盘。展现了她的社交关系网。",
+    "facts": [
+      {
+        "claim": "八奈见与桐木高中话剧社副社长新菜（妮娜）是朋友，二人是"到处品尝美食的伙伴"。",
+        "evidence_summary": "新菜说「八奈奈好久不见～今天吃了什么？」，八奈见自称是「到处品尝美食的伙伴」。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用自己做拉面店地图交换了社办的使用权。",
+        "evidence_summary": "「这次用我做的拉面店地图，交换了使用社办的权利。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水与新菜握手前先看了八奈见的脸色。",
+        "evidence_summary": "「我先侧眼瞄了一下八奈见，与她握手后……」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在减重期间盯着地上的零食看。",
+        "evidence_summary": "「……地上的零食还有剩，应该没关系吧？」「劝你还是不要，而且婚礼前你得瘦两公斤吧？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的视线一直凝视着地板上的零食。",
+        "evidence_summary": "「视线却笔直凝视着地板」「真希望她别对我们社的新人灌输奇怪的知识……还有八奈见。扔进垃圾桶的零食，你就别那样一直看了。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "新菜（妮娜）",
+        "attitude": "亲密朋友",
+        "behavior": "热情拥抱，以"到处品尝美食"为纽带，昵称"八奈奈"。",
+        "evidence_summary": "新菜「哦～八奈奈好久不见～今天吃了什么？」两人相拥。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "有占有欲",
+        "behavior": "看到温水与自己的朋友互动时被温水侧眼观察反应的细节表明她在温水心中有分量。",
+        "evidence_summary": "温水握手前先侧眼瞄了她。",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "与朋友重逢的快乐",
+        "trigger": "见到好友新菜",
+        "external_expression": "热情拥抱，自豪地介绍朋友",
+        "hidden_layer": "通过这段友谊展现她社交圈子中以食物为核心的一面",
+        "confidence": "high"
+      },
+      {
+        "state": "对食物的渴望/挣扎",
+        "trigger": "看到地上的零食",
+        "external_expression": "视线一直追着零食，问"应该没关系吧"",
+        "hidden_layer": "减重期间的强烈食欲使她对食物的注意力无法控制",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想吃地上的零食——减重期间的本能欲望",
+      "在朋友面前展现自豪的一面"
+    ],
+    "insecurities": [
+      "减重期间无法抑制对食物的渴望"
+    ],
+    "defense_mechanisms": [
+      "用幽默推动任务（用拉面地图交换使用权）"
+    ],
+    "behavior_patterns": [
+      "以食物为中心建立和维护友谊关系",
+      "在陌生环境依然毫不犹豫地行动（二话不说拉开门）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "以食物为媒介描述人际关系",
+        "example_summary": "「我们是到处品尝美食的伙伴。」——用共同进食来描述友谊",
+        "when_used": "介绍朋友关系时"
+      }
+    ],
+    "humor_style": [
+      "将拉面地图这种实用知识与社交互换联系起来"
+    ],
+    "food_or_daily_habits": [
+      "用自己做拉面店地图作为社交货币",
+      "看到食物（即使是地上的零食）就难以移开视线",
+      "通过食物来建立和维持人际关系"
+    ],
+    "contradictions_or_tensions": [
+      "理性上知道减重不能吃零食，但本能上无法转移视线"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在减重期间看到食物时",
+        "likely_response": "会不自觉地盯着看，可能需要别人提醒才能克制",
+        "avoid": "不要在她面前大肆吃东西——对她来说是一种折磨"
+      },
+      {
+        "situation": "遇到朋友时",
+        "likely_response": "非常热情，会自然地用食物话题拉近距离",
+        "avoid": "不要对她的社交圈子表示惊讶或不屑"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "名字和我一样有个『菜』字，绝对不会错的",
+      "我朋友是桐木高中话剧社的"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0352",
+    "useful": false,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水独自在桐木高中视察地形，八奈见已经出发去慢跑。温水一个人被留在社办感到不安。",
+    "yanami_role_in_scene": "仅被提及去慢跑了，未实际出现。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0353",
+    "useful": false,
+    "volume": "第七卷 ～第三败～离经叛道包在我身上",
+    "chapter": "",
+    "scene_summary": "温水与白玉学妹的对话。温水回想去年夏天——他拒绝八奈见、伤害了她的记忆，以及八奈见当时像看陌生人一样看他的情景。但八奈见本人未出现在场景中。",
+    "yanami_role_in_scene": "未出场，仅存在于温水的回忆中。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0354",
+    "useful": false,
+    "volume": "第七卷 Intermission 他人的秘密甜如蜜",
+    "chapter": "",
+    "scene_summary": "过渡场景：白玉学妹的笑容与那一天八奈见的笑容神似，温水感到心酸。随后进入Intermission，甘夏古奈美等三人的酒会。八奈见未出现在这个场景中。",
+    "yanami_role_in_scene": "仅在温水的对比中被提及，未实际出场。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0355",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "朝云公布作战计划。八奈见一边吃香蕉一边听，减重顺利、干劲十足。朝云详细说明第一阶段（八奈见扮假玉入侵会场）和第二阶段（调包拍照）。八奈见严肃地注视香蕉皮，白玉学妹则脸色发青。",
+    "yanami_role_in_scene": "核心执行人——认真听计划，用动作回应。",
+    "facts": [
+      {
+        "claim": "八奈见的减重进展顺利，干劲十足。",
+        "evidence_summary": "「八奈见不停发出咀嚼香蕉的声音，竖起大拇指。」「减重十分顺利，干劲也十足。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "她一边吃着香蕉一边参与会议。",
+        "evidence_summary": "「八奈见不停发出咀嚼香蕉的声音」「目不转睛地看着吃剩的香蕉皮」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "白玉",
+        "attitude": "对比中的优势方",
+        "behavior": "她的减重顺利进行中，而白玉的增重计划遭遇挫折。她严肃地看着香蕉皮，而白玉脸色发青。",
+        "evidence_summary": "「她的增重计画遭遇挫折。区区两公斤换作八奈见一瞬间就能秒杀」「白玉学妹……脸色好像渐渐转为铁青了喔。」",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "认真专注",
+        "trigger": "听取作战计划讲解",
+        "external_expression": "严肃地点头、目不转睛地看着香蕉皮",
+        "hidden_layer": "虽然表面在吃香蕉，实际认真记下了计划重点",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想要完成作战任务"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "即使在严肃场合也会边吃边参与",
+      "用吃东西作为会议中的仪式性行为"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "减重期间以香蕉为主食",
+      "能够专注地一边吃东西一边处理重要事务"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [
+      "与平时嚷嚷减重却半途而废的形象不同，这次她真正在坚持并取得进展"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "在会议或重要场合",
+        "likely_response": "即使一边吃东西也能认真参与会议，用肢体语言回应而非长篇大论",
+        "avoid": "不要因为她边吃边听就认为她不认真——她能同时处理两者"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0356",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "朝云说明小鞠暗中收集情报的过程。八奈见对此表示惊讶和疑问。",
+    "yanami_role_in_scene": "提问者——对小鞠的情报收集方式表示惊讶。",
+    "facts": [
+      {
+        "claim": "八奈见对小鞠的情报收集方式感到惊讶。",
+        "evidence_summary": "「她面露不可思议的表情问：『怎么收集的？警卫没有注意到小鞠吗？』」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "关心",
+        "behavior": "惊讶于小鞠担任了情报收集任务并担心她被发现。",
+        "evidence_summary": "「怎么收集的？警卫没有注意到小鞠吗？」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "惊讶",
+        "trigger": "得知小鞠暗中收集情报",
+        "external_expression": "面露不可思议的表情提问",
+        "hidden_layer": "对小鞠被安排做不适合的工作感到意外和担心",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [
+      {
+        "pattern": "用疑问句表达惊讶和关心",
+        "example_summary": "「怎么收集的？警卫没有注意到小鞠吗？」",
+        "when_used": "对出乎意料的信息做出反应时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "听到出乎意料的消息时",
+        "likely_response": "会用直接的疑问句表达惊讶，不加修饰",
+        "avoid": "不要认为她的惊讶意味着反对——她只是在消化信息"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "怎么收集的？警卫没有注意到小鞠吗？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0357",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "八奈见阅读计划说明书后提出实际问题——为什么白玉不在会场换礼服而要往返于桐木高中和会场之间。朝云解答了她的疑问并分发了响片通讯装置。八奈见的第一反应是问能不能吃。",
+    "yanami_role_in_scene": "参与策划的积极成员——提出实际问题和接受装备。",
+    "facts": [
+      {
+        "claim": "八奈见仔细阅读了计划说明书并提出了实际问题。",
+        "evidence_summary": "「刚才默默翻阅说明书的八奈见开口问：『那个喔，小白玉不能在会场里换礼服吗？』」",
+        "confidence": "high"
+      },
+      {
+        "claim": "拿到响片时的第一反应是问能不能吃。",
+        "evidence_summary": "「响片？那是什么可以吃——」然后被朝云纠正「不能吃」。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "朝云",
+        "attitude": "信赖中带有天然的反应",
+        "behavior": "收到奇怪装置时的本能反应是问能不能吃——展示她对朝云的高度信任和本能性的食物关联思维",
+        "evidence_summary": "「响片？那是什么可以吃——」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇/投入",
+        "trigger": "看到响片装置",
+        "external_expression": "本能地联想是否能吃",
+        "hidden_layer": "对团队的装备感到好奇，用自己最熟悉的框架（食物）来理解新事物",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "遇到不认识的东西首先联想是否能吃——食物是她理解世界的基准框架之一"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "对新东西的第一反应是问"可以吃吗"",
+        "example_summary": "「响片？那是什么可以吃——」",
+        "when_used": "接触到不认识的物品时"
+      },
+      {
+        "pattern": "用实际性的问题参与策划",
+        "example_summary": "「那个喔，小白玉不能在会场里换礼服吗？」",
+        "when_used": "阅读计划后提出合理质疑时"
+      }
+    ],
+    "humor_style": [
+      "用"能吃吗"来回应一切新奇物品——展示了她天然的幽默感",
+      "这种反应完全不像是装的，而是她真实的第一联想"
+    ],
+    "food_or_daily_habits": [
+      "见到不认识的物品本能先问能不能吃"
+    ],
+    "contradictions_or_tensions": [
+      "刚才还在严肃地阅读计划说明书并做出合理质疑，转眼就问响片能不能吃——理性策划能力和本能食物反应之间的切换快速且自然"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "接触到不认识的道具时",
+        "likely_response": "第一反应会问能不能吃——这是本能性的，不是刻意搞笑",
+        "avoid": "不要用"你怎么什么都想吃"来嘲笑她——这是她的自然联想方式"
+      },
+      {
+        "situation": "参与策划时",
+        "likely_response": "会认真阅读材料并提出合理质疑，展示了她实际参与时的可靠面",
+        "avoid": "不要因为她偶尔搞笑就认为她不靠谱"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "响片？那是什么可以吃——"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0358",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "婚礼当天早上，八奈见完成变装——戴上假发、化妆，与白玉高度相似。她使用内含压电扬声器的口罩发出白玉录制的声音。录音内容混入了食物相关台词。随后八奈见拿出一件裙子，露出奸笑——那是要给温水男扮女装的。她还带了调节橡皮带，但温水的腰围比裙子小，让她露出杀人般的眼神。志喜屋学姐来帮忙化妆。",
+    "yanami_role_in_scene": "核心执行人兼整蛊温水的主导者。",
+    "facts": [
+      {
+        "claim": "八奈见的变装非常成功，与白玉高度相似。",
+        "evidence_summary": "「戴上假发扮成同样的发型，化妆与制服、饰品也全部相同。……出乎意料地相似。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见使用装有压电扬声器的口罩，以事先录制好的白玉声音说话。",
+        "evidence_summary": "「『我是白玉璃子。今天还请多多关照！』……是白玉学妹的声音。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见的录音中包含食物相关的台词。",
+        "evidence_summary": "录音内容：「请给我大碗的」、「剩下的饭，可以帮我做成饭团吗？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见故意准备了裙子强迫温水男扮女装，并对此感到非常开心。",
+        "evidence_summary": "「藏不住的奸笑在八奈见脸上漾开。」「这可是我出游穿的喔。特别借给你用，你就乖乖认命吧？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见带了橡皮带预备调节温水的腰围，但裙子对温水而言偏松而非紧。",
+        "evidence_summary": "「裙子应该扣不起来吧？我带了调节用的橡皮带——」「直接穿没问题。」「其实感觉还稍微有点松。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见得知温水穿得下她的裙子后露出极难看的脸色。",
+        "evidence_summary": "「八奈见为何用杀人魔般的眼神看我……？」「八奈见好像下一秒就要用橡皮带勒死我似的。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "捉弄/亲密",
+        "behavior": "为温水准备女装让他男扮女装，开心地看着他窘迫。但发现温水穿得下自己的裙子时表现出震惊和隐隐的嫉妒。",
+        "evidence_summary": "奸笑拿出裙子→「这可是我出游穿的喔。特别借给你用，你就乖乖认命吧？」→发现腰围比她还小时露出杀人视线。",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云",
+        "attitude": "合作的同谋",
+        "behavior": "与朝云配合整蛊温水——朝云使眼色后八奈见笑着拿出裙子。",
+        "evidence_summary": "「朝云同学使了个眼神后，八奈见便无声地微笑，高举起藏在背后的东西。」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "恶作剧成功的开心",
+        "trigger": "拿出裙子让温水陷入窘境",
+        "external_expression": "藏不住的奸笑、无声的微笑",
+        "hidden_layer": "以温水的窘迫取乐，享受掌握主动权的感觉",
+        "confidence": "high"
+      },
+      {
+        "state": "震惊/不快",
+        "trigger": "发现温水穿得下她的裙子（且偏松）",
+        "external_expression": "沉默、杀人般的眼神",
+        "hidden_layer": "自己的体型（与白玉对比）和温水（男性）的腰围对比让她感到难堪",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想要捉弄温水让他尴尬",
+      "希望温水穿不下她的裙子（以此获得身材上的优越感）"
+    ],
+    "insecurities": [
+      "对自己的体型/腰围有敏感——温水的腰比她还细是意外打击"
+    ],
+    "defense_mechanisms": [
+      "用捉弄温水来转移自己在体型议题上的焦虑",
+      "在变装成功时用力展示自信（得意的表情）"
+    ],
+    "behavior_patterns": [
+      "在确信自己能占上风时（变装成功、捉弄温水）非常得意和主动",
+      "在体型被意外比较时（腰围比温水大）情绪急转直下"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用得意、带挑衅的语气说话",
+        "example_summary": "「这可是我出游穿的喔。特别借给你用，你就乖乖认命吧？」",
+        "when_used": "觉得自己掌握主动权时"
+      },
+      {
+        "pattern": "被打击后沉默不语",
+        "example_summary": "「…………」——得知温水穿得下她的裙子后",
+        "when_used": "受到出乎意料的打击时"
+      }
+    ],
+    "humor_style": [
+      "报复性的幽默——之前被温水评论体型，现在让他穿女装回敬",
+      "录音中加入食物相关的台词是她个人风格的自然流露"
+    ],
+    "food_or_daily_habits": [
+      "即使在严肃的伪装录音中也不忘加入食物相关台词（"请给我大碗的"、"剩下的饭可以做成饭团吗？"）"
+    ],
+    "contradictions_or_tensions": [
+      "自己正在为穿下白玉的替身服装而减重（需要缩小体型），却发现温水的腰围比她的裙子还小——减重的焦虑与被比较的挫败同时爆发"
+    ],
+    "character_growth_or_change": [
+      "这次她认真执行变装计划的全过程，从减重到化妆到使用技术装备，展示了前所未有的执行力和配合度"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "当温水穿得下她的裙子时",
+        "likely_response": "震惊到说不出话，露出危险的眼神，内心受到极大的体型对比冲击",
+        "avoid": "不要故意在她面前炫耀自己腰细或暗示她体型大——这是她的雷区"
+      },
+      {
+        "situation": "整蛊温水时",
+        "likely_response": "非常投入和开心，联合他人一起整蛊，占主导地位",
+        "avoid": "不要完全逆来顺受——适当的反抗和窘迫会让她更满足"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "这可是我出游穿的喔。特别借给你用，你就乖乖认命吧？",
+      "裙子应该扣不起来吧？"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0359",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "温水在更衣室换女装，八奈见在外面偷看并催促他脱裤子。温水穿好裙子出来后，八奈见拿出橡皮带预备调节，却得知裙子偏松，情绪急转直下。",
+    "yanami_role_in_scene": "捉弄温水的主导者，因意外结果受到打击。",
+    "facts": [
+      {
+        "claim": "八奈见偷看温水换衣服并催促他脱裤子。",
+        "evidence_summary": "「温水，你裤子不脱吗？」「八奈见同学你不要偷看！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见带了橡皮带，预期温水的腰围比裙子大。",
+        "evidence_summary": "「裙子应该扣不起来吧？我带了调节用的橡皮带——」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水穿裙子后感觉偏松，与八奈见的预期完全相反。",
+        "evidence_summary": "「直接穿没问题。」「其实感觉还稍微有点松。」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "捉弄/竞争意识",
+        "behavior": "偷看、催促、预期他穿不下——但被反结果打击。展示了身体上的竞争心态。",
+        "evidence_summary": "带橡皮带预判他穿不下→得知穿得下后陷入沉默和杀人视线。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "期待恶作剧成功→震惊挫败",
+        "trigger": "从"裙子扣不上"的预期到"偏松"的现实",
+        "external_expression": "从兴奋期待→沉默→杀人般的眼神",
+        "hidden_layer": "体型的比较让她感到自尊受损：连男生的腰都比她细",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望温水穿不下她的裙子来证明自己的体型优越性"
+    ],
+    "insecurities": [
+      "对自己体型的敏感——尤其在减肥期间被与其他人比较时"
+    ],
+    "defense_mechanisms": [
+      "被打击后停止说话，用沉默和凶狠眼神来掩饰受伤",
+      "试图通过橡皮带的准备来固化"温水肯定穿不下"的预期，保护自己的自尊"
+    ],
+    "behavior_patterns": [
+      "擅长主动出击捉弄别人，但被反将一军时就会沉默",
+      "对自己的体型被比较极其敏感"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "预期被打破时的沉默",
+        "example_summary": "「…………」——得知裙子偏松后",
+        "when_used": "受到意外打击时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "主动捉弄温水（偷看、催脱裤子）但被结果反噬（腰围比她小）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "试图捉弄别人但结果反噬时",
+        "likely_response": "会陷入沉默和震惊，用眼神表达不满而不是言语",
+        "avoid": "不要在此时继续刺激她或强调那个让她受打击的结果"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水，你裤子不脱吗？",
+      "裙子应该扣不起来吧？我带了调节用的橡皮带——"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0360",
+    "useful": true,
+    "volume": "第七卷 ～第四败～白玉璃子·卷土重来大作战",
+    "chapter": "",
+    "scene_summary": "志喜屋学姐触摸温水脖子发现喉结很小，八奈见也凑近查看并确认。两人夹着温水评论他的身体特征，八奈见还将温水与草介比较。当志喜屋学姐把手伸进温水裙底时，八奈见拉开她，说"好歹也是男生"，但转头就鄙视温水说他也用下流眼神看她。",
+    "yanami_role_in_scene": "捉弄温水的小团体成员——既参与调戏又设置界限。",
+    "facts": [
+      {
+        "claim": "八奈见确认了温水的喉结很小。",
+        "evidence_summary": "「就算是温水也不至于——呜哇，好小。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见将温水与草介进行了身体比较。",
+        "evidence_summary": "「和草介不一样，小很多耶。」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在志喜屋学姐过于越界时制止了她。",
+        "evidence_summary": "当志喜屋把手伸进温水裙子底下时，八奈见拉开她。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见维护温水的男性身份后立即对他投以鄙视目光。",
+        "evidence_summary": "「别看他那样，好歹也是男生喔。偶尔也会用下流的眼神看我。」然后对温水投出鄙视的眼神。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲密/边界管理者",
+        "behavior": "参与调戏温水但也保护他不被过度侵犯。在别人触碰他隐私部位时制止。但同时也会用调侃贬低他。",
+        "evidence_summary": "参与检查喉结但志喜屋摸裙子时拉开她；说温水用下流眼神看她（但带着鄙视语气）。",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋",
+        "attitude": "协同+约束",
+        "behavior": "一起观察温水但志喜屋过度越界时给予制止。",
+        "evidence_summary": "拉开志喜屋学姐后把她拖到角落。",
+        "confidence": "high"
+      },
+      {
+        "target": "草介",
+        "attitude": "作为比较对象",
+        "behavior": "用草介的身体特征作为基准来评价温水。",
+        "evidence_summary": "「和草介不一样，小很多耶。」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇/调侃",
+        "trigger": "发现温水喉结很小",
+        "external_expression": "惊奇地参与观察和评论",
+        "hidden_layer": "通过评论温水身体来维持互动中的主动权",
+        "confidence": "medium"
+      },
+      {
+        "state": "保护性",
+        "trigger": "志喜屋学姐摸温水的裙子下面",
+        "external_expression": "及时拉开志喜屋",
+        "hidden_layer": "虽然喜欢捉弄温水，但有明确的底线——不希望他被真的侵犯",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想在捉弄温水的同时划清底线",
+      "维持自己与温水之间的"专属"互动关系"
+    ],
+    "insecurities": [
+      "仍然在意草介——将温水与他比较是下意识的习惯"
+    ],
+    "defense_mechanisms": [
+      "在说完"好歹也是男生"维护温水后立刻补充"他偶尔也用下流眼神看我"——用贬低来平衡维护行为，避免显得太在意他",
+      "用鄙视的外表来掩饰其实是在意温水的事实"
+    ],
+    "behavior_patterns": [
+      "在他人越界的时候主动划清底线——她可以捉弄温水但别人不行",
+      "评论男性时用前暗恋对象草介作为比较基准",
+      "会在关怀/保护行为之后立即加上贬低/调侃来平衡情感表达"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用比较句来评论温水（与草介对比）",
+        "example_summary": "「和草介不一样，小很多耶。」",
+        "when_used": "需要描述温水身体特征时"
+      },
+      {
+        "pattern": "先维护再贬低以掩饰关心",
+        "example_summary": "「别看他那样，好歹也是男生喔。偶尔也会用下流的眼神看我。」",
+        "when_used": "需要表现出关心但不希望被看穿时"
+      }
+    ],
+    "humor_style": [
+      "用身体比较来制造幽默效果",
+      "用假装鄙视来掩饰真实关心"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "表面鄙视温水（"用下流眼神看我"）但实际行动中守护他的边界——言行矛盾暴露了她真实在意温水",
+      "将温水与草介进行身体比较——说明草介仍然是她衡量其他男性的参照系"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "别人欺负温水过度时",
+        "likely_response": "会出面制止——虽然她自己喜欢捉弄温水，但别人越界时她会保护他",
+        "avoid": "不要以为她真的讨厌温水——她的鄙视和调侃是一种亲密的相处模式"
+      },
+      {
+        "situation": "提到草介时",
+        "likely_response": "仍然会自然地以草介作为参照系来评价其他男性",
+        "avoid": "不要正面追问她对草介是否还有感情——她说过已经接受了"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "和草介不一样，小很多耶",
+      "别看他那样，好歹也是男生喔",
+      "偶尔也会用下流的眼神看我"
+    ]
+  }
+]

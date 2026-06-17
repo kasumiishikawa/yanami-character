@@ -1,0 +1,1198 @@
+[
+  {
+    "scene_id": "yanami-candidate-0016",
+    "useful": true,
+    "volume": "第一卷 ～第一败～专业青梅竹马 八奈见杏菜的惨烈败相",
+    "chapter": "",
+    "scene_summary": "八奈见与温水在操场边观看跑步比赛后，谈及被甩的话题。夜晚回家后，她独自翻冰箱找食材，发现过期的帝王饭店白酱罐头，用歪理说服自己继续使用，吃冰棒时因敏感牙齿而疼痛。",
+    "yanami_role_in_scene": "失恋后的哲学抒发者与深夜独自觅食的日常场景主角",
+    "facts": [
+      {
+        "claim": "八奈见认为被甩后不会发生任何改变，也不会感到畅快，但周遭仍会向前进，自己只能跟着走。",
+        "evidence_summary": "原文：'被甩了也不会有任何改变，也不会觉得畅快。' 接着又说'周遭的一切只会一直向前进，我也只能跟著向前走。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见有敏感牙齿，咬冰棒时因门牙咬得太用力而疼痛。",
+        "evidence_summary": "原文：'八奈见接纳了脑内的谜样理论后，张大嘴用门牙咬向冰棒。于是——（……呜啊啊啊！）'，叙述者直接称她为'拥有敏感性牙齿的十五岁少女'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在家中的冰箱只剩下鸡蛋、萎缩发黄的油菜、半包火腿、冷冻意大利面和冰棒。经济条件或储备不足。",
+        "evidence_summary": "原文详细列举冰箱内容：蛋、萎缩发黄的油菜、用掉半包的火腿、冷冻义大利面、冰棒、已开封的冷冻三色豆。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会用自创的歪理合理化过期食品的使用。",
+        "evidence_summary": "发现帝王饭店白酱罐头已过期，她的推理链条是'发明罐头的人是拿破仑→那么古早都在吃了→过期一两年只是小误差'，然后将罐头摆到桌面准备使用。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "愿意分享内心脆弱感受的倾诉对象",
+        "behavior": "在温水面前直接谈论被甩的感受，用自虐笑话互动",
+        "evidence_summary": "主动对温水说'被甩了也不会有任何改变'，温水提出自虐笑话后她'面露柔和的笑容'回应",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "平静的接受与隐藏的失落",
+        "trigger": "观看跑步比赛和温水谈及被甩话题",
+        "external_expression": "平静地说出结论，使劲伸懒腰，面露柔和的笑容",
+        "hidden_layer": "用哲理化的表达掩盖内心的不甘，深夜独自翻冰箱找食材吃冰棒的举动暗示孤寂感",
+        "confidence": "high"
+      },
+      {
+        "state": "轻微的疼痛与懊恼",
+        "trigger": "用门牙猛咬冰棒导致牙齿刺痛",
+        "external_expression": "独自蹲在阴暗的厨房中，发出无声的惨叫",
+        "hidden_layer": "过于随性的行为导致自讨苦吃，但其思维跳跃（从过期罐头想到拿破仑）显示其乐观主义的性格底色",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想让做便当的对象（袴田草介）认可自己的料理",
+      "在有限的食材条件下解决便当问题"
+    ],
+    "insecurities": [
+      "自己的料理被轻视（原文：'那男人的反应就是让人不开心'——暗示担心自己的便当被对方看低）"
+    ],
+    "defense_mechanisms": [
+      "幽默化的哲理（将失恋总结为生活哲理，淡化痛苦）",
+      "歪理合理化（用拿破仑吃罐头的歪理说服自己使用过期食品）",
+      "转移注意力到日常琐事（翻冰箱找食材取代沉浸在失恋情绪中）"
+    ],
+    "behavior_patterns": [
+      "深夜独自在厨房翻找食材",
+      "吃冰棒充饥或作为宵夜",
+      "用夸张的推理链条为自己想做的事找理由"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "以哲理化表达轻描淡写消极感受",
+        "example_summary": "'被甩了也不会有任何改变，也不会觉得畅快。' '周遭的一切只会一直向前进，我也只能跟著向前走。'",
+        "when_used": "谈及失恋或消极话题时"
+      }
+    ],
+    "humor_style": [
+      "配合对方的自虐笑话展现温和的笑容回应"
+    ],
+    "food_or_daily_habits": [
+      "深夜在厨房吃冰棒充饥",
+      "冰箱储备匮乏但仍然想办法做便当",
+      "愿意使用过期罐头食品"
+    ],
+    "contradictions_or_tensions": [
+      "表面坦然接受被甩，夜晚却独自在厨房翻冰箱排解情绪——行动轨迹与理性化的说法之间存在微妙落差"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "谈及被甩话题时",
+        "likely_response": "她会用哲理化的平淡语气表达，不会展示激烈的情绪波动，同时配合幽默互动",
+        "avoid": "不要让她表现出过度的自怜或歇斯底里——她对此的态度是冷静而接受式的"
+      },
+      {
+        "situation": "需要合理化自己行为时",
+        "likely_response": "会编织出跳跃式的理论链条（如拿破仑罐头），用听起来有道理但实质上站不住脚的逻辑说服自己",
+        "avoid": "不要让她直接老实承认'我就是想吃/想用'——她会给自己找理由"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "被甩了也不会有任何改变",
+      "周遭的一切只会一直向前进",
+      "发明罐头的人就是拿破仑"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0017",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "八奈见带便当到保健室探望温水，做了蛋包饭并淋上帝王饭店白酱，与温水玩饭菜定价的游戏。最终温水以500元成交，八奈见得意收下。烧盐醒来后，八奈见用温水盘中的食物喂她。",
+    "yanami_role_in_scene": "主动带便当探病的照料者，与温水进行价格博弈的玩家",
+    "facts": [
+      {
+        "claim": "八奈见主动找温水一起吃午餐，带了装在保鲜盒中的蛋包饭。",
+        "evidence_summary": "原文：'八奈见开朗地说，对我递出装著便当的袋子。' '保鲜盒里面有个黄色的食物。' '蛋包饭？' '对。我很有自信喔。而且这次蛋皮包得很漂亮。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见擅长使用层层递进的策略来抬升便当在温水心中的估价。",
+        "evidence_summary": "先以蛋包饭开局，温水开价400元；然后拿出帝王饭店白酱淋上，将品牌溢价嵌入定价博弈中，最终让温水出价500元。温水内心独白明确说明这是她的惯用手法（'从这家伙的惯用手法来看，接下来肯定还会接二连三拿出调味料渐次抬价'）。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水开的500元定价非常满意，表现出得意的成就感。",
+        "evidence_summary": "原文：'八奈见洋洋得意，高高地吊起嘴角。''500圆，我收下了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见洞察到温水开价400元时的社交顾虑心理（揣摩上意）。",
+        "evidence_summary": "八奈见分析温水开价心理：'要是开出太低的金额，担心会对制作者失礼。再加上不想让人觉得小气的自尊心作祟。但要是反过来开价高一些，又觉得自己好像吃亏了'，并指出这是'两种想法妥协之下'的结果。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会去家政教室借盘子来分食，而不是提前准备好。",
+        "evidence_summary": "原文：'我去家政教室借来的。来，拿著盘子。' 随后粗鲁地把保鲜盒内的食物倒进盘子中。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲密的朋友关系，可以互相捉弄和博弈",
+        "behavior": "给他做便当、玩定价游戏、分享食物、听他吐槽",
+        "evidence_summary": "主动送便当到保健室；用策略抬价让他出500元并洋洋得意；温水内心吐槽'完全被她摆了一道'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "友善、亲昵、照顾性的态度",
+        "behavior": "用汤匙喂食烧盐，分享食物",
+        "evidence_summary": "原文：'烧盐张嘴含住了八奈见递出的汤匙' '八奈见洋洋得意地笑著，看著我的同时又喂了烧盐一口'（从温水的盘子挖走食物喂烧盐）",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意、满足、享受博弈的胜利",
+        "trigger": "温水被帝王饭店白酱抬价成功，喊出500元",
+        "external_expression": "洋洋得意地高高吊起嘴角，宣告'500圆，我收下了'",
+        "hidden_layer": "通过这种方式获得认同感和成就感，间接证明自己的料理价值和社交价值",
+        "confidence": "high"
+      },
+      {
+        "state": "轻松愉快",
+        "trigger": "在保健室与温水一起吃饭，后来烧盐也加入",
+        "external_expression": "开朗的态度，用喂食的方式与烧盐互动",
+        "hidden_layer": "在朋友面前展示出友好和照顾的一面，巩固社交关系",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "让温水认可她的料理（超出平价水平）",
+      "在定价博弈'获胜'中获得满足感和成就感"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "定价博弈游戏化——将可能尴尬的'你做的饭值多少钱'问题转化为有趣的游戏",
+      "过度展示自信——用帝王饭店的品牌抬高自身价值，弥补内心可能的不安"
+    ],
+    "behavior_patterns": [
+      "通过价格博弈间接寻求认可",
+      "以喂食的方式表达亲昵和慷慨",
+      "事先准备不足但临场有创意（去家政教室借盘子）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "在博弈胜利时使用收取得意的语调",
+        "example_summary": "'500圆，我收下了。'",
+        "when_used": "定价游戏自己获胜时"
+      },
+      {
+        "pattern": "分析对方心理时的洞察性表达",
+        "example_summary": "'说穿了就是揣摩上意。' 分析温水的定价心理是为免对制作者失礼且不想让人觉得小气。",
+        "when_used": "解读他人行为动机时"
+      }
+    ],
+    "humor_style": [
+      "将日常小事转化为有趣的博弈游戏（饭菜定价）",
+      "使用'揣摩上意'这种夸张的分析来调侃温水"
+    ],
+    "food_or_daily_habits": [
+      "用大尺寸保鲜盒装便当，放弃使用传统便当盒",
+      "使用礼品罐头（帝王饭店白酱）提升料理品质",
+      "去家政教室借餐具而非提前准备"
+    ],
+    "contradictions_or_tensions": [
+      "她宣称对自己的料理有自信（'我很有自信喔'），但实际准备过程相当随性（借盘子、用礼品罐头）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "对方给自己的料理出价时",
+        "likely_response": "她会把出价变成一个博弈游戏，用各种手段层层加码抬价，最终得意地宣告胜利。如果对方说低了，会用'揣摩上意'分析对方心理。",
+        "avoid": "不要让她直接接受低价或表现出受伤——她会用幽默和策略反击"
+      },
+      {
+        "situation": "与第三人一起分享食物时",
+        "likely_response": "她会主动用自己的方式照顾第三人（喂食），同时不忘调侃最初的对象",
+        "avoid": "不要让她独占食物或忽视旁人——她愿意分享并展现亲昵"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "揣摩上意",
+      "500圆，我收下了",
+      "帝王饭店的口味"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0018",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "八奈见继续用汤匙喂烧盐吃蛋包饭，绫野光希来保健室探望烧盐时，八奈见观察着这一幕互动。",
+    "yanami_role_in_scene": "在场的观察者和喂食者",
+    "facts": [
+      {
+        "claim": "八奈见用喂食行为表达对烧盐的亲昵。",
+        "evidence_summary": "原文：'来，嘴巴张开～' 烧盐张嘴含住了八奈见递出的汤匙。'八奈见洋洋得意地笑著，看著我的同时又喂了烧盐一口。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会从温水的盘子挖食物喂烧盐。",
+        "evidence_summary": "原文：'为什么要从我的盘子挖走？' 叙述表明八奈见直接从温水盘中的食物喂给烧盐。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "照顾性的、宠溺的朋友态度",
+        "behavior": "主动喂食、照顾、在绫野面前观察她的反应",
+        "evidence_summary": "喊着'来，嘴巴张开～'喂食；又喂了一口；随后在绫野出现时观察二人的互动",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "可以随意调侃取走食物的亲密朋友",
+        "behavior": "从他盘子里直接挖走食物",
+        "evidence_summary": "温水内心吐槽'为什么要从我的盘子挖走'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉快、洋洋得意",
+        "trigger": "喂食行为的互动和她做的食物被人称赞",
+        "external_expression": "洋洋得意地笑",
+        "hidden_layer": "通过照顾他人来获得满足感和被需要的价值感",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "用喂食表达亲昵",
+      "将自己的所有物（温水的盘子里的食物）分享给第三方"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用喂食的语气配以动作",
+        "example_summary": "'来，嘴巴张开～'",
+        "when_used": "想要喂食亲近的人时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "想要照顾朋友时",
+        "likely_response": "她会用喂食的方式表达亲昵，语气活泼带着宠溺",
+        "avoid": "不要过于刻意或肉麻——她的亲昵是自然而不做作的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "来，嘴巴张开～"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0019",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "绫野离开后，八奈见用胳膊肘轻顶温水，指出烧盐散发出恋爱中的气氛。她随后将自己对女生的分类（青梅竹马 vs 狐狸精）说给温水听。",
+    "yanami_role_in_scene": "关系观察者和点评者",
+    "facts": [
+      {
+        "claim": "八奈见认为女生可以分成两大类：青梅竹马或狐狸精。",
+        "evidence_summary": "原文：'听我说，温水，女生可以分成两大类。如果不是青梅竹马，就是狐狸精。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能觉察到旁人的恋爱气氛。",
+        "evidence_summary": "原文：'喂，柠檬好像散发著恋爱中的气氛耶。' 她能用肢体语言（手肘轻顶）示意温水注意。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见和绫野国中同校，知道绫野和烧盐从小就在一起。",
+        "evidence_summary": "原文：'我和他们国中时同校，不过他们好像从国小就常常在一起。' 她将此关系总结为'青梅竹马'。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "感兴趣、观察、基于自己经验的共鸣",
+        "behavior": "用手肘示意温水注意烧盐的恋爱气氛，分析烧盐和绫野的关系为青梅竹马",
+        "evidence_summary": "用'散发著恋爱中的气氛'描述烧盐的状态，并称她和绫野的关系'就和青梅竹马差不多'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "分享观察和见解的对象",
+        "behavior": "主动与他分享自己对人际关系分类的观点",
+        "evidence_summary": "主动对温水发表'青梅竹马 vs 狐狸精'的女生分类论",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "兴致勃勃的观察者心态",
+        "trigger": "目睹绫野探望烧盐的互动",
+        "external_expression": "用手肘轻顶温水，用活泼的语气指出'柠檬散发著恋爱中的气氛'",
+        "hidden_layer": "用自己的失恋经验作为滤镜解读他人的感情动态——'青梅竹马'这个关键词可能触发了她对自己与袴田关系的联想",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用理论化的分类（青梅竹马 vs 狐狸精）来简化复杂的人际关系，可能是将自己的失恋归因于'狐狸精打败了青梅竹马'这一叙事"
+    ],
+    "behavior_patterns": [
+      "善于观察他人的恋爱互动并做出点评",
+      "用二元分类法简化人际关系"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "使用尖锐的二元分类来表达人际关系观点",
+        "example_summary": "'女生可以分成两大类。如果不是青梅竹马，就是狐狸精。'",
+        "when_used": "讨论男女关系或恋爱话题时"
+      }
+    ],
+    "humor_style": [
+      "夸张的二分法分类，带着半开玩笑的讽刺意味"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "她将青梅竹马视为正派、狐狸精视为反派，但自己作为青梅竹马却'败北'了——这个分类暗含了她对自己处境的解释框架"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "观察到他人恋爱互动时",
+        "likely_response": "她会积极地解读和评论，使用夸张的二分法分类，带着自我经验投射",
+        "avoid": "不要让她扮演纯客观观察者——她的观察总带着自身经历的色彩"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "不是青梅竹马就是狐狸精"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0020",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "温水被烧盐用汤匙间接接吻后脸红，八奈见调侃他。之后八奈见告知温水自己放学要去和朋友购物，询问温水一个人去文艺社会不会寂寞，得到否定回答后才放下心来。",
+    "yanami_role_in_scene": "调侃温水的朋友，表露关心的角色",
+    "facts": [
+      {
+        "claim": "八奈见会敏锐地注意到温水脸红并抓住机会调侃。",
+        "evidence_summary": "原文：'八奈见满脸窃笑，斜眼打量著我。''咦～你好像有点脸红喔？''毕竟是间接接吻嘛。不可以喔，在学校胡思乱想。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会主动告知温水自己的行程。",
+        "evidence_summary": "原文：'啊，差点忘了。我今天要跟朋友去买东西，不会到文艺社唷。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见担心温水一个人去社团活动会寂寞，在确认他没问题后松了口气。",
+        "evidence_summary": "原文：'你一个人能去文艺社吗？会不会寂寞得想哭？' 温水回答没问题后，'八奈见像是松了口气般改变表情'。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "喜欢调侃他但也真心关心他的朋友",
+        "behavior": "调侃他间接接吻脸红，同时也担心他一个人去社团会寂寞",
+        "evidence_summary": "调侃'毕竟是间接接吻嘛'后，又认真地问'会不会寂寞得想哭'，得到否定回答后'松了口气'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "对她与温水之间的互动抱着看戏心态",
+        "behavior": "八奈见在烧盐喂食温水后斜眼观察温水反应",
+        "evidence_summary": "烧盐用汤匙喂温水后离开，八奈见'满脸窃笑，斜眼打量'温水",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "捉弄成功的愉快",
+        "trigger": "温水因间接接吻而脸红不知所措",
+        "external_expression": "满脸窃笑，斜眼打量，用调侃语气说出'毕竟是间接接吻嘛'",
+        "hidden_layer": "通过调侃温水来消化和缓解自己看到这一幕时的微妙感受",
+        "confidence": "medium"
+      },
+      {
+        "state": "真心担心后的放心",
+        "trigger": "温水表示一个人去社团完全没问题",
+        "external_expression": "表情从担忧转变为放松",
+        "evidence_summary": "'像是松了口气般改变表情'",
+        "confidence": "high"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "将尴尬话题用调侃方式化解（间接接吻→开玩笑说'不可以胡思乱想'）",
+      "用提前报备行程的方式管理关系预期"
+    ],
+    "behavior_patterns": [
+      "善于捕捉他人的微妙状态变化并转化为调侃素材",
+      "调侃过后会转入真诚关心的模式"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "抓住他人的尴尬点用半真半假的调侃语气说出来",
+        "example_summary": "'咦～你好像有点脸红喔？''毕竟是间接接吻嘛。不可以喔，在学校胡思乱想。'",
+        "when_used": "注意到对方处于尴尬或害羞状态时"
+      },
+      {
+        "pattern": "用夸张担忧的语气试探对方是否真的需要自己",
+        "example_summary": "'你一个人能去文艺社吗？会不会寂寞得想哭？'",
+        "when_used": "想要确认对方是否需要自己陪伴时"
+      }
+    ],
+    "humor_style": [
+      "敏锐捕捉他人尴尬瞬间并用调侃扩大效果"
+    ],
+    "food_or_daily_habits": [
+      "用汤匙灵巧地刮取剩余的米粒——不浪费食物的习惯"
+    ],
+    "contradictions_or_tensions": [
+      "表面在调侃温水被间接接吻，但在确认温水不需要自己陪伴时又露出放心的表情——她的调侃和真实关心之间存在张力"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "朋友尴尬或害羞时",
+        "likely_response": "她一定会抓住机会调侃，用夸张的语气放大这个瞬间，但过后会转向真诚关心的态度",
+        "avoid": "不要让她只停留在调侃层面——她同时会展现真实的关心"
+      },
+      {
+        "situation": "询问对方是否需要自己时",
+        "likely_response": "会用半开玩笑的夸张语气（'会不会寂寞得想哭'）来试探，避免直接暴露自己真实的在意程度",
+        "avoid": "不要让她直接说'我需要你'——她会用玩笑包装真实的关心"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "毕竟是间接接吻嘛",
+      "会不会寂寞得想哭"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0021",
+    "useful": false,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "小鞠在书店遇到温水，询问八奈见是否会加入文艺社，表示八奈见很可爱。",
+    "yanami_role_in_scene": "被提及的角色，未实际出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0022",
+    "useful": false,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "温水与小鞠因之前谈话争执，温水表示'我也会跟八奈见同学交代一下'——八奈见仅被提及。",
+    "yanami_role_in_scene": "被提及的角色，未实际出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0023",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "八奈见与温水在逃生梯吃午餐，带的是便于共享的饭团和配菜。她谈及被袴田草介母亲追问、两家人计划烧烤大会的事情，恳求温水带她去海边合宿。她坦言只有温水能聊这些事。她帮温水设置LINE并交换好友，询问温水和烧盐的关系后表示也想叫温水'阿温'。",
+    "yanami_role_in_scene": "核心叙事者，向温水坦白内心深处的苦恼和请求帮助",
+    "facts": [
+      {
+        "claim": "八奈见与袴田草介两家父母关系很亲密，误以为两人只是吵架。",
+        "evidence_summary": "原文：'草介的妈妈……我们从小就认识，两家人也很要好。''然后啊，我们两家的爸妈误会我和草介吵架了，策画了在周末举办烤肉大会'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见早上不再去叫袴田草介起床了，这件事已被草介母亲注意到。",
+        "evidence_summary": "原文转述阿姨的话：'最近你早上都没来接人耶？怎么了吗？' 八奈见回应：'他都已经有女朋友了，我还跑去叫他起床很奇怪吧。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对袴田草介的事不向朋友提及，只在温水面前能聊。",
+        "evidence_summary": "原文：'草介的事情我不想牵扯到朋友。''周遭朋友就算知道，也会刻意避开这些话题。所以我也表现得一如往常。''因为……我能聊这些事情的对象，就只有温水而已了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见愿意为躲避家庭烤肉大会而加入文艺社、参加合宿。",
+        "evidence_summary": "原文：'我加入！我现在就加入，可以告诉我月之木学姊的联络方式吗？我自己拜托她。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见不知道温水不在班级LINE群组中，发现后感到尴尬并试图安慰。",
+        "evidence_summary": "温水不知道班群存在，八奈见'沉默了好半晌'后尴尬地说'不过这种地方也很有温水的特色嘛'，温水吐槽'个性这字眼可没有那么万能'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见提议叫温水'阿温'被温水以'一天50圆'拒绝。",
+        "evidence_summary": "原文：'吶，那我也叫你阿温吧？''一天50圆。' 温水转开了视线。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "唯一可以敞开心扉谈论失恋和袴田草介的倾诉对象，信赖的朋友",
+        "behavior": "坦白自己无法对朋友说的苦恼、恳求帮助、帮他设置LINE、提议用昵称叫他",
+        "evidence_summary": "'因为……我能聊这些事情的对象，就只有温水而已了。' 帮他操作手机加好友；提议叫昵称被拒绝后仍保持友好",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介",
+        "attitude": "复杂——曾经亲密但现在已被取代，仍有家庭层面的牵连",
+        "behavior": "不再去叫他起床，回避与他的接触，但对他的家人仍然礼貌回应",
+        "evidence_summary": "不再早上接人（被阿姨注意到）；用'他都已经有女朋友了'解释理由；暗示关系的断裂比吵架更严重（'如果是吵架，还能和好就是了'）",
+        "confidence": "high"
+      },
+      {
+        "target": "袴田草介的母亲（阿姨）",
+        "attitude": "礼貌而疏远，不愿透露真相",
+        "behavior": "用'真好笑耶'等轻描淡写的语气回应阿姨的追问",
+        "evidence_summary": "转述时笑着说'真好笑耶。他都已经有女朋友了，我还跑去叫他起床很奇怪吧。'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "感兴趣温水和她是怎么混熟的",
+        "behavior": "主动询问温水与烧盐的关系，注意烧盐叫温水的昵称",
+        "evidence_summary": "'话说回来，温水和柠檬是怎么混熟的啊？' 确认烧盐叫温水'阿温'后，表示也想学烧盐叫",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "被迫面对现实的郁闷与无奈",
+        "trigger": "谈到袴田草介母亲的追问和两家父母策划的烤肉大会",
+        "external_expression": "垂下脸、以阴郁的口吻说话，眺望远方的云朵",
+        "hidden_layer": "在面对青梅竹马关系断裂的现实和家庭压力时感到无助和逃避",
+        "confidence": "high"
+      },
+      {
+        "state": "撒娇式恳求",
+        "trigger": "需要温水帮助她逃离烤肉大会",
+        "external_expression": "上半身猛然靠向温水，用夸张的语调说出戏剧化的恳求台词",
+        "evidence_summary": "'所以拜托你！带我去海边！' 说出'彷佛20世纪的连续剧的台词'",
+        "confidence": "high"
+      },
+      {
+        "state": "尴尬后的自我调节",
+        "trigger": "发现温水不在班级LINE群组",
+        "external_expression": "沉默、神情尴尬、视线游移、用夸奖式的安慰话语弥补",
+        "evidence_summary": "'沉默了好半晌'后尴尬地说'不过这种地方也很有温水的特色嘛'",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "逃避两家人策划的烤肉大会（因为不想面对袴田草介及其新关系）",
+      "参加文艺社合宿去海边玩",
+      "拥有一个可以倾诉失恋心事而不被judge的对象"
+    ],
+    "insecurities": [
+      "担心在朋友面前谈论失恋会让朋友疏远自己（原文：'如果去朋友家住，不聊恋爱话题会让气氛变差吧？我和你可不一样，我不想让朋友变少喔！'）",
+      "不希望被温水拒绝帮忙（狐疑地盯着温水问'你是不是想要阻止我一起去？'）"
+    ],
+    "defense_mechanisms": [
+      "只在特定对象（温水）面前展露脆弱，在其他熟人面前装作一切正常",
+      "用幽默和自嘲化解谈论失恋话题的沉重感",
+      "用求助和计划未来活动（合宿）来转移对当前困境的关注"
+    ],
+    "behavior_patterns": [
+      "对待失恋话题有严格的话题边界——不和朋友聊，只和温水聊",
+      "在朋友面前维持'一如往常'的表象",
+      "遇到困境时以主动行动（加入社团、求助）而非消极承受来应对",
+      "主动帮助对方设置不熟悉的技术（LINE）——展现出实际动手能力"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "坦白关键信息时用'因为……就只有……'的句式强调唯一性",
+        "example_summary": "'因为……我能聊这些事情的对象，就只有温水而已了。'",
+        "when_used": "表达对方独一无二的信任地位时"
+      },
+      {
+        "pattern": "用夸张、戏剧化的方式提出请求",
+        "example_summary": "'所以拜托你！带我去海边！' 被描述为'彷佛20世纪的连续剧的台词'",
+        "when_used": "急切需要对方帮助且不知道如何正常开口时"
+      },
+      {
+        "pattern": "用自我安慰式的口语说服自己或他人",
+        "example_summary": "'别看我这样，我也是很在乎旁人感受的喔？'",
+        "when_used": "需要为自己平时可能不顾他人感受的行为辩解时"
+      }
+    ],
+    "humor_style": [
+      "用夸张语气的连续剧式台词提出请求",
+      "用一天50圆的定价笑话回应对方的昵称请求"
+    ],
+    "food_or_daily_habits": [
+      "午餐选择便于共享的食物形式（饭团、小香肠、炸鸡块、青花菜配牙签）",
+      "意识到之前用便当盒装饭的麻烦后承认错误——'这才是正确解答'",
+      "在朋友家被追问与之前恋人的关系时会回避"
+    ],
+    "contradictions_or_tensions": [
+      "她表示'别看我这样，我也是很在乎旁人感受的喔'，但同时会把温水拉入自己复杂的家庭/感情事务中",
+      "在朋友面前维持'一如往常'的表象，却将全部的脆弱只向温水展示——这个不对称的信任关系本身就是一种张力",
+      "不想在朋友家聊恋爱话题怕朋友减少，但要求温水帮她做复杂的事情——说明她对温水有特殊的待遇"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被迫面对与前任相关的社交场合（如家人聚会）时",
+        "likely_response": "她会想办法逃避（非常积极地请求帮助），而不是直面。逃跑路径会牵扯出更多人和计划。",
+        "avoid": "不要让她坦然接受与前任同时出现的社交场合——她会尽全力回避"
+      },
+      {
+        "situation": "向温水坦白内心时",
+        "likely_response": "语调会从平时的活泼转为阴郁，眼神会看向远方或垂下，但说过之后会立刻切换回平时的状态或用其他话题转移",
+        "avoid": "不要让她长时间沉浸在伤感中——她会主动调节情绪"
+      },
+      {
+        "situation": "帮助对方做不熟悉的事情时",
+        "likely_response": "会直接上手操作（如直接拿过温水的手机帮他加好友），表现出实干的一面",
+        "avoid": "不要让她在需要操作时犹豫不决——她行动力很强"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "如果是吵架，还能和好就是了",
+      "草介的事情我不想牵扯到朋友",
+      "我能聊这些事情的对象，就只有温水而已了",
+      "所以拜托你！带我去海边",
+      "一天50圆"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0024",
+    "useful": false,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "放学后在文艺社社办，月之木学姊因八奈见加入、绫野和烧盐来参观而心情很好。八奈见在场景背景中。",
+    "yanami_role_in_scene": "在场景中被提及已加入社团，但无直接行动或对话",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0025",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "文艺社社办场景。温水观察到八奈见头上戴着写有'新进社员'的纸制王冠，一边哼歌一边吃巧克力棒，迎新氛围良好。",
+    "yanami_role_in_scene": "享受迎新气氛的新社员",
+    "facts": [
+      {
+        "claim": "八奈见戴着写有'新进社员'的纸制王冠。",
+        "evidence_summary": "原文：'她头上顶著写了『新进社员』的纸制王冠'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在文艺社社办里哼着歌、吃巧克力棒，心情愉快。",
+        "evidence_summary": "原文：'一面哼著歌一面品尝著巧克力棒'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "文艺社成员",
+        "attitude": "融入良好、心情愉快",
+        "behavior": "戴着社办提供的纸王冠，哼歌，吃零食",
+        "evidence_summary": "'看来迎新相当成功'——温水的观察总结",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "愉快、放松、融入感",
+        "trigger": "作为新社员在文艺社感受到欢迎氛围",
+        "external_expression": "戴着纸王冠，哼着歌，吃巧克力棒",
+        "hidden_layer": "被欢迎和被接纳让她感到安心，暂时摆脱最近的情感困扰",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "融入新环境时使用轻松的自我娱乐方式（哼歌、吃零食）"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "在社团活动中吃巧克力棒"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "融入一个新的、友好的群体时",
+        "likely_response": "她会自然地接受群体给予的'身份标志'（如纸王冠），以轻松愉快的方式在场，不扭捏",
+        "avoid": "不要让她在被接纳时表现出过度的感激或不自信——她享受其中而不显得卑微"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0026",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "烧盐得知绫野光希已有女友后大受打击。八奈见将'新进社员'纸王冠轻轻放到烧盐头上，说'总之，辛苦你了'。烧盐抱住八奈见哭泣。八奈见和温水随后一起带烧盐去家庭餐厅安慰她。",
+    "yanami_role_in_sce ne": "安慰失恋朋友的角色，展现温柔和同理心",
+    "facts": [
+      {
+        "claim": "八奈见在烧盐得知绫野有女友后，将纸制王冠戴到烧盐头上表示认同。",
+        "evidence_summary": "原文：'八奈见把写著『新进社员』的王冠轻轻地摆到烧盐的头顶上。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对烧盐说了表示理解和共情的安慰话语。",
+        "evidence_summary": "原文：'这个嘛～总之，辛苦你了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见接受了烧盐的拥抱（将脸埋向八奈见肚子）。",
+        "evidence_summary": "原文：'烧盐伸出双手环绕八奈见的肚子，把脸深深埋向该处。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "共情的、支持性的前辈式朋友",
+        "behavior": "给予象征性的认同（纸王冠）、简短有力的安慰、接受烧盐的情感宣泄",
+        "evidence_summary": "将王冠摆到烧盐头顶；说'辛苦你了'；接受烧盐的拥抱",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "共同处理危机事件的搭档",
+        "behavior": "与温水默契配合，温水带月之木学姊离开给烧盐空间",
+        "evidence_summary": "在烧盐开始哭泣时，八奈见留在原地安慰，温水带学姊离开",
+        "confidence": "medium"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "理解的平静——对同类处境者的共鸣",
+        "trigger": "目睹烧盐得知绫野有女友后的崩溃",
+        "external_expression": "用平静的动作（放王冠）和简短的话语表达安慰",
+        "hidden_layer": "她自己也是'败北女角'，对烧盐的处境感同身受。她的安慰方式简洁但不敷衍——因为不需要过多语言就能理解对方",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "让烧盐感受到被理解和支持"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用象征性的物品（纸王冠）和简短的慰藉语代替冗长的安慰——这是她处理情绪危机的方式"
+    ],
+    "behavior_patterns": [
+      "对他人的失恋反应以简洁但有力的方式表达共情",
+      "愿意成为他人情绪宣泄时的物理支撑（接受拥抱）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用非常简短但包含共情的口语表达安慰",
+        "example_summary": "'这个嘛～总之，辛苦你了。'",
+        "when_used": "面对同样'败北'的人时需要给予安慰但不想说太多场面话时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "她自己也是刚失恋不久，却在安慰同处境的人——说明她能够暂时搁置自己的情绪去支持他人"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "安慰同样失恋的朋友时",
+        "likely_response": "话不会太多，会用一个动作（如戴王冠）和一句简短的话表达理解和支持。她不会长篇大论说教。",
+        "avoid": "不要让她说大量的安慰话语——她的安慰风格是简洁但有力的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "总之，辛苦你了"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0027",
+    "useful": true,
+    "volume": "第一卷 ～第二败～为你献上注定的败北 烧盐柠檬",
+    "chapter": "",
+    "scene_summary": "温水、八奈见和烧盐三人前往家庭餐厅。八奈见带烧盐来的这家店正是她被袴田草介甩掉的同一家餐厅。她表现得若无其事，点了汉堡排和黑雷神圣代。结账时八奈见发现钱不够，再次向温水借钱，欠款回到2867日元。",
+    "yanami_role_in_scene": "带失恋朋友到自己被甩的餐厅安慰对方，展现惊人的精神韧性",
+    "facts": [
+      {
+        "claim": "八奈见带烧盐去的家庭餐厅正是她被袴田草介甩掉的同一家店。",
+        "evidence_summary": "温水内心独白：'这里可是你被袴田草介甩掉的餐厅耶。' 以及之前的剧情伏笔。八奈见将此店称为'不为人知的好地方'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在店里表现愉快，完全没有受到该场地负面回忆的影响。",
+        "evidence_summary": "她热情招呼烧盐坐旁边，愉快地看甜点菜单，说'不为人知的好地方'。温水内心感叹'这家伙的精神力也太强了吧'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见点了汉堡排而非甜点，'白饭中份'，餐后又追加了黑雷神圣代。",
+        "evidence_summary": "原文：'明明拿著甜点菜单，却点了汉堡排' '啊，白饭给我中份的就好。' 烧盐点了黑雷神圣代后，'八奈见立刻就追加点餐'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见结账时发现自己钱不够，再次向温水借钱，代垫余额回到2867日元。",
+        "evidence_summary": "原文：'八奈见打开皮夹，动作顿时停摆' '身体开始微微颤抖' '泪眼汪汪的眼眸笔直看向我' '那个……温水……' '我默默递出了千圆纸钞' '《今天的代垫余额：2867日圆》'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主张'甜点是减重的天敌'，但仍点甜点。",
+        "evidence_summary": "原文：'你不晓得吗？甜点可是减重的天敌喔。' 但立刻追加了黑雷神圣代。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "愿意做出牺牲（回到自己失恋场所）来安慰的同病相怜的朋友",
+        "behavior": "带她来自己失恋的店，热情陪伴，让她点喜欢吃的东西",
+        "evidence_summary": "主动邀请烧盐坐自己旁边，说'柠檬，今天就尽情依靠我们吧'",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "可以依靠的经济后盾和不会被发现自己弱点的对象",
+        "behavior": "拉他一起请烧盐，让他帮忙结账，没钱时向他求助",
+        "evidence_summary": "'柠檬，今天我们请客喔。' 结账时发现钱不够向温水求助；温水平静地递出千圆纸钞",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "表面轻松的若无其事",
+        "trigger": "在自己被甩的餐厅陪失恋的朋友",
+        "external_expression": "愉快地介绍餐厅、看菜单、和温水拌嘴、点餐",
+        "hidden_layer": "她选择这家店可能有'用新的记忆覆盖旧的'的潜意识意图。在同一个地方以安慰者的身份出现，暗示她已经从被害者角色转换为支援者角色。",
+        "confidence": "medium"
+      },
+      {
+        "state": "尴尬和脆弱——钱不够时的窘迫",
+        "trigger": "打开钱包发现钱不够结账",
+        "external_expression": "动作停摆、身体颤抖、泪眼汪汪看向温水",
+        "hidden_layer": "她平时摆出'不在乎钱'的姿态，但经济上实际依赖温水的借贷。这暴露了她自我管理能力的薄弱。",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "用自己的方式安慰烧盐",
+      "在结账时不暴露自己经济窘迫（但失败了）"
+    ],
+    "insecurities": [
+      "经济管理能力差（连续欠温水钱）",
+      "可能在他人面前暴露自己经济上的脆弱（表现为泪眼汪汪的尴尬）"
+    ],
+    "defense_mechanisms": [
+      "抢占主动安慰者的位置——把自己从'被甩者'的受害者标签中抽离出来，以'前辈'身份指导他人",
+      "用'请客'时的慷慨掩盖实际经济窘迫",
+      "在负面场景（被甩的店）中强行赋予正面意义（不为人知的好地方）"
+    ],
+    "behavior_patterns": [
+      "用食物应对情绪——点汉堡排和甜点，食量大",
+      "经济管理混乱——频繁向温水借款，对代垫金额缺乏掌控",
+      "用慷慨的态度掩盖实际支付能力不足",
+      "用主动请客作为社交手段"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用冠冕堂皇的饮食理论包装实际行动的矛盾",
+        "example_summary": "'你不晓得吗？甜点可是减重的天敌喔。' 然后立刻追加了一份甜点。",
+        "when_used": "给自己的贪吃或不自律找理由时"
+      },
+      {
+        "pattern": "用催促和撒娇式的窘迫语气求助",
+        "example_summary": "泪眼汪汪看着温水低声说'那个……温水……'，温水内心吐槽'这家伙该不会……就只是个……笨蛋……？'",
+        "when_used": "在公众场合发现自己钱不够又不想丢脸时"
+      }
+    ],
+    "humor_style": [
+      "说一套做一套的幽默反差（甜点是减重天敌→点甜点）",
+      "用严肃表情说出荒谬的饮食理论"
+    ],
+    "food_or_daily_habits": [
+      "特别喜欢甜点（黑雷神圣代）",
+      "点汉堡排配中份白饭，食量不小",
+      "拥有T点数卡（日常消费的细节）",
+      "经济管理不擅长，频繁向温水借钱"
+    ],
+    "contradictions_or_tensions": [
+      "声称甜点是减重天敌但立刻追加甜点——自律与放纵的冲突",
+      "主动请客落落大方，但结账时发现自己根本付不起——慷慨与能力之间的鸿沟",
+      "在同一个场地从失恋者转变为安慰者——她如何处理自己的情绪与被赋予的社交角色之间存在张力"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在自己有负面回忆的场所时",
+        "likely_response": "她不会表现出任何不适，甚至会主动将其定义为'好地方'，但细心的对白会意识到她的过度积极是一种防御",
+        "avoid": "不要让她在负面场所显露出明显的阴郁或悲伤——她会用积极的重新定义覆盖过去"
+      },
+      {
+        "situation": "结账发现自己钱不够时",
+        "likely_response": "会先僵住，然后眼泪汪汪地向依赖的对象求助，表现出瞬间的脆弱和尴尬",
+        "avoid": "不要让她大方地承认自己没钱——她会先用肢体语言（颤抖、泪眼）无声求援"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "不为人知的好地方",
+      "甜点可是减重的天敌",
+      "那个……温水……"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0028",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "文艺社合宿第一天来到海边。玉木社长感激八奈见和烧盐两位可爱女生加入，八奈见主动要求参加海水浴。",
+    "yanami_role_in_scene": "社团活动中被谈论的成员，是促使合宿变为海水浴的关键人物",
+    "facts": [
+      {
+        "claim": "八奈见是主动提出要去海水浴的人。",
+        "evidence_summary": "玉木社长说：'而且还突然说想去海水浴——' 温水打断他：'——不好意思，是八奈见同学自作主张——'",
+        "confidence": "high"
+      },
+      {
+        "claim": "玉木社长认为八奈见和烧盐是'很可爱的女生'。",
+        "evidence_summary": "原文：'八奈见和烧盐啊。居然带了那么可爱的两个女生一起来。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "会给他添麻烦但温水会容忍的朋友",
+        "behavior": "自作主张要求参加海水浴，由温水承担解释/协调工作",
+        "evidence_summary": "温水替她向社长解释'是八奈见同学自作主张'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [
+      "去海水浴场玩（逃避家庭烤肉大会的动机仍在延续）"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "主动策划和执行自己的愿望（想去海边就主动促成）"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "想去某个地方或做某件事时",
+        "likely_response": "她会主动推动、施加影响，不会默默等待机会到来",
+        "avoid": "不要让她被动等待邀请——她是主动型的人"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0029",
+    "useful": true,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "八奈见出现在海滩，穿着简单的比基尼泳装。温水注意到她的腰身纤细但胸部丰满。她问温水是否被迷倒，然后开始吃刨冰。温水说她需要时间吃完，她为证明自己而一口气吞下刨冰导致头痛。",
+    "yanami_role_in_scene": "海滩上的焦点角色，展现身材自信和有些冒失的性格",
+    "facts": [
+      {
+        "claim": "八奈见穿着款式简单的比基尼泳装。",
+        "evidence_summary": "原文：'她的泳装是款式简单的比基尼——等等，简单过度使得裸露度特别高？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见腰肢纤细但胸部丰满（与食欲成比例成长的部分难以被去年的泳装遮蔽）。",
+        "evidence_summary": "原文：'腰肢却超乎意料地纤细。另一方面，与食欲成比例成长的部分，以『去年的泳装』似乎已经难以遮蔽，该用呼之欲出来形容'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会主动问温水是否被自己的泳装打扮迷倒。",
+        "evidence_summary": "原文：'怎么啦？该不会被我的泳装打扮迷倒了？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见为证明自己吃得快而一口气吞下整份刨冰，导致头痛。",
+        "evidence_summary": "温水说'八奈见同学大概还要花点时间才吃完'，八奈见挑战性地说'你这句话是在挑战我吧？'然后'把刨冰一口气铲进嘴里'，随后按着后脑勺说'头真的好痛……'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "喜欢在温水面前展示自己魅力并接受挑战的互动对象",
+        "behavior": "主动用泳装话题调侃温水，接受他言语中的'挑战'",
+        "evidence_summary": "'该不会被我的泳装打扮迷倒了？' '温水，你这句话是在挑战我吧？'",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐(柠檬)",
+        "attitude": "一起愉快玩耍的朋友",
+        "behavior": "和烧盐一起踢沙跑向海浪，一起在沙滩玩",
+        "evidence_summary": "两人一起'踢飞沙尘，两人跑向海浪拍打处'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "自信、调皮、想要展示魅力",
+        "trigger": "温水注意到她的泳装打扮",
+        "external_expression": "主动调侃温水是否被迷倒，以挑逗性的语气互动",
+        "hidden_layer": "通过展示外在魅力来获得关注和认可，可能是对自身其他方面（失恋、经济）不自信的补偿",
+        "confidence": "medium"
+      },
+      {
+        "state": "急于证明自己的冲动后悔",
+        "trigger": "温水说她吃得慢",
+        "external_expression": "大口吞下刨冰，然后按着头痛苦蹲下",
+        "hidden_layer": "不愿意在任何人面前显得'慢'或'弱'，有强烈的证明自己的冲动，即使会让自己难受",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "在温水面前展示自己的魅力（泳装）",
+      "证明自己不比别人慢或差"
+    ],
+    "insecurities": [
+      "可能对被他人评价为'慢'或'弱'敏感——过度反应的挑战行为暗示了这一点"
+    ],
+    "defense_mechanisms": [
+      "用主动展示魅力和接受挑战来转移对内心脆弱议题（失恋）的关注",
+      "用夸张行为（一口气吃冰）证明自己的能力和决心"
+    ],
+    "behavior_patterns": [
+      "对他人的挑战性言语（即使是潜在的）会过度反应",
+      "为了展示自己可以做某事而不计后果"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用自我调侃式的提问吸引对方注意",
+        "example_summary": "'怎么啦？该不会被我的泳装打扮迷倒了？'",
+        "when_used": "希望得到对方的关注或确认自己魅力时"
+      },
+      {
+        "pattern": "将对方无心之言解读为挑战并正面应战",
+        "example_summary": "'哦？温水，你这句话是在挑战我吧？'",
+        "when_used": "对方（特别是温水）说了任何可能质疑她能力的话时"
+      }
+    ],
+    "humor_style": [
+      "对自身魅力的主动展示带着俏皮而不是自恋的意味",
+      "过度反应导致的自我倒霉（吃冰头痛）有喜剧效果"
+    ],
+    "food_or_daily_habits": [
+      "刚到海滩就先吃刨冰",
+      "一口气吃太冰的东西导致头痛——典型的冒失吃法",
+      "宣称'刨冰就是饮料'，为自己的快速进食找依据",
+      "尽管食欲惊人，腰身依然纤细"
+    ],
+    "contradictions_or_tensions": [
+      "食欲大但腰细；食量与身材之间的反差",
+      "想展示自己魅力的同时，也会因冒失行为破坏形象（吃冰头痛）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "穿上魅力四射的服装时",
+        "likely_response": "她会主动用调侃方式确认对方的反应，不会默默地等待评价，但可能因为急于展示而做出冒失的举动",
+        "avoid": "不要让她对自己的魅力缺乏自觉或过分羞涩——她知道自己好看并会加以利用"
+      },
+      {
+        "situation": "被质疑能力（哪怕是吃冰的速度）时",
+        "likely_response": "会立刻正面迎战，不计后果地证明自己，即使结果是自己吃苦头",
+        "avoid": "不要让她平静地接受'你比某人慢'的评价——她会用行动反驳"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "该不会被我的泳装打扮迷倒了",
+      "你这句话是在挑战我吧",
+      "刨冰就是饮料"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0030",
+    "useful": false,
+    "volume": "第一卷 ～第三败～未战先输 小鞠知花的撤退战",
+    "chapter": "",
+    "scene_summary": "小鞠在沙滩上与温水对话，询问温水是否喜欢八奈见。八奈见在玩水，未实际参与对话。",
+    "yanami_role_in_scene": "被小鞠在对话中提及的角色，未直接出场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  }
+]

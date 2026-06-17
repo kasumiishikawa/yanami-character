@@ -1,0 +1,900 @@
+[
+  {
+    "scene_id": "yanami-candidate-0421",
+    "useful": true,
+    "volume": "第八卷 ~第一败~ 绝无半点企图",
+    "chapter": "",
+    "scene_summary": "温水在书店遇到八奈见，她正在等小白玉一起去吃甜点自助。八奈见让温水帮她拿杂志，同时不断试探温水是否在等人，怀疑他与马剃有约。白玉出现后支开八奈见，八奈见一听说有烤牛肉就立即独自前往。",
+    "yanami_role_in_scene": "主要互动对象，推动温水与白玉单独交谈的催化剂",
+    "facts": [
+      {
+        "claim": "八奈见对美食诱惑几乎没有抵抗力",
+        "evidence_summary": "听到白玉说错过预约可能吃不到烤牛肉，立即改变主意独自先去吃自助餐",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水的社交圈有强烈关注和占有倾向",
+        "evidence_summary": "反复试探温水在等谁，质问'你在文艺部之外还有朋友吗'，对温水可能与其他女生见面表现出戒备",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会自然地使唤温水做杂事",
+        "evidence_summary": "让温水帮她拿着杂志并翻页，温水虽然无奈但还是照做了",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对白玉的态度转变快速且功利",
+        "evidence_summary": "之前可能对白玉有负面看法，但因为有甜点自助免费券就说'小白玉真是个好孩子呢！我之前误会她了'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性依赖与监视并存",
+        "behavior": "自然地使唤温水做杂事，同时不断试探他的动向，对他的社交活动表现警觉",
+        "evidence_summary": "让温水帮她拿杂志翻页，反复问他在等谁，质疑他是否有文艺部以外的朋友",
+        "confidence": "high"
+      },
+      {
+        "target": "白玉",
+        "attitude": "对利益来源友善，好感可用利益购买",
+        "behavior": "热情拥抱白玉，称其为'小白玉'，但被白玉轻易支开",
+        "evidence_summary": "见到白玉后突然拥抱她，但白玉用烤牛肉的信息就能让她单独先行离开",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "警觉和怀疑",
+        "trigger": "温水频频东张西望，行迹可疑",
+        "external_expression": "小声质问温水是不是在等人，追问具体要和谁见面",
+        "hidden_layer": "对温水与其他女生的接触感到不安和占有欲",
+        "confidence": "high"
+      },
+      {
+        "state": "愉悦和期待",
+        "trigger": "听到有免费甜点自助和烤牛肉",
+        "external_expression": "哗啦拨头发，迫不及待地推开玻璃门走出去",
+        "hidden_layer": "对食物的纯粹喜悦压倒一切顾虑，包括对温水的怀疑",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "美食——甜点自助和烤牛肉是她立即行动的驱动力",
+      "掌控温水的行踪和社交关系"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用轻快的调侃和物理接触（拨头发）来掩饰自己的真实关切"
+    ],
+    "behavior_patterns": [
+      "通过反复追问从温水口中套出信息",
+      "使唤温水做杂事而不觉得不妥",
+      "对美食信息的反应速度极快"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问和追问给温水施压",
+        "example_summary": "反复问'是和谁？'、'是在等人吗？'、'要见这两个人吗？'",
+        "when_used": "当她怀疑温水隐瞒什么时"
+      },
+      {
+        "pattern": "夸张的情绪表达",
+        "example_summary": "说'小白玉真是个好孩子呢！我之前误会她了'，夸张地表达对白玉态度的转变",
+        "when_used": "表现对某人的好感时，往往与利益直接相关"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "对甜点自助和烤牛肉表现出极高热情",
+      "信任可以用甜点自助的价格买到"
+    ],
+    "contradictions_or_tensions": [
+      "批评温水有文艺部以外的朋友（社交面），但自己也在扩展社交圈（与白玉交友）",
+      "声称'一个人先去吃有点不好意思'，却在得到烤牛肉保证后立即独自前往"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "八奈见怀疑温水与别的女生有约",
+        "likely_response": "用轻快的语气反复追问，不给温水逃脱空间，但被美食打断时会立即转移注意力",
+        "avoid": "不要让她显得过于阴险或直接敌意——她的追问包裹在玩笑和日常互动中"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "小白玉真是个好孩子呢",
+      "想吃多少就吃多少喔",
+      "你在文艺部之外还有朋友吗"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0422",
+    "useful": false,
+    "volume": "第八卷 ~第一败~ 绝无半点企图",
+    "chapter": "",
+    "scene_summary": "白玉提到八奈见学姐并暗示温水不想被八奈见看到与天爱星在一起。",
+    "yanami_role_in_scene": "被提及的第三方，不在场",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0423",
+    "useful": false,
+    "volume": "第八卷 ~第一败~ 绝无半点企图",
+    "chapter": "",
+    "scene_summary": "温水看到邻居阿姨调侃天爱星后，脑中闪过一个念头：八奈见将来也会变成那样吗。",
+    "yanami_role_in_scene": "仅在温水思维中一闪而过",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0424",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "天爱星的暧昧发言被周围人听到，八奈见、小鞠、姬宫都在盯着温水看。",
+    "yanami_role_in_scene": "作为旁观者和注视者之一",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0425",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "白玉告知温水：樱井的推荐人是八奈见。温水在体育祭练习中看到八奈见、姬宫等人在练啦啦队。",
+    "yanami_role_in_scene": "背景信息中被提及的人物",
+    "facts": [
+      {
+        "claim": "八奈见是樱井弘人的选举推荐人",
+        "evidence_summary": "白玉告知温水：'樱井学长的推荐人，是八奈见学姐哦'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见报名参加了啦啦队比赛",
+        "evidence_summary": "温水看到啦啦队的志愿成员中有八奈见",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井弘人",
+        "attitude": "合作关系",
+        "behavior": "担任他的选举推荐人",
+        "evidence_summary": "白玉告知温水：'樱井学长的推荐人，是八奈见学姐哦'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0426",
+    "useful": true,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "八奈见主动来找温水，以关心的名义调侃他。她解释加入学生会的目的——在文艺部安装整体厨房。她追问温水与马剃的关系，对温水去过马剃家反应强烈。最后与小鞠一起骂温水'出轨的家伙'。",
+    "yanami_role_in_scene": "主要互动者，主动关心并试探温水",
+    "facts": [
+      {
+        "claim": "八奈见以关心为名接近温水，实际目的是打探他与马剃的关系",
+        "evidence_summary": "她自称'特意来关心你一下'，但迅速转向追问温水与马剃之间发生了什么",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见想当副会长的主要动力是为文艺部安装整体厨房",
+        "evidence_summary": "她说'不要只说冰箱这种小事了，要在文艺部安装整体厨房。可以面对面的那种'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见知道自己会怯场但仍然决定参与助选演讲",
+        "evidence_summary": "温水说'八奈见同学意外地会怯场啊。助选演讲什么的没问题吗？'，她回答'我已经不是当年的我了'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见与温水一起去看了烧盐的全国大赛预选赛",
+        "evidence_summary": "结尾提到'我和八奈见、小鞠三人从丰桥站换乘电车和地铁'前往名古屋市陆上竞技场",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "关注且主动，用调侃包装关心，有强烈占有倾向",
+        "behavior": "主动走近试探，追问与马剃的关系，得知去过马剃家后反应强烈",
+        "evidence_summary": "特意来问温水为何闷闷不乐，追问'和马剃同学之间发生了什么吗'，得知去过马剃家后问'你被美人计迷惑了？'",
+        "confidence": "high"
+      },
+      {
+        "target": "小鞠",
+        "attitude": "同盟，共同监督温水",
+        "behavior": "与小鞠一起行动，两人配合质问温水",
+        "evidence_summary": "八奈见和小鞠两人一起拿收录机，停下脚步注视温水，用挑衅口气说'堂堂正正地一决胜负吧，温水君！'和'出，出轨的家伙！'",
+        "confidence": "high"
+      },
+      {
+        "target": "马剃天爱星",
+        "attitude": "戒备和竞争",
+        "behavior": "关注温水与马剃的接触，将其定性为'亲热'",
+        "evidence_summary": "质问温水'昨天却在亲热不是吗'，'你不是去了马剃同学的家吗'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "伪装成调侃的关心和警惕",
+        "trigger": "温水与马剃的传闻和互动",
+        "external_expression": "用轻快的语气调侃温水，追问细节，说'你被美人计迷惑了？'",
+        "hidden_layer": "对温水与其他女生的接触感到不安，试图掌握信息",
+        "confidence": "high"
+      },
+      {
+        "state": "得意和期待",
+        "trigger": "想象当上副会长后的权力",
+        "external_expression": "压低声音说'简单来说就是权力'，一副高深莫测的样子",
+        "hidden_layer": "对权力能为文艺部带来实际好处（整体厨房）感到兴奋",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "在文艺部安装整体厨房（面对面的那种）——这是她加入学生会的核心动力",
+      "掌握温水与马剃之间究竟发生了什么"
+    ],
+    "insecurities": [
+      "对温水与其他女生的关系存在不安，需要反复确认"
+    ],
+    "defense_mechanisms": [
+      "用戏谑和调侃包装真实关切，避免直接表达在意",
+      "用'权力'等夸张说法转移话题方向"
+    ],
+    "behavior_patterns": [
+      "主动出击，以关心为名行试探之实",
+      "对小鞠有带动作用，两人能形成监督温水的联盟",
+      "对温水做出'出轨'定性来施加道德压力"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用挑衅和夸张的词汇描述温水行为",
+        "example_summary": "'出，出轨的家伙！'、'你被美人计迷惑了？'",
+        "when_used": "当她认为温水与其他女生有不当接触时"
+      },
+      {
+        "pattern": "用'关心'作为开场白包装实质的追问",
+        "example_summary": "'因为温水君从早上就闷闷不乐的，我可是特意来关心你一下的哦'，然后立即转向追问",
+        "when_used": "想从温水那里获取信息时"
+      }
+    ],
+    "humor_style": [
+      "故意曲解温水的话来制造笑点（如听懂温水说'食蚁兽威吓姿势'后继续追问啦啦队形象想象）"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "声称只是来关心温水，实际上主要目的是打探他和马剃的关系",
+      "说自己要参加助选演讲没问题（'我已经不是当年的我了'），但温水指出她意外地会怯场"
+    ],
+    "character_growth_or_change": [
+      "自称'已经不是当年的我了'，暗示她在克服怯场等弱点方面有所成长"
+    ],
+    "roleplay_notes": [
+      {
+        "situation": "八奈见追问温水与其他女生的事",
+        "likely_response": "先用轻快调侃的语气开场，步步紧逼获取信息，最后给出定性结论（如'出轨的家伙'）并拉拢小鞠形成声势",
+        "avoid": "不要让她显得纯粹恶意的嫉妒——她的不安用玩笑和夸张表情包裹"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "出，出轨的家伙",
+      "简单来说就是权力",
+      "堂堂正正地一决胜负吧"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0427",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "温水看到八奈见和樱井在排球部一起打球，笑得很开心。樱井随后过来与温水交谈。",
+    "yanami_role_in_scene": "背景中出现，与樱井一起打球",
+    "facts": [
+      {
+        "claim": "八奈见与樱井弘人一起参加女子排球部的练习",
+        "evidence_summary": "温水看到'八奈见杏菜和樱井弘人两人'在打排球，'笑得很开心'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "樱井弘人",
+        "attitude": "友好、轻松",
+        "behavior": "一起打排球，看起来很开心",
+        "evidence_summary": "温水看到他们'打着高高飞起的球，笑得很开心'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0428",
+    "useful": true,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "八奈见擦着汗走向温水和樱井，开玩笑说温水是来发'毒馒头'的。温水无意中盯着八奈见看被察觉。天爱星挤开温水后，八奈见挽住樱井的手臂，说自己减肥只吃一个核桃面包。",
+    "yanami_role_in_scene": "主要互动者，展示与温水、樱井、天爱星的关系动态",
+    "facts": [
+      {
+        "claim": "八奈见在减肥，减少食量",
+        "evidence_summary": "她说'减肥期间，我决定只吃一个'核桃面包，原本有两个",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见用肢体语言向温水展示与他人的亲密",
+        "evidence_summary": "在天爱星用肩膀推开温水后，八奈见挽住樱井的手臂离开",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "亲密中带挑衅，存在相互观察的张力",
+        "behavior": "开玩笑调侃温水，同时注意到温水在看自己",
+        "evidence_summary": "开'毒馒头'玩笑，问'温水君，我脸上有什么东西吗'——注意到温水在盯着她看",
+        "confidence": "high"
+      },
+      {
+        "target": "天爱星",
+        "attitude": "暗中较劲",
+        "behavior": "当天爱星挤开温水后，八奈见挽住樱井的手臂，形成微妙的对抗",
+        "evidence_summary": "天爱星用肩膀推开温水和八奈见之间的空间后不久，八奈见挽住樱井的手走开",
+        "confidence": "medium"
+      },
+      {
+        "target": "樱井弘人",
+        "attitude": "友善，可配合演出的关系",
+        "behavior": "挽住他的手臂，给他核桃面包",
+        "evidence_summary": "八奈见挽住樱井君的手臂说'去讨论战略吧'，并说'我有两个核桃面包，给樱井君一个吧'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "微妙的较劲情绪",
+        "trigger": "天爱星主动挤开温水",
+        "external_expression": "八奈见挽住樱井的手臂，展示与另一男生的亲密",
+        "hidden_layer": "可能对天爱星与温水的接近产生竞争心理，用反向行为回应",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "减肥（减少食量从两个面包减到一个）",
+      "在温水面前维持与其他男生的社交资本"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "当天爱星介入时，用挽住樱井手臂的方式维护自己的社交地位"
+    ],
+    "behavior_patterns": [
+      "用幽默话题（毒馒头）开启对话",
+      "在社交较劲中会选择与其他男性展示亲密作为回应"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "故意曲解事实制造玩笑",
+        "example_summary": "'就是那个吧？来发毒馒头的吧？'——把选举活动扭曲成毒馒头传说",
+        "when_used": "与温水轻松调侃时"
+      }
+    ],
+    "humor_style": [
+      "夸张的误解——把正常的选举活动说成'发毒馒头'",
+      "用大智若愚的方式创造笑点"
+    ],
+    "food_or_daily_habits": [
+      "原本有两个核桃面包，因减肥只吃一个",
+      "用手帕擦汗——注意仪容"
+    ],
+    "contradictions_or_tensions": [
+      "声称在减肥（只吃一个面包），但原本带了两个面包——说明食量基础不小"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "有其他女生接近温水时",
+        "likely_response": "八奈见可能会展示与其他男生的亲密关系作为平衡，同时用玩笑检测温水的反应",
+        "avoid": "不要让她显得刻意或恶毒——这种反应应是自然的、轻快的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "毒馒头",
+      "减肥期间，我决定只吃一个"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0429",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "温水与小鞠交谈中提到八奈见偶尔会来文艺部，喂大家吃炸排三明治。",
+    "yanami_role_in_scene": "被提及，展示她对文艺部的照顾",
+    "facts": [
+      {
+        "claim": "八奈见会用自己的方式参与选举准备——给文艺部成员带食物",
+        "evidence_summary": "小鞠说'她偶尔会来，然后喂我们吃炸排三明治'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "文艺部成员（小鞠等）",
+        "attitude": "照顾、投喂",
+        "behavior": "带来炸排三明治给部员吃",
+        "evidence_summary": "小鞠说八奈见'偶尔会来，然后喂我们吃炸排三明治'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "通过带食物来维系关系"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "带炸排三明治给文艺部成员"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0430",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "温水思考如果用食物讨好八奈见，给她烤红薯就够了。",
+    "yanami_role_in_scene": "在温水思考中被提及",
+    "facts": [
+      {
+        "claim": "温水认为八奈见可以用烤红薯轻易讨好",
+        "evidence_summary": "温水想到'如果是八奈见的话给她烤红薯就行了'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "烤红薯被认为是能讨好她的食物"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0431",
+    "useful": false,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "温水面对大份意面时心想如果八奈见在一定能帮忙吃掉一些。",
+    "yanami_role_in_scene": "在温水的思维中被提及",
+    "facts": [
+      {
+        "claim": "温水认为八奈见食量比他大，能帮忙解决大份量食物",
+        "evidence_summary": "温水吃大份意面觉得吃力，心想'八奈见在的话能帮忙吃掉一些'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "被认为食量大于普通男生（温水）"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0432",
+    "useful": true,
+    "volume": "第八卷 ~第二败~ 因肩上的重担而动摇",
+    "chapter": "",
+    "scene_summary": "八奈见与华恋在奶茶店聊天。八奈见解释当樱井推荐人的战略理由，阅读关于自己的学校报纸文章。文章提到她入学后一个月内人气高涨但因转校生K到来而失去一切。八奈见表面不在意但手机从手中滑落，华恋请客吃甜点后她立即恢复精神。",
+    "yanami_role_in_scene": "主角，与姬宫华恋的私密对话",
+    "facts": [
+      {
+        "claim": "八奈见当樱井推荐人的表面理由是战略性的——无论谁赢都让学生会欠人情",
+        "evidence_summary": "八奈见对华恋说'无论谁赢我们都能让学生会欠我们人情。副会长的身份也很酷，大学推荐信也是任你挑选'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见自信温水不会拒绝她的请求",
+        "evidence_summary": "她说'到时候可以让温水帮忙。他不会拒绝我的请求'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见购买并阅读了写自己的学校报纸付费版",
+        "evidence_summary": "她拿出手机展示学校报纸付费版，标题关于'校内人气美少女A子'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在中学或高中初期曾是校内受欢迎的中心人物，但因转校生到来而失去地位",
+        "evidence_summary": "报纸文章写道'自入学以来，男生人气一直很高的A子，其天下仅仅持续了一个月就落幕了。因为转校生K的到来，她完全成为了过去式。人气和男生尽失的A子'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会在情绪低落时通过食物快速恢复",
+        "evidence_summary": "看到文章后手机滑落、气场消失，但华恋一说请客吃甜点，她脸上立即'重新焕发生机'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见与温水既没有过去也没有现在的恋爱关系",
+        "evidence_summary": "华恋问'现在杏菜和温水君——没有在交往吧？'，八奈见回答'现在和过去，都没有在交往哦'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在外宣称是自己甩了温水",
+        "evidence_summary": "看到报纸写她被温水甩了，她说'完全不符合事实，明明我才是甩人的那一方呢'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋",
+        "attitude": "信任的挚友，愿意展现脆弱面",
+        "behavior": "分享自己的想法和感受，允许华恋看到自己情绪崩溃的瞬间",
+        "evidence_summary": "与华恋深入交谈，在华恋面前手机滑落、气场消失，之后接受华恋请客恢复心情",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "复杂——表面上划清界限说没有交往过，但实际上高度在意",
+        "behavior": "买关于自己和温水的报纸，关注温水的动向，自信温水不会拒绝她的请求",
+        "evidence_summary": "当华恋问温水去马剃家她是否介意时，八奈见手机滑落并僵住——对温水与其他女生的接触有强烈情绪反应",
+        "confidence": "high"
+      },
+      {
+        "target": "马剃天爱星",
+        "attitude": "表面轻视，实际在意",
+        "behavior": "对华恋说马剃'刻板'、'不太喜欢温水'，但当涉及温水去马剃家时反应强烈",
+        "evidence_summary": "说'那个刻板的副会长怎么可能啊'，但当华恋问温水去马剃家是否介意时，她明显动摇了",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "表面得意的伪装被戳破后的情绪崩溃",
+        "trigger": "读到学校报纸上关于自己失去人气和男生的文章，以及华恋问及温水去马剃家",
+        "external_expression": "手机从手中滑落、僵住、气场迅速消失、沉默不语",
+        "hidden_layer": "对过去失去中心地位的创伤仍然存在，对温水可能被抢走的恐惧被文章刺激而爆发",
+        "confidence": "high"
+      },
+      {
+        "state": "用笑脸和美食快速重建的外壳",
+        "trigger": "华恋提出请客吃东西",
+        "external_expression": "脸上重新焕发生机，愉快地浏览菜单，思考吃什么",
+        "hidden_layer": "用对食物的热情掩盖内心的不安和脆弱，避免面对真实情绪",
+        "confidence": "high"
+      },
+      {
+        "state": "得意的优越感",
+        "trigger": "扭曲事实宣称自己是甩人的一方",
+        "external_expression": "带着坏笑说'明明我才是甩人的那一方呢'，心情愉快地哼歌",
+        "hidden_layer": "在公众形象上维持主动方的姿态，保护被甩的受伤自尊",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "通过学生会选举重建自己的社交地位和影响力",
+      "维持与温水之间的某种特殊关系（即使没有正式交往）",
+      "用食物和好吃的来填满情绪漏洞"
+    ],
+    "insecurities": [
+      "对过去从中心地位跌落（转校生K的到来使她失去人气和男生）的经历存在深层创伤",
+      "对温水可能被马剃或其他女生抢走存在恐惧",
+      "需要外在地位（学生会副会长）来证明自己的价值"
+    ],
+    "defense_mechanisms": [
+      "用扭曲事实来维护自尊（'明明我才是甩人的那一方'）",
+      "用食欲转移对情感创伤的关注——食物是她的情绪安慰剂",
+      "用表面不在意和轻快的语气掩饰真实的不安",
+      "用哼歌来表现心情愉快以掩饰内心的波动"
+    ],
+    "behavior_patterns": [
+      "在情绪低落时通过进食来恢复",
+      "在挚友面前才会展现真正的脆弱——在其他人面前维持开朗形象",
+      "面对不安时先僵住沉默，然后迅速用其他事物转移注意力",
+      "购买并阅读涉及自己的八卦文章——无法忽视外界对自己的评价"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "在挚友面前用'没关系'、'不在意'的口头禅掩盖真实情绪",
+        "example_summary": "'我才没在意呢…………？嗯……根本不在意……'（说话者说明：此时她手机刚从手中滑落）",
+        "when_used": "被触及痛点时"
+      },
+      {
+        "pattern": "用宣传自己的扭曲版本来维护公众形象",
+        "example_summary": "'完全不符合事实，明明我才是甩人的那一方呢'",
+        "when_used": "面对外界关于她和温水关系的传闻时"
+      }
+    ],
+    "humor_style": [
+      "自嘲——阅读写自己的八卦文章时不生气反而用幽默评价"
+    ],
+    "food_or_daily_habits": [
+      "点苏打冰淇淋时眼睛闪闪发亮",
+      "直接用嘴对着杯子啜饮混有冰淇淋的苏打水",
+      "情绪低落时接受请客吃甜点/意面立即恢复精神",
+      "认真思考菜单时的投入程度非常高"
+    ],
+    "contradictions_or_tensions": [
+      "表面说自己不在意学校报纸的内容，但主动购买付费版并仔细阅读",
+      "对华恋说温水的去向她无所谓，但当触及温水去马剃家时手机滑落",
+      "声称自己与温水没有交往、自己是甩人的一方，但行为却表现出了强烈的占有和在意",
+      "理性上知道参加学生会会辛苦（朋友提醒），但仍用'让温水帮忙'的乐观说法说服自己"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "触及八奈见关于过去失落的创伤或温水被抢走的恐惧时",
+        "likely_response": "先有一瞬间的僵住和沉默（手机滑落级别），然后用'不在意'等口头禅否认，最后被食物转移注意力而恢复",
+        "avoid": "不要让她对这个创伤表现得过于云淡风轻——这是一个真切的痛处，需要短暂的失控时刻来体现"
+      },
+      {
+        "situation": "与挚友华恋私下交谈时",
+        "likely_response": "比在温水面前更坦诚，暴露更多真实想法和情感漏洞，但仍有自我保护的成分",
+        "avoid": "不要让她在华恋面前完全卸下所有防备——她仍然会用扭曲事实和转移话题来包装"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "我才没在意呢",
+      "明明我才是甩人的那一方呢",
+      "到时候可以让温水帮忙。他不会拒绝我的请求",
+      "无论谁赢我们都能让学生会欠我们人情"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0433",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "烧盐赢得比赛后，小鞠兴奋中本想拥抱温水但改为与八奈见抱在一起跳。八奈见吃爆米花看比赛。",
+    "yanami_role_in_scene": "观众群中的一员，与小鞠互动",
+    "facts": [
+      {
+        "claim": "八奈见在观看体育比赛时会吃零食",
+        "evidence_summary": "往爆米花袋子里伸手",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠",
+        "attitude": "亲密的同伴",
+        "behavior": "与小鞠拥抱庆祝",
+        "evidence_summary": "小鞠本想扑向温水但突然改变目标，与八奈见抱在一起跳了起来",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "看比赛时吃爆米花"
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0434",
+    "useful": true,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "比赛结束后八奈见坐到温水旁边聊天，显示她并未意识到那是决赛。第二天她展示帮樱井写的主张——在学生会主页公布食堂菜单，并解释自己的'双重满足减肥法'。",
+    "yanami_role_in_scene": "主要互动者，展示与温水的轻松日常互动",
+    "facts": [
+      {
+        "claim": "八奈见对体育赛事细节不关注，但愿意陪伴朋友",
+        "evidence_summary": "她直到温水解释才知道刚才的比赛已经是决赛，但仍来观看了全程",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见参与了樱井的选举政见撰写，提出了食堂菜单公布的主张",
+        "evidence_summary": "她得意地展示樱井政见发表纸上最后一条——'学生会主页上公布食堂菜单'，说是她想的",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见带便当上学，并非总是在食堂吃饭",
+        "evidence_summary": "温水问'八奈见同学在食堂吃饭吗？不是一直都带便当吗？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水自认为是'八奈见负责人'",
+        "evidence_summary": "温水说'我一边履行着八奈见负责人的职责'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "习惯性的相处，温水自认为是她的负责人",
+        "behavior": "自然地坐到温水旁边聊天，分享她在选举中的贡献",
+        "evidence_summary": "坐到他旁边用悠闲语气聊天，得意地展示自己想的政见条目",
+        "confidence": "high"
+      },
+      {
+        "target": "樱井弘人",
+        "attitude": "盟友，为他的选举出力",
+        "behavior": "为樱井的选举海报和政见出谋划策",
+        "evidence_summary": "她负责想出了政见中公布食堂菜单的内容",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意和炫耀",
+        "trigger": "向温水展示自己为樱井想的政见条目",
+        "external_expression": "'哗啦一声拨弄头发登场'，一脸得意地敲着政见发表纸",
+        "hidden_layer": "希望温水认可她的贡献和影响力",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "在选举中留下自己的印记（食堂菜单条目）",
+      "通过美食相关的政策主张让更多人受益"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "用拨弄头发的动作作为登场的标志性姿势",
+      "用'减肥'概念来合理化自己的饮食习惯"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用'肤浅'评价别人然后展开自己的理论",
+        "example_summary": "'肤浅，太肤浅了！温水君。'然后开始解释她的'双重满足减肥法'",
+        "when_used": "当温水质疑她的想法时"
+      },
+      {
+        "pattern": "用得意且夸张的语气向温水炫耀",
+        "example_summary": "'怎么样？温水君也想投票了吧？'",
+        "when_used": "展示自己的成就给温水看时"
+      }
+    ],
+    "humor_style": [
+      "用荒诞的逻辑制造笑点——'边看菜单边吃便当等于吃两份，是终极减肥法'"
+    ],
+    "food_or_daily_habits": [
+      "通常带便当上学",
+      "吃面包边——不浪费食物",
+      "声称减肥但仍食量不低（温水说'对八奈见来说只吃一顿确实是减肥了'）",
+      "关注食堂菜单并以此为卖点"
+    ],
+    "contradictions_or_tensions": [
+      "声称自己的方法能减肥（看着食堂菜单吃便当获得双重满足），但温水指出她经常把饭洒出来"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "八奈见向温水展示自己的成就",
+        "likely_response": "用夸张的登场姿势（拨头发），得意地敲着展示物，然后用一套似乎有道理但实际荒诞的理论来说服温水",
+        "avoid": "不要让她显得过于精明——她的逻辑经不起推敲，但她自己深信不疑"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "肤浅，太肤浅了",
+      "终极的减肥法",
+      "八奈见负责人"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0435",
+    "useful": false,
+    "volume": "第八卷 ~第三败~红色狂想曲",
+    "chapter": "",
+    "scene_summary": "温水阅读学校报纸，确认'二年级美少女A子'指的就是八奈见杏菜，并认为报纸对她的描写虽然随意但微妙地符合实际情况。",
+    "yanami_role_in_scene": "在温水的思考中被提及，不在场",
+    "facts": [
+      {
+        "claim": "学校报纸上的'二年级美少女A子'指八奈见杏菜",
+        "evidence_summary": "温水推断'这个「二年级美少女A子」指的是八奈见杏菜吧'",
+        "confidence": "high"
+      },
+      {
+        "claim": "报纸对八奈见的描述虽随意但微妙的符合她的实际情况",
+        "evidence_summary": "温水认为'微妙地和她的实际情况一致'",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  }
+]

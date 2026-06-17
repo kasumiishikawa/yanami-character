@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+
+# Temp files
+temp/
+
+# Novel source text (copyrighted - do not commit)
+data/novels/
+data/extracted/novel_normalized_utf8.txt
+data/extracted/novel_paragraphs.jsonl
+
+# AstrBot configuration (contains API keys)
+data/cmd_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

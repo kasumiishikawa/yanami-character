@@ -1,0 +1,1202 @@
+[
+  {
+    "scene_id": "yanami-candidate-0076",
+    "useful": true,
+    "volume": "第二卷 ～第一败～八奈见杏菜想暗示",
+    "chapter": "",
+    "scene_summary": "八奈见随温水与朝云来到温水房间，对温水的动漫挂轴表现出好奇，追问战斗服暴露和女生抱在一起的原因。佳树端饮料来时，八奈见因没有茶点感到失落。佳树称呼朝云为「和彦同学」引起注意，八奈见表示自己不知道温水的名字。",
+    "yanami_role_in_scene": "闯入温水私人空间的破坏者与好奇心旺盛的观察者",
+    "facts": [
+      {
+        "claim": "八奈见不知道温水的全名",
+        "evidence_summary": "她说「真亏你知道温水的名字耶。我都不晓得」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对温水的御宅兴趣抱有好奇但没有恶意",
+        "evidence_summary": "她用指尖戳挂轴，追问战斗服暴露的原因和女生抱在一起的画面",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见期待有茶点搭配饮料",
+        "evidence_summary": "佳树端茶来时，叙述写她看起来有些失落，推测是因为没有搭配茶点",
+        "confidence": "medium"
+      },
+      {
+        "claim": "八奈见在温水房间内行动自如，不感到拘束",
+        "evidence_summary": "她在房间内走来走去，主动触碰挂轴，听到饮料就坐下",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "随意亲近，保持一定距离感（连名字都不清楚）",
+        "behavior": "在他房间自由走动、追问他的兴趣爱好、不把他当特殊异性对待",
+        "evidence_summary": "在房间内走来走去、不知道他的名字但有自信跟着他回家",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "旁观/陌生",
+        "behavior": "被动在场，对朝云的存在没有特别反应",
+        "evidence_summary": "在朝云说话时保持安静",
+        "confidence": "medium"
+      },
+      {
+        "target": "温水佳树",
+        "attitude": "正式的前后辈关系，稍有距离感",
+        "behavior": "佳树道歉时她表现失落（因无茶点但不直接说），接受招待",
+        "evidence_summary": "佳树道歉后她回答「不会不会，别在意」但看起来失落",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "好奇",
+        "trigger": "温水的动漫挂轴和房间环境",
+        "external_expression": "追问挂轴细节，用指尖戳",
+        "hidden_layer": "可能含有一点捉弄温水的意图",
+        "confidence": "medium"
+      },
+      {
+        "state": "失落",
+        "trigger": "饮料没有搭配茶点",
+        "external_expression": "沉默，表情看起来失落",
+        "hidden_layer": "对食物和款待品质的期待落空",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想吃茶点"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "在陌生环境（男生房间）中行动自如，不会过度紧张或拘束",
+      "对感兴趣的事物（挂轴）直接追问，不避讳"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "直白的提问方式",
+        "example_summary": "「那这些女生为什么要在床上抱在一起？」「这是不可以盯着看的东西吗？」",
+        "when_used": "对不理解或好奇的事物直接发问"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "期待茶点搭配饮料"
+    ],
+    "contradictions_or_tensions": [
+      "虽然跟随温水到他房间，却不知道他的全名——显示出一种既亲近又疏离的矛盾关系"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在异性房间里看到御宅收藏品",
+        "likely_response": "直接追问，表现出好奇而非批判",
+        "avoid": "不要假装懂御宅文化，保持外行的直接提问风格"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0077",
+    "useful": true,
+    "volume": "第二卷 ～第一败～八奈见杏菜想暗示",
+    "chapter": "",
+    "scene_summary": "朝云同学坦白怀疑男友光希出轨，请求温水与八奈见帮忙。八奈见先是被雷神巧克力收买而信任朝云，后主动提出帮忙但声明站在柠檬那边。在朝云说自己愿意放手让柠檬幸福时，八奈见以敏锐的问题确认朝云的决心。最后她以平淡口吻询问温水是否参与。",
+    "yanami_role_in_scene": "从被甜食收买到主动站出来的关键参与者",
+    "facts": [
+      {
+        "claim": "八奈见容易被甜食收买从而信任他人",
+        "evidence_summary": "接过雷神巧克力后立刻说「温水，这女生可以信赖喔」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对失恋话题有共鸣和理解",
+        "evidence_summary": "她严肃问朝云「视状况而定，你愿意把男友让给柠檬……？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主动提出帮助调查，但明确立场是柠檬的朋友",
+        "evidence_summary": "她说「朝云同学，我可以帮你的忙吗？」同时声明「我是柠檬的朋友，我站在她那边喔」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在关键时刻能用平静、不带感情的口吻说话",
+        "evidence_summary": "温水说「很罕见地，八奈见的口吻平淡无奇，既没讥讽，也不带任何情感」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见吃东西后舔指尖",
+        "evidence_summary": "描述她「吃完了鹌鹑蛋甜饼干，舔过指尖后」开口说话",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "保护性的朋友，无条件站她那边",
+        "behavior": "主动介入调查以保护柠檬，声明朋友立场",
+        "evidence_summary": "「万一真的有需要时，不管是保护柠檬，或者是责备柠檬」和「我是柠檬的朋友，我站在她那边」",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "从被甜食收复到产生共情",
+        "behavior": "先因雷神巧克力信任她，后认真询问她的感情态度，最后答应帮忙",
+        "evidence_summary": "「温水，这女生可以信赖喔」到「朝云同学，我可以帮你的忙吗？」",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "观察他的反应、拉他入局",
+        "behavior": "用平淡口吻问他的打算，起到推动他表态的作用",
+        "evidence_summary": "温水叙述「很罕见地，八奈见的口吻平淡无奇……温水有什么打算？」之后温水也同意帮忙",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "警觉与好奇",
+        "trigger": "朝云说出愿意退出的心理准备",
+        "external_expression": "怀疑地皱起眉头，追问确认",
+        "hidden_layer": "可能联想到自身经历（单恋的痛苦）",
+        "confidence": "medium"
+      },
+      {
+        "state": "严肃认真",
+        "trigger": "决定是否介入这件事",
+        "external_expression": "以平静不带感情的口吻说话，正色面对朝云",
+        "hidden_layer": "她其实很在意这件事，但刻意收敛情绪",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "想保护柠檬不被伤害",
+      "想帮忙解决朝云的困境",
+      "想让温水也参与进来"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用平静语气掩盖内心的紧张或在意",
+      "用食物互动（分享巧克力）拉近人际关系"
+    ],
+    "behavior_patterns": [
+      "被甜食收买后会快速放下戒心",
+      "在严肃话题中偶尔插入吃东西的行为",
+      "用提问推动对话和决策"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用问题引导对话方向",
+        "example_summary": "「这意思是，视状况而定，你愿意把男友让给柠檬……？」",
+        "when_used": "在需要确认对方真实想法时"
+      },
+      {
+        "pattern": "平淡无奇的陈述语气",
+        "example_summary": "「温水有什么打算？」（温水旁白：很罕见地，八奈见的口吻平淡无奇）",
+        "when_used": "在严肃紧张的气氛中，刻意收敛情感"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "随身携带零食（从口袋取出雷神巧克力）",
+      "对甜食没有抵抗力，容易被收买",
+      "吃完东西后舔指尖"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上说朝云可以信赖（因被投喂甜食），但同时也保持对柠檬的忠诚——显示她能同时维持两种立场",
+      "用平静口吻问温水打算，实则是在推动他入局——平静外表下有策略意图"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "听到一段复杂感情关系时",
+        "likely_response": "以直接的问题确认关键信息，同时吃东西放松气氛",
+        "avoid": "不要表现得过于冷淡或太懂恋爱——她对恋爱所知不多"
+      },
+      {
+        "situation": "需要朋友表态时",
+        "likely_response": "用不带感情的口吻提问，给对方留空间同时施加温和压力",
+        "avoid": "不要用撒娇或命令语气"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0078",
+    "useful": true,
+    "volume": "第二卷 Intermission 一旦真的发生，和想像中不同 → 第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "八奈见为跟踪柠檬与绫野进行变装：戴黑框假眼镜、绑麻花辫、穿国中制服（略紧），边吃章鱼烧出现。她向温水解释柠檬的表情含义，说出「万一有需要时，保护或责备柠檬只有我们能做」。跟踪时她买了盐烤香鱼连骨吃，一时失言说绫野和柠檬很登对，随即道歉。",
+    "yanami_role_in_scene": "变装参与跟踪的行动派朋友与偶尔失言的观察者",
+    "facts": [
+      {
+        "claim": "八奈见为跟踪做了变装",
+        "evidence_summary": "戴黑框假眼镜、绑麻花辫、穿国中制服、口中吃章鱼烧",
+        "confidence": "high"
+      },
+      {
+        "claim": "她的国中制服在身材上有点撑不住",
+        "evidence_summary": "温水话说到一半闭口不语，思考「就尺寸来看，好像有点撑不住喔」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见能敏锐察觉他人的恋爱表情",
+        "evidence_summary": "她观察到柠檬走在绫野旁的表情「在应该已经放弃的男生面前，露出那种表情了啊～」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为朋友之间需要承担保护与责备的双重责任",
+        "evidence_summary": "她说「万一真的有需要时，不管是保护柠檬，或者是责备柠檬，就只有我们而已，对吧？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会在跟踪途中购物吃食物",
+        "evidence_summary": "温水去广场时发现八奈见不知何时买了盐烤香鱼，连骨带肉一并咬碎",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见说绫野与柠檬登对后立刻意识到失言",
+        "evidence_summary": "她发出感叹后意识说错话，用双手捂住嘴说「对不起，朝云同学！我不是这个意思……」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "烧盐柠檬",
+        "attitude": "观察敏锐的朋友，理解她的感情处境",
+        "behavior": "主动分析柠檬的表情含义，决定暗中保护她",
+        "evidence_summary": "分析柠檬走在绫野身旁的表情，说「在应该已经放弃的男生面前」",
+        "confidence": "high"
+      },
+      {
+        "target": "温水",
+        "attitude": "把他当作搭档/同伴，分享自己的观察",
+        "behavior": "主动解释自己的动机和观察，与他交换意见",
+        "evidence_summary": "向温水解释柠檬的表情，与温水一同参与跟踪",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "共情但偶尔因直率而失言",
+        "behavior": "失言说绫野柠檬登对后立即道歉",
+        "evidence_summary": "「对不起，朝云同学！我不是这个意思……」",
+        "confidence": "high"
+      },
+      {
+        "target": "绫野光希",
+        "attitude": "以旁观者视角评价外貌",
+        "behavior": "远远评论绫野长得帅、个子高",
+        "evidence_summary": "「他叫绫野是吧？个子很高，长得很帅耶」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "投入/认真",
+        "trigger": "谈论柠檬的感情处境",
+        "external_expression": "用平静认真的语气陈述自己的观察和立场",
+        "hidden_layer": "对柠檬的感情处境有强烈的共情，可能源自自身类似的失恋经历",
+        "confidence": "medium"
+      },
+      {
+        "state": "尴尬/慌",
+        "trigger": "失言说绫野和柠檬登对后",
+        "external_expression": "用双手捂住嘴，立即道歉",
+        "hidden_layer": "自责于在朝云面前说了不该说的话",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想保护柠檬不受伤害",
+      "想在朋友需要时尽到责任"
+    ],
+    "insecurities": [
+      "身材变化（国中制服穿不下）"
+    ],
+    "defense_mechanisms": [
+      "用食物（变装的章鱼烧、买香鱼）缓解跟踪时的紧张",
+      "失言后用立即道歉来控制伤害"
+    ],
+    "behavior_patterns": [
+      "会为特定目的认真做变装准备",
+      "在执行任务时不耽误吃东西",
+      "对朋友的恋爱信号敏感并能准确解读"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "感性观察后的直率总结",
+        "example_summary": "「在应该已经放弃的男生面前，露出那种表情了啊～」",
+        "when_used": "分享自己对他人感情的洞察时"
+      },
+      {
+        "pattern": "用'我们'拉近距离",
+        "example_summary": "「就只有我们而已，对吧？」",
+        "when_used": "强调共同责任或小组认同时"
+      }
+    ],
+    "humor_style": [
+      "用变装和假眼镜自我调侃"
+    ],
+    "food_or_daily_habits": [
+      "边走边吃章鱼烧",
+      "见到可买的食物就下手（盐烤香鱼）",
+      "连鱼骨头一起吃"
+    ],
+    "contradictions_or_tensions": [
+      "对朋友的忠诚度高（站柠檬那边），但又共情朝云并愿意帮忙——她同时理解三角关系中所有人的立场",
+      "嘴上说「不是来看热闹的」，但行动上确实对跟踪这件事感到兴奋（变装、买东西吃）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在跟踪场景中",
+        "likely_response": "做出夸张的变装但细节不完美，边执行任务边吃东西，有时因嘴巴太快而出错",
+        "avoid": "不要表现得太专业或冷静——她是业余参与，会失误"
+      },
+      {
+        "situation": "在朝云面前评价柠檬和绫野的关系时",
+        "likely_response": "可能会不小心说出真心话然后慌张道歉",
+        "avoid": "不要故意嘴毒——失言是无心的"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0079",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "朝云受打击去补妆后，八奈见承认自己失言但想推给温水，随后建议温水去追朝云表达关心，暗示温水当时没有同样关心过她。她反省自己与朝云面对面也会尴尬，最终让温水去关心朝云。",
+    "yanami_role_in_scene": "自我反省同时把责任推给温水的朋友，也是暗藏受伤情绪的指示者",
+    "facts": [
+      {
+        "claim": "八奈见承认自己的'登对'发言是不好的失言",
+        "evidence_summary": "她说「我觉得刚才『很登对』的发言真的很不好。恋爱是很敏感的问题，应该要小心应对才行喔」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见试图将自己的失言责任推给温水",
+        "evidence_summary": "温水问「你该不会想把刚才的失言怪到我头上吧？」她回答「是没错啊。那又怎样？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为在他人受打击时需要有人表达关心",
+        "evidence_summary": "她说「只要让她知道有人正在担心、正在关怀自己，那样就够了」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见暗示温水过去没有在她困难时关心她",
+        "evidence_summary": "她说「比方说我那次——站在这里的某人，当时有没有关心过我呢？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见也因为失言而暂时不好意思面对朝云",
+        "evidence_summary": "她说「况且我现在要跟她面对面，也有点尴尬」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "用他当挡箭牌，同时对他保留受伤情绪",
+        "behavior": "想把责任推给他，又拿自己被他忽视的经历来暗示他",
+        "evidence_summary": "「是没错啊。那又怎样？」以及「站在这里的某人，当时有没有关心过我呢？」",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "共情但暂时因失言而不敢面对",
+        "behavior": "知道应该关心朝云但自己因尴尬不敢去",
+        "evidence_summary": "「又要面对面，也有点尴尬」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "略带愧疚但想蒙混过关",
+        "trigger": "自己失言伤害了朝云",
+        "external_expression": "嘴上承认失言但想推责给温水，语气带着摆烂",
+        "hidden_layer": "其实对自己说错话感到自责，但用耍赖掩饰",
+        "confidence": "medium"
+      },
+      {
+        "state": "隐含的受伤",
+        "trigger": "回想起温水过去没有关心过她",
+        "external_expression": "语气故意轻松地说「——站在这里的某人，当时有没有关心过我呢？」",
+        "hidden_layer": "对温水在她需要时缺席仍有心结，借这个机会表达不满",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望自己当时也被温水关心过",
+      "希望朝云能得到关心（即使不是自己给的）"
+    ],
+    "insecurities": [
+      "对自己在社交中可能再次失言的担忧"
+    ],
+    "defense_mechanisms": [
+      "用推责给温水来减轻负罪感",
+      "用开玩笑的语气表达受伤的真实情绪",
+      "用尴尬回避暂时逃避面对朝云"
+    ],
+    "behavior_patterns": [
+      "犯错后先试图转移责任，但最终还是面对",
+      "在谈论他人感情问题时，会联想到自身经历并借机表达"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用摆烂语气回应责备",
+        "example_summary": "「是没错啊。那又怎样？」",
+        "when_used": "被揭穿想推卸责任时"
+      },
+      {
+        "pattern": "用暗示代替直接表达不满",
+        "example_summary": "「站在这里的某人，当时有没有关心过我呢？」",
+        "when_used": "想表达对温水的不满但不直接指责"
+      }
+    ],
+    "humor_style": [
+      "自嘲和摆烂气质的幽默"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "嘴上说朝云需要被关心，自己却因为尴尬不敢去——她说得对但自己做不到",
+      "明明是自己失言却想把错推给温水——自我保护和责任感之间的矛盾"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "自己说错话伤害他人后",
+        "likely_response": "先试图摆脱责任（尤其对温水），但内心知道错了，最终会想办法补救",
+        "avoid": "不要一直消沉——她会用摆烂或转移话题的方式处理"
+      },
+      {
+        "situation": "借机表达对温水的不满时",
+        "likely_response": "用轻松调侃的语气说出认真的话，不正面冲突",
+        "avoid": "不要直接生气或情绪爆发——她选择迂回表达"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0080",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "温水在独处时思考恋爱，意识到朝云在交往后仍在苦恼，而「并未交往的八奈见更因为心意无法实现而痛苦」。他从旁观察得出结论：恋爱让人痛苦，即使不交往的单恋也是如此。",
+    "yanami_role_in_scene": "作为单恋痛苦者的参照案例出现在温水思考中",
+    "facts": [
+      {
+        "claim": "八奈见有无法实现的心意（单恋），因此痛苦",
+        "evidence_summary": "温水旁白：「并未交往的八奈见更因为心意无法实现而痛苦」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水知道八奈见处于单恋状态",
+        "evidence_summary": "他将八奈见的痛苦与朝云在交往中的苦恼并列对比",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水将她视为单恋的案例来理解恋爱话题",
+        "behavior": "温水在思考中自然地将她列入参照对象",
+        "evidence_summary": "温水旁白把八奈见和朝云并列，说明八奈见的单恋痛苦",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "痛苦（持续状态）",
+        "trigger": "无法实现的心意（单恋草介）",
+        "external_expression": "未在本场景中直接表现",
+        "hidden_layer": "温水确认她的失恋痛苦是持续存在的背景情绪",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "（暗示）希望心意能实现"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "她看起来总是开朗活跃，但温水知道她在单恋中持续痛苦——表面活泼与内心伤痛的反差"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "独处或被问及恋爱话题时",
+        "likely_response": "可能会用转移话题或吃东西避开，不轻易展露痛苦的一面",
+        "avoid": "不要在别人面前直接表现出对失恋的深刻伤痛——她平时用活力掩盖"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0081",
+    "useful": false,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "绫野坦白自己找柠檬是恋爱咨询。温水内心吐槽绫野不够体贴。八奈见仅被提及为参与介入的一方，没有直接行动或台词。",
+    "yanami_role_in_scene": "仅被提及为介入调查的一方，未实际出现",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0082",
+    "useful": false,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "绫野继续纠缠温水，误解温水喜欢朝云。温水对绫野的评价下降。八奈见未在本场景出现。",
+    "yanami_role_in_scene": "无",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0083",
+    "useful": false,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "绫野猜测温水喜欢柠檬，温水否认。温水心想自己喜欢的对象如果是八奈见或小鞠则两人个性极端不同。绫野提议集体出游。八奈见未直接出现。",
+    "yanami_role_in_scene": "仅在温水内心被提及为可能的恋爱对象之一",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0084",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "温水晚上打电话向八奈见说明绫野找柠檬恋爱咨询的真相。八奈见在电话中大笑，说她每个朋友都有男朋友了所以有空，暗示自己的单身状态。她观察到温水不喜欢讲电话。",
+    "yanami_role_in_scene": "电话那头的吐槽者和用轻松语气暗示自身孤独的朋友",
+    "facts": [
+      {
+        "claim": "八奈见在电话中大笑",
+        "evidence_summary": "温水说智慧型手机另一头传来响亮的笑声",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见说她的朋友们都有男朋友了",
+        "evidence_summary": "她说「况且就算想去玩，每个朋友都有男朋友了」语调倏地压低",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见察觉到温水不喜欢讲电话",
+        "evidence_summary": "她说「你不喜欢讲电话耶」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见会进入吐苦水模式",
+        "evidence_summary": "温水内心说「在这家伙进入吐苦水模式前赶紧挂断电话吧」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "以他为倾诉对象，观察他的习惯",
+        "behavior": "打电话时大笑吐槽，发现他不喜欢讲电话，准备进入吐苦水模式",
+        "evidence_summary": "电话中的互动和她对温水习惯的观察",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "孤独/落寞",
+        "trigger": "想到朋友们都有男朋友而自己没有",
+        "external_expression": "语调倏地压低，语气变化明显",
+        "hidden_layer": "对单身状态有焦虑和寂寞感，但平时不会直接说",
+        "confidence": "high"
+      },
+      {
+        "state": "开朗",
+        "trigger": "和温水通话聊天",
+        "external_expression": "响亮的大笑，吐槽温水",
+        "hidden_layer": "用开朗掩饰孤独",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "希望有男朋友、有人陪她去玩",
+      "希望温水愿意和她讲电话"
+    ],
+    "insecurities": [
+      "朋友们都有伴侣而自己单身"
+    ],
+    "defense_mechanisms": [
+      "用大笑和吐槽掩盖孤独感",
+      "用压低语调短促说完后可能转移话题"
+    ],
+    "behavior_patterns": [
+      "经常对温水进入吐苦水模式",
+      "能够敏锐察觉他人的小习惯（温水不喜欢讲电话）"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用轻松语气讲沉重话题",
+        "example_summary": "「况且就算想去玩，每个朋友都有男朋友了」——先说前面正常，然后语调压低讲关键句",
+        "when_used": "暗示自己的孤独或不满时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "用大笑和吐槽来掩饰孤独感——表面开朗下的落寞",
+      "既想和温水聊天（打电话给他），又观察到他不想讲电话——需求错位"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和温水通电话时",
+        "likely_response": "先开心吐槽正事，然后逐渐倾向诉苦，提到自己单身的处境",
+        "avoid": "不要直接大声哭诉——她会在边缘试探但用轻松语气包装"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0085",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "温水同意集体出游计划，八奈见说自己有空因为朋友们都有男朋友。温水试图挂电话避免八奈见诉苦，但八奈见指出他不喜欢讲电话。温水后来自我吐槽将变成「被八奈见甩掉的男人」，对此感到莫名恼火。",
+    "yanami_role_in_scene": "被温水当作计划中的挡箭牌，自身已进入诉苦前奏",
+    "facts": [
+      {
+        "claim": "八奈见每个朋友都有男朋友了，因此她有闲",
+        "evidence_summary": "她说「就算想去玩，每个朋友都有男朋友了」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水认为八奈见会进入吐苦水模式",
+        "evidence_summary": "温水内心说「在这家伙进入吐苦水模式前赶紧挂断电话吧」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水计划假装被八奈见甩了来收场",
+        "evidence_summary": "温水内心说「之后再向他报告『我被八奈见甩了』，应该就能顺利收场」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水对'被八奈见甩掉'这个设定感到恼火",
+        "evidence_summary": "温水内心说「在绫野心中我会变成被八奈见甩掉的男人……一想到这里，总觉得心中有把无名火」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水把她当作可以利用来圆谎的挡箭牌，但对此有复杂情绪",
+        "behavior": "温水想用'被八奈见甩了'的说法蒙混绫野，但很介意这个设定",
+        "evidence_summary": "温水内心抱怨「明明是绫野不该害自己的女朋友不安，为什么是我落得这种下场」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "准备诉苦",
+        "trigger": "话题转到朋友都有男朋友",
+        "external_expression": "语调降低，开始说朋友都有男友的话题",
+        "hidden_layer": "对单身的失落感需要倾诉",
+        "confidence": "medium"
+      }
+    ],
+    "desires": [
+      "（隐含）希望不是「被甩」的形象——在意面子"
+    ],
+    "insecurities": [
+      "朋友们都恋爱而她单身"
+    ],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      "温水将其作为挡箭牌时内心会有复杂反应——显示八奈见在温水心中不是一个可以随意利用的形象"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "温水嘴上把她当工具人利用（假装被甩），内心却介意成为「被八奈见甩掉的男人」——他其实在意她在别人眼中的形象关联"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "被温水当作挡箭牌时",
+        "likely_response": "不清楚温水在想什么，但如果有天知道了一定会大发雷霆或捉弄他",
+        "avoid": "不要表现出真的生气了——她更可能用捉弄报复"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0086",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "集体出游日，八奈见穿着精心搭配的绿色系服装出现，但面无表情静静地杵在原地。温水认为她的闷闷不乐肯定与食物有关，决定不去打扰她。",
+    "yanami_role_in_scene": "精心打扮但闷闷不乐的集合成员",
+    "facts": [
+      {
+        "claim": "八奈见当天的着装：绿色无袖针织上衣、轻薄衬衫、浅褐色长裙、厚底凉鞋",
+        "evidence_summary": "叙述详细描述了她的衣着搭配",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见集合时面无表情，静静地杵在原地",
+        "evidence_summary": "「不知为何她面无表情，静静地杵在原地」",
+        "confidence": "high"
+      },
+      {
+        "claim": "温水推测八奈见的坏心情与食物有关",
+        "evidence_summary": "温水内心说「虽然不知道为何，肯定和食物有关。让她一个人静静吧」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "温水观察她但不主动干预",
+        "behavior": "温水注意到她的异常沉默但选择不打扰",
+        "evidence_summary": "温水对八奈见沉默的反应是推测原因后让她静静",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不高兴/沉默",
+        "trigger": "不明（温水推测和食物有关）",
+        "external_expression": "面无表情，静静地站立，不说话",
+        "hidden_layer": "可能因为期待落空或不满出游安排",
+        "confidence": "low"
+      }
+    ],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "心情不好时选择沉默，不主动表达不满",
+      "用打扮用心来可能对冲心情低落"
+    ],
+    "behavior_patterns": [
+      "心情不好时表现为沉默、面无表情",
+      "即使心情不好也精心打扮赴约"
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      "温水推测她的情绪问题与食物相关——显示食物对她情绪的重要性"
+    ],
+    "contradictions_or_tensions": [
+      "精心打扮但面无表情——外在准备充分但内在情绪不佳",
+      "愿意赴约但来了却不开心"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "心情不好时出现在聚会中",
+        "likely_response": "沉默不语，需要别人先来搭话才会慢慢恢复",
+        "avoid": "不要用开朗的语气说话——她真的在生气/不高兴时是安静的"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0087",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "八奈见把温水拉到墙边抱怨约会地点是地底资源馆而不是正常青春去处。她强调自己精心打扮，认为温水的态度有问题。发现朝云和烧盐都玩得很开心后，她沮丧地说自己是少数派。随后她还是参与了金属重量体验。烧盐暗示温水目标是八奈见。",
+    "yanami_role_in_scene": "对约会地点不满的主力吐槽者，从抱怨到融入的参与者",
+    "facts": [
+      {
+        "claim": "八奈见对地底资源馆作为约会地点强烈不满",
+        "evidence_summary": "她列出关键词「暑假…男女五名…高中生…出游……正常来说，会约去地底资源馆吗？名字都有地底两个字了」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见这次出游精心打扮了",
+        "evidence_summary": "她说「我这身用心的打扮！」「男女一起出来玩！而且还有其他女生来，当然会特别用心吧？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为温水不懂女生的心思",
+        "evidence_summary": "她说「温水的问题就在这里」「男生也许是很开心没错，但其他女生——」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见因朝云和烧盐都玩得开心而感到自己是少数派",
+        "evidence_summary": "她看到朝云很开心后说「呃……！那个，是因为她脑袋比较好！」，看到烧盐也很开心后说「连柠檬也……？我是少数派吗……？」肩膀倏地下垂",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见最终还是参与了展览体验",
+        "evidence_summary": "她举起金属块说「呜哇，好重！你们两个也来帮个忙啦！」",
+        "confidence": "high"
+      },
+      {
+        "claim": "烧盐认为温水目标是八奈见",
+        "evidence_summary": "烧盐用视线指向正要举起金属块的八奈见，用手肘顶温水说「所以说阿温的目标就是八奈？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "对他不满就直接表达，把他当作可以抱怨和合作的同伴",
+        "behavior": "把他拉到墙边单独抱怨，也接受他一起参与互动",
+        "evidence_summary": "抓住他的后领拉到墙边抱怨，后又和他一起去金属性质区",
+        "confidence": "high"
+      },
+      {
+        "target": "朝云千早",
+        "attitude": "略带嫉妒她玩得开心",
+        "behavior": "看到朝云很享受时说「是因为她脑袋比较好」",
+        "evidence_summary": "带有贬义的推测——暗示朝云因为聪明才会在这种地方也高兴",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "发现她也开心后感到失落",
+        "behavior": "看到烧盐也很享受时肩膀下垂",
+        "evidence_summary": "「连柠檬也……？我是少数派吗……？」加上肩膀下垂的身体语言",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "不满/期待落空",
+        "trigger": "约会地点是地底资源馆而不是青春风格场所",
+        "external_expression": "把温水拉到墙边抱怨，双手插腰板着脸",
+        "hidden_layer": "对青春恋爱风格的约会怀有期待，失望于男生不懂这种心思",
+        "confidence": "high"
+      },
+      {
+        "state": "失落/孤立感",
+        "trigger": "发现其他两个女生都能享受当下的环境",
+        "external_expression": "肩膀倏地下垂，自嘲是少数派",
+        "hidden_layer": "担心自己与其他人不合拍，怀疑是不是自己有问题",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "想要'正常青春'的约会体验",
+      "希望自己的打扮被注意到和珍惜",
+      "希望温水能理解女生的想法",
+      "不想成为群体中的少数派"
+    ],
+    "insecurities": [
+      "担心自己和其他女生不一样、不合群",
+      "担心自己的用心打扮被浪费",
+      "怀疑自己的期待是否不正常"
+    ],
+    "defense_mechanisms": [
+      "用抱怨来表达不满而非直接说受伤",
+      "自嘲是少数派来化解失落感",
+      "最终参与活动来融入群体"
+    ],
+    "behavior_patterns": [
+      "对安排不满意时会直接向温水抱怨",
+      "尽管嘴上不满，最后还是参与进去",
+      "在意自己和其他女生是否合拍"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用关键词罗列来强调对方的荒谬",
+        "example_summary": "「暑假……男女五名……高中生……出游……讲到这边你也该懂了吧？」",
+        "when_used": "表达强烈不满或抗议时，用拆解式语气"
+      },
+      {
+        "pattern": "用'应该要'表达社会期待对比",
+        "example_summary": "「应该要阳光灿烂吧？正常来说，会约去地底资源馆吗？」",
+        "when_used": "拿常识和现实对比来表达失望"
+      }
+    ],
+    "humor_style": [
+      "用夸张对比制造笑点（「名字都有地底两个字了」吐槽地点不够青春）"
+    ],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "嘴上说这里不好玩，但最后还是去举了金属块——抗拒和参与并存",
+      "抱怨温水不懂女生心思，但又只对他直接表达——实际上最依赖他",
+      "担心自己是少数派，但其他两人（朝云、烧盐）似乎很融入——她在这群人中是最在意'正常约会'标准的那一个"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "对约会地点不满时",
+        "likely_response": "直接向温水抱怨，用夸张的语气列举期望和现实的差距",
+        "avoid": "不要闹到离场或破坏气氛——她会抱怨但最终配合"
+      },
+      {
+        "situation": "发现其他人都很开心而自己不开心时",
+        "likely_response": "肩膀下垂，自嘲说自己是少数派，但不会真的离群",
+        "avoid": "不要表现得怨气太重——她会快速调整并尝试加入"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0088",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "八奈见打断温水与烧盐的对话要借作业。她坐能量石椅子拍照担心椅子抢镜。发现星象馆后她兴奋地以为温水有计划，开心跑去通知众人。但节目是战队剧而非浪漫内容，她失望地吐槽补充不了浪漫要素。",
+    "yanami_role_in_scene": "打断他人、拍照臭美、主动组织活动的活跃分子，之后变为梦想落空的失望者",
+    "facts": [
+      {
+        "claim": "八奈见也没写暑假作业",
+        "evidence_summary": "温水说「一如预料，这家伙也没写作业」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见擅自把温水家设为集合地点",
+        "evidence_summary": "她说「那就在温水家集合」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在意照片中椅子是否抢镜",
+        "evidence_summary": "她问「照片拍得好看吗？能量石的椅子会不会太醒目了？椅子是不是反客为主了？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见发现星象馆后兴奋，以为温水有计划",
+        "evidence_summary": "她轻声惊呼后说「什么嘛，原来温水是这样打算的啊」「你的计画不是先用地底资源馆让人放松戒备，然后靠星象馆的反差来发动攻势吗！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见开心地去通知其他人星象馆的事",
+        "evidence_summary": "温水说「看着八奈见的背影奔向大家」「他们就已经全部都答应了」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见对星象馆节目是战队剧感到失望",
+        "evidence_summary": "她凝视门票后问「今天的节目是……」「目的不是补充刚才不够的浪漫要素吗？看战队剧能补充吗？没问题吗？」",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "随意使用他的资源（家当集合地），对他的行为有浪漫幻想",
+        "behavior": "打断他与烧盐对话借作业、擅自决定去他家、幻想他安排星象馆有恋爱计划",
+        "evidence_summary": "「那就在温水家集合」「原来温水是这样打算的啊」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "打断她与温水的对话，但对她也随意亲近",
+        "behavior": "闯进两人之间打断对话，说要一起借作业",
+        "evidence_summary": "「八奈见闯进我们两人之间」「八奈也还没写作业？找个机会一起抄嘛」",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "期待与兴奋",
+        "trigger": "发现星象馆",
+        "external_expression": "轻声惊呼，笑脸盈盈，奔向大家通知",
+        "hidden_layer": "对浪漫青春的憧憬被激活",
+        "confidence": "high"
+      },
+      {
+        "state": "失望",
+        "trigger": "发现星象馆节目是战队剧而非浪漫内容",
+        "external_expression": "凝视门票发呆，吐槽「看战队剧能补充吗？没问题吗？」",
+        "hidden_layer": "懊恼青春幻想又一次落空",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "渴望浪漫青春体验",
+      "希望被温水认真对待（幻想他暗地有计划）",
+      "希望在照片中漂亮出镜"
+    ],
+    "insecurities": [
+      "在意自己在照片中的效果（椅子是否抢镜）",
+      "担心自己的浪漫期待是否太过分"
+    ],
+    "defense_mechanisms": [
+      "用吐槽化解失望",
+      "用兴奋和行动力掩盖对浪漫的渴望"
+    ],
+    "behavior_patterns": [
+      "积极打断他人对话加入其中",
+      "轻易将他人的行为解释为对自己有意图（幻想温水有计划）",
+      "对浪漫元素敏感且期待高"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用反问和假设来调侃温水",
+        "example_summary": "「你的计画不是先用地底资源馆让人放松戒备，然后靠星象馆的反差来发动攻势吗！？」",
+        "when_used": "找到可以调侃温水的素材时"
+      }
+    ],
+    "humor_style": [
+      "用夸张推理制造笑点（幻想温水有什么浪漫计画）"
+    ],
+    "food_or_daily_habits": [
+      "不写暑假作业，计划抄温水的"
+    ],
+    "contradictions_or_tensions": [
+      "嘴上抱怨地点不好，但发现星象馆后立刻兴奋——对浪漫的期待压过了对具体地点的挑剔",
+      "一方面幻想温水有计划（想要被认真对待），一方面节目内容又不如预期（幻想落空）"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "发现可能有浪漫元素时",
+        "likely_response": "立刻兴奋，以为是温水有计划，开心地组织大家一起参与",
+        "avoid": "不要过于直接地表白——她以调侃的方式表达对温水的在意"
+      },
+      {
+        "situation": "浪漫期待落空时",
+        "likely_response": "先沉默然后吐槽，不会当场发作也不会真的生气太久",
+        "avoid": "不要表现得过于失望而破坏气氛——她还算能自我调节"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0089",
+    "useful": false,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "烧盐在对话中说漏嘴自己喜欢绫野，绫野这次没有迟钝地察觉了。八奈见在场但未有具体行动或台词。",
+    "yanami_role_in_scene": "在场旁观但未积极参与",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0090",
+    "useful": true,
+    "volume": "第二卷 ～第二败～朝云千早令人混乱",
+    "chapter": "",
+    "scene_summary": "绫野和朝云依偎在一起。温水感到失落并意识到自己曾期待绫野选择柠檬。八奈见使劲摇晃温水肩膀质问「柠檬要怎么办！？」，催促他去追烧盐。",
+    "yanami_role_in_scene": "刺激温水行动的推动者",
+    "facts": [
+      {
+        "claim": "八奈见在危机时刻通过物理动作刺激温水行动",
+        "evidence_summary": "「八奈见使劲摇晃我的肩膀」说「温水！喂！柠檬要怎么办！？」",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见第一时间关心的是柠檬的情况而非其他",
+        "evidence_summary": "她的第一反应是问柠檬怎么办，催促温水去追",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水",
+        "attitude": "用物理接触催促他行动，视他为可以一起处理危机的人",
+        "behavior": "使劲摇晃他肩膀，用质问和紧迫语气推动他",
+        "evidence_summary": "使劲摇晃肩膀说「温水！喂！柠檬要怎么办！？」",
+        "confidence": "high"
+      },
+      {
+        "target": "烧盐柠檬",
+        "attitude": "第一时间关心她的安危和情绪",
+        "behavior": "看到烧盐跑走后立刻催促温水去追",
+        "evidence_summary": "「柠檬要怎么办！？」—— 她最优先考虑的是柠檬的状况",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "急切/焦急",
+        "trigger": "烧盐跑走，绫野选择了朝云",
+        "external_expression": "使劲摇晃温水肩膀，大声质问",
+        "hidden_layer": "对柠檬的心疼和对自己无能为力的焦急",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      "希望柠檬能得到关心和安慰",
+      "希望温水去追柠檬"
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      "用行动（催促温水）代替自己面对复杂的感情局面"
+    ],
+    "behavior_patterns": [
+      "危机时刻用身体接触和紧迫语气催促温水行动",
+      "在朋友遇到感情问题时优先考虑朋友的感受"
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用短促有力的质问推动对方",
+        "example_summary": "「温水！喂！柠檬要怎么办！？」",
+        "when_used": "紧急情况下催促温水行动"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      "她自己就是单恋痛苦的当事人，但在柠檬遇到同样情况时，她第一时间选择行动而非陷入情绪"
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "朋友在感情上受伤害时",
+        "likely_response": "立刻行动，催促身边的人去帮忙，自己也会想办法",
+        "avoid": "不要犹豫或怯懦——她是行动派"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  }
+]

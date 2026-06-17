@@ -1,0 +1,946 @@
+[
+  {
+    "scene_id": "yanami-candidate-0241",
+    "useful": false,
+    "volume": "第五卷 后记",
+    "chapter": "",
+    "scene_summary": "作者在第五卷后记中提及八奈见名字两次，一次感叹对八奈见同学的难以言喻的感情并为其加油，一次说明败女们比往常更加一如往常。",
+    "yanami_role_in_scene": "仅在作者叙述中被提及，未出现在任何实际剧情中。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0242",
+    "useful": true,
+    "volume": "第五卷",
+    "chapter": "今晚不准睡",
+    "scene_summary": "八奈见与好友姬宫华恋在Kalmia购物中心逛街购物。八奈见买了大量巧克力和壶屋豆皮寿司，想边走边吃被华恋劝阻。华恋提议一起做巧克力过夜，后又因故改口取消，八奈见察觉后表情消失并使用敬语回应，之后默默喝干饮料咀嚼冰块。她思考着要给文艺社中不把她当女生看待的某人做巧克力展示女子力。",
+    "yanami_role_in_scene": "场景主角之一，与好友华恋的日常购物对话展示了她的食欲、社交规范理解力的错位、被婉拒时的情绪变化，以及对被当作女性看待的渴望。",
+    "facts": [
+      {
+        "claim": "八奈见为母亲购买了大量巧克力带去职场送人。",
+        "evidence_summary": "华恋问'买这么多是要给谁呀？'，八奈见回答'我妈拜托我的，她要带去职场送人，叫我帮忙买。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见利用跑腿顺便买了文艺社用的巧克力。",
+        "evidence_summary": "八奈见说'然后啊，我趁着跑腿，顺便买了要带去文艺社的巧克力。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见当天认为自己已经有所克制——章鱼烧只买了六颗装。",
+        "evidence_summary": "八奈见说'今天我特别忍耐，章鱼烧只买一盒六颗的，肚子有点饿。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为边走边吃豆皮寿司理所当然，无法理解华恋的反对。",
+        "evidence_summary": "八奈见手拿整盒豆皮寿司展露至上的笑容。当华恋说女生不会在Kalmia边走边吃豆皮寿司，八奈见连续眨眼表示不解，说'可是你想想，刚才我们在这里的地下街吃了章鱼烧吧？和那个一样啊。'并真心困惑地歪头说'可以啊……？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见在聊天过程中拆开了为文艺社购买的巧克力并开始食用。",
+        "evidence_summary": "华恋说'等等，杏菜，那是情人节用的巧克力吧？怎么拆封了？'，八奈见短暂思考后灿烂笑容回答'反正是文艺社要用的，没差吧。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "华恋取消过夜提议后，八奈见的表情消失，并改用敬语回应。",
+        "evidence_summary": "华恋忸怩地说不方便后，'或许是有所察觉，八奈见的脸庞失去表情'，回应'……啊、好的。我瞭解了。'后注明'不由得用上敬语。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "被拒绝后八奈见沉默微笑，将视线移开，喝干饮料后咀嚼冰块。",
+        "evidence_summary": "华伦解释后'八奈见沉默地微笑后，将视线投向玻璃窗外的景色'，然后'滋滋滋……八奈见发出声响喝干剩下的饮料后，喀啦喀啦地咀嚼着剩下的冰块。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见想为文艺社中不把她当女生看待的某人做巧克力。",
+        "evidence_summary": "内心独白：'亲手做的巧克力啊──带去文艺社也不错。近来有某个家伙总是不把自己当成女生看待。……哎，就大方展现我的女子力吧。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "姬宫华恋（好友）",
+        "attitude": "亲近放松，对好友的劝阻感到真心不解但不生气",
+        "behavior": "主动邀华恋干杯，分享食物，接受华恋的批评后仍关心对方（'打起精神来。来，要不要吃巧克力？'），被华恋婉拒后努力维持表面平静但明显受伤",
+        "evidence_summary": "主动干杯；华恋阻止她吃豆皮寿司时她不是生气而是困惑；被取消过夜后表情消失并用敬语，但努力微笑。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "开心放松",
+        "trigger": "和好友一起购物，有食物吃",
+        "external_expression": "主动干杯、展露至上笑容、活泼地聊天",
+        "hidden_layer": "无显著隐藏情绪",
+        "confidence": "high"
+      },
+      {
+        "state": "受伤/失落，但掩饰",
+        "trigger": "华恋取消过夜约定",
+        "external_expression": "表情消失→沉默微笑→用敬语回应→将视线投向窗外→喝干饮料后用力咀嚼冰块",
+        "hidden_layer": "感到被拒绝的痛楚，但不愿意表露或追问原因，用平静接受和吃东西来掩盖",
+        "confidence": "high"
+      },
+      {
+        "state": "轻微不服气/想要证明自己",
+        "trigger": "被华恋说女生不该边走边吃豆皮寿司",
+        "external_expression": "真心困惑地歪头反驳'可以啊……？'，没有生气但也没有认同",
+        "hidden_layer": "不认为自己的行为有问题，对社会规范的理解和华恋存在差异但不争执",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {"desire": "被文艺社某人当作女生看待", "evidence": "内心独白提到'近来有某个家伙总是不把自己当成女生看待'，想展示女子力"},
+      {"desire": "想吃东西（边走边吃）", "evidence": "特别忍耐只买了六颗章鱼烧，但马上就想吃豆皮寿司"},
+      {"desire": "和好友一起过夜玩耍", "evidence": "对华恋的过夜提议积极响应，被取消时明显失落"}
+    ],
+    "insecurities": [
+      {"insecurity": "不被当作女性看待", "evidence": "内心独白'总是不把自己当成女生看待'，想通过做巧克力展示女子力"}
+    ],
+    "defense_mechanisms": [
+      {"mechanism": "用食物转移情绪", "evidence": "被取消过夜后立即拆开巧克力吃，之后喝干饮料咀嚼冰块"},
+      {"mechanism": "用敬语拉开距离（受伤时的保护反应）", "evidence": "华恋取消约定时八奈见'不由得用上敬语'"},
+      {"mechanism": "沉默微笑回避冲突", "evidence": "面对华恋的推托，八奈见'沉默地微笑后，将视线投向玻璃窗外的景色'"}
+    ],
+    "behavior_patterns": [
+      {"pattern": "购物时会买大量食物并且想立即食用", "evidence": "买了豆皮寿司想边走边吃，买了巧克力当场拆封"},
+      {"pattern": "被拒绝时表面平静但通过细小动作流露情绪", "evidence": "表情消失→敬语→沉默微笑→喝饮料→嚼冰块，一系列递进行为"},
+      {"pattern": "不浪费食物——连饮料喝干后还要嚼冰块", "evidence": "喝干饮料后喀啦喀啦咀嚼剩下的冰块"}
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "活泼地主动发起对话",
+        "example_summary": "'哎呀，累坏了呢。华恋，干杯～'",
+        "when_used": "和朋友在一起放松时"
+      },
+      {
+        "pattern": "受伤时突然改用敬语",
+        "example_summary": "被取消过夜时'……啊、好的。我瞭解了。'",
+        "when_used": "感到被拒绝或受伤时，用敬语筑起心理距离"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {"habit": "章鱼烧只买六颗装会觉得自己在忍耐", "evidence": "'今天我特别忍耐，章鱼烧只买一盒六颗的'"},
+      {"habit": "不介意边走边吃豆皮寿司等正餐级食物", "evidence": "想边走边吃豆皮寿司且真心不理解为何不可以"},
+      {"habit": "会把为别人买的零食拆开自己先吃", "evidence": "把文艺社用的情人节巧克力拆封开始吃"},
+      {"habit": "喝完饮料后会嚼冰块", "evidence": "喝干饮料后喀啦喀啦咀嚼剩下的冰块"}
+    ],
+    "contradictions_or_tensions": [
+      {"tension": "认为自己展示了忍耐（只买六颗章鱼烧），但他人眼中食量依然很大", "evidence": "华恋对她的食欲感到无奈"},
+      {"tension": "想被当作女生看待，但行为举止（边走边吃豆皮寿司、当场拆巧克力吃）不符合社会对'女生'的期待", "evidence": "内心想展示女子力，但实际行动正好相反"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和朋友逛街时被指出行为不符合女性规范",
+        "likely_response": "先真心感到困惑，不生气地质疑，接受但心里不服，继续我行我素",
+        "avoid": "不要演出被指责后懊悔或立刻改正——她并不认为自己有问题"
+      },
+      {
+        "situation": "被朋友委婉拒绝/取消约定",
+        "likely_response": "表面上用敬语平静接受，表情管理消失，之后通过吃/喝东西来转移情绪，不会追问或责怪对方",
+        "avoid": "不要表现出明显的愤怒或追问——她选择压抑和转移而不是面对"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "脸失去表情",
+      "不由得用上敬语",
+      "沉默地微笑",
+      "滋滋滋……喝干饮料",
+      "喀啦喀啦地咀嚼冰块"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0243",
+    "useful": true,
+    "volume": "第五卷 特典",
+    "chapter": "没有名为杂草的草，少女如是说",
+    "scene_summary": "八奈见将中庭采摘的一朵花插在牛奶瓶中带到社办，声称这是美化校园的行为，想展示自己的女子力。但温水认出这是志喜屋学姐种植的圣诞玫瑰，八奈见意识到自己摘了别人种的花。她想拉温水当共犯，此时社办灯光闪烁，志喜屋学姐幽灵般出现，两人吓得抱在一起。",
+    "yanami_role_in_scene": "主要角色，主动策划了展示女子力的行动但弄巧成拙，暴露了对植物认知的缺乏。",
+    "facts": [
+      {
+        "claim": "八奈见因被怀疑女子力而主动想证明自己。",
+        "evidence_summary": "八奈见带着花得意地说'近来某人好像在怀疑我的女子力嘛？我想展现一下我也是有本事的女人。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见从花坛采摘了一朵花，认为这是杂草。",
+        "evidence_summary": "她说'因为长在中庭花坛的杂草看起来很漂亮，我就摘来当作美化校园的一环了。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见缺乏植物知识，把别人种植的圣诞玫瑰当杂草采摘。",
+        "evidence_summary": "温水指出'这朵花，应该是圣诞玫瑰吧？'并说明有八片花瓣的品种，还查了小笔记本确认志喜屋学姐种过。八奈见茫然反问'咦？那是什么。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见想拉温水当共犯。",
+        "evidence_summary": "温水想逃走时，'八奈见抓住我的手臂不让我逃走'并说'等等，温水也是共犯吧！？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "志喜屋学姐出现时，八奈见吓得和温水抱在一起。",
+        "evidence_summary": "'白色眼眸在阴影中幽幽放光'后，'对着不由得抱住彼此的我和八奈见'。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（同社成员）",
+        "attitude": "亲近且爱面子，在乎温水对她的看法",
+        "behavior": "主动向温水展示自己的女子力成果；被识破后不让温水逃走，强行拉他当共犯",
+        "evidence_summary": "摆出久候多时的姿态等待温水；得意地展示花；被识破后抓住温水手臂不让逃走说'你也是共犯'。",
+        "confidence": "high"
+      },
+      {
+        "target": "志喜屋学姐",
+        "evidence_summary": "无意中摘了志喜屋学姐种的花；学姐出现时八奈见吓得和温水抱在一起。",
+        "confidence": "high",
+        "attitude": "无意中冒犯，对其幽灵般出现感到恐惧",
+        "behavior": "摘了学姐种的花却不自知；学姐出现时吓得抱住温水"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "得意/期待表扬",
+        "trigger": "认为自己通过插花展示了女子力",
+        "external_expression": "对温水摆出得意的表情",
+        "hidden_layer": "可能因为之前被怀疑女子力而不安，借此机会证明自己",
+        "confidence": "high"
+      },
+      {
+        "state": "窘迫/想逃跑",
+        "trigger": "发现自己摘了别人种的花",
+        "external_expression": "沉默不语，试图逃走（编借口说'我突然想到有急事'）",
+        "hidden_layer": "尴尬但不愿意承认错误，想逃避责任",
+        "confidence": "high"
+      },
+      {
+        "state": "恐惧",
+        "trigger": "志喜屋学姐幽灵般出现",
+        "external_expression": "吓得抱住温水",
+        "hidden_layer": "对超自然氛围的恐惧，下意识寻求保护",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {"desire": "被温水认可自己的女子力", "evidence": "特意采摘花朵带到社办展示，得意地等待温水的反应"}
+    ],
+    "insecurities": [
+      {"insecurity": "女子力被怀疑", "evidence": "提到'某人好像在怀疑我的女子力'，特意策划行动来反驳"},
+      {"insecurity": "可能担心自己在温水眼中不够女性化", "evidence": "同场景0242中她也因为不被当女生看待而想展示女子力"}
+    ],
+    "defense_mechanisms": [
+      {"mechanism": "出糗时想逃跑/回避", "evidence": "被识破摘了别人种的花后，马上说'我突然想到有急事，差不多该回家了'"},
+      {"mechanism": "拉别人下水当共犯", "evidence": "抓住温水说'你也是共犯吧！？'试图分担责任"}
+    ],
+    "behavior_patterns": [
+      {"pattern": "在乎他人对自己女性气质的看法时会主动采取行动证明", "evidence": "特意摘花插瓶带来社办"},
+      {"pattern": "做错事时的第一反应是逃避而非道歉", "evidence": "被识破后想直接逃走，没有对志喜屋学姐表达歉意"},
+      {"pattern": "对植物/自然知识贫乏", "evidence": "把种植的圣诞玫瑰当成杂草"}
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用得意语气邀功",
+        "example_summary": "'我想展现一下我也是有本事的女人。'",
+        "when_used": "想获得认可时"
+      },
+      {
+        "pattern": "碰到尴尬时用模糊借口转移",
+        "example_summary": "'呃～我突然想到有急事，差不多该回家了。'",
+        "when_used": "想逃避尴尬局面时"
+      }
+    ],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [
+      {"tension": "想展示女子力但缺乏相应的知识（不认识花），结果弄巧成拙", "evidence": "声称要展示女子力，摘来的却是别人种的花"},
+      {"tension": "想表现细心温柔的一面，但做错事的第一反应是逃避而非负责任", "evidence": "被发现摘了别人种的花后想直接逃跑"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "精心策划展示自己的优点但弄巧成拙",
+        "likely_response": "先得意洋洋地展示，被指出问题后沉默→试图转移话题→想逃跑→拉关系亲近的人一起承担责任",
+        "avoid": "不要表现出立刻承认错误或道歉——她更想逃避"
+      },
+      {
+        "situation": "遇到灵异/惊悚场面",
+        "likely_response": "下意识尖叫并抓住身边最亲近的人（温水）",
+        "avoid": "不要表现得太冷静或独立——她被吓到时会有身体接触的依赖反应"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "某人好像在怀疑我的女子力嘛？",
+      "等等，温水也是共犯吧！？",
+      "不由得抱住彼此"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0244",
+    "useful": true,
+    "volume": "第五卷 特典",
+    "chapter": "俗谚道手冷心暖，那手暖的人不就（以下省略）",
+    "scene_summary": "温水在犹豫是否要和志喜屋学姐间接接吻时，想起八奈见从不介意吃别人吃过的东西，以此说服自己间接接吻只是寻常小事。",
+    "yanami_role_in_scene": "仅出现在温水的联想中，作为比较对象——她对食物的态度被用作合理化的参照。",
+    "facts": [
+      {
+        "claim": "八奈见不介意食用别人吃过的东西。",
+        "evidence_summary": "温水思考时内心独白：'从不介意食用别人吃过的东西的某位同班同学浮现脑海。和八奈见相比之下，间接接吻只是寻常小事吧。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {
+        "pattern": "不介意和别人共用食物/餐具",
+        "evidence": "温水将她作为'不介意吃别人吃过的东西'的参照对象"
+      }
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "不介意食用别人吃过/碰过的食物",
+        "evidence": "温水内心独白——'和八奈见相比之下，间接接吻只是寻常小事'"
+      }
+    ],
+    "contradictions_or_tensions": [
+      {"tension": "她希望被当作女生看待，但她的饮食习惯（不介意别人吃过的东西、边走边吃、大食量）在他人眼中不够'女生'", "evidence": "温水能把她这种习惯当作'寻常到不行'的参照"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "和别人共用食物/饮料",
+        "likely_response": "毫不在意，甚至可能意识不到这是需要在意的事情",
+        "avoid": "不要演出害羞或扭捏——这对她来说不是事"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "从不介意食用别人吃过的东西"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0245",
+    "useful": true,
+    "volume": "第六卷",
+    "chapter": "序 / ～第一败～海风的告白",
+    "scene_summary": "八奈见和温水受月之木学姐委托去超市采购零食。八奈见因温水提起志喜屋学姐而吃醋，指责温水'偷跑'并声称两人是'才不交男女朋友同盟'。她对食物有自己独特的逻辑（泡面属于传统料理），听到鲷鱼烧时眼睛发亮。她根据月之木学姐的性格预测对方落榜了，需要暴饮暴食安慰。",
+    "yanami_role_in_scene": "主要角色，和温水一起采购的互动展示了她对温水的占有欲、独特的食物哲学，以及对学姐处境的分析判断（虽然判断错误）。",
+    "facts": [
+      {
+        "claim": "八奈见因温水提到志喜屋学姐而吃醋。",
+        "evidence_summary": "温水说'前些日子志喜屋学姊吃过'引起八奈见'锐利的目光'和'恶狠狠地直盯着我瞧'，然后指责'温水最近有点那个耶'、'温水是不是背地里想偷跑啊？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见声称她和温水属于'才不交男女朋友同盟'。",
+        "evidence_summary": "八奈见说'我们明明是"才不交男女朋友"同盟的一员吧？可是最近的温水是不是开始拈花惹草了啊～'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见认为泡面可以分类为传统料理/怀石料理的替代。",
+        "evidence_summary": "温水问是不是没吃过怀石料理时，八奈见笑着捧起泡面解释：'那种正餐最后的结尾都是白饭和汤嘛？泡面有碳水化合物也有汤，一碗就两者兼顾了嘛。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "听到鲷鱼烧时八奈见眼睛发亮。",
+        "evidence_summary": "'一听见鲷鱼烧，八奈见的眼眸顿时闪亮。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见预测月之木学姐落榜了，需要暴饮暴食发泄。",
+        "evidence_summary": "八奈见沉重地点头说'照她的个性，如果考上了，一定会马上向我们炫耀吧？这一定不是庆祝──是暴饮暴食发泄情绪。嗯，不会错的。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见选择即席炒面是因为'想吃'，不顾自己之前泡面兼顾汤和碳水的逻辑。",
+        "evidence_summary": "温水指出'炒面没有汤，可以吗？两者兼顾呢？'，八奈见回答'因为我想吃啊。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "温水（同社成员/同盟成员）",
+        "attitude": "有占有欲，把温水视为'同盟'成员不希望他对别人有好感",
+        "behavior": "听到志喜屋学姐时瞪视温水；指责他'偷跑'；用同盟关系约束他；一起采购配合默契",
+        "evidence_summary": "从温和的购物对话突然转为锐利的目光和责备；语气从轻松到不高兴；又迅速被鲷鱼烧转移注意力。",
+        "confidence": "high"
+      },
+      {
+        "target": "月之木学姐（前辈）",
+        "attitude": "关心但对其性格有准确认知",
+        "behavior": "根据学姐的性格预测其行为（考上了会炫耀）并准备安慰",
+        "evidence_summary": "对温水分析学姐的心理，推测学姐需要发泄情绪。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "吃醋/不高兴",
+        "trigger": "温水提到志喜屋学姐吃过某种零食",
+        "external_expression": "锐利的目光、恶狠狠地瞪视、不高兴地推车走开、强烈责备语气",
+        "hidden_layer": "对温水与别的女生有交集感到不安，用'同盟'的说法来宣示边界",
+        "confidence": "high"
+      },
+      {
+        "state": "兴奋/开心",
+        "trigger": "听到有鲷鱼烧",
+        "external_expression": "眼眸顿时闪亮、笑容灿烂",
+        "hidden_layer": "鲷鱼烧成功转移了她的负面情绪",
+        "confidence": "high"
+      },
+      {
+        "state": "关心/担忧",
+        "trigger": "想到月之木学姐可能落榜",
+        "external_expression": "沉重地点头，语气变得认真",
+        "hidden_layer": "虽然平时活泼，但对学姐的真实处境有同理心",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {"desire": "温水不要和别的女生走得太近", "evidence": "指责温水'偷跑''拈花惹草'，强调同盟关系"},
+      {"desire": "吃到自己想吃的食物", "evidence": "选择即席炒面只是因为'想吃'，逻辑可以往后放"},
+      {"desire": "学姐得到安慰", "evidence": "主动分析学姐状况，决定用温柔的方式慰问"}
+    ],
+    "insecurities": [
+      {"insecurity": "温水可能对别的女生有兴趣", "evidence": "多次表达'温水最近有点那个'，对志喜屋学姐的出现高度警惕"}
+    ],
+    "defense_mechanisms": [
+      {"mechanism": "用'同盟'的说法来合理化自己的占有欲", "evidence": "用'才不交男女朋友同盟'的名义来限制温水"},
+      {"mechanism": "被美食转移注意力来平复负面情绪", "evidence": "吃醋后听到鲷鱼烧马上眼眸闪亮"},
+      {"mechanism": "用食物逻辑为自己辩解", "evidence": "泡面是传统料理的独特理论"}
+    ],
+    "behavior_patterns": [
+      {"pattern": "对温水与其他女生互动高度敏感", "evidence": "仅仅听到志喜屋学姐的名字就立刻警惕"},
+      {"pattern": "有自己独特的食物分类逻辑", "evidence": "泡面=传统料理（有碳水+汤），但最终选择还是取决于'想吃'"},
+      {"pattern": "根据对人的性格了解来预测行为", "evidence": "准确判断月之木学姐考上了会炫耀的性格特征（虽然判断结果错了）"}
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用质问/指责的语气表达吃醋",
+        "example_summary": "'温水最近有点那个耶，你自己都没感觉吗？'、'我的意思是，温水你是不是背地里想偷跑啊？'",
+        "when_used": "对温水提到其他女生时"
+      },
+      {
+        "pattern": "用食物逻辑一本正经地胡说八道",
+        "example_summary": "泡面等同于传统料理的结尾——'有碳水化合物也有汤，一碗就两者兼顾了嘛。'",
+        "when_used": "为自己的食物选择辩护时"
+      }
+    ],
+    "humor_style": [
+      {"style": "用出人意料的食物逻辑制造幽默", "evidence": "泡面=传统料理的论证"},
+      {"style": "前后矛盾但理直气壮", "evidence": "说泡面有汤有碳水，然后选了没有汤的炒面，理由只是'因为我想吃'"}
+    ],
+    "food_or_daily_habits": [
+      {"habit": "在超市会大量购买零食", "evidence": "将食物'接二连三地扔进手推车购物篮'"},
+      {"habit": "泡面在她家可能被归类为'正式传统料理'", "evidence": "温水想'也许在八奈见家，泡面被分类为正式的传统料理'"},
+      {"habit": "鲷鱼烧能让她瞬间开心", "evidence": "听到鲷鱼烧时眼眸顿时闪亮"},
+      {"habit": "最终选择食物凭'想吃'而非理性", "evidence": "放弃泡面选炒面只因'因为我想吃啊'"}
+    ],
+    "contradictions_or_tensions": [
+      {"tension": "声称和温水是'才不交男女朋友同盟'，但行为表现出明显的占有欲和吃醋", "evidence": "一边强调不交往，一边对温水和其他女生的交集高度警惕"},
+      {"tension": "食物逻辑上说自己需要泡面（汤+碳水），最终选择炒面仅因为想吃——她的食物理论只是为欲望找理由", "evidence": "泡面理论→选择炒面的前后矛盾"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "喜欢的男生提到其他女生",
+        "likely_response": "表面用质问和责备来回应，用'同盟''偷跑'等说法包装占有欲，然后可以被美食转移注意力",
+        "avoid": "不要直接表白或者承认吃醋——她用半开玩笑的方式表达"
+      },
+      {
+        "situation": "需要为自己的食物选择辩解",
+        "likely_response": "编出一套听起来有道理但实际站不住脚的理论，最后被问住了就坦白'因为我想吃'",
+        "avoid": "不要一本正经地科学论证——她的理论是临时编的"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "温水最近有点那个耶",
+      "偷跑",
+      "才不交男女朋友同盟",
+      "因为我想吃啊",
+      "眼眸顿时闪亮"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0246",
+    "useful": true,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "月之木学姐的庆祝会上，八奈见第一时间递上鲷鱼烧安慰学姐（以为学姐落榜了），得知学姐考上后立刻改口说自己从一开始就相信学姐。她吃掉了所有白酱油味薯片和路上的一袋，还将三种薯片叠在一起吃。",
+    "yanami_role_in_scene": "参与庆祝会的成员之一，展示了安慰他人、见风转舵和旺盛食欲。",
+    "facts": [
+      {
+        "claim": "八奈见以为学姐落榜，第一时间递上鲷鱼烧安慰。",
+        "evidence_summary": "月之木学姐在口袋摸索时，八奈见立刻将鲷鱼烧递向她说'月之木学姊！人生不如事十常八九，请打起精神来！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见用父亲的例子安慰学姐。",
+        "evidence_summary": "八奈见说'我家老爸年轻时虽然游手好闲，但是现在勉强也算过得去！所以学姊一定也没问题！'",
+        "confidence": "high"
+      },
+      {
+        "claim": "得知学姐考上后，八奈见立刻改口说自己从一开始就相信学姐。",
+        "evidence_summary": "沉默好半晌后假咳一声说'……我打从一开始就相信着学姊。和温水不一样。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见吃掉了所有白酱油味薯片和路上的一袋。",
+        "evidence_summary": "温水问'白酱油味的洋芋片，你全部吃完了？'，八奈见回答'别紧张，还有一袋──啊，从超市回来的路上好像吃掉了？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见将三种薯片叠在一起吃。",
+        "evidence_summary": "描述中她'将三种洋芋片叠在一起食用'。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "月之木学姐（前辈）",
+        "attitude": "关心、想安慰她但也会轻松开玩笑",
+        "behavior": "第一时间递上食物安慰；分享父亲的经历来鼓励学姐；得知实情后马上改口",
+        "evidence_summary": "递鲷鱼烧、鼓励话语、改口说相信学姐。",
+        "confidence": "high"
+      },
+      {
+        "target": "温水（同社成员）",
+        "attitude": "竞争意识——不想在他面前丢脸或落于下风",
+        "behavior": "改口时特意把温水拉来做对比，突出自己'从一开始就相信'而温水没有",
+        "evidence_summary": "'我打从一开始就相信着学姊。和温水不一样。'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "关心/同情",
+        "trigger": "以为学姐落榜了",
+        "external_expression": "递上鲷鱼烧并用自己父亲的经历来鼓励",
+        "hidden_layer": "真心想安慰学姐，用自己的家庭经历来拉近距离",
+        "confidence": "high"
+      },
+      {
+        "state": "尴尬但快速转换（见风转舵）",
+        "trigger": "发现自己判断错误——学姐考上了",
+        "external_expression": "沉默好半晌后假咳一声，然后理直气壮地改口",
+        "hidden_layer": "尴尬但不愿意承认自己判断失误，用吹嘘'相信学姐'来挽回面子",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {"desire": "在大家面前维持形象，不显得判断错误", "evidence": "知道自己预测错了之后立刻改口，还拉温水对比"}
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [
+      {"mechanism": "通过贬低别人（温水）来抬高自己（改口时）", "evidence": "'我打从一开始就相信着学姊。和温水不一样。'"},
+      {"mechanism": "用吃东西来填补尴尬沉默", "evidence": "虽然时间线上稍有不同，但她吃薯片的行为在庆祝会中持续"}
+    ],
+    "behavior_patterns": [
+      {"pattern": "会分享自己家庭的经历来安慰别人", "evidence": "自然地提到父亲年轻时游手好闲但现在过得去"},
+      {"pattern": "吃薯片时会一次叠多种口味", "evidence": "将三种薯片叠在一起食用"},
+      {"pattern": "买了零食会在路上吃掉一部分", "evidence": "从超市回来的路上吃了一袋薯片"},
+      {"pattern": "判断失误时不会承认，而是立刻改口掩饰", "evidence": "学姐落榜→考上的反转中她的快速变脸"}
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用具体例子来安慰人",
+        "example_summary": "'我家老爸年轻时虽然游手好闲，但是现在勉强也算过得去！'",
+        "when_used": "想用自己的经历鼓励别人时"
+      },
+      {
+        "pattern": "见风转舵时先沉默再理直气壮地改口",
+        "example_summary": "沉默好半晌后假咳一声说'我打从一开始就相信着学姊。'",
+        "when_used": "自己判断失误时"
+      }
+    ],
+    "humor_style": [
+      {"style": "用自曝家丑来搞笑安慰", "evidence": "说自己爸爸年轻时游手好闲的事来让学姐打起精神"}
+    ],
+    "food_or_daily_habits": [
+      {"habit": "会把多种口味的薯片叠在一起吃", "evidence": "将三种薯片叠在一起食用"},
+      {"habit": "购物回来的路上会吃一部分", "evidence": "超市回来的路上吃了一袋薯片"},
+      {"habit": "一口气吃完一袋薯片而不自觉", "evidence": "被问到白酱油味薯片时才意识到吃完了"}
+    ],
+    "contradictions_or_tensions": [
+      {"tension": "真心想安慰人，但同时也强烈维护自己的面子", "evidence": "先真诚安慰，但发现自己判断错了立刻改口掩饰"},
+      {"tension": "说是来安慰学姐的，但注意力很大程度在食物上", "evidence": "吃薯片叠薯片，浑然不觉自己吃了多少"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "以为自己猜对了但实际猜错了",
+        "likely_response": "短暂沉默→假咳或清嗓子→立刻改口说是自己早知道了/早就相信了，顺便拉别人对比",
+        "avoid": "不要老老实实承认自己猜错了——她会找补回来"
+      },
+      {
+        "situation": "朋友遭遇挫折需要安慰",
+        "likely_response": "直接递食物（她认为食物是最好的安慰），然后分享自己或家人的类似经历来鼓励",
+        "avoid": "不要用空泛的客套话——她用具体行动（给食物）和具体经历来安慰"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "人生不如事十常八九，请打起精神来",
+      "我家老爸年轻时虽然游手好闲，但是现在勉强也算过得去",
+      "我打从一开始就相信着学姊。和温水不一样。",
+      "三种洋芋片叠在一起食用"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0247",
+    "useful": true,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "八奈见向月之木学姐询问四月搬家的事宜。学姐说约了不动产中介，八奈见转而关心玉木学长（学姐的男友）的备考情况。",
+    "yanami_role_in_scene": "参与对话的角色之一，关心学姐的未来安排和学姐男友的状况。",
+    "facts": [
+      {
+        "claim": "八奈见关心月之木学姐搬家后的安排。",
+        "evidence_summary": "八奈见问'所以学姊四月就要搬过去了吗？'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见记得玉木学长在考国立大学。",
+        "evidence_summary": "她问'话说玉木学长应该准备得还顺利吧？'并补充他的目标是名古屋的国立大学。",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "月之木学姐（前辈）",
+        "attitude": "关心学姐的未来",
+        "behavior": "询问学姐搬家计划",
+        "evidence_summary": "'所以学姊四月就要搬过去了吗？'",
+        "confidence": "high"
+      },
+      {
+        "target": "玉木学长（学姐男友/前社长）",
+        "attitude": "关心其备考情况",
+        "behavior": "向学姐询问玉木学长的准备情况",
+        "evidence_summary": "'话说玉木学长应该准备得还顺利吧？'",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {"pattern": "在社交场合会关心他人的近况和重要人物", "evidence": "主动询问学姐搬家和学姐男友的考试情况"}
+    ],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "在聚会上关心朋友的生活变化",
+        "likely_response": "主动询问细节，记得朋友重要的人的信息",
+        "avoid": "不要演出只顾自己——她是会记住并关心别人重要事情的类型"
+      }
+    ],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0248",
+    "useful": true,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "八奈见安慰小鞠，抚摸她的头说社长一定没问题。随后她将袋中薯片碎屑倒进嘴里，还教小鞠'行家吃法'——把薯片倒进喉咙里，被描述为'新型的拷问'。月之木学姐温柔地看着这一幕。",
+    "yanami_role_in_scene": "主动角色——安慰小鞠后转而搞怪逗弄她。",
+    "facts": [
+      {
+        "claim": "八奈见抚摸小鞠的头安慰她。",
+        "evidence_summary": "小鞠担心地说玉木学长一定没问题的，八奈见'轻抚小鞠的头'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见把袋中剩下的薯片碎屑倒进嘴里。",
+        "evidence_summary": "'小鞠话说到一半，视线转向八奈见，她正将袋中剩下的洋芋片碎屑倒进口中。'",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见强迫小鞠尝试'行家吃法'——把薯片倒进喉咙里。",
+        "evidence_summary": "八奈见说'行家都知道洋芋片要用喉咙品味。来，头往上仰，嘴巴张开～'然后小鞠无法拒绝，任凭八奈见把洋芋片倒进喉咙。被描述为'新型的拷问'。",
+        "confidence": "high"
+      },
+      {
+        "claim": "八奈见主动提出再开一包薯片。",
+        "evidence_summary": "小鞠说吃不下那么多时，八奈见说'嗯？小鞠也想这样吃？等一下喔，我再开一包。'",
+        "confidence": "high"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "小鞠（后辈/同社成员）",
+        "attitude": "照顾、亲近、爱逗弄",
+        "behavior": "先温柔抚摸小鞠的头安慰；然后转而用薯片逗弄（强迫'行家吃法'）",
+        "evidence_summary": "轻抚头→再开一包→倒薯片进喉咙。关系亲密到她可以这样逗弄小鞠而不被讨厌。",
+        "confidence": "high"
+      }
+    ],
+    "emotional_state": [
+      {
+        "state": "温柔/关心",
+        "trigger": "看到小鞠担心",
+        "external_expression": "轻抚小鞠的头",
+        "hidden_layer": "作为前辈想给小鞠安心感",
+        "confidence": "high"
+      },
+      {
+        "state": "调皮/爱玩",
+        "trigger": "提到吃薯片",
+        "external_expression": "说要教小鞠'行家吃法'，强迫她张嘴",
+        "hidden_layer": "用玩闹来活跃气氛，也反映她喜欢和别人分享食物的乐趣",
+        "confidence": "high"
+      }
+    ],
+    "desires": [
+      {"desire": "和小鞠分享食物的快乐", "evidence": "主动再开一包薯片，教她自己的特殊吃法"}
+    ],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [
+      {"pattern": "用身体接触来安慰后辈", "evidence": "轻抚小鞠的头"},
+      {"pattern": "会把自己独特的食物吃法强加给朋友", "evidence": "教小鞠把薯片倒进喉咙的'行家吃法'"},
+      {"pattern": "不浪费任何食物——连袋底的碎屑也要倒进嘴里", "evidence": "将袋中剩下的薯片碎屑倒进口中"},
+      {"pattern": "热情到有些强硬地分享自己的爱好", "evidence": "小鞠说吃不下但她坚持要再开一包"}
+    ],
+    "speech_patterns": [
+      {
+        "pattern": "用夸张的'行家'自称来包装自己的吃法",
+        "example_summary": "'行家都知道洋芋片要用喉咙品味。来，头往上仰，嘴巴张开～'",
+        "when_used": "想教/逗别人时，用煞有其事的语气"
+      }
+    ],
+    "humor_style": [
+      {"style": "用一本正经的胡说八道来搞怪", "evidence": "把倒薯片进喉咙说成'行家吃法'"},
+      {"style": "用夸张的动作逗朋友", "evidence": "强迫小鞠张嘴倒薯片，被形容为'新型的拷问'"}
+    ],
+    "food_or_daily_habits": [
+      {"habit": "吃薯片要吃到底——连袋底碎屑也不放过", "evidence": "将袋中剩下的薯片碎屑倒进口中"},
+      {"habit": "有自己独特的薯片吃法：倒进喉咙里", "evidence": "说行家都用喉咙品味"},
+      {"habit": "不介意和别人分享食物甚至强制分享", "evidence": "主动再开一包薯片来教小鞠"}
+    ],
+    "contradictions_or_tensions": [
+      {"tension": "一方面温柔照顾后辈，一方面用夸张的方式折腾后辈（善意的恶作剧）", "evidence": "先抚摸头安慰→再强迫倒薯片"}
+    ],
+    "character_growth_or_change": [],
+    "roleplay_notes": [
+      {
+        "situation": "照顾后辈/年纪小的朋友",
+        "likely_response": "先用温柔的动作表达关心（摸头等），然后立刻切换到玩闹模式，用自己的方式带对方开心",
+        "avoid": "不要演出过于成熟的照顾——她先温柔然后马上搞怪"
+      },
+      {
+        "situation": "吃零食时有自己独特的吃法",
+        "likely_response": "会热情地教别人自己的吃法，如果对方拒绝也会坚持",
+        "avoid": "不要演出羞涩或怕被评价——她对自己的吃法很自豪"
+      }
+    ],
+    "quotes_to_avoid_copying": [
+      "行家都知道洋芋片要用喉咙品味",
+      "新型的拷问",
+      "再开一包"
+    ]
+  },
+  {
+    "scene_id": "yanami-candidate-0249",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "温水描述八奈见和小鞠在社办吵吵闹闹，仅作为背景存在。",
+    "yanami_role_in_scene": "仅以背景形式存在——被描述为正在和小鞠吵闹。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0250",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "烧盐偷偷和温水说话，同时注意着八奈见那边的动静。八奈见仅作为被观察的对象存在。",
+    "yanami_role_in_scene": "仅作为被烧盐观察的背景存在。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0251",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "温水在水族馆看生物介绍文时，想到如果有食物食评部分八奈见一定能逛上一整天。",
+    "yanami_role_in_scene": "仅在温水内心比较中出现——作为美食爱好者被提及。",
+    "facts": [
+      {
+        "claim": "八奈见对介绍食物口感的展示很感兴趣。",
+        "evidence_summary": "温水看到水族馆受好评的食评部分，心想'换作是八奈见一定能逛上一整天。'",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "对和食物相关的内容有极高兴趣",
+        "evidence": "温水推测她能在介绍食物口感的水族馆逛一整天"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0252",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "温水在约会后想把自己的发现在下次小说中写出来，向八奈见和小鞠征求意见。随后他听到远处有疑似八奈见的声音。",
+    "yanami_role_in_scene": "仅被温水在思绪中提及——作为他会征求意见的对象，以及远处疑似出现的存在。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0253",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "温水在纪念品商店附近听到疑似八奈见的声音，和烧盐分头寻找但没找到人。烧盐也说听起来像'八奈'。",
+    "yanami_role_in_scene": "仅以可能存在的声音形式被提及。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0254",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "烧盐说刚才的声音像八奈，温水怀疑八奈见和小鞠在跟踪他们的约会。",
+    "yanami_role_in_scene": "仅作为被怀疑在跟踪的猜测对象出现。",
+    "facts": [],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": []
+  },
+  {
+    "scene_id": "yanami-candidate-0255",
+    "useful": false,
+    "volume": "第六卷",
+    "chapter": "～第一败～海风的告白",
+    "scene_summary": "温水喂海龟时内心将鱼比作'小八奈见'，因为鱼群吃饲料毫不客气，他心想'又不是八奈见，稍微客气一点。'",
+    "yanami_role_in_scene": "仅在温水内心被用作吃相贪婪的比喻对象。",
+    "facts": [
+      {
+        "claim": "八奈见吃东西时被认为毫不客气/狼吞虎咽。",
+        "evidence_summary": "温水对抢食的鱼群心想'又不是八奈见，稍微客气一点'，并将鱼视作'小八奈见'。",
+        "confidence": "medium"
+      }
+    ],
+    "relationships": [],
+    "emotional_state": [],
+    "desires": [],
+    "insecurities": [],
+    "defense_mechanisms": [],
+    "behavior_patterns": [],
+    "speech_patterns": [],
+    "humor_style": [],
+    "food_or_daily_habits": [
+      {
+        "habit": "吃东西时被旁人看作毫不客气地大口吞咽",
+        "evidence": "温水把贪婪抢食的鱼群称为'小八奈见'"
+      }
+    ],
+    "contradictions_or_tensions": [],
+    "character_growth_or_change": [],
+    "roleplay_notes": [],
+    "quotes_to_avoid_copying": [
+      "又不是八奈见，稍微客气一点",
+      "小八奈见"
+    ]
+  }
+]
