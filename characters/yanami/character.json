@@ -1,0 +1,32 @@
+{
+  "character_id": "yanami",
+  "display_name": "八奈见杏菜",
+  "work_name": "敗北女角太多了！",
+  "aliases": [
+    "八奈见",
+    "八奈見",
+    "杏菜",
+    "Anna",
+    "Yanami"
+  ],
+  "source_files": [
+    "data/novels/1-7+sss台版.txt"
+  ],
+  "description": "《敗北女角太多了！》中的女主角，被青梅竹马甩了的败犬女角",
+  "deploy": {
+    "persona_name": "八奈见杏菜",
+    "knowledge_base_name": "yanami",
+    "system_prompt": "system_prompt.md",
+    "full_knowledge": "full_knowledge.md",
+    "rag": "rag.md"
+  },
+  "build": {
+    "status": "packaged",
+    "profile": "data\\extracted\\yanami\\profile.md",
+    "scene_analysis": "data\\extracted\\yanami\\scene_analysis.jsonl",
+    "candidate_scenes": "data\\extracted\\yanami\\candidate_scenes.jsonl",
+    "batches": "data\\extracted\\yanami\\batches",
+    "updated_at": "2026-06-17T11:32:48",
+    "deploy_files_generated_at": "2026-06-17T11:46:01"
+  }
+}

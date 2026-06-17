@@ -1,184 +1,232 @@
-# 八奈见杏菜 角色数据管线 / Yanami Anna Character Data Pipeline
+# 角色构建与 AstrBot 部署管线
 
-[![AstrBot](https://img.shields.io/badge/AstrBot-4.x-4A90D9)](https://github.com/AstrBotDevs/AstrBot)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB)](https://python.org)
+从轻小说文本构建可部署的角色人格：候选场景提取、LLM 分析批次、角色圣经、RAG 知识库、AstrBot 人格注入。
 
-> **从轻小说原文到 AI 角色扮演 —— 一套完整的角色数据提取、结构化分析、RAG 知识库与 AstrBot 部署管线。**
->
-> **From light novel source text to AI roleplay — a complete pipeline for character data extraction, structured analysis, RAG knowledge base, and AstrBot deployment.**
+当前内置角色：
 
----
+- `yanami` — 八奈见杏菜，《敗北女角太多了！》
 
-## 📖 项目概述 / Overview
+## 项目结构
 
-以《敗北女角太多了！》（Makeine: Too Many Losing Heroines!）中的 **八奈见杏菜 (Yanami Anna)** 为目标，构建了一套从原始文本到可部署 AI 角色的完整管线：
-
-- **文本提取**：从轻小说 TXT/EPUB 中召回角色相关场景
-- **结构化分析**：逐场景通过 LLM 抽取角色特质、情感、关系、说话风格
-- **汇总建模**：生成"角色圣经"——一份供 AI 使用的人格建模文档
-- **部署集成**：对接 AstrBot QQ 机器人框架，含 System Prompt、RAG 知识库、OOC 评测
-- **一键部署**：`deploy/deploy.py` 脚本自动注入人格到 AstrBot
-
----
-
-## 🏗️ 项目结构 / Project Structure
-
-```
+```text
 character/
+├── character.py                    # 角色构建入口：init/build/package/status/list
+├── characters/
+│   └── yanami/
+│       ├── character.json           # 角色配置
+│       ├── system_prompt.md         # AstrBot 人格 prompt
+│       ├── full_knowledge.md        # 完整 RAG 知识库
+│       ├── rag.md                   # 精简 RAG 知识库
+│       ├── ooc_checklist.md
+│       └── ooc_eval_report.md
 ├── data/
-│   └── extracted/                      # 管线产出数据
-│       ├── yanami_candidate_scenes.jsonl   # 452 条候选场景
-│       ├── yanami_scene_analysis.jsonl     # 325 条结构化分析
-│       ├── yanami_profile.md               # 角色圣经
-│       └── yanami_profile_input.md
-├── prompts/                          # LLM 分析 Prompt
-│   ├── extract_yanami_scene.md       # 逐场景抽取 prompt
-│   └── build_yanami_profile.md       # 汇总 prompt
-├── scripts/                          # 数据管线脚本
-│   ├── extract_yanami_candidates.py  # 候选场景提取
-│   ├── workflow_extract_yanami.js    # Workflow 并行分析
-│   └── ...
-├── deploy/                           # 🚀 部署文件
-│   ├── deploy.py                     # 一键部署脚本 ← 从这里开始
-│   ├── system_prompt.md              # AstrBot System Prompt
-│   ├── yanami_full_knowledge.md      # RAG 知识库 (完整版)
-│   ├── yanami_rag.md                 # RAG 知识库 (精简话题版)
-│   ├── ooc_checklist.md              # OOC 检查清单
-│   ├── ooc_eval_report.md            # OOC 预评估报告
-│   └── quickstart.md                 # 快速上手指南
-└── README.md
+│   ├── novels/                      # 用户放小说文本；不会提交到仓库
+│   └── extracted/<character_id>/     # 每个角色的构建产物
+├── prompts/
+│   ├── extract_character_scene.md    # 通用场景抽取 prompt 模板
+│   └── build_character_profile.md    # 通用角色汇总 prompt 模板
+├── deploy/
+│   └── deploy.py                     # AstrBot 部署入口
+└── scripts/                          # 历史/辅助脚本
 ```
 
----
+## 前置条件
 
-## 🚀 快速开始 / Quick Start
+- AstrBot 4.x 已部署并完成基础配置。
+- AstrBot 已配置 AI 对话模型和平台机器人，例如 QQ。
+- Python 3.10+。
+- 一个支持 OpenAI 兼容 Embedding API 的服务，用于知识库向量化。
 
-### 前置条件
+如果还没有部署 AstrBot，请先看官方文档：
 
-- AstrBot 4.x 已安装并运行；如果还没有部署 AstrBot，请先看官方文档：[通过源码部署 AstrBot](https://docs.astrbot.app/deploy/astrbot/cli.html)
-- Python 3.10+
-- Git（用于 clone 本仓库；没有 Git 也可以下载 ZIP）
-- AstrBot 已完成基础初始化：配置 AI 对话模型、配置平台机器人（QQ/Telegram/飞书等）
-- 一个支持 OpenAI 兼容 Embedding API 的提供商（如 硅基流动，免费额度够用）
+```text
+https://docs.astrbot.app/deploy/astrbot/cli.html
+```
 
-### 本项目不会自动完成的事
+## 使用已有角色
 
-这些步骤涉及你的本机环境、平台账号或 API Key，需要用户自己完成：
-
-1. **部署 AstrBot 本体**  
-   参考官方文档：[通过源码部署 AstrBot](https://docs.astrbot.app/deploy/astrbot/cli.html)。官方文档说明源码部署需要 Python `>=3.10`，可用 Git 克隆仓库，也可以下载源码解压；启动后默认管理面板地址通常是 `http://localhost:6185`。
-
-2. **配置 AI 对话模型**  
-   在 AstrBot 仪表盘中完成“配置 AI 模型”。本仓库不提供聊天模型 API Key。
-
-3. **配置平台机器人**  
-   在 AstrBot 仪表盘中完成“配置平台机器人”，例如接入 QQ、Telegram、飞书等。平台账号、机器人 Token、QQ 接入方式都需要你自己准备。
-
-4. **配置 Embedding Provider**  
-   RAG 知识库需要 embedding 模型。本仓库只提供知识库文档，不提供 embedding API Key。
-
-5. **上传知识库文档并重启 AstrBot**  
-   `deploy/deploy.py` 会安装人格，但知识库文档仍需在 AstrBot 知识库界面上传。
-
-### 一键部署
+列出角色：
 
 ```bash
-cd character
+python character.py list
+```
+
+部署默认角色。如果只有一个角色，会直接部署；多个角色时会提示选择：
+
+```bash
 python deploy/deploy.py
 ```
 
-脚本会自动：
-1. 检测 AstrBot 安装和运行状态
-2. 将八奈见杏菜人格注入 AstrBot 数据库
-3. 设置为默认人格
-4. 给出后续配置指引（Embedding Provider + 知识库上传）
-
-它不会自动安装 AstrBot、创建 QQ 机器人、申请 API Key 或上传知识库文件。
-
-### 后续手工步骤
-
-部署脚本完成后，你还需要：
-
-**① 配置 Embedding Provider（用于 RAG 知识库）**
-
-进 AstrBot 仪表盘 → 模型提供商 → 嵌入 → 新增模型提供商：
-
-| 配置项 | 值 |
-|--------|-----|
-| API Base URL | `https://api.siliconflow.cn/v1` |
-| Model | `BAAI/bge-m3` |
-| API Key | 去 [SiliconFlow](https://siliconflow.cn) 注册获取 |
-
-**② 上传知识库**
-
-仪表盘 → 知识库 → 新建 → 选好 embedding 模型 → 保存 → 上传文档 → 选 `deploy/yanami_full_knowledge.md`
-
-**③ 重启 AstrBot 服务**
-
----
-
-## 📋 管线流程 / Pipeline
-
-```mermaid
-graph LR
-    A[轻小说原文] --> B[候选场景提取]
-    B --> C[逐场景 LLM 分析]
-    C --> D[结构化分析汇总]
-    D --> E[角色圣经]
-    E --> F[System Prompt]
-    E --> G[RAG 知识库]
-    G --> H[AstrBot]
-    F --> H
-    H --> I[deploy.py 一键部署]
-```
-
----
-
-## 📊 管线统计 / Statistics
-
-| 指标 | 值 |
-|------|-----|
-| 原始候选场景 | 452 |
-| 有用场景 | 325 (71.9%) |
-| 覆盖范围 | 第 1 卷 ~ 第 7 卷 + 短篇/特典 |
-| 角色圣经 | 6,573 字, 13 章节 |
-| RAG 知识库 | 324 KB, 4,399 行 |
-| OOC 一致性评分 | 4.8/5 |
-| System Prompt | 1,684 字 |
-
----
-
-## 🔧 扩展 / Extension
-
-### 添加新卷
+部署指定角色：
 
 ```bash
-# 1. 将新卷 TXT 放入 data/novels/
-# 2. 重新提取候选场景
-python scripts/extract_yanami_candidates.py
-
-# 3. 运行 Workflow 分析（需 Claude Code）
-#    或手动逐条使用 prompts/extract_yanami_scene.md
-
-# 4. 重建知识库
-python scripts/build_full_kb.py
+python deploy/deploy.py --character yanami
 ```
 
-### 适配其他角色
+模拟部署，不写数据库：
 
-修改 `scripts/extract_yanami_candidates.py` 中的 `ALIASES` 为目标角色名，按相同流程执行。
+```bash
+python deploy/deploy.py --character yanami --dry-run
+```
 
----
+部署脚本会做：
 
-## 📄 许可证 / License
+- 检测 AstrBot 数据目录
+- 注入或更新角色人格
+- 设置默认人格
+- 提示上传对应知识库
+
+部署脚本不会做：
+
+- 安装 AstrBot
+- 创建 QQ 机器人
+- 申请 API Key
+- 自动上传知识库文档
+- 自动配置 Embedding Provider
+
+## 创建新角色
+
+目标是让用户只做两件事：
+
+1. 把小说文本放到 `data/novels/`
+2. 提供角色 ID、显示名、作品名、别名
+
+其余候选场景、批次、prompt、部署文件都由代码生成。
+
+### 方式一：交互式向导
+
+```bash
+python character.py wizard
+```
+
+向导会询问：
+
+- 角色 ID，例如 `lemon`
+- 显示名，例如 `烧盐柠檬`
+- 作品名
+- 角色可能出现的名字/别名，例如 `烧盐,烧盐柠檬,柠檬,Lemon`
+- 小说文件路径
+
+### 方式二：命令行初始化
+
+```bash
+python character.py init ^
+  --character lemon ^
+  --display-name 烧盐柠檬 ^
+  --work-name 敗北女角太多了！ ^
+  --aliases 烧盐,烧盐柠檬,柠檬,Lemon ^
+  --source-files data/novels/your_novel.txt
+```
+
+初始化会生成：
+
+```text
+characters/lemon/character.json
+```
+
+### 构建候选场景和批次
+
+```bash
+python character.py build --character lemon
+```
+
+这一步会自动生成：
+
+```text
+data/extracted/lemon/candidate_scenes.jsonl
+data/extracted/lemon/candidate_preview.md
+data/extracted/lemon/batches/
+data/extracted/lemon/prompts/extract_scene.md
+data/extracted/lemon/prompts/build_profile.md
+```
+
+> ⚠️ **这一步是必须的，不可跳过。** 候选场景只是原始文本片段，必须经过 LLM 分析才能变成结构化角色数据。仓库没有内置自动调 LLM 的功能，你需要：
+>
+> 1. 找一个支持批量对话的 LLM 客户端（Claude Code、OpenAI API、或其他）
+> 2. 把 `prompts/extract_scene.md` 和 `batches/` 下的每个批次喂给 LLM
+> 3. 收集输出合并成 `scene_analysis.jsonl`
+> 4. 把 `prompts/build_profile.md` 和 `scene_analysis.jsonl` 喂给 LLM，得到 `profile.md`
+
+你也可以跳过整个管线，自己手写 `system_prompt.md` 和 `full_knowledge.md` 放到 `characters/lemon/` 下，直接执行部署步骤。
+
+期望产物：
+
+```text
+data/extracted/lemon/scene_analysis.jsonl
+data/extracted/lemon/profile.md
+```
+
+### 打包部署文件
+
+当 `scene_analysis.jsonl` 和 `profile.md` 准备好后：
+
+```bash
+python character.py package --character lemon
+```
+
+这一步会生成：
+
+```text
+characters/lemon/system_prompt.md
+characters/lemon/full_knowledge.md
+characters/lemon/rag.md
+characters/lemon/ooc_checklist.md
+characters/lemon/ooc_eval_report.md
+```
+
+然后部署：
+
+```bash
+python deploy/deploy.py --character lemon
+```
+
+## 部署后的手工步骤
+
+1. 在 AstrBot 仪表盘配置 Embedding Provider。
+
+推荐 OpenAI Compatible：
+
+```text
+API Base URL: https://api.siliconflow.cn/v1
+Model: BAAI/bge-m3
+API Key: 使用你自己的 Key
+```
+
+2. 新建知识库，名称建议使用 `character.json` 里的 `knowledge_base_name`。
+
+3. 上传：
+
+```text
+characters/<角色ID>/full_knowledge.md
+```
+
+也可以先用精简版测试：
+
+```text
+characters/<角色ID>/rag.md
+```
+
+4. 重启 AstrBot。
+
+## 构建状态
+
+查看某个角色的构建状态：
+
+```bash
+python character.py status --character lemon
+```
+
+## 当前边界
+
+- 多角色部署已配置化。
+- 角色候选场景提取和批次生成已配置化。
+- LLM 批量分析仍需要外部执行器或人工批处理；仓库会生成所需 prompt 和 batch 文件。
+- 历史脚本中仍有部分 `yanami_*` 文件名，用于八奈见既有数据，不建议作为新角色入口；新角色请使用 `character.py`。
+
+## 许可证
 
 MIT License
 
-## 🙏 致谢
+## 免责声明
 
-- [AstrBot](https://github.com/AstrBotDevs/AstrBot) - QQ 机器人框架
-- 《敗北女角太多了！》- 雨森焚火
-
----
-
-> **免责声明**: 所有角色分析数据基于原作文本的结构化提取。角色版权归原作者及出版社。本项目仅用于技术研究和学习。
+所有角色分析数据基于用户提供文本的结构化提取。角色版权归原作者及出版社。本项目仅用于技术研究和学习。

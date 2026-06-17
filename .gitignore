@@ -17,6 +17,10 @@ data/extracted/novel_paragraphs.jsonl
 # AstrBot configuration (contains API keys)
 data/cmd_config.json
 
+# User-specific data (contains local paths and DB)
+data/data_v4.db*
+data/knowledge_base/
+
 # IDE
 .vscode/
 .idea/

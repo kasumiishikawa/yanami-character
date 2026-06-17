@@ -1,0 +1,35 @@
+{
+  "character_id": "yanami",
+  "display_name": "八奈见杏菜",
+  "source_files": [
+    "data/novels/1-7+sss台版.txt"
+  ],
+  "detected_encodings": {
+    "data\\novels\\1-7+sss台版.txt": "gb18030"
+  },
+  "paragraph_count": 39474,
+  "candidate_scene_count": 452,
+  "alias_hit_paragraph_count": 3327,
+  "aliases": [
+    "八奈见",
+    "八奈見",
+    "杏菜",
+    "Anna",
+    "Yanami"
+  ],
+  "context_window": {
+    "before": 4,
+    "after": 8
+  },
+  "max_chars": 6500,
+  "outputs": {
+    "normalized": "data\\extracted\\yanami\\novel_normalized_utf8.txt",
+    "paragraphs": "data\\extracted\\yanami\\paragraphs.jsonl",
+    "candidates": "data\\extracted\\yanami\\candidate_scenes.jsonl",
+    "preview": "data\\extracted\\yanami\\candidate_preview.md",
+    "stats": "data\\extracted\\yanami\\extraction_stats.json",
+    "batches": "data\\extracted\\yanami\\batches",
+    "analysis": "data\\extracted\\yanami\\scene_analysis.jsonl",
+    "profile": "data\\extracted\\yanami\\profile.md"
+  }
+}
