@@ -101,7 +101,7 @@ python deploy/deploy.py
 
 **① 配置 Embedding Provider（用于 RAG 知识库）**
 
-进 AstrBot 仪表盘 → 服务提供商 → 新增 → Embedding → OpenAI Compatible：
+进 AstrBot 仪表盘 → 模型提供商 → 嵌入 → 新增模型提供商：
 
 | 配置项 | 值 |
 |--------|-----|

@@ -320,7 +320,7 @@ def print_post_install_guide():
     print(f"{_c(GREEN + BOLD, '='*60)}\n")
 
     print(_c(BOLD, "1. 配置 Embedding Provider (RAG 知识库需要)"))
-    print(f"   进 AstrBot 仪表盘 → 服务提供商 → 新增 → Embedding")
+    print(f"   进 AstrBot 仪表盘 → 模型提供商 → 嵌入 → 新增模型提供商")
     print(f"   选 OpenAI Compatible，填入:")
     print(f"     API Base URL: {_c(CYAN, 'https://api.siliconflow.cn/v1')}")
     print(f"     Model:        {_c(CYAN, 'BAAI/bge-m3')}")
