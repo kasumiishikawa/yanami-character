@@ -182,31 +182,29 @@ python deploy/deploy.py --character lemon
 
 ## 部署后的手工步骤
 
-1. 在 AstrBot 仪表盘配置 Embedding Provider。
+部署脚本执行完成后，还需要完成以下步骤：
 
-推荐 OpenAI Compatible：
+### 1. 配置 Embedding Provider
 
-```text
-API Base URL: https://api.siliconflow.cn/v1
-Model: BAAI/bge-m3
-API Key: 使用你自己的 Key
-```
+进 AstrBot 仪表盘 → **模型提供商** → **嵌入** → **新增模型提供商**，选 **OpenAI Compatible**：
 
-2. 新建知识库，名称建议使用 `character.json` 里的 `knowledge_base_name`。
+| 配置项 | 值 |
+|--------|-----|
+| API Base URL | `https://api.siliconflow.cn/v1` |
+| Model | `BAAI/bge-m3` |
+| API Key | 去 [SiliconFlow](https://siliconflow.cn) 注册获取（免费额度够用） |
 
-3. 上传：
+### 2. 上传知识库文档
 
-```text
-characters/<角色ID>/full_knowledge.md
-```
+仪表盘 → **知识库** → **新建**
 
-也可以先用精简版测试：
+- 名称建议使用 `character.json` 里的 `knowledge_base_name`
+- 选刚配好的 Embedding 模型 → 保存
+- 进入知识库详情 → **上传文档**
+- 选 `characters/<角色ID>/full_knowledge.md`（完整版）
+- 或先用 `characters/<角色ID>/rag.md`（精简版）测试
 
-```text
-characters/<角色ID>/rag.md
-```
-
-4. 重启 AstrBot。
+### 3. 重启 AstrBot
 
 ## 构建状态
 
